@@ -1319,11 +1319,11 @@
       },
       {
         "name": "POINTCLICKCARE",
-        "amount": 15000
+        "amount": 0
       },
       {
         "name": "POINTCLICKCARE",
-        "amount": 0
+        "amount": 15000
       },
       {
         "name": "POLITICAL SOLUTIONS, LLC OBO FIVE POINTS",
@@ -5370,11 +5370,11 @@
       },
       {
         "name": "BECKER & POLIAKOFF, P.A. OBO IHEARTMEDIA",
-        "amount": 26000
+        "amount": 9000
       },
       {
         "name": "BECKER & POLIAKOFF, P.A. OBO IHEARTMEDIA",
-        "amount": 9000
+        "amount": 26000
       },
       {
         "name": "CHEVRON PHILLIPS CHEMICAL COMPANY LP",
@@ -6957,6 +6957,27 @@
     "quarters": []
   },
   {
+    "id": "1449406",
+    "name": "ECO EQUITY",
+    "clients": [
+      {
+        "name": "ALTASEA",
+        "amount": 31800
+      },
+      {
+        "name": "CLEAN ENERGY BUYERS ASSOCIATION",
+        "amount": 32000.01
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 63800.01
+      }
+    ]
+  },
+  {
     "id": "1147328",
     "name": "EDELSTEIN, GILBERT, ROBSON & SMITH, LLC",
     "clients": [
@@ -8236,11 +8257,11 @@
       },
       {
         "name": "EXPERIAN",
-        "amount": 0
+        "amount": 5637.5
       },
       {
         "name": "EXPERIAN",
-        "amount": 5637.5
+        "amount": 0
       },
       {
         "name": "FINANCIAL SERVICES INSTITUTE",
@@ -11958,6 +11979,12 @@
   {
     "id": "1250501",
     "name": "MARGOLIN GROUP INC.; THE",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1461339",
+    "name": "MARGOLIN, PLC; ALLISON B.",
     "clients": [],
     "quarters": []
   },
@@ -16323,11 +16350,11 @@
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 2000
+        "amount": 10000
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 10000
+        "amount": 2000
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
@@ -16335,11 +16362,11 @@
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 2000
+        "amount": 3000
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 3000
+        "amount": 2000
       },
       {
         "name": "UNITED FARM WORKERS",
@@ -18489,6 +18516,23 @@
         "quarter": "1",
         "session": "2023",
         "amount": 278600
+      }
+    ]
+  },
+  {
+    "id": "1421995",
+    "name": "TK PUBLIC AFFAIRS",
+    "clients": [
+      {
+        "name": "COLOR HEALTH, INC.",
+        "amount": 8000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 8000
       }
     ]
   },
