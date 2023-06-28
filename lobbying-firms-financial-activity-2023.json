@@ -4838,6 +4838,10 @@
         "amount": 37251
       },
       {
+        "name": "ASSOCIATION OF CALIFORNIA GOODWILLS",
+        "amount": 12000
+      },
+      {
         "name": "ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS",
         "amount": 24000
       },
@@ -4928,10 +4932,6 @@
       {
         "name": "CORECIVIC",
         "amount": 59012.67
-      },
-      {
-        "name": "COUNCIL OF CALIFORNIA GOODWILL INDUSTRIES",
-        "amount": 12000
       },
       {
         "name": "DAPPER LABS",
@@ -12529,6 +12529,27 @@
     ]
   },
   {
+    "id": "1319255",
+    "name": "MOHAN HARRIS RUIZ LLP",
+    "clients": [
+      {
+        "name": "CENTRAL DELTA WATER AGENCY",
+        "amount": 0
+      },
+      {
+        "name": "SOUTH DELTA WATER AGENCY",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1147480",
     "name": "MOLODANOF GOVERNMENT RELATIONS",
     "clients": [
@@ -15387,6 +15408,12 @@
         "amount": 677736.8
       }
     ]
+  },
+  {
+    "id": "1461394",
+    "name": "QUIVIVE GLOBAL ADVISORY LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1440587",
