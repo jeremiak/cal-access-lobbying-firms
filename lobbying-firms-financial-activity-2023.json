@@ -6984,6 +6984,27 @@
     ]
   },
   {
+    "id": "1147546",
+    "name": "ECOCONSULT",
+    "clients": [
+      {
+        "name": "CALIFORNIA ASSOCIATION OF ENVIRONMENTAL HEALTH ADMINISTRATORS (CAEHA)",
+        "amount": 22101
+      },
+      {
+        "name": "HEAL THE BAY",
+        "amount": 1000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 23101
+      }
+    ]
+  },
+  {
     "id": "1147328",
     "name": "EDELSTEIN, GILBERT, ROBSON & SMITH, LLC",
     "clients": [
@@ -8230,7 +8251,7 @@
     "clients": [
       {
         "name": "AMERICAN LUNG ASSOCIATION",
-        "amount": 10000
+        "amount": 25000
       }
     ],
     "quarters": [
@@ -8238,6 +8259,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 10000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 15000
       }
     ]
   },
