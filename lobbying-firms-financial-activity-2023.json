@@ -7748,7 +7748,7 @@
   },
   {
     "id": "1282555",
-    "name": "FERNANDEZ CERVANTES GOVERNMENT AFFAIRS",
+    "name": "FERNANDEZ JENSEN KIMMELSHUE GOVERNMENT AFFAIRS",
     "clients": [
       {
         "name": "21ST CENTURY ALLIANCE",
@@ -12299,8 +12299,19 @@
   {
     "id": "1453756",
     "name": "MERRILL CONSULTING, LLC; JEANNE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CENTER FOR FOOD SAFETY",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 9000
+      }
+    ]
   },
   {
     "id": "1147720",
@@ -14296,7 +14307,7 @@
   },
   {
     "id": "1393386",
-    "name": "PELOTE STRATEGIC CONSULTING AND ADVOCACY",
+    "name": "PELOTE STRATEGIC ADVISORS",
     "clients": [
       {
         "name": "LOS ANGELES COUNTY PROBATION OFFICERS' UNION, AFSCME LOCAL 685",
