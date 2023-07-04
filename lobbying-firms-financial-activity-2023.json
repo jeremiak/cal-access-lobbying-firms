@@ -10038,20 +10038,25 @@
       },
       {
         "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
-        "amount": 1000
+        "amount": 2000
       },
       {
         "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
-        "amount": 2400
+        "amount": 4800
       },
       {
         "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
-        "amount": 4500
+        "amount": 9000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 7900
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 7900
       }
@@ -18193,12 +18198,17 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 250
+        "amount": 500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 250
       }
