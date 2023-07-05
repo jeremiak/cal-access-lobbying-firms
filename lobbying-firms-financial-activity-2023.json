@@ -11216,12 +11216,17 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 12750
+        "amount": 25500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 12750
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 12750
       }
@@ -12967,6 +12972,11 @@
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 0
       }
