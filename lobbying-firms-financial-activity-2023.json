@@ -4279,6 +4279,31 @@
     "quarters": []
   },
   {
+    "id": "1373800",
+    "name": "CANYON SNOW CONSULTING LLC",
+    "clients": [
+      {
+        "name": "DOCUSIGN",
+        "amount": 65000
+      },
+      {
+        "name": "FAIRVOTE",
+        "amount": 15000
+      },
+      {
+        "name": "HUAWEI TECHNOLOGIES",
+        "amount": 5000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 15000
+      }
+    ]
+  },
+  {
     "id": "1147596",
     "name": "CAPELL & ASSOCIATES",
     "clients": [
@@ -12290,6 +12315,12 @@
     ]
   },
   {
+    "id": "1336408",
+    "name": "MERCURY CAPITAL ADVISORS",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1401686",
     "name": "MERIDIAN 122 LLC",
     "clients": [
@@ -18507,6 +18538,12 @@
     ]
   },
   {
+    "id": "1460513",
+    "name": "STREETS ARE FOR EVERYONE (SAFE)",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1307860",
     "name": "TAYLOR & ASSOCIATES",
     "clients": [
@@ -18573,6 +18610,23 @@
         "quarter": "1",
         "session": "2023",
         "amount": 140951
+      }
+    ]
+  },
+  {
+    "id": "1447192",
+    "name": "TERRAPIN STRATEGY, INC.",
+    "clients": [
+      {
+        "name": "TERRAPIN STRATEGY, INC.",
+        "amount": 9000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 9000
       }
     ]
   },
