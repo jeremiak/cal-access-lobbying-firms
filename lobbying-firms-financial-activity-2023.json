@@ -9482,6 +9482,12 @@
     ]
   },
   {
+    "id": "1401115",
+    "name": "HOGAN LOVELLS US LLP",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1425175",
     "name": "HORTON STRATEGIC ADVOCATES, LLC; JEROME E. ",
     "clients": [],
@@ -11263,7 +11269,7 @@
     "clients": [
       {
         "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "AMERICAN FOREST & PAPER ASSOCIATION",
@@ -11275,16 +11281,21 @@
       },
       {
         "name": "STYRENE INFORMATION AND RESEARCH CENTER",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 7500
+        "amount": 15000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 13500
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 13500
       }
