@@ -1469,20 +1469,25 @@
     "clients": [
       {
         "name": "ACLU CA ACTION",
-        "amount": 21000
+        "amount": 35000
       },
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 39000
+        "amount": 78000
       },
       {
         "name": "NATIONAL HARM REDUCTION COALITION",
-        "amount": 9000
+        "amount": 18000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 69000
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 69000
       }
@@ -18188,6 +18193,27 @@
     ]
   },
   {
+    "id": "1437032",
+    "name": "STRAIT CONSULTING",
+    "clients": [
+      {
+        "name": "GOLDEN STATE OPPORTUNITY",
+        "amount": 15000
+      },
+      {
+        "name": "SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
+        "amount": 3750
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 18750
+      }
+    ]
+  },
+  {
     "id": "1147456",
     "name": "STRATEGIC EDUCATION SERVICES",
     "clients": [
@@ -20568,19 +20594,23 @@
     "clients": [
       {
         "name": "CALIFORNIA COALITION FOR WORKER POWER",
-        "amount": 21000
+        "amount": 42000
       },
       {
         "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION",
-        "amount": 39573.16
+        "amount": 78573.16
       },
       {
         "name": "ONE FAIR WAGE",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "TRUTH AND JUSTICE IN CHILD SUPPORT COALITION",
-        "amount": 4285.74
+        "amount": 22285.74
+      },
+      {
+        "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
+        "amount": 5500
       }
     ],
     "quarters": [
@@ -20588,6 +20618,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 79858.9
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 98500
       }
     ]
   },
