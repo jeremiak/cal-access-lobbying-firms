@@ -8783,15 +8783,15 @@
       },
       {
         "name": "AMERICAN NURSES ASSOCIATION\\CALIFORNIA",
-        "amount": 21000
+        "amount": 42000
       },
       {
         "name": "AMERICAN TOWER CORP.",
-        "amount": 24000
+        "amount": 48000
       },
       {
         "name": "CA ASSOCIATION OF CLINICAL NURSE SPECIALISTS",
-        "amount": 0
+        "amount": 3000
       },
       {
         "name": "CALIFORNIA NATUROPATHIC ASSOCIATION",
@@ -8799,23 +8799,23 @@
       },
       {
         "name": "CARNEGIE INSTITUTE FOR SCIENCE",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "FINANCIAL INDUSTRY REGULATORY AUTHORITY (FINRA) C/O MULTISTATE ASSOCIATES",
-        "amount": 15000
+        "amount": 20000
       },
       {
         "name": "MVM STRATEGY GROUP ON BEHALF OF THE NATIONAL COMMUNITY PHARMACISTS ASSOCIATION",
-        "amount": 5500
+        "amount": 22000
       },
       {
         "name": "NAYLOR ADVOCACY",
-        "amount": 6000
+        "amount": 12000
       },
       {
         "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
-        "amount": 27000
+        "amount": 55697.42
       }
     ],
     "quarters": [
@@ -8823,6 +8823,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 131500
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 122197.42
       }
     ]
   },
