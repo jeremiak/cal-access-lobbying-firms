@@ -5473,7 +5473,7 @@
       },
       {
         "name": "AMERICAN COUNCIL OF LIFE INSURERS",
-        "amount": 16448.26
+        "amount": 15000
       },
       {
         "name": "BECHTEL CORPORATION",
@@ -5584,7 +5584,7 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 555098.25
+        "amount": 553649.99
       }
     ]
   },
@@ -15302,8 +15302,28 @@
   {
     "id": "1409572",
     "name": "PRIEST AND ASSOCIATES; TODD",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ANAHEIM TRANSPORTATION NETWORK",
+        "amount": 30000
+      },
+      {
+        "name": "ASSOCIATION OF CALIFORNIA RECYCLING INDUSTRIES",
+        "amount": 12000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 21000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 21000
+      }
+    ]
   },
   {
     "id": "1397592",
