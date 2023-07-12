@@ -7273,71 +7273,71 @@
     "clients": [
       {
         "name": "AMERICAN ALLIANCE DRUG TESTING",
-        "amount": 10500
+        "amount": 18375
       },
       {
         "name": "ASCEND LEARNING",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "CALIFORNIA TOW TRUCK ASSOCIATION",
-        "amount": 36000
+        "amount": 72000
       },
       {
         "name": "COALITION OF ACCREDITED LANGUAGE TRAINING PROGRAMS",
-        "amount": 6953
+        "amount": 12851
       },
       {
         "name": "CONCORDE CAREER COLLEGES",
-        "amount": 12000
-      },
-      {
-        "name": "COSTCO WHOLESALE",
-        "amount": 22500
-      },
-      {
-        "name": "EL CENTRO, CITY OF",
-        "amount": 2250
-      },
-      {
-        "name": "GORDIAN GROUP, THE",
-        "amount": 18000
-      },
-      {
-        "name": "INGLEWOOD, CITY OF",
         "amount": 20000
       },
       {
+        "name": "COSTCO WHOLESALE",
+        "amount": 30000
+      },
+      {
+        "name": "EL CENTRO, CITY OF",
+        "amount": 3000
+      },
+      {
+        "name": "GORDIAN GROUP, THE",
+        "amount": 36000
+      },
+      {
+        "name": "INGLEWOOD, CITY OF",
+        "amount": 35000
+      },
+      {
         "name": "LA CANADA FLINTRIDGE, CITY OF",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
-        "amount": 57500
+        "amount": 137500
       },
       {
         "name": "SANTEE, CITY OF",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "THOMSON REUTERS",
-        "amount": 8000
+        "amount": 24000
       },
       {
         "name": "TRITON MANAGEMENT SERVICES, LLC",
-        "amount": 12000
+        "amount": 21000
       },
       {
         "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
-        "amount": 19200
+        "amount": 38400
       },
       {
         "name": "USCB, INC.",
-        "amount": 10500
+        "amount": 21000
       },
       {
         "name": "WESTERN STATES TRUCKING ASSOCIATION",
-        "amount": 10500
+        "amount": 18375
       }
     ],
     "quarters": [
@@ -7345,6 +7345,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 265403
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 261098
       }
     ]
   },
@@ -15944,7 +15949,7 @@
     "clients": [
       {
         "name": "MICROGRID RESOURCES COALITION",
-        "amount": 17600
+        "amount": 52945
       }
     ],
     "quarters": [
@@ -15952,6 +15957,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 17600
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 27345
       }
     ]
   },
@@ -16692,7 +16702,7 @@
     "clients": [
       {
         "name": "SPRINKLER FITTERS ASSOCIATION OF CALIFORNIA",
-        "amount": 18805.11
+        "amount": 36347.99
       }
     ],
     "quarters": [
@@ -16700,6 +16710,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 18805.11
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 17542.88
       }
     ]
   },
@@ -18632,12 +18647,21 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 18900
+        "amount": 37800
+      },
+      {
+        "name": "PATHION HOLDINGS, INC.",
+        "amount": 0
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 18900
       }
