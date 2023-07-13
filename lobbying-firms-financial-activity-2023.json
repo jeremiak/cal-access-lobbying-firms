@@ -8236,24 +8236,29 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 27501
+        "amount": 55002
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 33000
+        "amount": 66000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 4500
+        "amount": 9000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 95001
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 95001
       }
@@ -14286,15 +14291,15 @@
     "clients": [
       {
         "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
-        "amount": 6000
+        "amount": 15500
       },
       {
         "name": "PLUMBING-HEATING-COOLING CONTRACTORS ASSOCIATION OF CALIFORNIA (CAPHCC)",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
-        "amount": 12975
+        "amount": 30275
       }
     ],
     "quarters": [
@@ -14302,6 +14307,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 26475
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 31800
       }
     ]
   },
