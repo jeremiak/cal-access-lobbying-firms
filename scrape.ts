@@ -134,9 +134,13 @@ if (firms.length === 0) {
 
 firms.forEach(firm => {
   queue.add(async () => {
-    const { clients, quarters } = await scrapeLobbyingFirmFinancialActivity(firm.id, session)
-    firm.clients = _.orderBy(clients, ['name'])
-    firm.quarters = _.orderBy(quarters, ['session', 'quarter'])
+    try {
+      const { clients, quarters } = await scrapeLobbyingFirmFinancialActivity(firm.id, session)
+      firm.clients = _.orderBy(clients, ['name'])
+      firm.quarters = _.orderBy(quarters, ['session', 'quarter'])
+    } catch (e) {
+      console.error(`Error scraping financial activity for ${firm.id}`, e)
+    }
   })
 })
 
