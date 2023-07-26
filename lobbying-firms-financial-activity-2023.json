@@ -338,18 +338,23 @@
     "clients": [
       {
         "name": "EAH INC.",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "FRESNO METRO BLACK CHAMBER OF COMMERCE",
-        "amount": 6356.25
+        "amount": 17325
       }
     ],
     "quarters": [
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 51356.25
+        "amount": 66356.25
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 40968.75
       }
     ]
   },
@@ -440,6 +445,11 @@
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 0
       }
@@ -953,47 +963,47 @@
     "clients": [
       {
         "name": "BURBANK-GLENDALE-PASADENA-AIRPORT-AUTHORITY",
-        "amount": 20637.33
+        "amount": 32889.33
       },
       {
         "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
-        "amount": 40536
+        "amount": 70938
       },
       {
         "name": "CALIFORNIA DIALYSIS COUNCIL",
-        "amount": 36600
+        "amount": 73200
       },
       {
         "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
-        "amount": 12000
+        "amount": 20000
       },
       {
         "name": "ESCONDIDO CITY OF",
-        "amount": 10977
+        "amount": 21954
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 36635.67
+        "amount": 74038.88
       },
       {
         "name": "MILLENNIUM HEALTH",
-        "amount": 15252
+        "amount": 35588
       },
       {
         "name": "OXNARD CITY OF",
-        "amount": 20413
+        "amount": 24413
       },
       {
         "name": "REDONDO BEACH CITY OF",
-        "amount": 14496.4
+        "amount": 25248.4
       },
       {
         "name": "THE LOS ANGELES LAKES INC.",
-        "amount": 2250
+        "amount": 4500
       },
       {
         "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
-        "amount": 18252
+        "amount": 36504
       }
     ],
     "quarters": [
@@ -1001,6 +1011,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 228049.4
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 191224.21
       }
     ]
   },
@@ -4432,59 +4447,59 @@
     "clients": [
       {
         "name": "ADOBE",
-        "amount": 8000
+        "amount": 40000
       },
       {
         "name": "ALAMEDA COUNTY OFFICE OF EDUCATION",
-        "amount": 5000.01
+        "amount": 10000.02
       },
       {
         "name": "ALLAN HANCOCK COLLEGE",
-        "amount": 2000
+        "amount": 5000
       },
       {
         "name": "ALVORD UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 7500
       },
       {
         "name": "ANTELOPE VALLEY UNION HIGH SCHOOL DISTRICT",
-        "amount": 4500
+        "amount": 7500
       },
       {
         "name": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
-        "amount": 21000
+        "amount": 35000
       },
       {
         "name": "ATASCADERO UNIFIED SCHOOL DISTRICT",
-        "amount": 2250
-      },
-      {
-        "name": "ATKINSON ADELSON LOYA RUUD & ROMO",
-        "amount": 2500
-      },
-      {
-        "name": "BUTTE COUNTY OFFICE OF EDUCATION",
-        "amount": 20000
-      },
-      {
-        "name": "CALIFORNIA ALLIANCE OF BOYS & GIRLS CLUBS INC.",
-        "amount": 4500
-      },
-      {
-        "name": "CALIFORNIA ASSOCIATION OF PRIVATE SPECIAL EDUCATION SCHOOLS (CAPSES)",
-        "amount": 1500
-      },
-      {
-        "name": "CALIFORNIA ASSOCIATION OF SCHOOL COUNSELORS",
-        "amount": 4500
-      },
-      {
-        "name": "CALIFORNIA CATHOLIC CONFERENCE",
         "amount": 3750
       },
       {
+        "name": "ATKINSON ADELSON LOYA RUUD & ROMO",
+        "amount": 10000
+      },
+      {
+        "name": "BUTTE COUNTY OFFICE OF EDUCATION",
+        "amount": 30000
+      },
+      {
+        "name": "CALIFORNIA ALLIANCE OF BOYS & GIRLS CLUBS INC.",
+        "amount": 9000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF PRIVATE SPECIAL EDUCATION SCHOOLS (CAPSES)",
+        "amount": 3000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF SCHOOL COUNSELORS",
+        "amount": 9000
+      },
+      {
+        "name": "CALIFORNIA CATHOLIC CONFERENCE",
+        "amount": 6250
+      },
+      {
         "name": "CALIFORNIA CONSORTIUM FOR INDEPENDENT STUDY",
-        "amount": 1120
+        "amount": 2800
       },
       {
         "name": "CALIFORNIA CONTINUATION EDUCATION ASSOCIATION",
@@ -4492,39 +4507,39 @@
       },
       {
         "name": "CALIFORNIA IT IN EDUCATION",
-        "amount": 6000
-      },
-      {
-        "name": "CALIFORNIA SCHOOL NURSES ORGANIZATION",
-        "amount": 4583
-      },
-      {
-        "name": "CALIFORNIA SCHOOL NUTRITION ASSOCIATION",
-        "amount": 19427
-      },
-      {
-        "name": "CALIFORNIA STATE ALLIANCE OF YMCAS",
-        "amount": 12000
-      },
-      {
-        "name": "CAMBRIDGE UNIVERSITY PRESS & ASSESSMENT",
-        "amount": 8000
-      },
-      {
-        "name": "CAPISTRANO UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "CAROCP",
         "amount": 9000
       },
       {
+        "name": "CALIFORNIA SCHOOL NURSES ORGANIZATION",
+        "amount": 11457.5
+      },
+      {
+        "name": "CALIFORNIA SCHOOL NUTRITION ASSOCIATION",
+        "amount": 38852
+      },
+      {
+        "name": "CALIFORNIA STATE ALLIANCE OF YMCAS",
+        "amount": 24000
+      },
+      {
+        "name": "CAMBRIDGE UNIVERSITY PRESS & ASSESSMENT",
+        "amount": 20000
+      },
+      {
+        "name": "CAPISTRANO UNIFIED SCHOOL DISTRICT",
+        "amount": 10000
+      },
+      {
+        "name": "CAROCP",
+        "amount": 18000
+      },
+      {
         "name": "CHULA VISTA ELEMENTARY SCHOOL DISTRICT",
-        "amount": 17500
+        "amount": 22500
       },
       {
         "name": "COLTON JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 4000
+        "amount": 8000
       },
       {
         "name": "CONTRA COSTA COUNTY SUPERINTENDENTS COALITION",
@@ -4532,23 +4547,23 @@
       },
       {
         "name": "CURRICULUM ASSOCIATES LLC",
-        "amount": 2500
-      },
-      {
-        "name": "D2L LTD",
-        "amount": 8000
+        "amount": 12500
       },
       {
         "name": "DAVINCI SCHOOLS",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "EDUCATIONAL TESTING SERVICES (ETS)",
-        "amount": 3750
+        "amount": 11250
       },
       {
         "name": "EL DORADO COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 4500
+        "amount": 7500
+      },
+      {
+        "name": "ELK GROVE UNIFIED SCHOOL DISTRICT",
+        "amount": 2000
       },
       {
         "name": "FARMWORKERS INSTITUTE OF EDUCATION & LEADERSHIP DEVELOPMENT (FIELD)",
@@ -4556,79 +4571,79 @@
       },
       {
         "name": "FONTANA UNIFIED SCHOOL DISTRICT",
-        "amount": 8000
+        "amount": 10000
       },
       {
         "name": "FREMONT UNIFIED SCHOOL DISTRICT",
-        "amount": 7500
+        "amount": 9000
       },
       {
         "name": "FRESNO COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "FULLERTON JOINT UNION HIGH SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 4500
       },
       {
         "name": "GUADALUPE UNION SCHOOL DISTRICT",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "HUMBOLDT COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "IMPERIAL COUNTY OFFICE OF EDUCATION",
-        "amount": 12000
+        "amount": 20000
       },
       {
         "name": "INYO COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
-      },
-      {
-        "name": "IRVINE UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "JURUPA UNIFIED SCHOOL DISTRICT",
         "amount": 4500
       },
       {
+        "name": "IRVINE UNIFIED SCHOOL DISTRICT",
+        "amount": 9000
+      },
+      {
+        "name": "JURUPA UNIFIED SCHOOL DISTRICT",
+        "amount": 7500
+      },
+      {
         "name": "KLAMATH TRINITY JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 3750
+        "amount": 7500
       },
       {
         "name": "LAKE COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
+        "amount": 4500
       },
       {
         "name": "LIFEWINGS PEAK PERFORMANCE",
-        "amount": 12750
+        "amount": 25500
       },
       {
         "name": "LINKED LEARNING ALLIANCE",
-        "amount": 8000
+        "amount": 16000
       },
       {
         "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "MADERA COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 2000
-      },
-      {
-        "name": "MARYSVILLE JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
-      },
-      {
-        "name": "MCGRATH RENTCORP DBA MOBILE MODULAR MANAGEMENT CORPORATION",
         "amount": 12000
       },
       {
-        "name": "MENLO PARK UNIFIED SCHOOL DISTRICT",
+        "name": "MADERA COUNTY SUPERINTENDENT OF SCHOOLS",
+        "amount": 5000
+      },
+      {
+        "name": "MARYSVILLE JOINT UNIFIED SCHOOL DISTRICT",
         "amount": 4000
+      },
+      {
+        "name": "MCGRATH RENTCORP DBA MOBILE MODULAR MANAGEMENT CORPORATION",
+        "amount": 21000
+      },
+      {
+        "name": "MENLO PARK UNIFIED SCHOOL DISTRICT",
+        "amount": 6000
       },
       {
         "name": "MERCED COUNTY OFFICE OF EDUCATION",
@@ -4636,11 +4651,11 @@
       },
       {
         "name": "MICHELSON CENTER FOR PUBLIC POLICY",
-        "amount": 20000
+        "amount": 35000
       },
       {
         "name": "MONO COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
+        "amount": 4500
       },
       {
         "name": "MONTEBELLO UNIFIED SCHOOL DISTRICT",
@@ -4648,31 +4663,31 @@
       },
       {
         "name": "MONTEREY COUNTY OFFICE OF EDUCATION",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "NAPA COUNTY OFFICE OF EDUCATION",
-        "amount": 4000
-      },
-      {
-        "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
-      },
-      {
-        "name": "NATOMAS UNIFIED SCHOOL DISTRICT",
-        "amount": 0
-      },
-      {
-        "name": "NEWHALL ELEMENTARY SCHOOL DISTRICT",
-        "amount": 1005
-      },
-      {
-        "name": "NEWPORT-MESA UNIFIED SCHOOL DISTRICT",
         "amount": 6000
       },
       {
+        "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 6000
+      },
+      {
+        "name": "NATOMAS UNIFIED SCHOOL DISTRICT",
+        "amount": 6000
+      },
+      {
+        "name": "NEWHALL ELEMENTARY SCHOOL DISTRICT",
+        "amount": 2345
+      },
+      {
+        "name": "NEWPORT-MESA UNIFIED SCHOOL DISTRICT",
+        "amount": 12000
+      },
+      {
         "name": "NORWALK - LA MIRADA UNIFIED SCHOOL DISTRICT",
-        "amount": 0
+        "amount": 16500
       },
       {
         "name": "ORANGE COUNTY DEPARTMENT OF EDUCATION",
@@ -4680,51 +4695,47 @@
       },
       {
         "name": "ORCUTT UNION SCHOOL DISTRICT",
-        "amount": 4000
-      },
-      {
-        "name": "PAJARO VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "PALMDALE ELEMENTARY SCHOOL DISTRICT",
-        "amount": 4500
-      },
-      {
-        "name": "PALO ALTO UNIFIED SCHOOL DISTRICT",
-        "amount": 9000
-      },
-      {
-        "name": "PALOS VERDES PENINSULA UNIFIED SCHOOL DISTRICT",
-        "amount": 1700
-      },
-      {
-        "name": "PARAMOUNT UNIFIED SCHOOL DISTRICT",
-        "amount": 4000
-      },
-      {
-        "name": "PASADENA UNIFIED SCHOOL DISTRICT",
         "amount": 7000
       },
       {
+        "name": "PAJARO VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 10500
+      },
+      {
+        "name": "PALMDALE ELEMENTARY SCHOOL DISTRICT",
+        "amount": 9000
+      },
+      {
+        "name": "PALO ALTO UNIFIED SCHOOL DISTRICT",
+        "amount": 13500
+      },
+      {
+        "name": "PALOS VERDES PENINSULA UNIFIED SCHOOL DISTRICT",
+        "amount": 2550
+      },
+      {
+        "name": "PARAMOUNT UNIFIED SCHOOL DISTRICT",
+        "amount": 5000
+      },
+      {
+        "name": "PASADENA UNIFIED SCHOOL DISTRICT",
+        "amount": 11000
+      },
+      {
         "name": "PLACER COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "POWAY UNIFIED SCHOOL DISTRICT",
-        "amount": 0
-      },
-      {
-        "name": "PRESENCE LEARNING INC.",
-        "amount": 8500
+        "amount": 4500
       },
       {
         "name": "PROJECT LEAD THE WAY INC.",
-        "amount": 3750
+        "amount": 9375
       },
       {
         "name": "READING & MATH INC. (DBA AMPACT)",
-        "amount": 8000
+        "amount": 12000
       },
       {
         "name": "REDONDO BEACH UNIFIED SCHOOL DISTRICT",
@@ -4732,67 +4743,67 @@
       },
       {
         "name": "RIVERSIDE UNIFIED SCHOOL DISTRICT",
-        "amount": 8000
+        "amount": 12000
       },
       {
         "name": "SACRAMENTO COUNTY OFFICE OF EDUCATION",
-        "amount": 12499.5
+        "amount": 24999
       },
       {
         "name": "SAN BENITO COUNTY OFFICE OF EDUCATION",
-        "amount": 0
-      },
-      {
-        "name": "SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT",
-        "amount": 9000
-      },
-      {
-        "name": "SAN BERNARDINO COUNTY DISTRICTS ADVOCATES FOR BETTER SCHOOLS (SANDABS)",
-        "amount": 4677
-      },
-      {
-        "name": "SAN BERNARDINO COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 24198
-      },
-      {
-        "name": "SAN DIEGO SUPERINTENDENT OF SCHOOLS",
-        "amount": 20001.51
-      },
-      {
-        "name": "SAN FRANCISCO UNIFIED SCHOOL DISTRICT",
-        "amount": 31666.68
-      },
-      {
-        "name": "SAN JOAQUIN COUNTY OFFICE OF EDUCATION",
-        "amount": 6000
-      },
-      {
-        "name": "SAN LUIS OBISPO COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
-      },
-      {
-        "name": "SAN MARCOS UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "SAN MATEO EDUCATION ADVOCACY COALITION",
-        "amount": 7500
-      },
-      {
-        "name": "SAN RAMON VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 8000
-      },
-      {
-        "name": "SAN YSIDRO UNIFIED SCHOOL DISTRICT",
         "amount": 4000
       },
       {
+        "name": "SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT",
+        "amount": 12000
+      },
+      {
+        "name": "SAN BERNARDINO COUNTY DISTRICTS ADVOCATES FOR BETTER SCHOOLS (SANDABS)",
+        "amount": 9354
+      },
+      {
+        "name": "SAN BERNARDINO COUNTY SUPERINTENDENT OF SCHOOLS",
+        "amount": 48396
+      },
+      {
+        "name": "SAN DIEGO SUPERINTENDENT OF SCHOOLS",
+        "amount": 40003.02
+      },
+      {
+        "name": "SAN FRANCISCO UNIFIED SCHOOL DISTRICT",
+        "amount": 47500.02
+      },
+      {
+        "name": "SAN JOAQUIN COUNTY OFFICE OF EDUCATION",
+        "amount": 9000
+      },
+      {
+        "name": "SAN LUIS OBISPO COUNTY OFFICE OF EDUCATION",
+        "amount": 7500
+      },
+      {
+        "name": "SAN MARCOS UNIFIED SCHOOL DISTRICT",
+        "amount": 7500
+      },
+      {
+        "name": "SAN MATEO EDUCATION ADVOCACY COALITION",
+        "amount": 15000
+      },
+      {
+        "name": "SAN RAMON VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 14000
+      },
+      {
+        "name": "SAN YSIDRO UNIFIED SCHOOL DISTRICT",
+        "amount": 6000
+      },
+      {
         "name": "SANTA ANA UNIFIED SCHOOL DISTRICT",
-        "amount": 10000
+        "amount": 15000
       },
       {
         "name": "SANTA BARBARA COUNTY EDUCATION OFFICE",
-        "amount": 9000
+        "amount": 15000
       },
       {
         "name": "SANTA BARBARA UNIFIED SCHOOL DISTRICT",
@@ -4800,23 +4811,23 @@
       },
       {
         "name": "SANTA CLARA UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
+        "amount": 7500
       },
       {
         "name": "SANTA CRUZ COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "SAS INSTITUTE INC.",
-        "amount": 16600
+        "amount": 20750
       },
       {
         "name": "SCHOOL EMPLOYERS ASSOCIATION OF CALIFORNIA",
-        "amount": 3750
+        "amount": 5000
       },
       {
         "name": "SIMI VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 5022.16
+        "amount": 7533.24
       },
       {
         "name": "SINGLE DISTRICT COE CONSORTIUM",
@@ -4824,23 +4835,23 @@
       },
       {
         "name": "SMALL SCHOOL DISTRICTS ASSOCIATION",
-        "amount": 21000
+        "amount": 42000
       },
       {
         "name": "SOLANA BEACH ELEMENTARY SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 9000
       },
       {
         "name": "SONOMA COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 1000
+        "amount": 4000
       },
       {
         "name": "SPORTS FOR LEARNING",
-        "amount": 0
+        "amount": 12000
       },
       {
         "name": "STANISLAUS COUNTY OFFICE OF EDUCATION",
-        "amount": 8000
+        "amount": 12000
       },
       {
         "name": "STOCKTON UNIFIED SCHOOL DISTRICT",
@@ -4848,35 +4859,35 @@
       },
       {
         "name": "SUTTER COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 3000
+        "amount": 4500
       },
       {
         "name": "SWEETWATER UNION HIGH SCHOOL DISTRICT",
-        "amount": 5000
-      },
-      {
-        "name": "TEACHING STRATEGIES LLC",
         "amount": 15000
       },
       {
+        "name": "TEACHING STRATEGIES LLC",
+        "amount": 24000
+      },
+      {
         "name": "TEHAMA COUNTY OFFICE OF EDUCATION",
-        "amount": 2000
+        "amount": 6000
       },
       {
         "name": "TEMECULA VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 4500
+        "amount": 6000
       },
       {
         "name": "THINK TOGETHER",
-        "amount": 4000
+        "amount": 16000
       },
       {
         "name": "TUOLUMNE COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 4500
+        "amount": 6750
       },
       {
         "name": "TWIN RIVERS UNIFIED SCHOOL DISTRICT",
-        "amount": 7000
+        "amount": 10000
       },
       {
         "name": "VENTURA COUNTY SUPERINTENDENT OF SCHOOLS",
@@ -4884,27 +4895,23 @@
       },
       {
         "name": "VISALIA UNIFIED SCHOOL DISTRICT",
-        "amount": 1500
-      },
-      {
-        "name": "WEST CONTRA COSTA UNIFIED SCHOOL DISTRICT",
         "amount": 3000
       },
       {
         "name": "WESTERN ASSOCIATION FOR COLLEGE ADMISSION COUNSELING (WACAC)",
-        "amount": 1200
+        "amount": 2400
       },
       {
         "name": "WHITTIER UNION HIGH SCHOOL DISTRICT",
-        "amount": 1250.01
+        "amount": 2500.02
       },
       {
         "name": "WILLIAM S. HART UNION HIGH SCHOOL DISTRICT",
-        "amount": 7500
+        "amount": 10500
       },
       {
         "name": "WONDERFUL COMPANY LLC; THE",
-        "amount": 10000
+        "amount": 20000
       }
     ],
     "quarters": [
@@ -4912,6 +4919,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 764574.87
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 615114.95
       }
     ]
   },
@@ -6069,7 +6081,7 @@
       },
       {
         "name": "WAYMO LLC",
-        "amount": 28000
+        "amount": 43000
       }
     ],
     "quarters": [
@@ -6077,6 +6089,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 48000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 15000
       }
     ]
   },
@@ -6183,7 +6200,7 @@
   },
   {
     "id": "1456672",
-    "name": "COBB, TIMOTHY",
+    "name": "COBB; TIMOTHY",
     "clients": [
       {
         "name": "ANUBIS SECURITIES, LLC",
@@ -10236,12 +10253,17 @@
     "clients": [
       {
         "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
-        "amount": 130000
+        "amount": 148000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 18000
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 18000
       }
@@ -10902,6 +10924,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 2400
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -12632,7 +12659,7 @@
     "clients": [
       {
         "name": "BAE SYSTEMS",
-        "amount": 24666.43
+        "amount": 36666.43
       }
     ],
     "quarters": [
@@ -12640,6 +12667,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 24666.43
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 12000
       }
     ]
   },
@@ -12649,7 +12681,7 @@
     "clients": [
       {
         "name": "CENTER FOR FOOD SAFETY",
-        "amount": 0
+        "amount": 23000
       }
     ],
     "quarters": [
@@ -12657,6 +12689,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 9000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 14000
       }
     ]
   },
@@ -16064,7 +16101,7 @@
     "clients": [
       {
         "name": "ARA ADVISERS LLC",
-        "amount": 0
+        "amount": 314.59
       },
       {
         "name": "NORDIC CAPITAL GROUP LIMITED",
@@ -16076,6 +16113,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 314.59
       }
     ]
   },
@@ -16634,7 +16676,7 @@
     "clients": [
       {
         "name": "CLEAR CHANNEL OUTDOOR, LLC",
-        "amount": 18000
+        "amount": 30000
       }
     ],
     "quarters": [
@@ -16642,6 +16684,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 18000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 12000
       }
     ]
   },
@@ -20949,12 +20996,17 @@
     "clients": [
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 22500
+        "amount": 45000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 22500
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 22500
       }
