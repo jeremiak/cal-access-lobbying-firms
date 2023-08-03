@@ -375,7 +375,7 @@
     "clients": [
       {
         "name": "EAH INC.",
-        "amount": 90000
+        "amount": 24000
       },
       {
         "name": "FRESNO METRO BLACK CHAMBER OF COMMERCE",
@@ -386,12 +386,12 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 66356.25
+        "amount": 24356.25
       },
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 40968.75
+        "amount": 16968.75
       }
     ]
   },
@@ -1260,8 +1260,23 @@
   {
     "id": "1451939",
     "name": "ATLANTIC STRATEGIES, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CITY OF MONTEBELLO",
+        "amount": 12300
+      },
+      {
+        "name": "LATINO COALITION FOR A HEALTHY CALIFORNIA",
+        "amount": 12000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 24300
+      }
+    ]
   },
   {
     "id": "1414020",
@@ -13713,19 +13728,8 @@
   {
     "id": "1455044",
     "name": "MCP SECURITIES, LLC",
-    "clients": [
-      {
-        "name": "TERRAMONT INFRASTRUCTURE PARTNERS",
-        "amount": 0
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 30000
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1336408",
