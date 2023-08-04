@@ -19661,12 +19661,17 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF LOCAL HOUSING FINANCE AGENCIES",
-        "amount": 6000
+        "amount": 12000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 6000
+      },
+      {
+        "quarter": "2",
         "session": "2023",
         "amount": 6000
       }
