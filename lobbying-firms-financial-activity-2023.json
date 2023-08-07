@@ -2380,7 +2380,7 @@
     "clients": [
       {
         "name": "SOUTHERN CALIFORNIA CONTRACTORS' ASSOCIATION",
-        "amount": 12445
+        "amount": 21916.85
       }
     ],
     "quarters": [
@@ -2388,6 +2388,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 12445
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 17240.85
       }
     ]
   },
