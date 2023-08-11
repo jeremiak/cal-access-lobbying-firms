@@ -10743,7 +10743,7 @@
       },
       {
         "name": "U.S. BORAX, INC.",
-        "amount": 50520
+        "amount": 60520
       },
       {
         "name": "WATERSHED CONSERVATION AUTHORITY",
@@ -10763,7 +10763,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 280808.21
+        "amount": 290808.21
       }
     ]
   },
@@ -14652,7 +14652,7 @@
     "clients": [
       {
         "name": "ALLIANCE FOR SAFETY AND JUSTICE",
-        "amount": 45000
+        "amount": 31125
       },
       {
         "name": "ANTI-RECIDIVISM COALITION (ARC)",
@@ -14692,7 +14692,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 161250
+        "amount": 147375
       }
     ]
   },
