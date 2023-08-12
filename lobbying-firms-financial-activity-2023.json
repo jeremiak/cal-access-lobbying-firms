@@ -11260,6 +11260,35 @@
     ]
   },
   {
+    "id": "1429036",
+    "name": "K&L GATES, LLP",
+    "clients": [
+      {
+        "name": "EVERINGHAM BROS BAIT CO.",
+        "amount": 2280
+      },
+      {
+        "name": "MARINA DEL REY BAIT COMPANY",
+        "amount": 2280
+      },
+      {
+        "name": "OCEANSIDE BAIR COMPANY",
+        "amount": 2185
+      },
+      {
+        "name": "SAN PEDRO BAIT COMPANY",
+        "amount": 2185
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 8930
+      }
+    ]
+  },
+  {
     "id": "1318664",
     "name": "KAHN CONSULTING; CHRIS",
     "clients": [
