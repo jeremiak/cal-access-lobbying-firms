@@ -2570,6 +2570,44 @@
     "quarters": []
   },
   {
+    "id": "1437032",
+    "name": "BRIGHT LIGHT STRATEGIES",
+    "clients": [
+      {
+        "name": "CA LOBBY OBO CALIFORNIA HYDROGEN COALITION",
+        "amount": 22500
+      },
+      {
+        "name": "FINDHELP",
+        "amount": 15000
+      },
+      {
+        "name": "GOLDEN STATE OPPORTUNITY",
+        "amount": 45000
+      },
+      {
+        "name": "SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
+        "amount": 15000
+      },
+      {
+        "name": "UNITED WAY CALIFORNIA CAPITAL REGION",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 18750
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 93750
+      }
+    ]
+  },
+  {
     "id": "1147504",
     "name": "BROAD & GUSMAN",
     "clients": [
@@ -15813,15 +15851,15 @@
     "clients": [
       {
         "name": "BARONA BAND OF MISSION INDIANS",
-        "amount": 30000
+        "amount": 40539.9
       },
       {
         "name": "EAST VALLEY WATER DISTRICT",
-        "amount": 18900
+        "amount": 23625
       },
       {
         "name": "IRVINE RANCH WATER DISTRICT",
-        "amount": 38650
+        "amount": 44450
       },
       {
         "name": "YUBA COUNTY WATER AGENCY",
@@ -15832,7 +15870,7 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 80700
+        "amount": 101764.9
       },
       {
         "quarter": "2",
@@ -20279,44 +20317,6 @@
         "quarter": "2",
         "session": "2023",
         "amount": 135000
-      }
-    ]
-  },
-  {
-    "id": "1437032",
-    "name": "STRAIT CONSULTING",
-    "clients": [
-      {
-        "name": "CA LOBBY OBO CALIFORNIA HYDROGEN COALITION",
-        "amount": 22500
-      },
-      {
-        "name": "FINDHELP",
-        "amount": 15000
-      },
-      {
-        "name": "GOLDEN STATE OPPORTUNITY",
-        "amount": 45000
-      },
-      {
-        "name": "SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
-        "amount": 15000
-      },
-      {
-        "name": "UNITED WAY CALIFORNIA CAPITAL REGION",
-        "amount": 15000
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 18750
-      },
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 93750
       }
     ]
   },
