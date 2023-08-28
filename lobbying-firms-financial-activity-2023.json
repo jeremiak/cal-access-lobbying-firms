@@ -8689,8 +8689,23 @@
   {
     "id": "1460634",
     "name": "FERN CREEK VENTURES, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CLEAR VENTURES",
+        "amount": 60000
+      },
+      {
+        "name": "WAVERLEY CAPITAL",
+        "amount": 30000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 40000
+      }
+    ]
   },
   {
     "id": "1282555",
