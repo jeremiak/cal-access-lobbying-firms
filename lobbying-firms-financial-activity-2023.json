@@ -8507,8 +8507,19 @@
   {
     "id": "1461292",
     "name": "FALCON STRATEGIES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CARLSBAD JET CENTER",
+        "amount": 8000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 8000
+      }
+    ]
   },
   {
     "id": "1295371",
@@ -11091,6 +11102,40 @@
         "quarter": "2",
         "session": "2023",
         "amount": 59603.03
+      }
+    ]
+  },
+  {
+    "id": "1147401",
+    "name": "JEA AND ASSOCIATES",
+    "clients": [
+      {
+        "name": "LANCE-KASHIAN & CO",
+        "amount": 30000
+      },
+      {
+        "name": "MONTEREY PENINSULA WATER MANAGEMENT DISTRICT",
+        "amount": 24000
+      },
+      {
+        "name": "SALINAS, CITY OF",
+        "amount": 21000
+      },
+      {
+        "name": "WATSONVILLE, CITY OF",
+        "amount": 36000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 53700
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 53700
       }
     ]
   },
