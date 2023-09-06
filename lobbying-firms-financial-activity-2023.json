@@ -8097,6 +8097,28 @@
     "quarters": []
   },
   {
+    "id": "1443740",
+    "name": "EDMOND GROUP LLC",
+    "clients": [
+      {
+        "name": "APARTMENT ASSOCIATION, CALIFORNIA SOUTHERN CITIES",
+        "amount": 18775
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 3775
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 15000
+      }
+    ]
+  },
+  {
     "id": "1255431",
     "name": "EDUCATION ADVOCATES, LLC",
     "clients": [
@@ -19021,6 +19043,23 @@
     ]
   },
   {
+    "id": "1363969",
+    "name": "SALIENT CAPITAL, L.P.",
+    "clients": [
+      {
+        "name": "SALIENT ADVISORS, L.P.",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1436574",
     "name": "SAMSON ADVISORS",
     "clients": [
@@ -20956,7 +20995,7 @@
     "clients": [
       {
         "name": "COLOR HEALTH, INC.",
-        "amount": 8000
+        "amount": 44485.87
       }
     ],
     "quarters": [
@@ -20964,6 +21003,11 @@
         "quarter": "1",
         "session": "2023",
         "amount": 8000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 36485.87
       }
     ]
   },
