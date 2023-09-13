@@ -7804,7 +7804,7 @@
       },
       {
         "name": "THE NATURE CONSERVANCY",
-        "amount": 25000
+        "amount": 12500
       },
       {
         "name": "TROUT UNLIMITED",
@@ -7820,7 +7820,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 110500
+        "amount": 98000
       }
     ]
   },
@@ -11382,6 +11382,12 @@
         "amount": 7900
       }
     ]
+  },
+  {
+    "id": "1461153",
+    "name": "JUPITER ASSET MANAGEMENT US LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1429036",
