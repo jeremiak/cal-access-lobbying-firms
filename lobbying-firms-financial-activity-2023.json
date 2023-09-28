@@ -17858,7 +17858,7 @@
     "clients": [
       {
         "name": "MICROGRID RESOURCES COALITION",
-        "amount": 52945
+        "amount": 71345
       }
     ],
     "quarters": [
@@ -17869,6 +17869,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 26400
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 27345
       }
