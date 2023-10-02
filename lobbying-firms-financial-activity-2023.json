@@ -12692,7 +12692,7 @@
     "clients": [
       {
         "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "AMERICAN FOREST & PAPER ASSOCIATION",
@@ -12704,11 +12704,11 @@
       },
       {
         "name": "STYRENE INFORMATION AND RESEARCH CENTER",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 15000
+        "amount": 22500
       }
     ],
     "quarters": [
@@ -12719,6 +12719,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 13500
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 13500
       }
