@@ -8960,15 +8960,15 @@
     "clients": [
       {
         "name": "FIVE POINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 75000
+        "amount": 105000
       },
       {
         "name": "RMV PA3 DEVELOPMENT, LLC",
-        "amount": 37500
+        "amount": 60000
       },
       {
         "name": "TEJON RANCHCORP",
-        "amount": 15000
+        "amount": 37500
       }
     ],
     "quarters": [
@@ -8981,6 +8981,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 67500
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 75000
       }
     ]
   },
@@ -12670,7 +12675,7 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 25500
+        "amount": 38250
       }
     ],
     "quarters": [
@@ -12681,6 +12686,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 12750
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 12750
       }
@@ -13715,6 +13725,36 @@
         "quarter": "2",
         "session": "2023",
         "amount": 13950
+      }
+    ]
+  },
+  {
+    "id": "1357312",
+    "name": "MB ADVOCACY",
+    "clients": [
+      {
+        "name": "CBRE",
+        "amount": 376300
+      },
+      {
+        "name": "CLEAR CHANNEL OUTDOOR, INC.",
+        "amount": 333000
+      },
+      {
+        "name": "SHATTERPROOF A NONPROFIT CORPORATION",
+        "amount": 206820
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 74555
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 63165
       }
     ]
   },
