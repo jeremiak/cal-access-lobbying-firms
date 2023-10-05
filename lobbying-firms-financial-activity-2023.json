@@ -9287,19 +9287,19 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 55002
+        "amount": 82503
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 66000
+        "amount": 99000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 9000
+        "amount": 13500
       }
     ],
     "quarters": [
@@ -9310,6 +9310,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 95001
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 95001
       }
@@ -11306,7 +11311,7 @@
     "clients": [
       {
         "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
-        "amount": 36000
+        "amount": 54000
       }
     ],
     "quarters": [
@@ -11317,6 +11322,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 18000
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 18000
       }
@@ -17523,7 +17533,7 @@
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN",
-        "amount": 108736.16
+        "amount": 150334.46
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF PROFESSIONAL SCIENTISTS",
@@ -17687,7 +17697,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 1057535.03
+        "amount": 1099133.33
       }
     ]
   },
@@ -20004,7 +20014,7 @@
       },
       {
         "name": "INDIGO AG, INC.",
-        "amount": 1681
+        "amount": 3056
       }
     ],
     "quarters": [
@@ -20017,6 +20027,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 1375
       }
     ]
   },
@@ -20922,7 +20937,7 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 37800
+        "amount": 56700
       },
       {
         "name": "PATHION HOLDINGS, INC.",
@@ -20937,6 +20952,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 18900
       }
@@ -22875,7 +22895,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 37500
+        "amount": 54460
       }
     ],
     "quarters": [
@@ -22888,6 +22908,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 18750
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 16960
       }
     ]
   },
