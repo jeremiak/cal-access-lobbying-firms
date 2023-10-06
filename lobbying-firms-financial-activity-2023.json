@@ -5866,23 +5866,19 @@
     "clients": [
       {
         "name": "AMERESCO, INC",
-        "amount": 14100
+        "amount": 21568.39
       },
       {
         "name": "CALIFORNIA SENSOR CORPORATION (CALSENSE)",
-        "amount": 12000
+        "amount": 20752.18
       },
       {
         "name": "CITY OF RIDGECREST",
-        "amount": 2165.7
+        "amount": 3403.2
       },
       {
         "name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-        "amount": 21514.5
-      },
-      {
-        "name": "RICHLAND DEVELOPERS INC.",
-        "amount": 0
+        "amount": 38077
       }
     ],
     "quarters": [
@@ -5895,6 +5891,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 32237.5
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 34020.57
       }
     ]
   },
@@ -6304,103 +6305,103 @@
       },
       {
         "name": "AMERICAN AUTOMOBILE ASSOCIATION OF NORTHERN CALIFORNIA, NEVADA &  UTAH",
-        "amount": 92400
+        "amount": 132000
       },
       {
         "name": "BD",
-        "amount": 64000
+        "amount": 88000
       },
       {
         "name": "BLUETRITON BRANDS, INC",
-        "amount": 50000
+        "amount": 100000
       },
       {
         "name": "BOOKING.COM, B.V.",
-        "amount": 52500
-      },
-      {
-        "name": "CALIFORNIA ASPHALT PAVEMENT ASSOCIATION",
-        "amount": 22050
-      },
-      {
-        "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
-        "amount": 125485.95
-      },
-      {
-        "name": "DAIKIN U.S. CORPORATION",
-        "amount": 66000
-      },
-      {
-        "name": "GSK",
-        "amount": 39000
-      },
-      {
-        "name": "IN-N-OUT BURGERS",
-        "amount": 146993.88
-      },
-      {
-        "name": "INCOMM PAYMENTS",
-        "amount": 0
-      },
-      {
-        "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
-        "amount": 44336.35
-      },
-      {
-        "name": "KROLL GOVERNMENT SOLUTIONS",
-        "amount": 75000
-      },
-      {
-        "name": "LIVE NATION ENTERTAINMENT, INC",
         "amount": 82500
       },
       {
+        "name": "CALIFORNIA ASPHALT PAVEMENT ASSOCIATION",
+        "amount": 39690
+      },
+      {
+        "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
+        "amount": 200485.95
+      },
+      {
+        "name": "DAIKIN U.S. CORPORATION",
+        "amount": 99000
+      },
+      {
+        "name": "GSK",
+        "amount": 58500
+      },
+      {
+        "name": "IN-N-OUT BURGERS",
+        "amount": 182993.88
+      },
+      {
+        "name": "INCOMM PAYMENTS",
+        "amount": 37500
+      },
+      {
+        "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
+        "amount": 72336.35
+      },
+      {
+        "name": "KROLL GOVERNMENT SOLUTIONS",
+        "amount": 100000
+      },
+      {
+        "name": "LIVE NATION ENTERTAINMENT, INC",
+        "amount": 109020
+      },
+      {
         "name": "MAXIMUS, INC.",
-        "amount": 45000
+        "amount": 67500
       },
       {
         "name": "MEDTRONIC, INC.",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "NU STAR ENERGY, L.P.",
-        "amount": 25000
+        "amount": 55000
       },
       {
         "name": "SCHNEIDER ELECTRIC USA, INC.",
-        "amount": 50000
+        "amount": 80000
       },
       {
         "name": "THE DOW CHEMICAL COMPANY, DBA DOW",
-        "amount": 8000
+        "amount": 40000
       },
       {
         "name": "TOYOTA MOTOR NORTH AMERICA, INC.",
-        "amount": 50000
+        "amount": 112666.79
       },
       {
         "name": "TRC OPERATING COMPANY, INC.",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "U.S. POLYCO, INC.",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "U.S. TIRE MANUFACTURERS ASSOCIATION",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "VALERO SERVICES, INC",
-        "amount": 105000
+        "amount": 210000
       },
       {
         "name": "VALLEY WATER MANAGEMENT COMPANY",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 180000
+        "amount": 270000
       }
     ],
     "quarters": [
@@ -6413,6 +6414,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 678203.02
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 930926.79
       }
     ]
   },
@@ -14234,11 +14240,11 @@
     "clients": [
       {
         "name": "PROSECUTORS ALLIANCE OF CALIFORNIA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 72500
+        "amount": 83000
       },
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 74417.33
+        "amount": 119417.33
       }
     ],
     "quarters": [
@@ -14251,6 +14257,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 93061.01
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 55500
       }
     ]
   },
@@ -17730,6 +17741,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 314.59
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
