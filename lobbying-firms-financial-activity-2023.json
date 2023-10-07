@@ -9358,7 +9358,7 @@
     "clients": [
       {
         "name": "AMERICAN LUNG ASSOCIATION",
-        "amount": 25000
+        "amount": 30000
       }
     ],
     "quarters": [
@@ -9371,6 +9371,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 15000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 5000
       }
     ]
   },
@@ -20586,7 +20591,7 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 500
+        "amount": 750
       }
     ],
     "quarters": [
@@ -20597,6 +20602,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 250
       }
