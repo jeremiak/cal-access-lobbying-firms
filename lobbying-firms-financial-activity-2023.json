@@ -16143,15 +16143,15 @@
     "clients": [
       {
         "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
-        "amount": 15500
+        "amount": 18290
       },
       {
         "name": "PLUMBING-HEATING-COOLING CONTRACTORS ASSOCIATION OF CALIFORNIA (CAPHCC)",
-        "amount": 12500
+        "amount": 25000
       },
       {
         "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
-        "amount": 30275
+        "amount": 43250
       }
     ],
     "quarters": [
@@ -16164,6 +16164,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 31800
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 28265
       }
     ]
   },
