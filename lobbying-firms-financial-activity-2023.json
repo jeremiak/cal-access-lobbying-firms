@@ -1651,12 +1651,8 @@
     "name": "BACKES; GLENN",
     "clients": [
       {
-        "name": "ACLU CA ACTION",
-        "amount": 35000
-      },
-      {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 78000
+        "amount": 117000
       },
       {
         "name": "NATIONAL HARM REDUCTION COALITION",
@@ -1673,6 +1669,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 69000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 39000
       }
     ]
   },
@@ -10682,12 +10683,8 @@
     "name": "HOFFMAN LAW AND ADVOCACY",
     "clients": [
       {
-        "name": "SA RECYCLING LLC",
-        "amount": 45585.97
-      },
-      {
         "name": "SA RECYCLING, LLC",
-        "amount": 75585.97
+        "amount": 121141.92
       }
     ],
     "quarters": [
@@ -10699,7 +10696,12 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 75585.97
+        "amount": 30000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 45555.95
       }
     ]
   },
@@ -11400,15 +11402,15 @@
       },
       {
         "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
-        "amount": 2000
+        "amount": 3000
       },
       {
         "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
-        "amount": 4800
+        "amount": 7200
       },
       {
         "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
-        "amount": 9000
+        "amount": 13500
       }
     ],
     "quarters": [
@@ -11419,6 +11421,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 7900
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 7900
       }
@@ -21053,15 +21060,25 @@
     "name": "TERRAPIN STRATEGY, INC.",
     "clients": [
       {
-        "name": "TERRAPIN STRATEGY, INC.",
-        "amount": 9000
+        "name": "EXPLORE INFORMATION SERVICES, LLC",
+        "amount": 1200
       }
     ],
     "quarters": [
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 9000
+        "amount": 400
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 400
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 400
       }
     ]
   },
