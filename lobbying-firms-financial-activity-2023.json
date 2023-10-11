@@ -1052,16 +1052,12 @@
     "name": "ARNOLD & ASSOCIATES, INC.",
     "clients": [
       {
-        "name": "BURBANK-GLENDALE-PASADENA-AIRPORT-AUTHORITY",
-        "amount": 32889.33
-      },
-      {
         "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
-        "amount": 70938
+        "amount": 111474
       },
       {
         "name": "CALIFORNIA DIALYSIS COUNCIL",
-        "amount": 73200
+        "amount": 109800
       },
       {
         "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
@@ -1069,31 +1065,31 @@
       },
       {
         "name": "ESCONDIDO CITY OF",
-        "amount": 21954
+        "amount": 29272
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 74038.88
+        "amount": 110335.88
       },
       {
         "name": "MILLENNIUM HEALTH",
-        "amount": 35588
+        "amount": 45756
       },
       {
         "name": "OXNARD CITY OF",
-        "amount": 24413
+        "amount": 32708
       },
       {
         "name": "REDONDO BEACH CITY OF",
-        "amount": 25248.4
+        "amount": 36000.4
       },
       {
         "name": "THE LOS ANGELES LAKES INC.",
-        "amount": 4500
+        "amount": 6750
       },
       {
         "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
-        "amount": 36504
+        "amount": 54756
       }
     ],
     "quarters": [
@@ -1106,6 +1102,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 191224.21
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 170468
       }
     ]
   },
@@ -7273,35 +7274,35 @@
     "clients": [
       {
         "name": "ASSOCIATION OF INDEPENDENT CALIFORNIA COLLEGES AND UNIVERSITIES (AICCU)",
-        "amount": 52500
+        "amount": 84000
       },
       {
         "name": "BRYANT GOVERNMENT AFFAIRS",
-        "amount": 8332.5
+        "amount": 9999
       },
       {
         "name": "CA LATINAS FOR REPRODUCTIVE JUSTICE",
-        "amount": 15000
+        "amount": 24000
       },
       {
         "name": "CALIFORNIA BLACK MEDIA",
-        "amount": 12500
+        "amount": 20000
       },
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 45000
+        "amount": 72000
       },
       {
         "name": "CALIFORNIA BUSINESS PROPERTIES ASSOCIATION",
-        "amount": 39000
+        "amount": 62000
       },
       {
         "name": "CALIFORNIA STATE OUTDOOR ADVERTISING ASSOCIATION",
-        "amount": 56000
+        "amount": 86000
       },
       {
         "name": "CITY OF SAN JOSE",
-        "amount": 125000
+        "amount": 175000
       },
       {
         "name": "COUNTY OF ORANGE DISTRICT ATTORNEY OFFICE",
@@ -7309,7 +7310,7 @@
       },
       {
         "name": "CREATE CA",
-        "amount": 15000
+        "amount": 24000
       },
       {
         "name": "CREATIVE ARTISTS AGENCY",
@@ -7317,47 +7318,63 @@
       },
       {
         "name": "DESERT HOT SPRINGS, CITY OF",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "ENCORE CAPITAL",
-        "amount": 48000
+        "amount": 64000
       },
       {
         "name": "FIRST AMERICAN FINANCIAL CORPORATION AND AFFILIATED ENTITIES",
-        "amount": 56000
+        "amount": 88000
       },
       {
         "name": "GF ADVOCACY",
-        "amount": 18000
+        "amount": 27000
+      },
+      {
+        "name": "IMPERIAL IRRIGATION DISTRICT",
+        "amount": 18750
       },
       {
         "name": "INNERGEX RENEWABLE DEVELOPMENT",
-        "amount": 20000
+        "amount": 25000
+      },
+      {
+        "name": "LEAGUE OF CALIFORNIA CITIES",
+        "amount": 14000
       },
       {
         "name": "MGI ADVOCACY, INC.",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "MOTION PICTURE ASSOCIATION INC",
-        "amount": 60000
+        "amount": 80000
+      },
+      {
+        "name": "MS INTERNATIONAL, INC.",
+        "amount": 10000
       },
       {
         "name": "NATIONAL ASSOCIATION OF THEATER OWNERS OF CALIFORNIA AND NEVADA",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP OBO CONTRA COSTA COUNTY",
-        "amount": 28000
+        "amount": 40000
       },
       {
         "name": "OAKLAND; PORT OF",
-        "amount": 72000
+        "amount": 120000
       },
       {
         "name": "PORTOLA VALLEY",
-        "amount": 2500
+        "amount": 5625
+      },
+      {
+        "name": "RAINBOW MUNICIPAL WATER",
+        "amount": 5645.16
       },
       {
         "name": "RESOLUTE",
@@ -7365,39 +7382,39 @@
       },
       {
         "name": "SACRAMENTO COUNTY",
-        "amount": 84000
+        "amount": 126000
       },
       {
         "name": "SAN DIEGO COUNTY REGIONAL AIRPORT AUTHORITY",
-        "amount": 37500
+        "amount": 60000
       },
       {
         "name": "SAN MATEO COUNTY",
-        "amount": 48000
+        "amount": 72000
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMNPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 72000
+        "amount": 105000
       },
       {
         "name": "SKYDIO, INC.",
-        "amount": 45000
+        "amount": 67500
       },
       {
         "name": "SOUTHERN CALIFORNIA ASSOCIATION OF GOVERNMENTS",
-        "amount": 72000
+        "amount": 81000
       },
       {
         "name": "STANFORD UNIVERSITY",
-        "amount": 40800
+        "amount": 61800
       },
       {
         "name": "STRATEGIC LEGAL PRACTICES",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "WESTFIELD",
-        "amount": 93000
+        "amount": 129000
       }
     ],
     "quarters": [
@@ -7410,6 +7427,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 675083
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 630186.66
       }
     ]
   },
@@ -13480,6 +13502,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -14007,7 +14034,7 @@
     "clients": [
       {
         "name": "BAE SYSTEMS",
-        "amount": 36666.43
+        "amount": 56858.84
       }
     ],
     "quarters": [
@@ -14020,6 +14047,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 12000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 20192.41
       }
     ]
   },
@@ -18829,7 +18861,7 @@
     "clients": [
       {
         "name": "SPRINKLER FITTERS ASSOCIATION OF CALIFORNIA",
-        "amount": 36347.99
+        "amount": 60649.43
       }
     ],
     "quarters": [
@@ -18842,6 +18874,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 17542.88
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 24301.44
       }
     ]
   },
@@ -22368,27 +22405,27 @@
     "clients": [
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 22000
+        "amount": 34000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CHRISTIAN COLLEGES AND UNIVERSITIES",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "CVS HEALTH",
-        "amount": 61000
+        "amount": 88000
       },
       {
         "name": "FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER DBA COMMUNITY MEDICAL CENTERS",
-        "amount": 37500
+        "amount": 60000
       },
       {
         "name": "FRIANT WATER AUTHORITY",
-        "amount": 52400
+        "amount": 82400
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ADVANTAGE CAPITAL",
-        "amount": 90000
+        "amount": 135000
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
@@ -22428,11 +22465,11 @@
       },
       {
         "name": "TABLE MOUNTAIN RANCHERIA",
-        "amount": 70000
+        "amount": 100000
       },
       {
         "name": "THREE RIVERS ENERGY DEVELOPMENT LLC",
-        "amount": 30000
+        "amount": 48750
       }
     ],
     "quarters": [
@@ -22445,6 +22482,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 199000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 215250
       }
     ]
   },
