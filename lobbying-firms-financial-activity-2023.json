@@ -10726,6 +10726,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -14449,19 +14454,19 @@
     "clients": [
       {
         "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
-        "amount": 19999.98
+        "amount": 29999.97
       },
       {
         "name": "CALIFORNIA AUTOBODY ASSOCIATION",
-        "amount": 15000
+        "amount": 22500
       },
       {
         "name": "CALIFORNIA AUTOMOTIVE BUSINESS COALITION",
-        "amount": 15000
+        "amount": 22500
       },
       {
         "name": "CALIFORNIA TIRE DEALERS ASSOCIATION",
-        "amount": 6000
+        "amount": 9000
       }
     ],
     "quarters": [
@@ -14472,6 +14477,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 27999.99
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 27999.99
       }
@@ -19195,39 +19205,35 @@
     "clients": [
       {
         "name": "AMERICAN KIDNEY FUND",
-        "amount": 35000
+        "amount": 63000
       },
       {
         "name": "AMERICAN RENTAL ASSOCIATION",
-        "amount": 25847.06
+        "amount": 45847.06
       },
       {
         "name": "ARCHER DANIELS MIDLAND",
-        "amount": 72000
+        "amount": 120000
       },
       {
         "name": "CALIFORNIA INDEPENDENT SYSTEM OPERATOR CORPORATION (CA-ISO)",
-        "amount": 31555.13
+        "amount": 55555.13
       },
       {
         "name": "ENVIRONMENTAL DEFENSE ACTION FUND",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "NUCOR CORPORATION",
-        "amount": 40000
+        "amount": 72000
       },
       {
         "name": "RELX INC. AND IT'S SUBSIDIARIES",
-        "amount": 27000
-      },
-      {
-        "name": "SECURE FINANCE NETWORK",
-        "amount": 5000
+        "amount": 40500
       },
       {
         "name": "SSA MARINE, INC.",
-        "amount": 25000
+        "amount": 40000
       }
     ],
     "quarters": [
@@ -19240,6 +19246,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 137347.06
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 192500
       }
     ]
   },
