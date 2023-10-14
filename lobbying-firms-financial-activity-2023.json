@@ -1986,12 +1986,8 @@
     "name": "BEEVERS; NICK",
     "clients": [
       {
-        "name": "HUDSON ADVISORS L.P.",
-        "amount": 3634
-      },
-      {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 5451
+        "amount": 9085
       }
     ],
     "quarters": [
@@ -7820,27 +7816,27 @@
     "clients": [
       {
         "name": "CALIFORNIA DESERT LAND CONSERVANCY DBA MOJAVE DESERT LAND TRUST",
-        "amount": 17500
+        "amount": 24500
       },
       {
         "name": "CALIFORNIA NATIVE PLANT SOCIETY",
-        "amount": 12000
+        "amount": 22000
       },
       {
         "name": "CALIFORNIA TROUT",
-        "amount": 18000
+        "amount": 27000
       },
       {
         "name": "CALIFORNIA WILDERNESS COALITION",
-        "amount": 6000
+        "amount": 7000
       },
       {
         "name": "CALIFORNIA YIMBY",
-        "amount": 12000
+        "amount": 28000
       },
       {
         "name": "DEFENDERS OF WILDLIFE",
-        "amount": 28000
+        "amount": 44000
       },
       {
         "name": "NATIONAL AUDUBON SOCIETY",
@@ -7848,11 +7844,15 @@
       },
       {
         "name": "SONOMA LAND TRUST",
-        "amount": 31000
+        "amount": 47500
       },
       {
         "name": "THE NATURE CONSERVANCY",
-        "amount": 12500
+        "amount": 17500
+      },
+      {
+        "name": "THE SIERRA FUND",
+        "amount": 12000
       },
       {
         "name": "TROUT UNLIMITED",
@@ -7869,6 +7869,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 98000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 92500
       }
     ]
   },
@@ -11323,7 +11328,7 @@
     "clients": [
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF ALLEGIS, REDWOOD, MAXIM PUBLIC AFFAIRS, LLC)",
-        "amount": 25000
+        "amount": 40000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF ASSOCIATED CA SELF INSURED BUSINESSES)",
@@ -11335,7 +11340,7 @@
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA BROADCASTERS ASSOCIATION)",
-        "amount": 5000
+        "amount": 8000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA SOCIETY OF ALLERGY, ASTHMA AND IMMUNOLOGY (CSAII) )",
@@ -11343,7 +11348,7 @@
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF MAXIM HEALTHCARE SERVICES, INC)",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF NATIONAL CONFECTIONERS ASSOCIATION)",
@@ -11355,11 +11360,11 @@
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF PET INDUSTRY JOINT ADVISORY COUNCIL)",
-        "amount": 16000
+        "amount": 28000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF SANOFI US SERVICES, INC)",
-        "amount": 34999.98
+        "amount": 49999.98
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF U.S. RENAL CARE)",
@@ -11374,6 +11379,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 60000
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 60000
       }
@@ -11935,31 +11945,31 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF ASSOCIATED CALIFORNIA SELF INSURED BUSINESSES)",
-        "amount": 35000
-      },
-      {
-        "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF ASSOCIATION FOR ACCESSIBLE MEDICINES)",
         "amount": 45000
       },
       {
+        "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF ASSOCIATION FOR ACCESSIBLE MEDICINES)",
+        "amount": 67500
+      },
+      {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA ASSISTED LIVING ASSOCIATION)",
-        "amount": 25000
+        "amount": 45000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA ASSOCIATION OF MEDICAL PRODUCT SUPPLIERS)",
-        "amount": 14000
+        "amount": 16000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA BROADCASTERS ASSN)",
-        "amount": 5000
+        "amount": 6000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA HOSPICE & PALLIATIVE CARE ASSN)",
-        "amount": 39997.98
+        "amount": 59995.98
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF CALIFORNIA SOCIETY OF ALLERGY, ASTHMA AND IMMUNOLOGY (CSAII))",
@@ -11967,27 +11977,27 @@
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF NATIONAL CONFECTIONERS ASSOCIATION)",
-        "amount": 8750
+        "amount": 11250
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF PEDIATRIC DAY HEALTH CARE COALITION)",
-        "amount": 19500
+        "amount": 29250
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF POLARIS PHARMACY SERVICES)",
-        "amount": 6000
+        "amount": 30000
       },
       {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF U.S. RENAL CARE)",
-        "amount": 38465.68
+        "amount": 60965.68
       },
       {
         "name": "ST. PAUL'S SENIOR HOMES AND SERVICES",
-        "amount": 20749.98
+        "amount": 37916.62
       },
       {
         "name": "WALGREEN COMPANY",
-        "amount": 70000
+        "amount": 112000
       }
     ],
     "quarters": [
@@ -12000,6 +12010,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 192914.66
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 205414.64
       }
     ]
   },
@@ -18580,7 +18595,7 @@
     "clients": [
       {
         "name": "RODRIGUEZ STRATEGIES",
-        "amount": 38000
+        "amount": 46000
       }
     ],
     "quarters": [
@@ -18593,6 +18608,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 23000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 8000
       }
     ]
   },
@@ -19391,12 +19411,8 @@
     "name": "SARLY; BENJAMIN A.",
     "clients": [
       {
-        "name": "HUDSON ADVISORS L.P.",
-        "amount": 5973
-      },
-      {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 5973
+        "amount": 11946
       }
     ],
     "quarters": [
@@ -19616,7 +19632,7 @@
     "clients": [
       {
         "name": "AIRBUS HELICOPTERS, INC.",
-        "amount": 21108.06
+        "amount": 42554.03
       }
     ],
     "quarters": [
@@ -19628,7 +19644,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 10554.03
+        "amount": 32000
       }
     ]
   },
