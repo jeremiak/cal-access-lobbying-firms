@@ -14413,15 +14413,15 @@
     "clients": [
       {
         "name": "FFF ENTERPRISES, INC.",
-        "amount": 10501.5
+        "amount": 15751.5
       },
       {
         "name": "KIDS READ NOW INC.",
-        "amount": 6964.27
+        "amount": 7964.27
       },
       {
         "name": "SANDOZ INC.",
-        "amount": 3698.46
+        "amount": 6425.73
       }
     ],
     "quarters": [
@@ -14434,6 +14434,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 8414.37
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 8977.27
       }
     ]
   },
