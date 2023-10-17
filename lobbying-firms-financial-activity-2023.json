@@ -2722,7 +2722,7 @@
     "clients": [
       {
         "name": "2U",
-        "amount": 120000
+        "amount": 150000
       }
     ],
     "quarters": [
@@ -2733,6 +2733,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 30000
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 30000
       }
@@ -4852,21 +4857,23 @@
     "name": "CANYON SNOW CONSULTING LLC",
     "clients": [
       {
-        "name": "DOCUSIGN",
-        "amount": 65000
-      },
-      {
         "name": "FAIRVOTE",
-        "amount": 15000
-      },
-      {
-        "name": "HUAWEI TECHNOLOGIES",
-        "amount": 5000
+        "amount": 45000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2023",
+        "amount": 15000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 15000
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 15000
       }
@@ -9514,11 +9521,11 @@
     "clients": [
       {
         "name": "CITY INNOVATE",
-        "amount": 48000
+        "amount": 64000
       },
       {
         "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-        "amount": 7650
+        "amount": 34650
       },
       {
         "name": "TECHNOLOGY INDUSTRY ASSOCIATION OF CALIFORNIA (TECHCA) - TERMED 2/1/23",
@@ -9530,7 +9537,7 @@
       },
       {
         "name": "WORLD WIDE TECHNOLOGY LLC",
-        "amount": 48000
+        "amount": 72000
       }
     ],
     "quarters": [
@@ -9543,6 +9550,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 63650
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 67000
       }
     ]
   },
@@ -12604,95 +12616,99 @@
       },
       {
         "name": "AEGIS TREATMENT CENTERS LLC & ITS AFFILIATED ENTITIES",
-        "amount": 75000
+        "amount": 112500
       },
       {
         "name": "ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
-        "amount": 175000.02
+        "amount": 262500.03
       },
       {
         "name": "AMITY FOUNDATION",
-        "amount": 45000
+        "amount": 67500
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 70000
+        "amount": 106000
+      },
+      {
+        "name": "CALIFORNIA BEER AND BEVERAGE DISTRIBUTORS",
+        "amount": 0
       },
       {
         "name": "CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION",
-        "amount": 92100
+        "amount": 138150
       },
       {
         "name": "CATALINA MEDIA DEVELOPMENT II LLC",
-        "amount": 120000
+        "amount": 180000
       },
       {
         "name": "CLEARWAY ENERGY GROUP LLC",
-        "amount": 68000
+        "amount": 93500
       },
       {
         "name": "DAIRY INSTITUTE OF CALIFORNIA",
-        "amount": 60000
-      },
-      {
-        "name": "E. & J. GALLO WINERY",
-        "amount": 125000
-      },
-      {
-        "name": "EASTMAN CHEMICAL COMPANY",
-        "amount": 30000
-      },
-      {
-        "name": "F&G ANNUITIES AND LIFE, INC.",
-        "amount": 113000
-      },
-      {
-        "name": "FOLEY & LARDNER LLP ON BEHALF OF KERN COUNTY HOSPITAL AUTHORITY",
-        "amount": 65000
-      },
-      {
-        "name": "HILMAR CHEESE COMPANY, INC.",
-        "amount": 60000
-      },
-      {
-        "name": "HOLLYWOOD PARK CASINO COMPANY LLC.",
         "amount": 90000
       },
       {
+        "name": "E. & J. GALLO WINERY",
+        "amount": 200000
+      },
+      {
+        "name": "EASTMAN CHEMICAL COMPANY",
+        "amount": 67500
+      },
+      {
+        "name": "F&G ANNUITIES AND LIFE, INC.",
+        "amount": 169500
+      },
+      {
+        "name": "FOLEY & LARDNER LLP ON BEHALF OF KERN COUNTY HOSPITAL AUTHORITY",
+        "amount": 117000
+      },
+      {
+        "name": "HILMAR CHEESE COMPANY, INC.",
+        "amount": 90000
+      },
+      {
+        "name": "HOLLYWOOD PARK CASINO COMPANY LLC.",
+        "amount": 135000
+      },
+      {
         "name": "HURST BROOKS ESPINOSA, LLC ON BEHALF OF URBAN COUNTIES OF CALIFORNIA",
-        "amount": 60000
+        "amount": 100000
       },
       {
         "name": "INTERNATIONAL UNION OF PAINTER AND ALLIED TRADES AFL-CIO",
-        "amount": 60000
+        "amount": 108000
       },
       {
         "name": "INTUIT INC.",
-        "amount": 105000
+        "amount": 157500
       },
       {
         "name": "KIPP BAY AREA SCHOOLS",
-        "amount": 38000
+        "amount": 52000
       },
       {
         "name": "LOS ALAMITOS RACE COURSE",
-        "amount": 35000
-      },
-      {
-        "name": "LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS ASSOCIATION",
-        "amount": 45794.6
-      },
-      {
-        "name": "LOS ANGELES RAMS",
-        "amount": 75000
-      },
-      {
-        "name": "MURPHY'S BOWL LLC",
         "amount": 50000
       },
       {
+        "name": "LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS ASSOCIATION",
+        "amount": 68294.6
+      },
+      {
+        "name": "LOS ANGELES RAMS",
+        "amount": 135000
+      },
+      {
+        "name": "MURPHY'S BOWL LLC",
+        "amount": 87500
+      },
+      {
         "name": "NATIONAL UNION OF HEALTHCARE WORKERS",
-        "amount": 72000
+        "amount": 108000
       },
       {
         "name": "NGPF MISSION 2030 FUND",
@@ -12700,15 +12716,15 @@
       },
       {
         "name": "RIVERSIDE; COUNTY OF",
-        "amount": 62500
+        "amount": 112500
       },
       {
         "name": "ROMERO INSTITUTE",
-        "amount": 72000
+        "amount": 108000
       },
       {
         "name": "SAN DIEGO COUNTY WATER AUTHORITY",
-        "amount": 120000
+        "amount": 180000
       },
       {
         "name": "SEEN HEALTH, INC.",
@@ -12720,27 +12736,27 @@
       },
       {
         "name": "TRINET HR III, INC.",
-        "amount": 78750
+        "amount": 112500
       },
       {
         "name": "TRITON MANAGEMENT SERVICES, LLC",
-        "amount": 90000
+        "amount": 135000
       },
       {
         "name": "WEIDEMAN GROUP, INC. ON BEHALF OF NEW VENTURE FUND",
-        "amount": 12000
+        "amount": 48000
       },
       {
         "name": "WESTLANDS WATER DISTRICT",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "WINE & SPIRITS WHOLESALERS OF CALIFORNIA INC.",
-        "amount": 36000
+        "amount": 67333
       },
       {
         "name": "YOUNGS MARKET COMPANY LLC DBA REPUBLIC NATIONAL DISTRIBUTING COMPANY OF CALIFORNIA",
-        "amount": 32500
+        "amount": 65000
       }
     ],
     "quarters": [
@@ -12753,6 +12769,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 1271883.01
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 1321133.01
       }
     ]
   },
@@ -15177,7 +15198,7 @@
       },
       {
         "name": "COVETRUS",
-        "amount": 0
+        "amount": 7500
       },
       {
         "name": "CRUZ STRATEGIES - OBO - OAKLAND, PORT OF",
@@ -15305,7 +15326,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 1232594.95
+        "amount": 1240094.95
       }
     ]
   },
@@ -22170,7 +22191,7 @@
     "clients": [
       {
         "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
-        "amount": 87952.8
+        "amount": 125730.72
       },
       {
         "name": "EDVOICE",
@@ -22187,6 +22208,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 56499
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 56776.92
       }
     ]
   },
@@ -22659,11 +22685,11 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF SHEET METAL AND AIR CONDITIONING CONTRACTORS NATIONAL ASSOCIATION",
-        "amount": 73275.96
+        "amount": 110280.32
       },
       {
         "name": "CALIFORNIA CRAFT BREWERS ASSOCIATION",
-        "amount": 54000
+        "amount": 81000
       }
     ],
     "quarters": [
@@ -22676,6 +22702,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 63637.98
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 64004.36
       }
     ]
   },
