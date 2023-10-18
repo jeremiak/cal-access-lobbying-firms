@@ -1711,11 +1711,11 @@
     "clients": [
       {
         "name": "ACADEMIC PARTNERSHIPS LLC",
-        "amount": 52500
+        "amount": 75000
       },
       {
         "name": "BOOMERANG HEALTH CARE",
-        "amount": 25000
+        "amount": 40000
       },
       {
         "name": "CALIFORNIA SOCIETY OF INDUSTRIAL MEDICINE & SURGERY",
@@ -1723,15 +1723,11 @@
       },
       {
         "name": "CITY OF DELANO",
-        "amount": 39000
+        "amount": 58500
       },
       {
         "name": "DELL TECHNOLOGIES, INC.",
-        "amount": 67500
-      },
-      {
-        "name": "DRONEDEPLOY INC.",
-        "amount": 13000
+        "amount": 94500
       },
       {
         "name": "EDQUITY DBA BEAM INC.",
@@ -1739,35 +1735,27 @@
       },
       {
         "name": "ELLUCIAN",
-        "amount": 30000
-      },
-      {
-        "name": "ESPER INC.",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "FAEGRE DRINKER BIDDLE & REATH, LLC",
-        "amount": 45000
+        "amount": 75000
       },
       {
         "name": "FORTIFI  INC.",
-        "amount": 45000
+        "amount": 67500
       },
       {
         "name": "GROWER-SHIPPER ASSOCIATION OF CENTRAL CALIFORNIA",
-        "amount": 21250
+        "amount": 29750
       },
       {
         "name": "HOPSKIPDRIVE INC.",
-        "amount": 30000
+        "amount": 40000
       },
       {
         "name": "IDEMIA IDENTITY AND SECURITY USA, LLC",
-        "amount": 70000
-      },
-      {
-        "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-        "amount": 48000
+        "amount": 100000
       },
       {
         "name": "KPMG, LLP",
@@ -1775,31 +1763,31 @@
       },
       {
         "name": "MDR PHARMACEUTICAL CARE",
-        "amount": 22000
+        "amount": 33000
       },
       {
         "name": "SABIO ENTERPRISES INC.",
-        "amount": 4000
+        "amount": 8000
       },
       {
         "name": "SEMITROPIC WATER STORAGE DISTRICT",
-        "amount": 81000
+        "amount": 121500
       },
       {
         "name": "SOCURE INC.",
-        "amount": 70000
+        "amount": 100000
       },
       {
         "name": "TATA AMERICA INTERNATIONAL CORPORATION - TCS",
-        "amount": 53900
+        "amount": 69300
       },
       {
         "name": "THE UNIVERSITY OF SOUTHERN CALIFORNIA",
-        "amount": 59500
+        "amount": 85000
       },
       {
         "name": "UNITEK LEARNING, INC.",
-        "amount": 30000
+        "amount": 54000
       },
       {
         "name": "VENDOR DIRECT SOLUTIONS, LLC",
@@ -1820,6 +1808,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 410150
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 365400
       }
     ]
   },
@@ -2000,6 +1993,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 7268
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -2620,47 +2618,47 @@
     "clients": [
       {
         "name": "ANAHEIM TRANSPORTATION NETWORK",
-        "amount": 35000
+        "amount": 45000
       },
       {
         "name": "BRYANT GOVERNMENT AFFAIRS",
-        "amount": 16250
+        "amount": 21250
       },
       {
         "name": "CALIFORNIA CONFERENCE BOARD OF THE AMALGAMATED TRANSIT UNION",
-        "amount": 39122.83
+        "amount": 55289.47
       },
       {
         "name": "CALIFORNIA CONFERENCE OF MACHINISTS",
-        "amount": 27000
+        "amount": 40500
       },
       {
         "name": "CALIFORNIA HARNESS HORSEMEN'S ASSOCIATION",
-        "amount": 6000
+        "amount": 12000
       },
       {
         "name": "CALIFORNIA TEAMSTERS PUBLIC AFFAIRS COUNCIL",
-        "amount": 66200.75
+        "amount": 99002.8
       },
       {
         "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
-        "amount": 42000
+        "amount": 63000
       },
       {
         "name": "ENGINEERS AND SCIENTISTS OF CALIFORNIA, LOCAL 20, IFPTE, AFL-CIO & CLC",
-        "amount": 15120
+        "amount": 24180
       },
       {
         "name": "FRAGRANCE SCIENCE & ADVOCACY COUNCIL",
-        "amount": 48000
+        "amount": 72000
       },
       {
         "name": "GOLDEN BEAR RACING",
-        "amount": 0
+        "amount": 9000
       },
       {
         "name": "JOCKEYS' GUILD, INC.",
-        "amount": 13950
+        "amount": 22300
       },
       {
         "name": "PARADISE IRRIGATION DISTRICT",
@@ -2668,11 +2666,7 @@
       },
       {
         "name": "SAG-AFTRA",
-        "amount": 30000
-      },
-      {
-        "name": "THE BALLOON COUNCIL",
-        "amount": 2100
+        "amount": 45000
       },
       {
         "name": "THE SPORTFISHING CONSERVANCY",
@@ -2680,27 +2674,27 @@
       },
       {
         "name": "TOWN OF PARADISE",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "UNITE HERE INTERNATIONAL UNION, AFL-CIO",
-        "amount": 28800
+        "amount": 43200
       },
       {
         "name": "UNITED ANGLERS",
-        "amount": 6120
+        "amount": 9180
       },
       {
         "name": "UTILITY WORKERS UNION OF AMERICA, LOCAL 132",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "UTILITY WORKERS UNION OF AMERICA, LOCAL 483",
-        "amount": 3000
+        "amount": 4000
       },
       {
         "name": "UTILITY WORKERS UNION OF AMERICA, LOCAL 522",
-        "amount": 3000
+        "amount": 4500
       }
     ],
     "quarters": [
@@ -2713,6 +2707,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 207590.75
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 213838.69
       }
     ]
   },
@@ -8596,6 +8595,28 @@
     ]
   },
   {
+    "id": "1423840",
+    "name": "EVERYDAY IMPACT CONSULTING",
+    "clients": [
+      {
+        "name": "PESTICIDE ACTION NETWORK",
+        "amount": 44440
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 11666
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 6666
+      }
+    ]
+  },
+  {
     "id": "1461292",
     "name": "FALCON STRATEGIES",
     "clients": [
@@ -14145,7 +14166,7 @@
     "clients": [
       {
         "name": "CENTER FOR FOOD SAFETY",
-        "amount": 23000
+        "amount": 33500
       }
     ],
     "quarters": [
@@ -14158,6 +14179,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 14000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 10500
       }
     ]
   },
@@ -19429,6 +19455,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 534
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -19438,7 +19469,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 11946
+        "amount": 17376
       }
     ],
     "quarters": [
@@ -19451,6 +19482,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 8688
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 5430
       }
     ]
   },
@@ -22378,7 +22414,7 @@
     "clients": [
       {
         "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
-        "amount": 105000
+        "amount": 150000
       }
     ],
     "quarters": [
@@ -22389,6 +22425,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 45000
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 45000
       }
