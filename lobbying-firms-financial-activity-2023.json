@@ -552,7 +552,7 @@
     "clients": [
       {
         "name": "ANTIN INFRASTRUCTURE PARTNERS SAS",
-        "amount": 426.95
+        "amount": 457.35
       }
     ],
     "quarters": [
@@ -565,6 +565,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 324.45
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 30.4
       }
     ]
   },
@@ -574,47 +579,47 @@
     "clients": [
       {
         "name": "AERA ENERGY LLC",
-        "amount": 14400
+        "amount": 21600
       },
       {
         "name": "ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
-        "amount": 84000
+        "amount": 126000
       },
       {
         "name": "AMERICAN LEGAL FINANCE ASSOCIATION",
-        "amount": 16333.33
+        "amount": 21333.33
       },
       {
         "name": "AREA Y EL MONTE LLC",
-        "amount": 2500
+        "amount": 10000
       },
       {
         "name": "ARIZONA & CALIFORNIA RAILROAD COMPANY",
-        "amount": 1335
+        "amount": 2336.25
       },
       {
         "name": "ASSOCIATED GENERAL CONTRACTORS OF CALIFORNIA",
-        "amount": 45727.5
+        "amount": 68591.25
       },
       {
         "name": "ASSOCIATED GENERAL CONTRACTORS-SAN DIEGO CHAPTER",
-        "amount": 4000.02
+        "amount": 6000.03
       },
       {
-        "name": "CALIFORNIA NORTHERN RAILROAD",
-        "amount": 2335
+        "name": "CALIFORNIA NORTHERN RAILROAD COMPANY",
+        "amount": 3670
       },
       {
         "name": "CENTRAL OREGON & PACIFIC RAILROAD INC.",
-        "amount": 1335
+        "amount": 2670
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 54000
+        "amount": 81000
       },
       {
         "name": "FUTURE LISTING PURCHASERS ASSOCIATION",
-        "amount": 0
+        "amount": 8749.99
       },
       {
         "name": "GLADFELTY GOVERNMENT RELATIONS",
@@ -625,44 +630,48 @@
         "amount": 33000
       },
       {
+        "name": "LAMPSON PARK PLACE LLC",
+        "amount": 0
+      },
+      {
         "name": "LENNOX INTERNATIONAL INC.",
-        "amount": 3240
+        "amount": 4320
       },
       {
         "name": "MARAVAI LIFESCIENCES",
-        "amount": 30000
+        "amount": 48000
       },
       {
         "name": "MOTION PICTURE ASSOCIATION OF AMERICA (MPAA) & ITS AFFILIATED ENTITYMOTION PICTURE ASSOC. OF AMERICA-CALIFORNIA GROUP",
-        "amount": 75000
+        "amount": 120000
       },
       {
         "name": "NISSAN NORTH AMERICA",
-        "amount": 14625
+        "amount": 21937.5
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 52500
+        "amount": 78750
       },
       {
         "name": "SAN DIEGO & IMPERIAL VALLEY RAILROAD COMPANY INC.",
-        "amount": 3335
+        "amount": 4670
       },
       {
         "name": "SAN JOAQUIN VALLEY RAILROAD COMPANY",
-        "amount": 2335
+        "amount": 3670
       },
       {
         "name": "SCIENTIFIC GAMES LLC",
-        "amount": 15000
-      },
-      {
-        "name": "TTX COMPANY",
         "amount": 27000
       },
       {
+        "name": "TTX COMPANY",
+        "amount": 36000
+      },
+      {
         "name": "VENTURA COUNTY RAILROAD COMPANY",
-        "amount": 1335
+        "amount": 2670
       }
     ],
     "quarters": [
@@ -675,6 +684,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 276587.09
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 248632.5
       }
     ]
   },
@@ -1032,7 +1046,7 @@
     "clients": [
       {
         "name": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA",
-        "amount": 15695.18
+        "amount": 17062.04
       },
       {
         "name": "EMERGENCY MEDICAL SERVICES ADMINISTRATORS ASSOCIATION OF CALIFORNIA (EMSAAC)",
@@ -1049,6 +1063,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 5076.92
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 1366.86
       }
     ]
   },
@@ -8622,7 +8641,7 @@
     "clients": [
       {
         "name": "CARLSBAD JET CENTER",
-        "amount": 8000
+        "amount": 30000
       }
     ],
     "quarters": [
@@ -8630,6 +8649,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 8000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 22000
       }
     ]
   },
@@ -9417,7 +9441,7 @@
     "clients": [
       {
         "name": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
-        "amount": 39359.85
+        "amount": 42510.77
       },
       {
         "name": "EMERGENCY MEDICAL SERVICES ADMINISTRATORS ASSOCIATION OF CALIFORNIA (EMSAAC)",
@@ -9433,7 +9457,12 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 11703.46
+        "amount": 28094.46
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 3150.92
       }
     ]
   },
@@ -18541,7 +18570,7 @@
     "clients": [
       {
         "name": "CLEAR CHANNEL OUTDOOR, LLC",
-        "amount": 30000
+        "amount": 39000
       }
     ],
     "quarters": [
@@ -18554,6 +18583,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 12000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 9000
       }
     ]
   },
@@ -19550,7 +19584,7 @@
       },
       {
         "name": "CALIFORNIA SCHOOL FUNDING COALITION",
-        "amount": 36500
+        "amount": 5000
       },
       {
         "name": "CLOVIS UNIFIED SCHOOL DISTRICT",
@@ -19834,11 +19868,11 @@
       },
       {
         "name": "CALIFORNIA STATE ASSOCIATION OF PSYCHIATRISTS",
-        "amount": 35887.44
+        "amount": 33647.7
       },
       {
         "name": "CALIFORNIA TRANSIT ASSOCIATION",
-        "amount": 546870.58
+        "amount": 540097.04
       },
       {
         "name": "CENTER FOR EMPLOYMENT OPPORTUNITIES, INC.",
@@ -19973,6 +20007,10 @@
         "amount": 70000
       },
       {
+        "name": "RADIUS RECYCLING",
+        "amount": 60000
+      },
+      {
         "name": "SACRAMENTO, COUNTY OF",
         "amount": 19250
       },
@@ -20019,10 +20057,6 @@
       {
         "name": "SANTA MONICA, CITY OF",
         "amount": 35052.72
-      },
-      {
-        "name": "SCHNITZER STEEL INDUSTRIES, INC.",
-        "amount": 60000
       },
       {
         "name": "SEDGWICK CLAIMS MANAGEMENT SERVICES, INC.",
@@ -20122,7 +20156,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 1994992.15
+        "amount": 1985978.87
       }
     ]
   },
@@ -23352,23 +23386,23 @@
     "clients": [
       {
         "name": "3M COMPANY",
-        "amount": 21000
+        "amount": 31500
       },
       {
         "name": "BAMBOO HEALTH",
-        "amount": 32000
+        "amount": 32500
       },
       {
         "name": "BI INCORPORATED, DBA BI CORRECTIONAL SERVICES",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CRIME LABORATORY DIRECTORS",
-        "amount": 9000
+        "amount": 13500
       },
       {
         "name": "CALIFORNIA LAW ENFORCEMENT ASSOCIATION OF RECORDS SUPERVISORS (CLEARS)",
-        "amount": 12500
+        "amount": 20000
       },
       {
         "name": "CALIFORNIA PROBATION, PAROLE AND CORRECTIONAL ASSOCIATION",
@@ -23376,39 +23410,39 @@
       },
       {
         "name": "CALIFORNIA STATE CORONERS' ASSOCIATION",
-        "amount": 4000
+        "amount": 8000
       },
       {
         "name": "CALIFORNIA STATE SHERIFFS' ASSOCIATION",
-        "amount": 135732
+        "amount": 203598
       },
       {
-        "name": "CHIEF PROBATION OFFICERS OF CALIFORNIA (CPOC)",
-        "amount": 111881.6
+        "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
+        "amount": 154676.3
       },
       {
         "name": "EQUIFAX, INC.",
-        "amount": 42000
+        "amount": 56000
       },
       {
         "name": "GEOLINKS",
-        "amount": 54000
+        "amount": 81000
       },
       {
         "name": "LOS ANGELES, COUNTY OF",
-        "amount": 39000
+        "amount": 52000
       },
       {
         "name": "MOTOROLA SOLUTIONS",
-        "amount": 62000
+        "amount": 92000
       },
       {
         "name": "STELLANTIS",
-        "amount": 36000
+        "amount": 54000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 60000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -23421,6 +23455,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 320306.8
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 284660.7
       }
     ]
   },
