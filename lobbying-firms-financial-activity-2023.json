@@ -4011,27 +4011,27 @@
     "clients": [
       {
         "name": "CALIFORNIA AFRICAN AMERICAN CHAMBER OF COMMERCE",
-        "amount": 18000
+        "amount": 40500
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF ORTHODONTISTS",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "CELEBRITY CASINOS",
-        "amount": 9000
+        "amount": 13500
       },
       {
         "name": "CHEVRON U.S.A. INC. AND AFFILIATES",
-        "amount": 15000
+        "amount": 22500
       },
       {
         "name": "GREATER SACRAMENTO URBAN LEAGUE",
-        "amount": 10500
+        "amount": 19500
       },
       {
         "name": "OCEAN'S ELEVEN CASINO",
-        "amount": 5000
+        "amount": 9500
       }
     ],
     "quarters": [
@@ -4044,6 +4044,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 49000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 63000
       }
     ]
   },
@@ -6010,39 +6015,43 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSISTED LIVING ASSOCIATION",
-        "amount": 90630
+        "amount": 135945
       },
       {
         "name": "CAPITOL STRATEGIES GROUP, INC. OBO ABBOTT LABORATORIES, LILLY USA, PHARMACUETICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 38500
+        "amount": 55000
+      },
+      {
+        "name": "CONGREGATE LIVING HEALTH FACILITY ASSOCIATION",
+        "amount": 0
       },
       {
         "name": "CVS HEALTH",
-        "amount": 48332.99
+        "amount": 89999.64
       },
       {
         "name": "MULTIPURPOSE SENIOR SERVICES PROGRAM SITE ASSOCIATION (MSA)",
-        "amount": 44187.5
+        "amount": 63125
       },
       {
         "name": "ON LOK SENIOR HEALTH SERVICES",
-        "amount": 200510
+        "amount": 280850
       },
       {
         "name": "SENIOR CARE ACTION NETWORK (SCAN HEALTH PLAN)",
-        "amount": 101580
+        "amount": 195580
       },
       {
         "name": "SOUTHERN REGIONAL RESOURCE CENTER, INC. DBA SOUTHERN CAREGIVER RESOURCE CENTER",
-        "amount": 16000
+        "amount": 20000
       },
       {
         "name": "UNIVERSAL HEALTH SERVICES",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "WESTERN PACIFIC MED GROUP",
-        "amount": 42000
+        "amount": 63000
       }
     ],
     "quarters": [
@@ -6055,6 +6064,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 298589.16
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 366759.15
       }
     ]
   },
@@ -6142,15 +6156,15 @@
     "clients": [
       {
         "name": "ABBOTT LABORATORIES",
-        "amount": 48000
+        "amount": 72000
       },
       {
         "name": "AMERICAN COUNCIL OF LIFE INSURERS",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "BECHTEL CORPORATION",
-        "amount": 20000
+        "amount": 35000
       },
       {
         "name": "BORING COMPANY, THE",
@@ -6158,27 +6172,27 @@
       },
       {
         "name": "CALIFORNIA BEER AND BEVERAGE DISTRIBUTORS",
-        "amount": 48000
+        "amount": 72000
       },
       {
         "name": "CALIFORNIA COMMERCE CLUB",
-        "amount": 91307.97
+        "amount": 131252.31
       },
       {
         "name": "CALIFORNIA DISTRIBUTORS ASSOCIATION",
-        "amount": 73000
+        "amount": 104500
       },
       {
         "name": "CALIFORNIA HOSPITAL ASSOCIATION/CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS",
-        "amount": 105000
+        "amount": 135000
       },
       {
         "name": "CGI TECHNOLOGIES AND SOLUTIONS, INC.",
-        "amount": 63000
+        "amount": 81000
       },
       {
         "name": "CLEAR CHANNEL OUTDOOR, LLC",
-        "amount": 18000
+        "amount": 27000
       },
       {
         "name": "EQUITABLE FINANCIAL LIFE INSURANCE COMPANY",
@@ -6186,7 +6200,7 @@
       },
       {
         "name": "GENERAL OUTDOOR ADVERTISING",
-        "amount": 5950
+        "amount": 8500
       },
       {
         "name": "INSTRUCTURE",
@@ -6194,63 +6208,59 @@
       },
       {
         "name": "INSURANCE AUTO AUCTIONS, INC.",
-        "amount": 30000
-      },
-      {
-        "name": "KEENAN AND ASSOCIATES",
-        "amount": 54000
-      },
-      {
-        "name": "LILLY USA",
-        "amount": 62500.02
-      },
-      {
-        "name": "LUXOTTICA OF AMERICA INC.",
         "amount": 45000
       },
       {
+        "name": "KEENAN AND ASSOCIATES",
+        "amount": 72000
+      },
+      {
+        "name": "LILLY USA",
+        "amount": 93750.03
+      },
+      {
+        "name": "LUXOTTICA OF AMERICA INC.",
+        "amount": 99000
+      },
+      {
         "name": "NETJETS INC. AND ITS SUBSIDIARIES",
-        "amount": 25500
+        "amount": 42500
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 39583.3
+        "amount": 63333.28
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 75000
+        "amount": 99000
       },
       {
         "name": "SPACE EXPLORATION TECHNOLOGIES CORP. (SPACEX)",
-        "amount": 60000
+        "amount": 72000
       },
       {
         "name": "T-MOBILE USA, INC.",
-        "amount": 46800
+        "amount": 70200
       },
       {
         "name": "UNITED HOSPITAL ASSOCIATION",
         "amount": 515.96
       },
       {
-        "name": "UNITED OUTDOOR ADVERTISING",
-        "amount": 2700
-      },
-      {
         "name": "UNITED WHOLESALE MORTGAGE, LLC",
-        "amount": 45500
+        "amount": 65000
       },
       {
         "name": "VEALE OUTDOOR ADVERTISING",
-        "amount": 5100
+        "amount": 7650
       },
       {
         "name": "WASTE CONNECTIONS US, INC.",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "WESTERN FREEDOM ENERGY ACTION",
-        "amount": 60129.8
+        "amount": 70129.8
       }
     ],
     "quarters": [
@@ -6263,6 +6273,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 606437.06
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 477444.33
       }
     ]
   },
@@ -6716,63 +6731,63 @@
     "clients": [
       {
         "name": "ADVOCACY AND MANAGEMENT GROUP INC (ON BEHALF OF CALIFORNIA ASSOCIATION OF MEDICAL PRODUCT SUPPLIERS)",
-        "amount": 20000
+        "amount": 22000
       },
       {
         "name": "ALLEGIS, REDWOOD, MAXIM PUBLIC AFFAIRS, LLC",
-        "amount": 25000
+        "amount": 40000
       },
       {
         "name": "ASSOCIATED CALIFORNIA SELF INSURED BUSINESSES",
-        "amount": 70000
+        "amount": 90000
       },
       {
         "name": "ASSOCIATION FOR ACCESSIBLE MEDICINES",
-        "amount": 45000
+        "amount": 67500
       },
       {
         "name": "CALIFORNIA ASSISTED LIVING ASSOCIATION",
-        "amount": 25000
+        "amount": 35000
       },
       {
         "name": "CALIFORNIA BROADCASTERS ASSOCIATION",
-        "amount": 10000
-      },
-      {
-        "name": "CALIFORNIA HOSPICE & PALLIATIVE CARE ASSOCIATION",
-        "amount": 39997.98
-      },
-      {
-        "name": "CALIFORNIA SOCIETY OF ALLERGY, ASTHMA AND IMMUNOLOGY (CSAAI)",
-        "amount": 3750
-      },
-      {
-        "name": "MAXIM HEALTHCARE SERVICES, INC.",
-        "amount": 30000
-      },
-      {
-        "name": "NATIONAL CONFECTIONERS ASSOCIATION",
-        "amount": 17500
-      },
-      {
-        "name": "PEDIATRIC DAY HEALTH CARE COALITION",
-        "amount": 39000
-      },
-      {
-        "name": "PET INDUSTRY JOINT ADVISORY COUNCIL (PIJAC)",
         "amount": 12000
       },
       {
+        "name": "CALIFORNIA HOSPICE & PALLIATIVE CARE ASSOCIATION",
+        "amount": 59997.98
+      },
+      {
+        "name": "CALIFORNIA SOCIETY OF ALLERGY, ASTHMA AND IMMUNOLOGY (CSAAI)",
+        "amount": 7500
+      },
+      {
+        "name": "MAXIM HEALTHCARE SERVICES, INC.",
+        "amount": 40000
+      },
+      {
+        "name": "NATIONAL CONFECTIONERS ASSOCIATION",
+        "amount": 22500
+      },
+      {
+        "name": "PEDIATRIC DAY HEALTH CARE COALITION",
+        "amount": 58500
+      },
+      {
+        "name": "PET INDUSTRY JOINT ADVISORY COUNCIL (PIJAC)",
+        "amount": 16000
+      },
+      {
         "name": "POLARIS PHARMACY SERVICES",
-        "amount": 6000
+        "amount": 30000
       },
       {
         "name": "SANOFI US",
-        "amount": 39997.97
+        "amount": 59995.99
       },
       {
         "name": "U.S. RENAL CARE",
-        "amount": 75965.68
+        "amount": 120965.68
       }
     ],
     "quarters": [
@@ -6785,6 +6800,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 262496
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 222748.02
       }
     ]
   },
@@ -7799,7 +7819,7 @@
     "clients": [
       {
         "name": "JEWISH VOCATIONAL & CAREER COUNSELING SERVICE",
-        "amount": 12000
+        "amount": 19200
       }
     ],
     "quarters": [
@@ -7810,6 +7830,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 7200
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 7200
       }
@@ -7991,11 +8016,11 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF ENVIRONMENTAL HEALTH ADMINISTRATORS (CAEHA)",
-        "amount": 44202
+        "amount": 66303
       },
       {
         "name": "HEAL THE BAY",
-        "amount": 4000
+        "amount": 7000
       }
     ],
     "quarters": [
@@ -8006,6 +8031,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 25101
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 25101
       }
@@ -9163,23 +9193,23 @@
     "clients": [
       {
         "name": "CONTINENTAL CASUALTY COMPANY (CNA INSURANCE COMPANIES)",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "IMAGINE LEARNING",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "LENDMARK FINANCIAL SERVICES",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "LES SCHWAB WAREHOUSES, INC.",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "SOUTHERN GLAZER'S WINE & SPIRITS, LLC",
-        "amount": 30234.9
+        "amount": 40313.2
       },
       {
         "name": "WEST COAST CHAPTER - INSTITUTE OF SCRAP RECYCLING INDUSTRIES, AKA CA-ISRI",
@@ -9187,7 +9217,7 @@
       },
       {
         "name": "WINE & SPIRITS WHOLESALERS OF CALIFORNIA",
-        "amount": 36000
+        "amount": 48000
       }
     ],
     "quarters": [
@@ -9200,6 +9230,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 202617.45
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 100078.3
       }
     ]
   },
@@ -9417,15 +9452,15 @@
     "clients": [
       {
         "name": "ANIMAL PHYSICAL THERAPY COALITION",
-        "amount": 27000
+        "amount": 38000
       },
       {
         "name": "ASSOCIATION OF ENVIRONMENTAL AND ENGINEERING GEOLOGISTS",
-        "amount": 5370
+        "amount": 8680
       },
       {
         "name": "CALIFORNIA ASSOCIATION FOR LICENSED PROFESSIONAL CLINICAL COUNSELORS",
-        "amount": 12750
+        "amount": 16750
       },
       {
         "name": "CALIFORNIA NEURODIAGNOSTIC SOCIETY",
@@ -9433,7 +9468,7 @@
       },
       {
         "name": "LOS ANGELES AND NORCAL CHAPTERS OF THE AMERICAN SOCIETY OF APPRAISERS",
-        "amount": 10000
+        "amount": 12625
       }
     ],
     "quarters": [
@@ -9446,6 +9481,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 30435
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 20935
       }
     ]
   },
@@ -12302,6 +12342,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -13419,11 +13464,11 @@
     "clients": [
       {
         "name": "CALIFORNIA INDEPENDENT TELECOMMUNICATIONS COMPANIES",
-        "amount": 57600
+        "amount": 86400
       },
       {
         "name": "CONSOLIDATED COMMUNICATIONS (CCI)",
-        "amount": 41800
+        "amount": 62800
       }
     ],
     "quarters": [
@@ -13434,6 +13479,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 49800
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 49800
       }
@@ -13636,7 +13686,7 @@
       },
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 12000
+        "amount": 30000
       }
     ],
     "quarters": [
@@ -13644,6 +13694,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 17000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 23000
       }
     ]
   },
@@ -13884,7 +13939,7 @@
       },
       {
         "name": "COUNTY OF SANTA CLARA",
-        "amount": 325500
+        "amount": 347500
       },
       {
         "name": "TARZANA TREATMENT CENTERS",
@@ -13901,6 +13956,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 45000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 35500
       }
     ]
   },
@@ -16500,12 +16560,20 @@
         "amount": 15000
       },
       {
+        "name": "PLATINUM ADVISORS LLC",
+        "amount": 0
+      },
+      {
         "name": "SALINAS VALLEY BASIN GROUNDWATER SUSTAINABILITY AGENCY",
         "amount": 15000
       },
       {
         "name": "SANTA CLARA VALLEY OPEN SPACE AUTHORITY",
         "amount": 36000
+      },
+      {
+        "name": "SANTA CRUZ WATER DEPARTMENT; CITY OF",
+        "amount": 0
       },
       {
         "name": "SONOMA COUNTY WATER AGENCY",
@@ -18572,7 +18640,7 @@
     "clients": [
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC",
-        "amount": 113294.48
+        "amount": 151809.38
       }
     ],
     "quarters": [
@@ -18585,6 +18653,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 47531.45
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 38514.9
       }
     ]
   },
@@ -22932,7 +23005,7 @@
     "clients": [
       {
         "name": "CONTRA COSTA COUNTY",
-        "amount": 28000
+        "amount": 24000
       },
       {
         "name": "CONTRA COSTA TRANSPORTATION AUTHORITY",
@@ -22980,7 +23053,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 144180
+        "amount": 140180
       }
     ]
   },
