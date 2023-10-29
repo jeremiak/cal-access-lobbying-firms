@@ -1302,19 +1302,19 @@
     "clients": [
       {
         "name": "CALIFORNIA WASTE HAULERS COUNCIL",
-        "amount": 67860
+        "amount": 101790
       },
       {
         "name": "INLAND EMPIRE DISPOSAL ASSOCIATION",
-        "amount": 7200
+        "amount": 10800
       },
       {
         "name": "LOS ANGELES COUNTY WASTE MANAGEMENT ASSOCIATION",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "SOLID WASTE ASSOCIATION OF ORANGE COUNTY",
-        "amount": 3000
+        "amount": 4500
       }
     ],
     "quarters": [
@@ -1325,6 +1325,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 42030
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 42030
       }
@@ -4038,11 +4043,11 @@
     "clients": [
       {
         "name": "DISABILITY VOICES UNITED",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "PARTNERS IN CARE FOUNDATION",
-        "amount": 6000
+        "amount": 9000
       }
     ],
     "quarters": [
@@ -4053,6 +4058,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 6000
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 6000
       }
@@ -6374,7 +6384,7 @@
     "clients": [
       {
         "name": "BNSF RAILWAY COMPANY",
-        "amount": 52920
+        "amount": 79380
       }
     ],
     "quarters": [
@@ -6385,6 +6395,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 26460
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 26460
       }
@@ -10805,7 +10820,7 @@
     "clients": [
       {
         "name": "INVITAE",
-        "amount": 52000
+        "amount": 68000
       }
     ],
     "quarters": [
@@ -10818,6 +10833,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 17000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 16000
       }
     ]
   },
@@ -16550,19 +16570,19 @@
     "clients": [
       {
         "name": "BARONA BAND OF MISSION INDIANS",
-        "amount": 40539.9
+        "amount": 62387.31
       },
       {
         "name": "EAST VALLEY WATER DISTRICT",
-        "amount": 23625
+        "amount": 33075
       },
       {
         "name": "IRVINE RANCH WATER DISTRICT",
-        "amount": 44450
+        "amount": 50250
       },
       {
         "name": "YUBA COUNTY WATER AGENCY",
-        "amount": 70000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -16575,6 +16595,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 76850
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 57097.41
       }
     ]
   },
@@ -17913,67 +17938,67 @@
     "clients": [
       {
         "name": "AEVEX AEROSPACE",
-        "amount": 40000
+        "amount": 70000
       },
       {
         "name": "AFLAC",
-        "amount": 22166.62
+        "amount": 31666.6
       },
       {
         "name": "AMERICAN CHEMISTRY COUNCIL",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "AMERICAN RESORT DEVELOPMENT ASSOCIATION",
-        "amount": 42000
+        "amount": 63000
       },
       {
         "name": "AMERICAN SHARE INSURANCE",
-        "amount": 7500
+        "amount": 10500
       },
       {
         "name": "ASIAN AMERICANS ADVANCING JUSTICE - ASIAN LAW CAUCUS",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "BRIGHT CANYON ENERGY",
-        "amount": 16800
+        "amount": 25200
       },
       {
         "name": "CALIFORNIA ASSOCIATION FOR MEDICAL LABORATORY TECHNOLOGY",
-        "amount": 12044.9
+        "amount": 19669.9
       },
       {
         "name": "CALIFORNIA BIOMASS ENERGY ALLIANCE",
-        "amount": 69150
+        "amount": 103800
       },
       {
         "name": "CALIFORNIA ELECTRIC TRANSPORTATION COALITION",
-        "amount": 66211.96
+        "amount": 98711.96
       },
       {
         "name": "CALIFORNIA FAIR PLAN ASSOCIATION",
-        "amount": 106008.62
+        "amount": 158508.62
       },
       {
         "name": "CALIFORNIA FIRE CHIEFS ASSOCIATION",
-        "amount": 22179.73
+        "amount": 38846.41
       },
       {
         "name": "CALIFORNIA HOTEL & LODGING ASSOCIATION",
-        "amount": 83553.97
+        "amount": 104803.97
       },
       {
         "name": "CALIFORNIA INSURANCE GUARANTEE ASSOCIATION",
-        "amount": 27083.35
+        "amount": 43333.36
       },
       {
         "name": "CALIFORNIA LARGE ENERGY CONSUMERS ASSOCIATION",
-        "amount": 57130
+        "amount": 85695
       },
       {
         "name": "CALIFORNIA STEEL INDUSTRIES, INC.",
-        "amount": 31425.53
+        "amount": 41425.53
       },
       {
         "name": "CAPSTONE GREEN ENERGY CORPORATION",
@@ -17981,31 +18006,31 @@
       },
       {
         "name": "CONTRA COSTA WATER DISTRICT",
-        "amount": 55795
+        "amount": 89954
       },
       {
         "name": "ENVIRONMENTAL AND ENERGY CONSULTING OBO MIDPENINSULA REGIONAL OPEN SPACE DISTRICT",
-        "amount": 8075
+        "amount": 14535
       },
       {
         "name": "FINSECA",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "FIRE DISTRICTS ASSOCIATION OF CALIFORNIA",
-        "amount": 25305.72
+        "amount": 37805.73
       },
       {
         "name": "GENASYS INC.",
-        "amount": 25000
+        "amount": 45000
       },
       {
         "name": "GOVERNMENT EMPLOYEES INSURANCE COMPANY",
-        "amount": 42500
+        "amount": 73000
       },
       {
         "name": "META PLATFORMS, INC.",
-        "amount": 120000
+        "amount": 196336
       },
       {
         "name": "MIDPENINSULA REGIONAL OPEN SPACE DISTRICT",
@@ -18013,31 +18038,31 @@
       },
       {
         "name": "NATIONAL ASSOCIATION OF PROFESSIONAL EMPLOYER ORGANIZATIONS",
-        "amount": 25500
+        "amount": 38250
       },
       {
         "name": "R.L. POLK & COMPANY",
-        "amount": 7500
+        "amount": 11250
       },
       {
         "name": "SANTA BARBARA SAN LUIS OBISPO REGIONAL HEALTH AUTHORITY; DBA CENCAL HEALTH",
-        "amount": 37500
+        "amount": 50000
       },
       {
         "name": "SOUTHERN COMPANY GAS",
-        "amount": 36000
+        "amount": 60000
       },
       {
         "name": "SOUTHWEST AIRLINES",
-        "amount": 37329.51
+        "amount": 55329.51
       },
       {
         "name": "VISTRA CORPORATE SERVICES COMPANY",
-        "amount": 40000
+        "amount": 70000
       },
       {
         "name": "VOYA SERVICES COMPANY",
-        "amount": 18000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -18050,6 +18075,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 549866.35
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 641861.68
       }
     ]
   },
@@ -21584,7 +21614,7 @@
     "clients": [
       {
         "name": "VERRA MOBILITY CORPORATION AND ITS AFFILIATES",
-        "amount": 20008.39
+        "amount": 33891.72
       }
     ],
     "quarters": [
@@ -21592,6 +21622,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 20008.39
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 13883.33
       }
     ]
   },
@@ -23845,7 +23880,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 45000
+        "amount": 67500
       }
     ],
     "quarters": [
@@ -23856,6 +23891,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 22500
+      },
+      {
+        "quarter": "3",
         "session": "2023",
         "amount": 22500
       }
@@ -24050,11 +24090,11 @@
     "clients": [
       {
         "name": "CALIFORNIA MUSIC EDUCATORS ASSOCIATION (CMEA)",
-        "amount": 3850
+        "amount": 7000
       },
       {
         "name": "DELTA KAPPA GAMMA CALIFORNIA",
-        "amount": 11094.66
+        "amount": 16738.62
       }
     ],
     "quarters": [
@@ -24067,6 +24107,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 8447.33
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 8793.49
       }
     ]
   }
