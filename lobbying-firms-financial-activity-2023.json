@@ -6044,19 +6044,19 @@
       },
       {
         "name": "CALIFORNIA IATSE COUNCIL",
-        "amount": 5000
+        "amount": 9000
       },
       {
         "name": "GEP ADMINISTRATIVE SERVICES, LLC (DBA ENTERTAINMENT PARTNERS)",
-        "amount": 25000
+        "amount": 45000
       },
       {
         "name": "INSPERITY SERVICES, L.P.",
-        "amount": 36182.5
+        "amount": 65182.5
       },
       {
         "name": "MOTION PICTURE ASSOCIATION, INC.",
-        "amount": 50000
+        "amount": 80000
       }
     ],
     "quarters": [
@@ -6069,6 +6069,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 62500
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 83000
       }
     ]
   },
@@ -12130,11 +12135,7 @@
     "clients": [
       {
         "name": "AMERICAN ASSOCIATION OF PAYERS, ADMINISTRATORS & NETWORKS (AAPAN)",
-        "amount": 30000
-      },
-      {
-        "name": "ASCELLUS HEALTH, INC.",
-        "amount": 25000
+        "amount": 34000
       },
       {
         "name": "ASSOCIATION OF WORKERS' COMPENSATION PROFESSIONALS",
@@ -12142,19 +12143,19 @@
       },
       {
         "name": "CALIFORNIA METALS COALITION",
-        "amount": 3792
+        "amount": 5592
       },
       {
         "name": "COALITION OF PROFESSIONAL PHOTOCOPIERS",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "ELEVANCE HEALTH,INC. AND ITS AFFILIATED COMPANIES",
-        "amount": 49999.98
+        "amount": 74999.97
       },
       {
         "name": "MEDEX HEALTH CARE, INC.",
-        "amount": 6000
+        "amount": 10000
       },
       {
         "name": "NATIONAL ASSOCIATION OF WOMEN BUSINESS OWNERS - CALIFORNIA",
@@ -12166,11 +12167,7 @@
       },
       {
         "name": "ONE CALL",
-        "amount": 30000
-      },
-      {
-        "name": "OPYN MARKET - TRANSPARENT HEALTH MARKETPLACE, COMPANY",
-        "amount": 18000
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -12183,6 +12180,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 78991.99
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 61799.99
       }
     ]
   },
@@ -12219,19 +12221,19 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION FOR ADULT DAY SERVICES (CAADS)",
-        "amount": 39000
+        "amount": 58500
       },
       {
         "name": "CALIFORNIA DOMESTIC WORKERS COALITION (CDWC)",
-        "amount": 25000
+        "amount": 40000
       },
       {
         "name": "ECONOMIC SECURITY PROJECT ACTION",
-        "amount": 25300
+        "amount": 39700
       },
       {
         "name": "UNITED DOMESTIC WORKERS OF AMERICA/AFSCME, AFL-CIO",
-        "amount": 54516
+        "amount": 74516
       }
     ],
     "quarters": [
@@ -12244,6 +12246,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 88900
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 68900
       }
     ]
   },
@@ -14276,11 +14283,15 @@
     "clients": [
       {
         "name": "BARNETT SOOUTHERN",
-        "amount": 32000
+        "amount": 56000
+      },
+      {
+        "name": "CIGNA CORPORATE SERVICES AND ITS AFFILIATES",
+        "amount": 0
       },
       {
         "name": "KERECIS, LLC",
-        "amount": 37500
+        "amount": 62500
       }
     ],
     "quarters": [
@@ -14293,6 +14304,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 61500
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 49000
       }
     ]
   },
@@ -15030,23 +15046,23 @@
     "clients": [
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 45819.95
+        "amount": 68319.95
       },
       {
         "name": "DART CONTAINER CORPORATION",
-        "amount": 25000
+        "amount": 45000
       },
       {
         "name": "IRVINE RANCH WATER DISTRICT",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "THE GUALCO GROUP, INC. ON BEHALF OF THE CALIFORNIA COUNCIL FOR ENVIRONMENTAL AND ECONOMIC BALANCE",
-        "amount": 1000
+        "amount": 4291.13
       },
       {
         "name": "THE GUALCO GROUP, INC. ON BEHALF OF THE SANTA CRUZ COUNTY FLOOD CONTROL AND WATER CONSERVATION DISTRICT - ZONE 7",
-        "amount": 15000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -15059,6 +15075,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 68319.95
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 69791.13
       }
     ]
   },
@@ -16055,71 +16076,71 @@
     "clients": [
       {
         "name": "ADP TOTALSOURCE",
-        "amount": 36029.65
+        "amount": 54253.85
       },
       {
         "name": "ADTALEM GLOBAL EDUCATION",
-        "amount": 30000
+        "amount": 42000
       },
       {
         "name": "ALMOND ALLIANCE OF CALIFORNIA",
-        "amount": 23116.96
+        "amount": 38116.96
       },
       {
         "name": "AMERICAN FIDELITY CORPORATION",
-        "amount": 49980
+        "amount": 74970
       },
       {
         "name": "BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.",
-        "amount": 24000
+        "amount": 32000
       },
       {
         "name": "BRYANT GOVERNMENT AFFAIRS OBO SAFARI WEST",
-        "amount": 6500
+        "amount": 13000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF SMALL EMPLOYER HEALTH PLANS",
-        "amount": 41760.66
+        "amount": 70093.98
       },
       {
         "name": "CALIFORNIA INSURANCE GUARANTEE ASSOCIATION",
-        "amount": 37500
+        "amount": 56250
       },
       {
         "name": "CALIFORNIA INSURANCE WHOLESALERS ASSOCIATION",
-        "amount": 24000
-      },
-      {
-        "name": "CALIFORNIA POOL & SPA ASSOCIATION",
-        "amount": 101108.3
-      },
-      {
-        "name": "CHURCHILL DOWNS INCORPORATED",
-        "amount": 25000
-      },
-      {
-        "name": "CONSUMER CREDIT INDUSTRY ASSOCIATION",
-        "amount": 37500
-      },
-      {
-        "name": "DEVRY UNIVERSITY, INC.",
         "amount": 36000
       },
       {
+        "name": "CALIFORNIA POOL & SPA ASSOCIATION",
+        "amount": 151108.31
+      },
+      {
+        "name": "CHURCHILL DOWNS INCORPORATED",
+        "amount": 50000
+      },
+      {
+        "name": "CONSUMER CREDIT INDUSTRY ASSOCIATION",
+        "amount": 60000
+      },
+      {
+        "name": "DEVRY UNIVERSITY, INC.",
+        "amount": 48000
+      },
+      {
         "name": "FLAVORX",
-        "amount": 0
+        "amount": 30000
       },
       {
         "name": "INDEPENDENT INSURANCE AGENTS AND BROKERS OF CALIFORNIA, INC.",
-        "amount": 125863.81
+        "amount": 188363.8
       },
       {
         "name": "LIBERTY MUTUAL GROUP, INC.",
-        "amount": 40000
+        "amount": 80000
       },
       {
         "name": "MASTERCARD INTERNATONAL, INC.",
-        "amount": 22983.33
+        "amount": 44526.87
       },
       {
         "name": "PACIFIC LIFE INSURANCE COMPANY",
@@ -16127,15 +16148,15 @@
       },
       {
         "name": "SURPLUS LINE ASSOCIATION OF CALIFORNIA, THE, THE",
-        "amount": 20000
+        "amount": 40000
       },
       {
         "name": "SWEDISH MATCH NORTH AMERICA, LLC",
-        "amount": 50000
+        "amount": 75000
       },
       {
         "name": "ZENITH INSURANCE COMPANY",
-        "amount": 90784.58
+        "amount": 135784.58
       }
     ],
     "quarters": [
@@ -16148,6 +16169,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 452548.28
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 497341.06
       }
     ]
   },
@@ -21956,55 +21982,55 @@
     "clients": [
       {
         "name": "AIRLINES FOR AMERICA (A4A)",
-        "amount": 54000
+        "amount": 81000
       },
       {
         "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "amount": 50000
+        "amount": 80000
       },
       {
         "name": "CALIFORNIA APPLICANTS' ATTORNEYS ASSOCIATION",
-        "amount": 61240.31
+        "amount": 91716.97
       },
       {
         "name": "CALIFORNIA PAWNBROKERS ASSOCIATION 'CAPA'",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "ESO VENTURES INC.",
-        "amount": 30000
+        "amount": 40000
       },
       {
         "name": "FOX CORPORATION",
-        "amount": 20000
-      },
-      {
-        "name": "KINDRED HEALTHCARE LLC",
         "amount": 70000
       },
       {
+        "name": "KINDRED HEALTHCARE LLC",
+        "amount": 90000
+      },
+      {
         "name": "SAN DIEGO & IMPERIAL COUNTIES CANNABIS INDUSTRY LABOR MANAGEMENT",
-        "amount": 52000
+        "amount": 88000
       },
       {
         "name": "STATE COALITION OF PROBATION ORGANIZATIONS",
-        "amount": 39000
+        "amount": 58819.17
       },
       {
         "name": "STRAIGHT SMILE, LLC",
-        "amount": 48000
+        "amount": 72000
       },
       {
         "name": "SUNRUN INC.",
-        "amount": 52000
+        "amount": 97000
       },
       {
         "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
-        "amount": 54000
+        "amount": 81000
       },
       {
         "name": "UNITED HEALTHCARE SERVICES, INC.",
-        "amount": 45000
+        "amount": 67500
       }
     ],
     "quarters": [
@@ -22017,6 +22043,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 328508.26
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 371795.83
       }
     ]
   },
