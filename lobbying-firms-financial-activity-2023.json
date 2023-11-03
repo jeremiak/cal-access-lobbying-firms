@@ -20571,11 +20571,11 @@
     "clients": [
       {
         "name": "3344 MEDFOR XC LLC",
-        "amount": 105000
+        "amount": 15000
       },
       {
         "name": "AGUA CALIENTE BAND OF CAHUILLA INDIANS",
-        "amount": 178229.71
+        "amount": 92829.71
       },
       {
         "name": "ALTUS SCHOOLS & ALL AFFILIATED SUBSIDIARIES",
@@ -20583,7 +20583,7 @@
       },
       {
         "name": "APPLIED MATERIALS INC",
-        "amount": 100000
+        "amount": 180000
       },
       {
         "name": "ASSOCIATED STUDENTS UCLA",
@@ -20591,7 +20591,7 @@
       },
       {
         "name": "CA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 15000
+        "amount": 35000
       },
       {
         "name": "CALIFORNIA ACADEMY OF AUDIOLOGY",
@@ -20599,67 +20599,67 @@
       },
       {
         "name": "CALIFORNIA COMMUNITY FOUNDATION",
-        "amount": 66000
+        "amount": 114000
       },
       {
         "name": "CALIFORNIA DISPUTE RESOLUTION COUNCIL (CDRC)",
-        "amount": 5000
+        "amount": 9000
       },
       {
         "name": "CALIFORNIA ENERGY STORAGE ALLIANCE",
-        "amount": 58740
+        "amount": 78240
       },
       {
         "name": "CALIFORNIA ONLINE COMMUNITY COLLEGE DISTRICT",
-        "amount": 25000
+        "amount": 69000
       },
       {
         "name": "CALIFORNIA OPIOID MAINTENANCE PROVICERS (COMP)",
-        "amount": 40240
+        "amount": 72240
       },
       {
         "name": "CALIFORNIA PUBLIC DEFENDERS ASSOCIATION",
-        "amount": 45000
+        "amount": 67500
       },
       {
         "name": "CALIFORNIA YIMBY",
-        "amount": 70000
+        "amount": 90000
       },
       {
         "name": "CEDARWOOD-YOUNG COMPANY DBA ALLAN COMPANY",
-        "amount": 51240
+        "amount": 76740
       },
       {
         "name": "CHAFFEY COMMUNITY COLLEGE DISTRICT",
-        "amount": 24000
+        "amount": 72000
       },
       {
         "name": "EMERGENCY SHELTER COALITION",
-        "amount": 40000
+        "amount": 30000
       },
       {
         "name": "ENTERPRISE COMMUNITY PARTNERS INC.",
-        "amount": 0
+        "amount": 45000
       },
       {
         "name": "FIVE KEYS",
-        "amount": 70000
+        "amount": 110000
       },
       {
         "name": "FUTURES WITHOUT VIOLENCE",
-        "amount": 70000
+        "amount": 80240
       },
       {
         "name": "GRIFFIN STEVENS & LEE CONSULTING LLC",
-        "amount": 35240
+        "amount": 50240
       },
       {
         "name": "INNOVAGE",
-        "amount": 52500
+        "amount": 67500
       },
       {
         "name": "INVENERGY LLC",
-        "amount": 12000
+        "amount": 48000
       },
       {
         "name": "JIM BEAM BRANDS CO.",
@@ -20667,11 +20667,11 @@
       },
       {
         "name": "KINDERCARE EDUCATION",
-        "amount": 42240
+        "amount": 54240
       },
       {
         "name": "LAKE TAHOE COMMUNITY COLLEGE",
-        "amount": 48000
+        "amount": 64000
       },
       {
         "name": "LENOVO (UNITED STATES) INC.",
@@ -20683,7 +20683,7 @@
       },
       {
         "name": "OFFERPAD SOLUTIONS INC.",
-        "amount": 45000
+        "amount": 75000
       },
       {
         "name": "SHANGRI-LA INDUSTRIES",
@@ -20691,39 +20691,39 @@
       },
       {
         "name": "SILICON VALLEY COMMUNITY FOUNDATION",
-        "amount": 17000
+        "amount": 85000
       },
       {
         "name": "STERICYCLE INC.",
-        "amount": 48000
+        "amount": 10800
       },
       {
         "name": "SV@HOME ACTION FUND",
-        "amount": 12000
+        "amount": 21240
       },
       {
         "name": "SYLMAR STUDIOS LLC",
-        "amount": 75000
+        "amount": 142240
       },
       {
         "name": "THOMAS LAW GROUP ON BEHALF OF HRP PITTSBURG LLC A DELAWARE LIMITED LIABILITY COMPANY",
-        "amount": 45000
+        "amount": 95000
       },
       {
         "name": "TOWNSEND PUBLIC AFFAIRS INC. ON BEHALF OF ALL HOMES A PROJECT OF TIDES CENTER",
-        "amount": 14000
+        "amount": 16000
       },
       {
         "name": "UNIVERSAL HYDROGEN",
-        "amount": 30000
+        "amount": 55000
       },
       {
         "name": "WESTERN UNION",
-        "amount": 63200
+        "amount": 89200
       },
       {
         "name": "YWCA OF THE HARBOR AREA VILLAGE LLC",
-        "amount": 0
+        "amount": 10000
       }
     ],
     "quarters": [
@@ -20736,6 +20736,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 903615.69
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 1112960
       }
     ]
   },
