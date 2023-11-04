@@ -9726,7 +9726,7 @@
       },
       {
         "name": "TEJON RANCHCORP",
-        "amount": 37500
+        "amount": 18750
       }
     ],
     "quarters": [
@@ -9738,12 +9738,12 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 67500
+        "amount": 60000
       },
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 75000
+        "amount": 63750
       }
     ]
   },
