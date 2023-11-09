@@ -10374,6 +10374,10 @@
         "amount": 28428.66
       },
       {
+        "name": "CITY OF EL CENTRO",
+        "amount": 0
+      },
+      {
         "name": "CITY OF EL SEGUNDO",
         "amount": 16000
       },
@@ -10572,6 +10576,10 @@
       {
         "name": "TORRANCE, CITY OF",
         "amount": 40500
+      },
+      {
+        "name": "TOWN OF ATHERTON",
+        "amount": 0
       },
       {
         "name": "TOWN OF LOS ALTOS HILLS",
@@ -11172,11 +11180,11 @@
       },
       {
         "name": "KINGS RIVER CONSERVATION DISTRICT",
-        "amount": 50958.58
+        "amount": 59958.58
       },
       {
         "name": "KINGS RIVER WATER ASSOCIATION",
-        "amount": 55458.57
+        "amount": 46458.57
       },
       {
         "name": "LINDE, INC.",
