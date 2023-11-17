@@ -8197,6 +8197,12 @@
     ]
   },
   {
+    "id": "1463989",
+    "name": "DEVEAU BURR GROUP, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1305400",
     "name": "DEWEY SQUARE GROUP",
     "clients": [
@@ -21795,10 +21801,67 @@
     ]
   },
   {
-    "id": "1414614",
+    "id": "1400817",
     "name": "SIVERLING ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS",
+        "amount": 82015.51
+      },
+      {
+        "name": "CALIFORNIA AGRICULTURAL COMMISSIONERS & SEALERS ASSOCIATION",
+        "amount": 51212.56
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF CLERKS AND ELECTION OFFICIALS",
+        "amount": 18000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF LEGAL DOCUMENT ASSISTANTS",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF PROFESSIONAL EMPLOYEES",
+        "amount": 18000
+      },
+      {
+        "name": "CALIFORNIA PARKING AND MOBILITY ASSOCIATION",
+        "amount": 24750
+      },
+      {
+        "name": "CALIFORNIA PEACE OFFICERS' ASSOCIATION",
+        "amount": 71251.53
+      },
+      {
+        "name": "LOS ANGELES COUNTY PROBATION OFFICERS' UNION, AFSCME LOCAL 685",
+        "amount": 54000
+      },
+      {
+        "name": "MOUNTAIN RECREATION & CONSERVATION AUTHORITY",
+        "amount": 45000
+      },
+      {
+        "name": "STATE ASSOCIATION OF COUNTY AUDITORS",
+        "amount": 22500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 139221
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 110890.56
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 136618.04
+      }
+    ]
   },
   {
     "id": "1147635",
