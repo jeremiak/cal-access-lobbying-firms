@@ -2784,6 +2784,33 @@
     "quarters": []
   },
   {
+    "id": "1336000",
+    "name": "BREVAN HOWARD US LLC",
+    "clients": [
+      {
+        "name": "BREVAN HOWARD ASSET MANAGEMENT LLP",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1437032",
     "name": "BRIGHT LIGHT STRATEGIES",
     "clients": [
