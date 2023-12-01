@@ -4881,7 +4881,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 2764551
+        "amount": 2803483.99
       },
       {
         "quarter": "3",
@@ -18844,6 +18844,73 @@
         "quarter": "3",
         "session": "2023",
         "amount": 37500
+      }
+    ]
+  },
+  {
+    "id": "1294588",
+    "name": "PUBLIC INTEREST ADVOCATES ",
+    "clients": [
+      {
+        "name": "CALIFORNIA COALITION FOR COMMUNITY INVESTMENT",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA COALITION FOR RURAL HOUSING",
+        "amount": 22500
+      },
+      {
+        "name": "CALIFORNIA REINVESTMENT COALITION",
+        "amount": 45500
+      },
+      {
+        "name": "CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION, INC.",
+        "amount": 40500
+      },
+      {
+        "name": "CITY OF BERKELEY RENT STABILIZATION BOARD",
+        "amount": 45000
+      },
+      {
+        "name": "LIFT TO RISE",
+        "amount": 54000
+      },
+      {
+        "name": "NATIONAL HOUSING LAW PROJECT",
+        "amount": 37500
+      },
+      {
+        "name": "PUBLIC INTEREST LAW PROJECT",
+        "amount": 36000
+      },
+      {
+        "name": "RURAL COMMUNITY ASSISTANCE CORPORATION",
+        "amount": 45000
+      },
+      {
+        "name": "SANTA MONICA RENT CONTROL BOARD",
+        "amount": 39672
+      },
+      {
+        "name": "SELF-HELP ENTERPRISES",
+        "amount": 22500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 133224
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 129224
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 125724
       }
     ]
   },
