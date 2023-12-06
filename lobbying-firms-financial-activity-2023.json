@@ -2735,6 +2735,33 @@
     ]
   },
   {
+    "id": "1338067",
+    "name": "BOSTON PARTNERS SECURITIES, LLC",
+    "clients": [
+      {
+        "name": "BOSTON PARTNERS GLOBAL INVESTORS, INC.",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1362017",
     "name": "BRANDENBURG GROUP",
     "clients": [
