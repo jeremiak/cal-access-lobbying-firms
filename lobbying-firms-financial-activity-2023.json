@@ -8321,6 +8321,35 @@
     "quarters": []
   },
   {
+    "id": "1400307",
+    "name": "DIVERSION STRATEGIES",
+    "clients": [
+      {
+        "name": "AMP ROBOTICS",
+        "amount": 15000
+      },
+      {
+        "name": "DIVERT INC.",
+        "amount": 15000
+      },
+      {
+        "name": "OUR PLANET RECYCLING S.F.",
+        "amount": 15000
+      },
+      {
+        "name": "RIDWELL, INC.",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 60000
+      }
+    ]
+  },
+  {
     "id": "1415160",
     "name": "DOHERTY LAW GROUP",
     "clients": [
