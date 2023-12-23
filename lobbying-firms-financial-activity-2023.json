@@ -8572,6 +8572,12 @@
     ]
   },
   {
+    "id": "1423258",
+    "name": "EASTDIL SECURED ADVISORS",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1449406",
     "name": "ECO EQUITY",
     "clients": [
@@ -20780,10 +20786,6 @@
         "amount": 92829.71
       },
       {
-        "name": "ALTUS SCHOOLS & ALL AFFILIATED SUBSIDIARIES",
-        "amount": 40240
-      },
-      {
         "name": "APPLIED MATERIALS INC",
         "amount": 180000
       },
@@ -20898,6 +20900,10 @@
       {
         "name": "STERICYCLE INC.",
         "amount": 10800
+      },
+      {
+        "name": "STUDENT SUCCESS PROGRAMS CORPORATION AND AUDEO CHARTER SCHOOL CORPORATION",
+        "amount": 40240
       },
       {
         "name": "SV@HOME ACTION FUND",
