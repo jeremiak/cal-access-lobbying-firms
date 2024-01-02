@@ -13837,7 +13837,7 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 38250
+        "amount": 51000
       }
     ],
     "quarters": [
@@ -13853,6 +13853,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 12750
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 12750
       }
@@ -22615,7 +22620,7 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 750
+        "amount": 1000
       }
     ],
     "quarters": [
@@ -22631,6 +22636,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 250
       }
@@ -25173,7 +25183,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 54460
+        "amount": 69040
       }
     ],
     "quarters": [
@@ -25191,6 +25201,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 16960
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 14580
       }
     ]
   },
