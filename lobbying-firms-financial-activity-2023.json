@@ -10199,19 +10199,23 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 82503
+        "amount": 110004
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 90000
+        "amount": 120000
+      },
+      {
+        "name": "JURUPA COMMUNITY SERVICES DISTRICT",
+        "amount": 6000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 99000
+        "amount": 132000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 13500
+        "amount": 18000
       }
     ],
     "quarters": [
@@ -10229,6 +10233,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 95001
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 101001
       }
     ]
   },
@@ -11669,7 +11678,7 @@
     "clients": [
       {
         "name": "SA RECYCLING, LLC",
-        "amount": 121141.92
+        "amount": 168073.85
       }
     ],
     "quarters": [
@@ -11687,6 +11696,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 45555.95
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 46931.93
       }
     ]
   },
@@ -15610,11 +15624,15 @@
     "clients": [
       {
         "name": "PROSECUTORS ALLIANCE OF CALIFORNIA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 83000
+        "amount": 126207.61
       },
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 119417.33
+        "amount": 164999.27
+      },
+      {
+        "name": "UNCOMMON LAW",
+        "amount": 8000
       }
     ],
     "quarters": [
@@ -15632,6 +15650,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 55500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 96789.55
       }
     ]
   },
@@ -15676,15 +15699,19 @@
     "clients": [
       {
         "name": "FFF ENTERPRISES, INC.",
-        "amount": 15751.5
+        "amount": 21001.5
       },
       {
         "name": "KIDS READ NOW INC.",
-        "amount": 7964.27
+        "amount": 9418.81
+      },
+      {
+        "name": "RAUSCHENBERGER PARTNERS, LLC",
+        "amount": 2700
       },
       {
         "name": "SANDOZ INC.",
-        "amount": 6425.73
+        "amount": 10062.09
       }
     ],
     "quarters": [
@@ -15702,6 +15729,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 8977.27
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 13040.9
       }
     ]
   },
