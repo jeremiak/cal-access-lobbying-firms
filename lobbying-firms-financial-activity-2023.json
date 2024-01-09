@@ -1171,43 +1171,43 @@
     "clients": [
       {
         "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
-        "amount": 111474
+        "amount": 131742
       },
       {
         "name": "CALIFORNIA DIALYSIS COUNCIL",
-        "amount": 109800
+        "amount": 147690.19
       },
       {
         "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
-        "amount": 20000
+        "amount": 40000
       },
       {
         "name": "ESCONDIDO CITY OF",
-        "amount": 29272
+        "amount": 40408
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 110335.88
+        "amount": 148527.35
       },
       {
         "name": "MILLENNIUM HEALTH",
-        "amount": 45756
+        "amount": 61008
       },
       {
         "name": "OXNARD CITY OF",
-        "amount": 32708
+        "amount": 52885
       },
       {
         "name": "REDONDO BEACH CITY OF",
-        "amount": 36000.4
+        "amount": 46752.4
       },
       {
         "name": "THE LOS ANGELES LAKES INC.",
-        "amount": 6750
+        "amount": 9000
       },
       {
         "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
-        "amount": 54756
+        "amount": 73008
       }
     ],
     "quarters": [
@@ -1225,6 +1225,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 170468
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 194168.66
       }
     ]
   },
@@ -6366,19 +6371,19 @@
     "clients": [
       {
         "name": "AMERESCO, INC",
-        "amount": 21568.39
+        "amount": 28618.39
       },
       {
         "name": "CALIFORNIA SENSOR CORPORATION (CALSENSE)",
-        "amount": 20752.18
+        "amount": 25752.18
       },
       {
         "name": "CITY OF RIDGECREST",
-        "amount": 3403.2
+        "amount": 4128.2
       },
       {
         "name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-        "amount": 38077
+        "amount": 44845.75
       }
     ],
     "quarters": [
@@ -6396,6 +6401,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 34020.57
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 19543.25
       }
     ]
   },
@@ -17717,15 +17727,15 @@
     "clients": [
       {
         "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
-        "amount": 18290
+        "amount": 26290
       },
       {
         "name": "PLUMBING-HEATING-COOLING CONTRACTORS ASSOCIATION OF CALIFORNIA (CAPHCC)",
-        "amount": 25000
+        "amount": 32500
       },
       {
         "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
-        "amount": 43250
+        "amount": 56225
       }
     ],
     "quarters": [
@@ -17743,6 +17753,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 28265
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 28475
       }
     ]
   },
