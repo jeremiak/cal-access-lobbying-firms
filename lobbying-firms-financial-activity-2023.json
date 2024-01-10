@@ -9845,15 +9845,15 @@
     "clients": [
       {
         "name": "FIVE POINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "RMV PA3 DEVELOPMENT, LLC",
-        "amount": 60000
+        "amount": 75000
       },
       {
         "name": "TEJON RANCHCORP",
-        "amount": 18750
+        "amount": 30000
       }
     ],
     "quarters": [
@@ -9871,6 +9871,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 63750
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 41250
       }
     ]
   },
@@ -22594,6 +22599,12 @@
         "amount": 122520.49
       }
     ]
+  },
+  {
+    "id": "1465365",
+    "name": "STF CONSULTING",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1388908",
