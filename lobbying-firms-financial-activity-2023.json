@@ -640,6 +640,12 @@
     ]
   },
   {
+    "id": "1465745",
+    "name": "APEKIAN ADVOCACY",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147436",
     "name": "APEX GROUP; THE",
     "clients": [
@@ -1444,7 +1450,7 @@
       },
       {
         "name": "APEX GROUP, THE OBO AREA Y EL MONTE",
-        "amount": 61500
+        "amount": 6000
       },
       {
         "name": "APEX GROUP, THE OBO LAMPSON PARK PLACE",
@@ -1737,7 +1743,7 @@
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 2290478.62
+        "amount": 2234978.62
       }
     ]
   },
@@ -12452,27 +12458,27 @@
     "clients": [
       {
         "name": "CALIFORNIA POLITICAL TREASURER'S ASSOCIATION",
-        "amount": 4500
+        "amount": 6000
       },
       {
         "name": "LIFELONG LEARNING ADMINISTRATION CORPORATION",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "NETFILE",
-        "amount": 11250
+        "amount": 15000
       },
       {
         "name": "SMARTER BALANCED ASSESSMENT CONSORTIUM",
-        "amount": 35000
+        "amount": 55000
       },
       {
         "name": "STRIDE, INC.",
-        "amount": 54000
+        "amount": 72288
       },
       {
         "name": "TEACH FOR AMERICA, INC.",
-        "amount": 39000
+        "amount": 63000
       }
     ],
     "quarters": [
@@ -12490,6 +12496,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 88250
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 97538
       }
     ]
   },
@@ -23121,7 +23132,7 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 56700
+        "amount": 75600
       },
       {
         "name": "PATHION HOLDINGS, INC.",
@@ -23141,6 +23152,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 18900
       }
