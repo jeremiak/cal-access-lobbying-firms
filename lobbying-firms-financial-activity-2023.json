@@ -766,7 +766,7 @@
   },
   {
     "id": "1147723",
-    "name": "APREA & MICHELI, INC.",
+    "name": "APREA & COMPANY",
     "clients": [
       {
         "name": "AEG & AFFILIATED ENTITIES",
@@ -12288,6 +12288,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 23271.36
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -12431,7 +12436,7 @@
     "clients": [
       {
         "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
-        "amount": 54000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -12449,6 +12454,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 18000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 6000
       }
     ]
   },
