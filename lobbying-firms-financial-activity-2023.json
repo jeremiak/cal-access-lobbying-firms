@@ -7659,11 +7659,11 @@
     "clients": [
       {
         "name": "COUNCIL OF CALIFORNIA COUNTY LAW LIBRARIANS",
-        "amount": 39000
+        "amount": 52000
       },
       {
         "name": "SHAW, YODER, ANWITH, SCHMELZER, & LANGE, INC.",
-        "amount": 51711
+        "amount": 68648
       }
     ],
     "quarters": [
@@ -7681,6 +7681,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 33487
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 29937
       }
     ]
   },
@@ -22083,7 +22088,7 @@
       },
       {
         "name": "INDIGO AG, INC.",
-        "amount": 3056
+        "amount": 5331
       }
     ],
     "quarters": [
@@ -22101,6 +22106,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 1375
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 2275
       }
     ]
   },
@@ -23229,7 +23239,7 @@
     "clients": [
       {
         "name": "EXPLORE INFORMATION SERVICES, LLC",
-        "amount": 1200
+        "amount": 1600
       }
     ],
     "quarters": [
@@ -23245,6 +23255,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 400
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 400
       }
