@@ -24535,7 +24535,7 @@
     "clients": [
       {
         "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
-        "amount": 150000
+        "amount": 195000
       }
     ],
     "quarters": [
@@ -24551,6 +24551,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 45000
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 45000
       }
