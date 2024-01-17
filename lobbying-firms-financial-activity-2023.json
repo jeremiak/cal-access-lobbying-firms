@@ -5379,11 +5379,11 @@
     "clients": [
       {
         "name": "CAPITAL PROJECTS AND CONSTRUCTION COMMITTEE OF THE SAN GABRIEL VALLEY COUNCIL OF GOVERNMENTS",
-        "amount": 34250
+        "amount": 38500
       },
       {
         "name": "SAN GABRIEL VALLEY COUNCIL OF GOVERNMENTS",
-        "amount": 26500
+        "amount": 35500
       }
     ],
     "quarters": [
@@ -5401,6 +5401,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 30700
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 13250
       }
     ]
   },
@@ -8470,6 +8475,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 7200
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -14228,6 +14238,12 @@
     ]
   },
   {
+    "id": "1415738",
+    "name": "LIEBERT ADVOCACY",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1402149",
     "name": "LIGHTHOUSE PUBLIC AFFAIRS, LLC",
     "clients": [
@@ -14573,8 +14589,19 @@
   {
     "id": "1462633",
     "name": "LUMA ACTION",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ACACIA CENTER FOR JUSTICE",
+        "amount": 18000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 18000
+      }
+    ]
   },
   {
     "id": "1387246",
@@ -20443,6 +20470,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 8000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
