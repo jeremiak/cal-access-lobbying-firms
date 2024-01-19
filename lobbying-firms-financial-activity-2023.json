@@ -421,7 +421,7 @@
     "clients": [
       {
         "name": "EAH INC.",
-        "amount": 29000.01
+        "amount": 54000
       },
       {
         "name": "FRESNO METRO BLACK CHAMBER OF COMMERCE",
@@ -442,7 +442,12 @@
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 27725.01
+        "amount": 37725
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 15000
       }
     ]
   },
@@ -590,6 +595,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 0
       }
@@ -15192,6 +15202,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 800
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -16031,19 +16046,19 @@
     "clients": [
       {
         "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
-        "amount": 29999.97
+        "amount": 39999.96
       },
       {
         "name": "CALIFORNIA AUTOBODY ASSOCIATION",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA AUTOMOTIVE BUSINESS COALITION",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA TIRE DEALERS ASSOCIATION",
-        "amount": 9000
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -16059,6 +16074,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 27999.99
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 27999.99
       }
@@ -19735,7 +19755,15 @@
         "amount": 314.59
       },
       {
+        "name": "FIVE ARROWS MANAGERS LLP",
+        "amount": 0
+      },
+      {
         "name": "NORDIC CAPITAL GROUP LIMITED",
+        "amount": 0
+      },
+      {
+        "name": "SUMMA EQUITY AV",
         "amount": 0
       }
     ],
@@ -19752,6 +19780,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 0
       }
@@ -24542,11 +24575,11 @@
     "clients": [
       {
         "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
-        "amount": 125730.72
+        "amount": 165509.49
       },
       {
         "name": "EDVOICE",
-        "amount": 37998
+        "amount": 75996
       }
     ],
     "quarters": [
@@ -24564,6 +24597,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 56776.92
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 58777.77
       }
     ]
   },
@@ -25709,23 +25747,23 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 38500
+        "amount": 44000
       },
       {
         "name": "LAWYERS' COMMITTEE FOR CIVIL RIGHTS OF THE SAN FRANCISCO BAY AREA",
-        "amount": 68100
+        "amount": 80100
       },
       {
         "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE IN-PRISON WORKGROUP)",
-        "amount": 48000
+        "amount": 75156
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 8000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -25743,6 +25781,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 63500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 72656
       }
     ]
   },
