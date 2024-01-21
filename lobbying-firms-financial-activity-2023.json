@@ -9377,7 +9377,7 @@
     "clients": [
       {
         "name": "BETTER WORLD GROUP ADVISORS",
-        "amount": 2520
+        "amount": 3960
       },
       {
         "name": "BREAST CANCER PREVENTION PARTNERS",
@@ -9385,15 +9385,15 @@
       },
       {
         "name": "BUILDING DECARBONIZATION COALITION",
-        "amount": 15000
+        "amount": 18000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF LOCAL CONSERVATION CORPS (CALCC)",
-        "amount": 37500.03
+        "amount": 50000.04
       },
       {
         "name": "CALIFORNIA COMPOST COALITION",
-        "amount": 35000
+        "amount": 45500
       },
       {
         "name": "CALIFORNIA ECOLOGICAL RESTORATION BUSINESS ASSOCIATION",
@@ -9401,43 +9401,39 @@
       },
       {
         "name": "CALIFORNIA STATE PARKS FOUNDATION",
-        "amount": 6750
+        "amount": 9000
       },
       {
         "name": "CALIFORNIA VANPOOL AUTHORITY (CALVANS)",
-        "amount": 15000
+        "amount": 18000
       },
       {
         "name": "CALSTART INC.",
-        "amount": 38250
+        "amount": 44250
       },
       {
         "name": "CENTRAL COAST ENERGY SERVICES",
-        "amount": 7875
+        "amount": 9625
       },
       {
         "name": "CERES, INC.",
-        "amount": 10500
+        "amount": 13500
       },
       {
         "name": "CLEAN SEAS LOBBYING COALITION",
         "amount": 0
       },
       {
-        "name": "COMMUNITY NATURE CONNECTION",
-        "amount": 8500
-      },
-      {
         "name": "CONSERVATION FUND, THE",
-        "amount": 6250
+        "amount": 5000
       },
       {
         "name": "CR&R INCORPORATED",
-        "amount": 11250
+        "amount": 16250
       },
       {
         "name": "ELECTRIC VEHICLE CHARGING ASSOCIATION",
-        "amount": 22400
+        "amount": 38400
       },
       {
         "name": "ENDANGERED HABITATS LEAGUE",
@@ -9453,7 +9449,7 @@
       },
       {
         "name": "LAND TRUST OF SANTA CRUZ COUNTY",
-        "amount": 13500
+        "amount": 18000
       },
       {
         "name": "LOS ANGELES NEIGHBORHOOD LAND TRUST",
@@ -9461,7 +9457,7 @@
       },
       {
         "name": "MIDPENINSULA REGIONAL OPEN SPACE DISTRICT",
-        "amount": 28765
+        "amount": 33995
       },
       {
         "name": "NATURE FOR ALL",
@@ -9469,15 +9465,15 @@
       },
       {
         "name": "SANTA CLARA VALLEY HABITAT AGENCY",
-        "amount": 4000
+        "amount": 5500
       },
       {
         "name": "SAVE THE REDWOODS LEAGUE",
-        "amount": 20000
+        "amount": 22000
       },
       {
         "name": "SEMPERVIRENS FUND",
-        "amount": 6000
+        "amount": 9000
       },
       {
         "name": "SEVENTH GENERATION, INC.",
@@ -9485,11 +9481,11 @@
       },
       {
         "name": "SOUTH BAYSIDE WASTE MANAGEMENT AUTHORITY (SBWMA) DBA RETHINKWASTE",
-        "amount": 18000
+        "amount": 23400
       },
       {
         "name": "VALLEY CAN (CLEAN AIR NOW)",
-        "amount": 11000
+        "amount": 12000
       },
       {
         "name": "VERMONT ENERGY INVESTMENT CORPORATION (VEIC)",
@@ -9511,6 +9507,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 121093.34
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 87290.01
       }
     ]
   },
@@ -10365,23 +10366,19 @@
     "clients": [
       {
         "name": "ANIMAL PHYSICAL THERAPY COALITION",
-        "amount": 38000
+        "amount": 47000
       },
       {
         "name": "ASSOCIATION OF ENVIRONMENTAL AND ENGINEERING GEOLOGISTS",
-        "amount": 8680
+        "amount": 11365
       },
       {
         "name": "CALIFORNIA ASSOCIATION FOR LICENSED PROFESSIONAL CLINICAL COUNSELORS",
-        "amount": 16750
+        "amount": 23750
       },
       {
         "name": "CALIFORNIA NEURODIAGNOSTIC SOCIETY",
         "amount": 0
-      },
-      {
-        "name": "LOS ANGELES AND NORCAL CHAPTERS OF THE AMERICAN SOCIETY OF APPRAISERS",
-        "amount": 12625
       }
     ],
     "quarters": [
@@ -10399,6 +10396,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 20935
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 18685
       }
     ]
   },
@@ -11111,11 +11113,11 @@
     "clients": [
       {
         "name": "GOLDEN STATE POWER COOPERATIVE, JESSICA",
-        "amount": 18000
+        "amount": 24000
       },
       {
         "name": "NORTHERN CA POWER AGENCY, JANE DUNN",
-        "amount": 148500
+        "amount": 198000
       }
     ],
     "quarters": [
@@ -11133,6 +11135,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 57500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 55500
       }
     ]
   },
@@ -21831,43 +21838,43 @@
     "clients": [
       {
         "name": "ADVANCED ENERGY ECONOMY",
-        "amount": 80000
+        "amount": 86000
       },
       {
         "name": "AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "ALAMEDA COUNTY WASTE MANAGMENT AUTHORITY",
-        "amount": 40000
+        "amount": 48000
       },
       {
         "name": "AMERICAN HEART ASSOCIATION",
-        "amount": 40000
+        "amount": 52506
       },
       {
         "name": "BEVERLY HILLS, CITY OF",
-        "amount": 30000
+        "amount": 67332
       },
       {
         "name": "BOEING COMPANY, THE",
-        "amount": 60416.66
+        "amount": 85416.65
       },
       {
         "name": "BURBANK HOUSING DEVELOPMENT CORPORATION",
-        "amount": 18000
+        "amount": 22000
       },
       {
         "name": "BUTTE, COUNTY OF",
-        "amount": 29999.97
+        "amount": 39999.96
       },
       {
         "name": "CALIFORNIA & NEVADA CIVIL ENGINEERS AND LAND SURVEYOS ASSOCIATION, INC.",
-        "amount": 27000
+        "amount": 36000
       },
       {
         "name": "CALIFORNIA ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY",
-        "amount": 45000
+        "amount": 54000
       },
       {
         "name": "CALIFORNIA ACCESS COALITION",
@@ -21875,27 +21882,27 @@
       },
       {
         "name": "CALIFORNIA ANIMAL WELFARE ASSOCIATION",
-        "amount": 14850
+        "amount": 18150
       },
       {
         "name": "CALIFORNIA ARTS ADVOCATES",
-        "amount": 40900
+        "amount": 45000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF COUNTY TREASURERS & TAX COLLECTORS",
-        "amount": 73582.66
+        "amount": 94375.05
       },
       {
         "name": "CALIFORNIA CITY TRANSPORATION INITIATIVE (CACTI)",
-        "amount": 37220.61
+        "amount": 49970.61
       },
       {
         "name": "CALIFORNIA COALITION ON WORKERS COMPENSATION",
-        "amount": 82254.81
+        "amount": 104396.61
       },
       {
         "name": "CALIFORNIA FACULTY ASSOCIATION",
-        "amount": 90000
+        "amount": 110000
       },
       {
         "name": "CALIFORNIA GREEN BUSINESS NETWORK",
@@ -21903,23 +21910,23 @@
       },
       {
         "name": "CALIFORNIA MEDICAL ASSOCIATION AND AFFILIATES",
-        "amount": 80000
+        "amount": 110000
       },
       {
         "name": "CALIFORNIA MOVING AND STORAGE ASSOCIATION",
-        "amount": 27000
+        "amount": 33000
       },
       {
         "name": "CALIFORNIA PRODUCT STEWARDSHIP COUNCIL",
-        "amount": 42400
+        "amount": 51000
       },
       {
         "name": "CALIFORNIA STATE ASSOCIATION OF PSYCHIATRISTS",
-        "amount": 50471.55
+        "amount": 67295.4
       },
       {
         "name": "CALIFORNIA TRANSIT ASSOCIATION",
-        "amount": 827744.33
+        "amount": 1106662.53
       },
       {
         "name": "CAMPAIGN FOR A SAFE AND HEALTHY CALIFORNIA, SPONSORED BY ENVIRONMENTAL AND HEALTH ORGANIZATIONS",
@@ -21927,15 +21934,19 @@
       },
       {
         "name": "CENTER FOR EMPLOYMENT OPPORTUNITIES, INC.",
-        "amount": 30000
+        "amount": 45500
+      },
+      {
+        "name": "CORBETT AND ASSOCIATES, MICHAEL Y.",
+        "amount": 0
       },
       {
         "name": "COUNTY MEDICAL SERVICES PROGRAM (CMSP)",
-        "amount": 51380
+        "amount": 61686
       },
       {
         "name": "DEL NORTE, COUNTY OF",
-        "amount": 9000
+        "amount": 13000
       },
       {
         "name": "EDELSTEIN, GILBERT, ROBSON & SMITH",
@@ -21943,31 +21954,35 @@
       },
       {
         "name": "FEDEX CORPORATION",
-        "amount": 65000
+        "amount": 84500
       },
       {
         "name": "FOOD SOLUTIONS ACTION",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "FRESNO COUNTY TRANSPORTATION AUTHORITY",
-        "amount": 35000
+        "amount": 42000
       },
       {
         "name": "FRESNO, COUNTY OF",
-        "amount": 80140
+        "amount": 96168
       },
       {
         "name": "GOLETA, CITY OF",
-        "amount": 27000
+        "amount": 36000
+      },
+      {
+        "name": "HOMIUM",
+        "amount": 0
       },
       {
         "name": "HUMANE SOCIETY OF THE UNITED STATES, THE",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "HUMBOLDT, COUNTY OF",
-        "amount": 23478
+        "amount": 32994
       },
       {
         "name": "KAT TAYLOR",
@@ -21975,55 +21990,55 @@
       },
       {
         "name": "KERN, COUNTY OF",
-        "amount": 55350
+        "amount": 73800
       },
       {
         "name": "LA 2028",
-        "amount": 45000
-      },
-      {
-        "name": "LOS ANGELES CITY ATTORNEY'S OFFICE",
-        "amount": 35750
-      },
-      {
-        "name": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
-        "amount": 152808.87
-      },
-      {
-        "name": "LOS ANGELES, CITY OF",
-        "amount": 314900
-      },
-      {
-        "name": "MADERA, COUNTY OF",
-        "amount": 30000
-      },
-      {
-        "name": "MARIN, COUNTY OF",
-        "amount": 103500
-      },
-      {
-        "name": "MENDOCINO, COUNTY OF",
-        "amount": 35000
-      },
-      {
-        "name": "MERCED, COUNTY OF",
-        "amount": 32039.46
-      },
-      {
-        "name": "MONTEREY-SALINAS TRANSIT DISTRICT (MST)",
         "amount": 60000
       },
       {
+        "name": "LOS ANGELES CITY ATTORNEY'S OFFICE",
+        "amount": 42250
+      },
+      {
+        "name": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
+        "amount": 194808.87
+      },
+      {
+        "name": "LOS ANGELES, CITY OF",
+        "amount": 383300
+      },
+      {
+        "name": "MADERA, COUNTY OF",
+        "amount": 40000
+      },
+      {
+        "name": "MARIN, COUNTY OF",
+        "amount": 138000
+      },
+      {
+        "name": "MENDOCINO, COUNTY OF",
+        "amount": 42000
+      },
+      {
+        "name": "MERCED, COUNTY OF",
+        "amount": 39159.34
+      },
+      {
+        "name": "MONTEREY-SALINAS TRANSIT DISTRICT (MST)",
+        "amount": 72000
+      },
+      {
         "name": "NAPA, COUNTY OF",
-        "amount": 49876.1
+        "amount": 59851.32
       },
       {
         "name": "NATIONAL STEWARDSHIP ACTION COUNCIL",
-        "amount": 39150
+        "amount": 47550
       },
       {
         "name": "NEVADA, COUNTY OF",
-        "amount": 31500
+        "amount": 38500
       },
       {
         "name": "NIVAGEN PHARMACEUTICALS, INC.",
@@ -22031,7 +22046,7 @@
       },
       {
         "name": "NOVO NORDISK",
-        "amount": 80000
+        "amount": 120000
       },
       {
         "name": "NPH ACTION FUND",
@@ -22039,23 +22054,23 @@
       },
       {
         "name": "PACIFIC MERCHANT SHIPPING ASSOCIATION",
-        "amount": 146250
+        "amount": 195000
       },
       {
         "name": "PENINSULA CORRIDOR JOINT POWERS BOARD (CALTRAIN)",
-        "amount": 61417.58
+        "amount": 97566.22
       },
       {
         "name": "PLACER, COUNTY OF",
-        "amount": 70500.47
+        "amount": 94218.23
       },
       {
         "name": "PRUDENTIAL FINANCIAL, INC.",
-        "amount": 7500
+        "amount": 30000
       },
       {
         "name": "PUBLIC RISK INNOVATION, SOLUTIONS, AND MANAGEMENT (PRISM)",
-        "amount": 100000
+        "amount": 120000
       },
       {
         "name": "RADIUS RECYCLING",
@@ -22063,15 +22078,19 @@
       },
       {
         "name": "SACRAMENTO, COUNTY OF",
-        "amount": 27500
+        "amount": 33000
       },
       {
         "name": "SAN FRANCISCO BAY AREA WATER TRANSIT AUTHORITY",
-        "amount": 54000
+        "amount": 72000
+      },
+      {
+        "name": "SAN FRANCISCO CITY ATTORNEY'S OFFICE",
+        "amount": 0
       },
       {
         "name": "SAN FRANCISCO MARKET CORPORATION (SF MARKET)",
-        "amount": 15750
+        "amount": 19250
       },
       {
         "name": "SAN FRANCISCO, OFFICE OF THE MAYOR",
@@ -22079,47 +22098,47 @@
       },
       {
         "name": "SAN JOAQUIN REGIONAL TRANSIT DISTRICT",
-        "amount": 33333.3
+        "amount": 43466.63
       },
       {
         "name": "SAN JOAQUIN VALLEY UNIFIED AIR POLLUTION CONTROL DISTRICT",
-        "amount": 21650
+        "amount": 28145
       },
       {
         "name": "SAN JOAQUIN, COUNTY OF",
-        "amount": 77150.13
+        "amount": 103736.47
       },
       {
         "name": "SAN LUIS OBISPO, COUNTY OF",
-        "amount": 54540
+        "amount": 73080
       },
       {
         "name": "SAN MATEO COUNTY TRANSIT DISTRICT",
-        "amount": 59239.83
+        "amount": 79595.37
       },
       {
         "name": "SAN MATEO COUNTY-CITY/COUNTY ASSOCIATION OF GOVERNMENTS",
-        "amount": 69000
+        "amount": 83000
       },
       {
         "name": "SANTA CRUZ METROPOLITAN TRANSIT DISTRICT",
-        "amount": 44200
+        "amount": 55600
       },
       {
         "name": "SANTA MONICA, CITY OF",
-        "amount": 39434.31
+        "amount": 43815.9
       },
       {
         "name": "SEDGWICK CLAIMS MANAGEMENT SERVICES, INC.",
-        "amount": 30000
+        "amount": 36000
       },
       {
         "name": "SHASTA, COUNTY OF",
-        "amount": 13000
+        "amount": 15600
       },
       {
         "name": "SISKIYOU, COUNTY OF",
-        "amount": 12150
+        "amount": 14650
       },
       {
         "name": "SOLANO COUNTY TRANSIT (SOLTRANS)",
@@ -22127,75 +22146,75 @@
       },
       {
         "name": "SOLANO TRANSPORTATION AUTHORITY",
-        "amount": 60416.7
+        "amount": 72500.04
       },
       {
         "name": "SOLANO, COUNTY OF",
-        "amount": 95059.4
+        "amount": 103773.05
       },
       {
         "name": "SOLID WASTE ASSOCIATION OF NORTH AMERICA, CALIFORNIA CHAPTERS",
-        "amount": 37348.91
+        "amount": 56080.47
       },
       {
         "name": "SONOMA, COUNTY OF",
-        "amount": 63500
-      },
-      {
-        "name": "SOUTH SAN JOAQUIN IRRIGATION DISTRICT",
-        "amount": 45000
-      },
-      {
-        "name": "SOUTHERN CALIFORNIA REGIONAL RAIL AUTHORITY (METROLINK)",
-        "amount": 90000
-      },
-      {
-        "name": "SPECIALTY EQUIPMENT MARKET ASSOCIATION",
-        "amount": 72000
-      },
-      {
-        "name": "STANISLAUS, COUNTY OF",
-        "amount": 40414
-      },
-      {
-        "name": "STORER TEST EXPRESS DBA BUS TEST EXPRESS",
-        "amount": 75034.2
-      },
-      {
-        "name": "SUTTER, COUNTY OF",
-        "amount": 40000
-      },
-      {
-        "name": "TECHNET- TECHNOLOGY NETWORK",
         "amount": 76500
       },
       {
-        "name": "TEJON RANCHCORP",
-        "amount": 44000
-      },
-      {
-        "name": "TESLA, INC.",
-        "amount": 135000
-      },
-      {
-        "name": "TULARE, COUNTY OF",
-        "amount": 53130
-      },
-      {
-        "name": "WEST HOLLYWOOD, CITY OF",
+        "name": "SOUTH SAN JOAQUIN IRRIGATION DISTRICT",
         "amount": 60000
       },
       {
+        "name": "SOUTHERN CALIFORNIA REGIONAL RAIL AUTHORITY (METROLINK)",
+        "amount": 120000
+      },
+      {
+        "name": "SPECIALTY EQUIPMENT MARKET ASSOCIATION",
+        "amount": 96000
+      },
+      {
+        "name": "STANISLAUS, COUNTY OF",
+        "amount": 69424
+      },
+      {
+        "name": "STORER TEST EXPRESS DBA BUS TEST EXPRESS",
+        "amount": 82534.2
+      },
+      {
+        "name": "SUTTER, COUNTY OF",
+        "amount": 48000
+      },
+      {
+        "name": "TECHNET- TECHNOLOGY NETWORK",
+        "amount": 85000
+      },
+      {
+        "name": "TEJON RANCHCORP",
+        "amount": 59000
+      },
+      {
+        "name": "TESLA, INC.",
+        "amount": 195000
+      },
+      {
+        "name": "TULARE, COUNTY OF",
+        "amount": 63945
+      },
+      {
+        "name": "WEST HOLLYWOOD, CITY OF",
+        "amount": 72000
+      },
+      {
         "name": "WESTERN PLACER WASTE MANAGEMENT AUTHORITY",
-        "amount": 67500
+        "amount": 76500
       },
       {
         "name": "WESTERN PROPANE GAS ASSOCIATION",
-        "amount": 47099.09
+        "amount": 62774.09
       },
       {
         "name": "YUBA; COUNTY OF, AND THE YUBA COUNTY WATER AGENCY",
-        "amount": 33333.3
+        "amount": 39999.96
       }
     ],
     "quarters": [
@@ -22213,6 +22232,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 1858404.81
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 1592262.73
       }
     ]
   },
