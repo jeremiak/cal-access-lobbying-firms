@@ -666,47 +666,43 @@
     "clients": [
       {
         "name": "AERA ENERGY LLC",
-        "amount": 21600
+        "amount": 28800
       },
       {
         "name": "ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
-        "amount": 126000
+        "amount": 168000
       },
       {
         "name": "AMERICAN LEGAL FINANCE ASSOCIATION",
-        "amount": 21333.33
-      },
-      {
-        "name": "AREA Y EL MONTE LLC",
-        "amount": 10000
+        "amount": 41333.33
       },
       {
         "name": "ARIZONA & CALIFORNIA RAILROAD COMPANY",
-        "amount": 2336.25
+        "amount": 3337.5
       },
       {
         "name": "ASSOCIATED GENERAL CONTRACTORS OF CALIFORNIA",
-        "amount": 68591.25
+        "amount": 91455
       },
       {
         "name": "ASSOCIATED GENERAL CONTRACTORS-SAN DIEGO CHAPTER",
-        "amount": 6000.03
+        "amount": 8000.04
       },
       {
         "name": "CALIFORNIA NORTHERN RAILROAD COMPANY",
-        "amount": 3670
+        "amount": 4337.5
       },
       {
         "name": "CENTRAL OREGON & PACIFIC RAILROAD INC.",
-        "amount": 2670
+        "amount": 3337.5
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 81000
+        "amount": 108000
       },
       {
         "name": "FUTURE LISTING PURCHASERS ASSOCIATION",
-        "amount": 8749.99
+        "amount": 14583.32
       },
       {
         "name": "GLADFELTY GOVERNMENT RELATIONS",
@@ -718,15 +714,15 @@
       },
       {
         "name": "LAMPSON PARK PLACE LLC",
-        "amount": 0
+        "amount": 25000
       },
       {
         "name": "LENNOX INTERNATIONAL INC.",
-        "amount": 4320
+        "amount": 5940
       },
       {
         "name": "MARAVAI LIFESCIENCES",
-        "amount": 48000
+        "amount": 66000
       },
       {
         "name": "MOTION PICTURE ASSOCIATION OF AMERICA (MPAA) & ITS AFFILIATED ENTITYMOTION PICTURE ASSOC. OF AMERICA-CALIFORNIA GROUP",
@@ -734,31 +730,31 @@
       },
       {
         "name": "NISSAN NORTH AMERICA",
-        "amount": 21937.5
+        "amount": 29250
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 78750
+        "amount": 105000
       },
       {
         "name": "SAN DIEGO & IMPERIAL VALLEY RAILROAD COMPANY INC.",
-        "amount": 4670
+        "amount": 5003.75
       },
       {
         "name": "SAN JOAQUIN VALLEY RAILROAD COMPANY",
-        "amount": 3670
+        "amount": 4003.75
       },
       {
         "name": "SCIENTIFIC GAMES LLC",
-        "amount": 27000
+        "amount": 39000
       },
       {
         "name": "TTX COMPANY",
-        "amount": 36000
+        "amount": 49500
       },
       {
         "name": "VENTURA COUNTY RAILROAD COMPANY",
-        "amount": 2670
+        "amount": 3337.5
       }
     ],
     "quarters": [
@@ -776,6 +772,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 248632.5
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 279250.84
       }
     ]
   },
@@ -1827,11 +1828,15 @@
     "clients": [
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 117000
+        "amount": 156000
       },
       {
         "name": "NATIONAL HARM REDUCTION COALITION",
         "amount": 18000
+      },
+      {
+        "name": "PROSECUTORS ALLIANCE OF CALIFORNIA PROJECT OF TIDES FOUNDATION",
+        "amount": 10000
       }
     ],
     "quarters": [
@@ -1844,6 +1849,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 69000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 49000
       },
       {
         "quarter": "7",
@@ -6862,19 +6872,19 @@
     "clients": [
       {
         "name": "ASSOCIATION OF NATIONAL ADVERTISERS",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "ATHENS SERVICES & AFFILIATED ENTITIES",
-        "amount": 70000
+        "amount": 110000
       },
       {
         "name": "CTIA",
-        "amount": 207000
+        "amount": 277753.96
       },
       {
         "name": "NATIONAL VENTURE CAPITAL ASSOCIATION",
-        "amount": 45000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -6892,6 +6902,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 144000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 155753.96
       }
     ]
   },
@@ -7252,8 +7267,12 @@
         "amount": 20000
       },
       {
+        "name": "HOPSKIPDRIVE INC.",
+        "amount": 0
+      },
+      {
         "name": "WAYMO LLC",
-        "amount": 57334.76
+        "amount": 78334.76
       }
     ],
     "quarters": [
@@ -7271,6 +7290,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 14334.76
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 21000
       }
     ]
   },
@@ -9033,19 +9057,19 @@
     "clients": [
       {
         "name": "CALIFORNIA COMPOST COALITION",
-        "amount": 54000
+        "amount": 104000
       },
       {
         "name": "JOE A. GONSALVES & SONS, JOE",
-        "amount": 25000
+        "amount": 35000
       },
       {
         "name": "TURLOCK SCAVENGER COMPANY",
-        "amount": 1500
+        "amount": 2000
       },
       {
         "name": "ZANKER ROAD RESOURCE MANAGEMENT LLC",
-        "amount": 10500
+        "amount": 20500
       }
     ],
     "quarters": [
@@ -9058,6 +9082,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 43250
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 70500
       }
     ]
   },
@@ -10074,31 +10103,31 @@
     "clients": [
       {
         "name": "CONTINENTAL CASUALTY COMPANY (CNA INSURANCE COMPANIES)",
-        "amount": 72000
+        "amount": 108000
       },
       {
         "name": "IMAGINE LEARNING",
-        "amount": 120000
+        "amount": 180000
       },
       {
         "name": "LENDMARK FINANCIAL SERVICES",
-        "amount": 60000
+        "amount": 80000
       },
       {
         "name": "LES SCHWAB WAREHOUSES, INC.",
-        "amount": 60000
+        "amount": 90000
       },
       {
         "name": "SOUTHERN GLAZER'S WINE & SPIRITS, LLC",
-        "amount": 40313.2
+        "amount": 55430.65
       },
       {
         "name": "WEST COAST CHAPTER - INSTITUTE OF SCRAP RECYCLING INDUSTRIES, AKA CA-ISRI",
-        "amount": 75000
+        "amount": 150000
       },
       {
         "name": "WINE & SPIRITS WHOLESALERS OF CALIFORNIA",
-        "amount": 48000
+        "amount": 72000
       }
     ],
     "quarters": [
@@ -10116,6 +10145,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 100078.3
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 260117.45
       }
     ]
   },
@@ -10522,7 +10556,7 @@
     "clients": [
       {
         "name": "CALIFORNIA OPERATORS ASSOCIATION",
-        "amount": 20000
+        "amount": 35500
       },
       {
         "name": "CALIFORNIA SURETY FEDERATION",
@@ -10534,39 +10568,39 @@
       },
       {
         "name": "COMMUNITY CHOICE FINANCIAL",
-        "amount": 49318.01
+        "amount": 65518.01
       },
       {
         "name": "EXPERIAN",
-        "amount": 36900
+        "amount": 62425
       },
       {
         "name": "FINANCIAL SERVICES INSTITUTE",
-        "amount": 17500
+        "amount": 22750
       },
       {
         "name": "GOODYEAR TIRE AND RUBBER COMPANY IN CALIFORNIA",
-        "amount": 36000
+        "amount": 40000
       },
       {
         "name": "MERSCORP INC.",
-        "amount": 8750
+        "amount": 10500
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 123333.28
+        "amount": 185394.33
       },
       {
         "name": "S.C. JOHNSON & SON",
-        "amount": 20000
+        "amount": 32000
       },
       {
         "name": "THE APEX GROUP",
-        "amount": 5256
+        "amount": 7500
       },
       {
         "name": "THE TRAVELERS COMPANIES INC. AND SUBSIDIARIES",
-        "amount": 45000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -10584,6 +10618,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 167009.65
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 159161.05
       }
     ]
   },
@@ -25964,23 +26003,23 @@
     "clients": [
       {
         "name": "CALIFORNIA COALITION FOR WORKER POWER",
-        "amount": 63000
+        "amount": 77800
       },
       {
         "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION",
-        "amount": 117573.16
+        "amount": 156573.16
       },
       {
         "name": "ONE FAIR WAGE",
-        "amount": 45000
+        "amount": 50000
       },
       {
         "name": "TRUTH AND JUSTICE IN CHILD SUPPORT COALITION",
-        "amount": 40285.74
+        "amount": 52285.74
       },
       {
         "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
-        "amount": 22000
+        "amount": 38500
       }
     ],
     "quarters": [
@@ -25998,6 +26037,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 109500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 87300
       }
     ]
   },
