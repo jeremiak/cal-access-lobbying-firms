@@ -2,29 +2,8 @@
   {
     "id": "1382165",
     "name": "ACALYX ADVISORS, INC.",
-    "clients": [
-      {
-        "name": "AIP, LLC",
-        "amount": 73412.01
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 27143.8
-      },
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 29086.98
-      },
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 17181.23
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1336255",
@@ -7514,11 +7493,11 @@
     "clients": [
       {
         "name": "AUTO CARE ASSOCIATION",
-        "amount": 19125
+        "amount": 25500
       },
       {
         "name": "CALIFORNIA AUTOMOTIVE WHOLESALERS ASSOCIATION",
-        "amount": 25875
+        "amount": 34500
       }
     ],
     "quarters": [
@@ -7534,6 +7513,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 15000
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 15000
       }
@@ -10563,6 +10547,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 5000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -11100,20 +11089,26 @@
     ]
   },
   {
+    "id": "1465702",
+    "name": "GONZALEZ; CAROL",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1357619",
     "name": "GOULD GOVERNMENT RELATIONS; ROXANNE",
     "clients": [
       {
         "name": "ALLIANCE FOR RESPONSIBLE CONSUMER LEGAL FUNDING(ARC)",
-        "amount": 25000
+        "amount": 30000
       },
       {
         "name": "AMERICAN NURSES ASSOCIATION\\CALIFORNIA",
-        "amount": 63000
+        "amount": 84000
       },
       {
         "name": "AMERICAN TOWER CORP.",
-        "amount": 72000
+        "amount": 104000
       },
       {
         "name": "CA ASSOCIATION OF CLINICAL NURSE SPECIALISTS",
@@ -11125,11 +11120,11 @@
       },
       {
         "name": "CARNEGIE INSTITUTE FOR SCIENCE",
-        "amount": 54000
+        "amount": 71000
       },
       {
         "name": "FINANCIAL INDUSTRY REGULATORY AUTHORITY (FINRA) C/O MULTISTATE ASSOCIATES",
-        "amount": 50000
+        "amount": 55000
       },
       {
         "name": "MVM STRATEGY GROUP ON BEHALF OF THE NATIONAL COMMUNITY PHARMACISTS ASSOCIATION",
@@ -11137,11 +11132,11 @@
       },
       {
         "name": "NAYLOR ADVOCACY",
-        "amount": 18000
+        "amount": 26000
       },
       {
         "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
-        "amount": 82697.42
+        "amount": 109697.42
       }
     ],
     "quarters": [
@@ -11159,6 +11154,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 139000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 115000
       }
     ]
   },
@@ -15390,27 +15390,27 @@
     "clients": [
       {
         "name": "CONFI-CHEK, INC. D/B/A PEOPLEFINDERS",
-        "amount": 6708
+        "amount": 7065
       },
       {
         "name": "LYTTON RANCHERIA",
-        "amount": 4730
+        "amount": 12971
       },
       {
         "name": "PEOPLE CONNECT, INC.",
-        "amount": 6708
+        "amount": 7065
       },
       {
         "name": "PUBREC LLC",
-        "amount": 6708
+        "amount": 7065
       },
       {
         "name": "SPOKEO, INC.",
-        "amount": 6708
+        "amount": 7065
       },
       {
         "name": "THE LIFETIME VALUE CO. INC.",
-        "amount": 6708
+        "amount": 7065
       }
     ],
     "quarters": [
@@ -15428,6 +15428,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 17490
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 10041
       }
     ]
   },
@@ -16148,6 +16153,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 0
       }
@@ -20832,15 +20842,15 @@
     "clients": [
       {
         "name": "APPLIED BEHAVRIOR CONSULTANTS",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
-        "amount": 37527
+        "amount": 150808.92
       },
       {
         "name": "AUTISM BUSINESS ASSOCIATION",
-        "amount": 30000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -20851,6 +20861,11 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 60027
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 60027
       }
@@ -26006,7 +26021,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 67500
+        "amount": 82500
       }
     ],
     "quarters": [
@@ -26024,6 +26039,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 22500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 15000
       }
     ]
   },
