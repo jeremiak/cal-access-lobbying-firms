@@ -4477,7 +4477,7 @@
     "clients": [
       {
         "name": "PARTNERSHIP FOR SOUND SCIENCE IN ENVIRONMENTAL POLICY",
-        "amount": 12000
+        "amount": 18000
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
@@ -4489,7 +4489,7 @@
       },
       {
         "name": "TAHOE CITY PUBLIC UTILITY DISTRICT",
-        "amount": 8346.67
+        "amount": 8941.67
       }
     ],
     "quarters": [
@@ -4507,6 +4507,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 30614.37
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 6595
       }
     ]
   },
@@ -6602,59 +6607,55 @@
     "clients": [
       {
         "name": "3M COMPANY",
-        "amount": 35000
-      },
-      {
-        "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "amount": 72000
-      },
-      {
-        "name": "BECKER & POLIAKOFF, P.A. OBO IHEARTMEDIA",
-        "amount": 69189
-      },
-      {
-        "name": "CHEVRON PHILLIPS CHEMICAL COMPANY LP",
-        "amount": 136231
-      },
-      {
-        "name": "CIGAR ASSOCIATION OF AMERICA",
-        "amount": 72000
-      },
-      {
-        "name": "COALITION FOR TICKET FAIRNESS",
-        "amount": 0
-      },
-      {
-        "name": "CONTINENTAL INC.",
-        "amount": 30000
-      },
-      {
-        "name": "HCA - HOSPITAL CORPORATION OF AMERICA",
-        "amount": 112991.96
-      },
-      {
-        "name": "JUUL LABS",
-        "amount": 140000
-      },
-      {
-        "name": "LKQ CORPORATION",
         "amount": 45000
       },
       {
+        "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
+        "amount": 96000
+      },
+      {
+        "name": "BECKER & POLIAKOFF, P.A. OBO IHEARTMEDIA",
+        "amount": 81189
+      },
+      {
+        "name": "CIGAR ASSOCIATION OF AMERICA",
+        "amount": 96000
+      },
+      {
+        "name": "COALITION FOR TICKET FAIRNESS",
+        "amount": 30000
+      },
+      {
+        "name": "CONTINENTAL INC.",
+        "amount": 55000
+      },
+      {
+        "name": "HCA - HOSPITAL CORPORATION OF AMERICA",
+        "amount": 151225.86
+      },
+      {
+        "name": "JUUL LABS",
+        "amount": 185932.31
+      },
+      {
+        "name": "LKQ CORPORATION",
+        "amount": 60000
+      },
+      {
         "name": "NATIONAL VISION, INC., FIRSTSIGHT VISION SERVICES, INC. & AFFILIATES",
-        "amount": 132000
+        "amount": 175500
       },
       {
         "name": "RENAISSANCE LEARNING, INC.",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "SAN YSIDRO HEALTH",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "SANTA YNEZ BAND OF CHUMASH INDIANS",
-        "amount": 88000
+        "amount": 124764.7
       },
       {
         "name": "SKYDIVE SAN DIEGO",
@@ -6662,7 +6663,7 @@
       },
       {
         "name": "SYCUAN BAND OF THE KUMEYAAY NATION",
-        "amount": 304983.59
+        "amount": 305859.96
       }
     ],
     "quarters": [
@@ -6680,6 +6681,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 518189
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 365307.28
       }
     ]
   },
@@ -16348,39 +16354,39 @@
     "clients": [
       {
         "name": "BP AMERICA, INC. AND AFFILIATED ENTITES",
-        "amount": 72500
+        "amount": 102500
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF ZOOS AND AQUARIUMS",
-        "amount": 28500
+        "amount": 42500
       },
       {
         "name": "CLEAN ENERGY SYSTEMS",
-        "amount": 20000
+        "amount": 25000
       },
       {
         "name": "POLITICAL SOLUTIONS ON BEHALF OF KERN ENERGY",
-        "amount": 58500
+        "amount": 85500
       },
       {
         "name": "POLITICAL SOLUTIONS ON BEHALF OF TRANE TECHNOLOGIES",
-        "amount": 45000
+        "amount": 50000
       },
       {
         "name": "RENEWELL ENERGY",
-        "amount": 32000
+        "amount": 47000
       },
       {
         "name": "SADLER CONSULTING ON BEHALF OF ARCHER DANIELS MIDLAND COMPANY",
-        "amount": 60000
+        "amount": 72000
       },
       {
         "name": "SADLER CONSULTING ON BEHALF OF NUCOR CORPORATION",
-        "amount": 36000
+        "amount": 40000
       },
       {
         "name": "SEAWORLD PARKS & ENTERTAINMENT",
-        "amount": 80000
+        "amount": 120000
       }
     ],
     "quarters": [
@@ -16398,6 +16404,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 132000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 152000
       }
     ]
   },
@@ -19317,35 +19328,35 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF LEGAL DOCUMENT ASSISTANTS (CALDA)",
-        "amount": 15000
-      },
-      {
-        "name": "CALIFORNIA CANNABIS INDUSTRY ASSOCIATION",
-        "amount": 78000
-      },
-      {
-        "name": "CANNACRAFT",
-        "amount": 30000
-      },
-      {
-        "name": "CHILDREN'S PARTNERSHIP, THE",
-        "amount": 50000
-      },
-      {
-        "name": "CITY OF SANTA CRUZ",
-        "amount": 0
-      },
-      {
-        "name": "MUNISERVICES/AVENU",
         "amount": 25000
       },
       {
+        "name": "CALIFORNIA CANNABIS INDUSTRY ASSOCIATION",
+        "amount": 113000
+      },
+      {
+        "name": "CANNACRAFT",
+        "amount": 37500
+      },
+      {
+        "name": "CHILDREN'S PARTNERSHIP, THE",
+        "amount": 60000
+      },
+      {
+        "name": "CITY OF SANTA CRUZ",
+        "amount": 19000
+      },
+      {
+        "name": "MUNISERVICES/AVENU",
+        "amount": 35000
+      },
+      {
         "name": "ONTARIO, CITY OF",
-        "amount": 39000
+        "amount": 51250
       },
       {
         "name": "ORANGE, COUNTY OF",
-        "amount": 207000
+        "amount": 276000
       },
       {
         "name": "PEOPLE'S CALIFORNIA",
@@ -19353,11 +19364,11 @@
       },
       {
         "name": "SAN BERNARDINO, COUNTY OF",
-        "amount": 90000
+        "amount": 110000
       },
       {
         "name": "SPARC",
-        "amount": 5000
+        "amount": 8000
       }
     ],
     "quarters": [
@@ -19375,6 +19386,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 163500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 195750
       }
     ]
   },
@@ -26368,7 +26384,7 @@
       },
       {
         "name": "DELTA KAPPA GAMMA CALIFORNIA",
-        "amount": 16738.62
+        "amount": 20533
       }
     ],
     "quarters": [
@@ -26386,6 +26402,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 8793.49
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 1897.19
       }
     ]
   }
