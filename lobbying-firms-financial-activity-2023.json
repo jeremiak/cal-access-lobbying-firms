@@ -72,64 +72,48 @@
     "name": "ACTUM CA OPCO, LLC",
     "clients": [
       {
-        "name": "ADVENTIST HEALTH",
-        "amount": 54000
-      },
-      {
         "name": "ALLIANCE COLLEGE-READY PUBLIC SCHOOLS",
-        "amount": 38000
+        "amount": 62000
       },
       {
         "name": "ALTAMED HEALTH SERVICES CORPORATION",
-        "amount": 171981.38
+        "amount": 276195.02
       },
       {
         "name": "ANTI-RECIDIVISM COALTION",
-        "amount": 24000
-      },
-      {
-        "name": "BILLIONTOONE, INC. D/B/A BILLIONTOONE LABORATORY",
-        "amount": 85000
+        "amount": 30000
       },
       {
         "name": "BUS PATROL AMERICA, LLC",
-        "amount": 117500
+        "amount": 141000
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 42000
+        "amount": 57000
       },
       {
         "name": "CALIFORNIA CHARTER SCHOOLS ASSOCIATION ('CCSA') ADVOCATES",
-        "amount": 69494.95
-      },
-      {
-        "name": "CALIFORNIA SAND & GRAVEL COMPANY, LLC",
-        "amount": 150000
+        "amount": 87494.95
       },
       {
         "name": "CARTER, WETCH & ASSOCIATES",
-        "amount": 24000
-      },
-      {
-        "name": "CENTENE AND ITS AFFILIATE HEALTH NET",
-        "amount": 130000
+        "amount": 36000
       },
       {
         "name": "CHARTER COMMUNICATIONS, INC",
-        "amount": 95000
+        "amount": 185000
       },
       {
         "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
-        "amount": 10000
+        "amount": 50000
       },
       {
         "name": "CHIPOTLE MEXICAN GRILL",
-        "amount": 61000
+        "amount": 83000
       },
       {
         "name": "CITY YEAR, INC.",
-        "amount": 30000
+        "amount": 50000
       },
       {
         "name": "CLEAR CHANNEL OUTDOOR",
@@ -137,79 +121,67 @@
       },
       {
         "name": "COALITION FOR RESPONSIBLE CELEBRATION",
-        "amount": 105000
+        "amount": 135000
       },
       {
         "name": "DART CONTAINER CORPORATION",
-        "amount": 90000
-      },
-      {
-        "name": "FOODSAFE LLC",
-        "amount": 51000
+        "amount": 130807.5
       },
       {
         "name": "INSIGHT GARDEN PROGRAM",
-        "amount": 7200
+        "amount": 12600
       },
       {
         "name": "KHOURI CONSULTING LLC",
-        "amount": 20000
+        "amount": 35000
       },
       {
         "name": "LOCAL INITIATIVE HEALTH AUTHORITY FOR LOS ANGELES COUNTY DBA L.A. CARE HEALTH PLAN",
-        "amount": 11000
+        "amount": 27500
       },
       {
         "name": "MOTIONAL",
-        "amount": 90465.95
+        "amount": 120465.95
       },
       {
         "name": "MOULTON NIGUEL WATER DISTRICT (MNWD)",
-        "amount": 18000
-      },
-      {
-        "name": "MUSEUM OF LATIN AMERICAN ART (MOLAA)",
-        "amount": 90000
+        "amount": 36000
       },
       {
         "name": "NATERA",
-        "amount": 275412.77
-      },
-      {
-        "name": "NEW MOMENTUM STRATEGIES",
-        "amount": 0
-      },
-      {
-        "name": "OAKLAND 68'S",
-        "amount": 0
+        "amount": 350412.77
       },
       {
         "name": "PARTY CITY HOLDINGS INC.",
-        "amount": 87096.77
+        "amount": 208552
       },
       {
         "name": "POCKET NALOXONE CORP.",
-        "amount": 120806
+        "amount": 227917.54
       },
       {
         "name": "PRODUCERS' HEALTH BENEFITS PLAN",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "REVIVER",
-        "amount": 16000
+        "amount": 40000
       },
       {
         "name": "SHARE OUR STRENGTH",
-        "amount": 80000
+        "amount": 110000
       },
       {
         "name": "SUTTER'S PLACE INC., DBA BAY 101",
-        "amount": 143270.84
+        "amount": 177770.84
       },
       {
         "name": "TELEVISION ACADEMY FOUNDATION",
-        "amount": 30000
+        "amount": 35000
+      },
+      {
+        "name": "TREEHOUSE COMMUNITIES LLC",
+        "amount": 3750
       },
       {
         "name": "WESTLANDS WATER DISTRICT",
@@ -217,7 +189,7 @@
       },
       {
         "name": "WORLD- WIDE AGGLOMERATED STONE MANUFACTURERS ASSOCIATION DBA A.ST.A. WORLD-WIDE",
-        "amount": 0
+        "amount": 53333
       }
     ],
     "quarters": [
@@ -235,6 +207,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 1064694.95
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 1003571.36
       }
     ]
   },
@@ -22116,14 +22093,6 @@
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 24200
-      },
-      {
-        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 6000
-      },
-      {
-        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
         "amount": 10000
       },
       {
@@ -22132,7 +22101,15 @@
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
+        "amount": 24200
+      },
+      {
+        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
         "amount": 35000
+      },
+      {
+        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
+        "amount": 6000
       },
       {
         "name": "UNITED FARM WORKERS",
