@@ -1472,11 +1472,11 @@
     "clients": [
       {
         "name": "CITY OF MONTEBELLO",
-        "amount": 32800
+        "amount": 49200
       },
       {
         "name": "LATINO COALITION FOR A HEALTHY CALIFORNIA",
-        "amount": 36000
+        "amount": 48000
       }
     ],
     "quarters": [
@@ -1487,6 +1487,11 @@
       },
       {
         "quarter": "3",
+        "session": "2023",
+        "amount": 24300
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 24300
       }
