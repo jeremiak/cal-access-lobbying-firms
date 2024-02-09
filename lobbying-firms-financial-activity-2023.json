@@ -22494,10 +22494,6 @@
     "name": "SACRAMENTO ADVOCATES INC.",
     "clients": [
       {
-        "name": "3344 MEDFORD XC LLC",
-        "amount": 180000
-      },
-      {
         "name": "AGUA CALIENTE BAND OF CAHUILLA INDIANS",
         "amount": 310769.07
       },
@@ -22660,12 +22656,12 @@
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 1112960
+        "amount": 1067960
       },
       {
         "quarter": "4",
         "session": "2023",
-        "amount": 789505.36
+        "amount": 759505.36
       }
     ]
   },
