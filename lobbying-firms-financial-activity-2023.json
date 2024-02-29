@@ -22731,6 +22731,12 @@
     ]
   },
   {
+    "id": "1465031",
+    "name": "SAFE HARBOR EQUITY FUND 4",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1363969",
     "name": "SALIENT CAPITAL, L.P.",
     "clients": [
@@ -23930,7 +23936,7 @@
       },
       {
         "name": "COREBRIDGE FINANCIAL",
-        "amount": 5000
+        "amount": 0
       },
       {
         "name": "DIRECTV",
@@ -24054,7 +24060,7 @@
       },
       {
         "name": "VARIABLE ANNUITY LIFE INSURANCE COMPANY (VALIC), THE",
-        "amount": 50000
+        "amount": 55000
       },
       {
         "name": "YOCHA DEHE WINTUN NATION",
@@ -24199,6 +24205,12 @@
         "amount": 16500
       }
     ]
+  },
+  {
+    "id": "1147269",
+    "name": "SNODGRASS & MICHELI, LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1449252",
