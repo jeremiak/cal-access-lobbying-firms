@@ -10043,7 +10043,7 @@
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 121093.34
+        "amount": 125373.34
       },
       {
         "quarter": "4",
@@ -11558,6 +11558,12 @@
         "amount": 904815.44
       }
     ]
+  },
+  {
+    "id": "1147583",
+    "name": "GONZALEZ & ASSOCIATES, LLC; JIM",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1358546",
@@ -16215,6 +16221,12 @@
     "quarters": []
   },
   {
+    "id": "1466665",
+    "name": "MATHEWS; ANNA",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147430",
     "name": "MATTOS & ASSOCIATES",
     "clients": [
@@ -16577,6 +16589,12 @@
   {
     "id": "1336408",
     "name": "MERCURY CAPITAL ADVISORS",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1325943",
+    "name": "MERCURY PUBLIC AFFAIRS",
     "clients": [],
     "quarters": []
   },
