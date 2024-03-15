@@ -10157,55 +10157,55 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHETISTS (CANA)",
-        "amount": 60000
+        "amount": 150000
       },
       {
         "name": "CARTER, WETCH & ASSOCIATES",
-        "amount": 70000
+        "amount": 130000
       },
       {
         "name": "CST HOLDING COMPANY",
-        "amount": 94500
+        "amount": 175500
       },
       {
         "name": "DAVITA, INC.",
-        "amount": 100000
+        "amount": 220000
       },
       {
         "name": "DEL MAR THOROUGHBRED CLUB",
-        "amount": 30000
+        "amount": 74000
       },
       {
         "name": "EOPA CODE BLUE WATER SOLUTIONS",
-        "amount": 37500
+        "amount": 25000
       },
       {
         "name": "FIND HELP",
-        "amount": 60000
+        "amount": 1200000
       },
       {
         "name": "HELIX OPCO, LLC",
-        "amount": 73500
+        "amount": 147000
       },
       {
         "name": "MERCED COLLEGE",
-        "amount": 20000
+        "amount": 110000
       },
       {
         "name": "RIVER PARTNERS",
-        "amount": 48000
+        "amount": 106000
       },
       {
         "name": "THOROUGHBRED OWNERS OF CALIFORNIA",
-        "amount": 36000
+        "amount": 72000
       },
       {
         "name": "TURO",
-        "amount": 45000
+        "amount": 135000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. & ITS AFFILIATES",
-        "amount": 48000
+        "amount": 132000
       }
     ],
     "quarters": [
@@ -10223,6 +10223,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 441500
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 505000
       }
     ]
   },
@@ -17144,6 +17149,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 33000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -20150,7 +20160,7 @@
       },
       {
         "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
-        "amount": 9000
+        "amount": 18000
       },
       {
         "name": "AMERICAN INDIAN CHAMBER OF COMMERCE OF CALIFORNIA",
@@ -20158,7 +20168,7 @@
       },
       {
         "name": "BUILDSTRONG COALITION",
-        "amount": 135000
+        "amount": 165000
       },
       {
         "name": "CALIFORNIA HEMP COUNCIL",
@@ -20166,31 +20176,31 @@
       },
       {
         "name": "CALIFORNIA LEGISLATIVE CONFERENCE OF PLUMBING, HEATING & PIPING INDUSTRY",
-        "amount": 137832
+        "amount": 206748
       },
       {
         "name": "COACHELLA VALLEY ASSOCIATION OF GOVERNMENTS",
-        "amount": 45000
+        "amount": 55000
       },
       {
         "name": "CONSTRUCTION INDUSTRY FORCE ACCOUNT COUNCIL",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "CRF SOLUTIONS",
-        "amount": 16200
+        "amount": 21600
       },
       {
         "name": "CURRY AND ASSOCIATES; PAUL R.",
-        "amount": 16000
+        "amount": 28000
       },
       {
         "name": "ELECTRICAL CONTRACTORS OF CALIFORNIA TRUST",
-        "amount": 270083.61
+        "amount": 360111.48
       },
       {
         "name": "ENGINEERING & UTILITY CONTRACTORS ASSOCIATION DBA UNITED CONTRACTORS",
-        "amount": 90810
+        "amount": 121080
       },
       {
         "name": "FINISHING CONTRACTORS ASSOCIATION OF SOUTHERN CALIFORNIA",
@@ -20198,51 +20208,51 @@
       },
       {
         "name": "HURST BROOKS ESPINOSA, LLC",
-        "amount": 71000
+        "amount": 95000
       },
       {
         "name": "MERCED COUNTY ASSOCIAITON OF GOVERNMENTS",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "NORTHERN CALIFORNIA ALLIED TRADES",
-        "amount": 39600
+        "amount": 52800
       },
       {
         "name": "NORTHERN CALIFORNIA FLOOR COVERING ASSOCIATION",
-        "amount": 22000
+        "amount": 25000
       },
       {
         "name": "OJAI ENERGETICS",
-        "amount": 18000
+        "amount": 22000
       },
       {
         "name": "SACRAMENTO AREA COUNCIL OF GOVERNMENTS",
-        "amount": 75440
+        "amount": 91440
       },
       {
         "name": "SOUTHERN CALIFORNIA GLASS MANAGEMENT ASSOCIATION (SCGMA)",
-        "amount": 19800
+        "amount": 26400
       },
       {
         "name": "TULARE COUNTY ASSOCIATION OF GOVERNMENTS",
-        "amount": 22500
+        "amount": 37500
       },
       {
         "name": "WALL AND CEILING ALLIANCE",
-        "amount": 40500
+        "amount": 54000
       },
       {
         "name": "WESTERN LINE CONSTRUCTORS",
-        "amount": 33500
+        "amount": 44000
       },
       {
         "name": "WESTERN PAINTING AND COATINGS CONTRACTORS ASSOCIATION",
-        "amount": 2000
+        "amount": 4000
       },
       {
         "name": "WESTERN WALL AND CEILING CONTRACTORS ASSOCIATION (WWCCA)",
-        "amount": 13500
+        "amount": 18000
       }
     ],
     "quarters": [
@@ -20260,6 +20270,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 384980.87
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 390413.87
       }
     ]
   },
@@ -20373,11 +20388,11 @@
     "clients": [
       {
         "name": "ANAHEIM TRANSPORTATION NETWORK",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "ASSOCIATION OF CALIFORNIA RECYCLING INDUSTRIES",
-        "amount": 12000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -20388,6 +20403,16 @@
       },
       {
         "quarter": "2",
+        "session": "2023",
+        "amount": 21000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 21000
+      },
+      {
+        "quarter": "4",
         "session": "2023",
         "amount": 21000
       }
