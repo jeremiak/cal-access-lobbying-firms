@@ -10377,7 +10377,7 @@
       },
       {
         "name": "WAVERLEY CAPITAL",
-        "amount": 10000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -10390,6 +10390,16 @@
         "quarter": "2",
         "session": "2023",
         "amount": 40000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 20000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
