@@ -10948,6 +10948,12 @@
     "quarters": []
   },
   {
+    "id": "1320408",
+    "name": "GALLARDO GOVERNMENT RELATIONS & CONSULTING",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1376914",
     "name": "GENTLE RIVERS CONSULTING LLC",
     "clients": [
@@ -22204,6 +22210,14 @@
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
+        "amount": 24200
+      },
+      {
+        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
+        "amount": 6000
+      },
+      {
+        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
         "amount": 10000
       },
       {
@@ -22212,15 +22226,7 @@
       },
       {
         "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 24200
-      },
-      {
-        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
         "amount": 35000
-      },
-      {
-        "name": "STRATEGIC EDUCATION SERVICES ON BEHALF OF",
-        "amount": 6000
       },
       {
         "name": "UNITED FARM WORKERS",
