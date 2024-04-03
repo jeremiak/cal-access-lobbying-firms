@@ -10374,10 +10374,6 @@
       {
         "name": "CLEAR VENTURES",
         "amount": 60000
-      },
-      {
-        "name": "WAVERLEY CAPITAL",
-        "amount": 60000
       }
     ],
     "quarters": [
@@ -10398,6 +10394,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 0
       }
@@ -11109,6 +11110,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 0
       }
@@ -21336,34 +21342,8 @@
   {
     "id": "1451025",
     "name": "REIMAGINE POWER, INC.",
-    "clients": [
-      {
-        "name": "MICROGRID RESOURCES COALITION",
-        "amount": 88145
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 17600
-      },
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 26400
-      },
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 27345
-      },
-      {
-        "quarter": "4",
-        "session": "2023",
-        "amount": 8800
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1418731",
@@ -24627,7 +24607,7 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 1000
+        "amount": 1250
       }
     ],
     "quarters": [
@@ -24648,6 +24628,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 250
       }
@@ -27492,7 +27477,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 69040
+        "amount": 81540
       }
     ],
     "quarters": [
@@ -27515,6 +27500,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 14580
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 12500
       }
     ]
   },
