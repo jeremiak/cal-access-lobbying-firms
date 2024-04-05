@@ -16243,7 +16243,7 @@
     "clients": [
       {
         "name": "COUNTY OF SANTA CLARA",
-        "amount": 115500
+        "amount": 157500
       }
     ],
     "quarters": [
@@ -16266,6 +16266,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 21000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 42000
       }
     ]
   },
@@ -24329,6 +24334,12 @@
   {
     "id": "1449252",
     "name": "SOFKA; MICHAEL",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1467815",
+    "name": "SOLOV ADVOCACY",
     "clients": [],
     "quarters": []
   },
