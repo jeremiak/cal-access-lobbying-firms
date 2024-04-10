@@ -24,6 +24,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -9287,11 +9292,11 @@
     "clients": [
       {
         "name": "ALTASEA",
-        "amount": 99139
+        "amount": 102319
       },
       {
         "name": "CLEAN ENERGY BUYERS ASSOCIATION",
-        "amount": 91666.7
+        "amount": 108166.7
       },
       {
         "name": "VALLEY CAN",
@@ -9318,6 +9323,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 15310
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 19680
       }
     ]
   },
@@ -20422,6 +20432,12 @@
   {
     "id": "1320639",
     "name": "PORTER TELLUS, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1467182",
+    "name": "PORTER; CATHERINE A.",
     "clients": [],
     "quarters": []
   },
