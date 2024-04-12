@@ -23973,7 +23973,7 @@
       },
       {
         "name": "INDIGO AG, INC.",
-        "amount": 5331
+        "amount": 10914
       }
     ],
     "quarters": [
@@ -23996,6 +23996,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 2275
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 5583
       }
     ]
   },
@@ -25154,7 +25159,7 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 75600
+        "amount": 94500
       },
       {
         "name": "PATHION HOLDINGS, INC.",
@@ -25179,6 +25184,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 18900
       }
@@ -27755,23 +27765,39 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 36000
+        "amount": 40560
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 44000
+        "amount": 56000
+      },
+      {
+        "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
+        "amount": 2250
       },
       {
         "name": "LAWYERS' COMMITTEE FOR CIVIL RIGHTS OF THE SAN FRANCISCO BAY AREA",
-        "amount": 80100
+        "amount": 87600
+      },
+      {
+        "name": "MINSKER CONSULTING",
+        "amount": 6000
+      },
+      {
+        "name": "ROOT & REBOUND",
+        "amount": 0
       },
       {
         "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE IN-PRISON WORKGROUP)",
-        "amount": 75156
+        "amount": 81156
+      },
+      {
+        "name": "VERA ACTION",
+        "amount": 3000
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 24000
+        "amount": 35000
       }
     ],
     "quarters": [
@@ -27794,6 +27820,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 72656
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 52310
       }
     ]
   },
