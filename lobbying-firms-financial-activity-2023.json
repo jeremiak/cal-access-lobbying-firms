@@ -5653,34 +5653,8 @@
   {
     "id": "1373800",
     "name": "CANYON SNOW CONSULTING LLC",
-    "clients": [
-      {
-        "name": "FAIRVOTE",
-        "amount": 55000
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 15000
-      },
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 15000
-      },
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 15000
-      },
-      {
-        "quarter": "4",
-        "session": "2023",
-        "amount": 10000
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1147596",
@@ -14418,6 +14392,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -16038,10 +16017,6 @@
         "amount": 0
       },
       {
-        "name": "FRM INVESTMENT MANAGEMENT USA LLC",
-        "amount": 0
-      },
-      {
         "name": "GLG LLC",
         "amount": 0
       },
@@ -16059,6 +16034,10 @@
       },
       {
         "name": "MAN SOLUTIONS LIMITED",
+        "amount": 0
+      },
+      {
+        "name": "MAN SOLUTIONS LLC",
         "amount": 0
       },
       {
@@ -16084,6 +16063,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 0
       }
@@ -16440,19 +16424,19 @@
     "clients": [
       {
         "name": "CBRE",
-        "amount": 432300
+        "amount": 448300
       },
       {
         "name": "CLEAR CHANNEL OUTDOOR, INC.",
-        "amount": 372000
+        "amount": 392500
       },
       {
         "name": "LOTTOMATRIX CORPORATION",
-        "amount": 7500
+        "amount": 31500
       },
       {
         "name": "SHATTERPROOF A NONPROFIT CORPORATION",
-        "amount": 223600
+        "amount": 234600
       }
     ],
     "quarters": [
@@ -16475,6 +16459,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 75130
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 71500
       }
     ]
   },
