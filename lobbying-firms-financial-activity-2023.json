@@ -8916,8 +8916,19 @@
   {
     "id": "1464550",
     "name": "DEVLIN DBA AS DELTA STRATEGIES; JOSEPH",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "FINANCIAL COUNSELING ASSOCIATION OF AMERICA",
+        "amount": 13500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 13500
+      }
+    ]
   },
   {
     "id": "1305400",
