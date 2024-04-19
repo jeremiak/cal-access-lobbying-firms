@@ -647,12 +647,6 @@
     ]
   },
   {
-    "id": "1467858",
-    "name": "ANIMAL POLICY GROUP",
-    "clients": [],
-    "quarters": []
-  },
-  {
     "id": "1427090",
     "name": "ANTIN INFRASTRUCTURE PARTNERS US SERVICES LLC",
     "clients": [
@@ -5912,7 +5906,7 @@
         "amount": 32500
       },
       {
-        "name": "EDUCATIONAL TESTING SERVICES (ETS)",
+        "name": "EDUCATIONAL TESTING SERVICE (ETS)",
         "amount": 45000
       },
       {
@@ -9864,6 +9858,12 @@
     ]
   },
   {
+    "id": "1468362",
+    "name": "ELIZABETH ADVOCACY, LLC; MEGAN",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147264",
     "name": "ELLISON WILSON ADVOCACY, LLC",
     "clients": [
@@ -10349,29 +10349,8 @@
   {
     "id": "1461292",
     "name": "FALCON STRATEGIES",
-    "clients": [
-      {
-        "name": "CARLSBAD JET CENTER",
-        "amount": 48000
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 8000
-      },
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 22000
-      },
-      {
-        "quarter": "4",
-        "session": "2023",
-        "amount": 18000
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1295371",
@@ -17349,11 +17328,11 @@
     "clients": [
       {
         "name": "FFF ENTERPRISES, INC.",
-        "amount": 21001.5
+        "amount": 26834.83
       },
       {
         "name": "KIDS READ NOW INC.",
-        "amount": 9418.81
+        "amount": 11244.55
       },
       {
         "name": "RAUSCHENBERGER PARTNERS, LLC",
@@ -17361,7 +17340,7 @@
       },
       {
         "name": "SANDOZ INC.",
-        "amount": 10062.09
+        "amount": 11880.27
       }
     ],
     "quarters": [
@@ -17384,6 +17363,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 13040.9
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 9477.25
       }
     ]
   },
@@ -22447,15 +22431,15 @@
     "clients": [
       {
         "name": "APPLIED BEHAVRIOR CONSULTANTS",
-        "amount": 30000
+        "amount": 37500
       },
       {
         "name": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
-        "amount": 150808.92
+        "amount": 188335.92
       },
       {
         "name": "AUTISM BUSINESS ASSOCIATION",
-        "amount": 60000
+        "amount": 75000
       }
     ],
     "quarters": [
@@ -22471,6 +22455,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 60027
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 60027
       }
@@ -27383,11 +27372,11 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF SHEET METAL AND AIR CONDITIONING CONTRACTORS NATIONAL ASSOCIATION",
-        "amount": 148017.44
+        "amount": 185754.56
       },
       {
         "name": "CALIFORNIA CRAFT BREWERS ASSOCIATION",
-        "amount": 108000
+        "amount": 135000
       }
     ],
     "quarters": [
@@ -27408,6 +27397,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 64737.12
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 64737.12
       }
