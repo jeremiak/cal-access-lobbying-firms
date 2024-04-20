@@ -430,10 +430,6 @@
       {
         "name": "EAH INC.",
         "amount": 54000
-      },
-      {
-        "name": "FRESNO METRO BLACK CHAMBER OF COMMERCE",
-        "amount": 40050
       }
     ],
     "quarters": [
@@ -456,6 +452,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 15000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -3720,6 +3721,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 33028
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -15575,6 +15581,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -16015,7 +16026,15 @@
     "clients": [
       {
         "name": "ACACIA CENTER FOR JUSTICE",
-        "amount": 18000
+        "amount": 36000
+      },
+      {
+        "name": "CENTRAL AMERICAN RESOURCE CENTER - CARECEN - OF CALIFORNIA",
+        "amount": 8000
+      },
+      {
+        "name": "IMMIGRANT LEGAL DEFENSE",
+        "amount": 8000
       }
     ],
     "quarters": [
@@ -16023,6 +16042,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 18000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 34000
       }
     ]
   },
@@ -27148,31 +27172,31 @@
     "clients": [
       {
         "name": "ALLSTEEL LLC",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 46000
+        "amount": 57000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CHRISTIAN COLLEGES AND UNIVERSITIES",
-        "amount": 120615.39
+        "amount": 140615.39
       },
       {
         "name": "CVS HEALTH",
-        "amount": 115000
+        "amount": 133000
       },
       {
         "name": "FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER DBA COMMUNITY MEDICAL CENTERS",
-        "amount": 75000
+        "amount": 105000
       },
       {
         "name": "FRIANT WATER AUTHORITY",
-        "amount": 102400
+        "amount": 132400
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ADVANTAGE CAPITAL",
-        "amount": 165000
+        "amount": 210000
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
@@ -27212,11 +27236,11 @@
       },
       {
         "name": "TABLE MOUNTAIN RANCHERIA",
-        "amount": 120000
+        "amount": 150000
       },
       {
         "name": "THREE RIVERS ENERGY DEVELOPMENT LLC",
-        "amount": 56250
+        "amount": 58125
       }
     ],
     "quarters": [
@@ -27239,6 +27263,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 182115.39
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 215875
       }
     ]
   },
