@@ -15668,7 +15668,7 @@
     "clients": [
       {
         "name": "DREW LIEBERT",
-        "amount": 10000
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -15676,6 +15676,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 10000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 12000
       }
     ]
   },
