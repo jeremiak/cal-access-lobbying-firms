@@ -12922,7 +12922,7 @@
   },
   {
     "id": "1335683",
-    "name": "HINES SECURITIES, INC.",
+    "name": "HINES PRIVATE WEALTH SOLUTIONS LLC",
     "clients": [
       {
         "name": "HINES INTERESTS LIMITED PARTNERSHIP AND AFFILIATES",
@@ -14624,7 +14624,7 @@
     "clients": [
       {
         "name": "KING & SPALDING LLP",
-        "amount": 128283.75
+        "amount": 176026.25
       }
     ],
     "quarters": [
@@ -14647,6 +14647,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 26620
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 47742.5
       }
     ]
   },
@@ -15538,15 +15543,15 @@
     "clients": [
       {
         "name": "ANIMAL BLOOD BANK",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "NATIONAL PEACE OFFICERS AND FIREFIGHTERS BENEFIT ASSOCIATION",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "TRUE BLUE, INC.",
-        "amount": 45000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -15569,6 +15574,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 165000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 45000
       }
     ]
   },
@@ -23350,7 +23360,7 @@
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 1067960
+        "amount": 1064200
       },
       {
         "quarter": "4",
@@ -24828,55 +24838,55 @@
       },
       {
         "name": "CALIFORNIA CHAPTER NATIONAL EMERGENCY NUMBER ASSOCIATION (CALNENA)",
-        "amount": 20000
+        "amount": 25000
       },
       {
         "name": "CALIFORNIA WATERFOWL ASSOCIATION",
-        "amount": 60000
+        "amount": 67500
       },
       {
         "name": "COASTAL CONSERVATION ASSOCIATION OF CALIFORNIA",
-        "amount": 15000
+        "amount": 18750
       },
       {
         "name": "EL DORADO COUNTY WATER AGENCY",
-        "amount": 30000
+        "amount": 37500
       },
       {
         "name": "GRASSLAND WATER DISTRICT",
-        "amount": 15000
-      },
-      {
-        "name": "INGEVITY",
-        "amount": 16000
+        "amount": 18750
       },
       {
         "name": "NATIONAL MARINE MANUFACTURERS ASSOCIATION",
-        "amount": 22500
+        "amount": 28125
       },
       {
         "name": "NOR-CAL GUIDES AND SPORTMEN'S ASSOCIATION",
-        "amount": 6000
+        "amount": 7500
+      },
+      {
+        "name": "OFF ROAD VEHICLE LEGISLATIVE COALITION",
+        "amount": 0
       },
       {
         "name": "ORIGINS COUNCIL",
-        "amount": 30000
+        "amount": 33750
       },
       {
         "name": "PATTERSON IRRIGATION DISTRICT",
-        "amount": 20000
+        "amount": 25000
       },
       {
         "name": "SACRAMENTO REGIONAL BUILDERS EXCHANGE",
-        "amount": 30000
+        "amount": 37500
       },
       {
         "name": "STREETLIGHT DATA INC.",
-        "amount": 32000
+        "amount": 37000
       },
       {
         "name": "UNITED CHAMBER ADVOCACY NETWORK UCAN",
-        "amount": 10000
+        "amount": 15000
       }
     ],
     "quarters": [
@@ -24899,6 +24909,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 75125
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 60875
       }
     ]
   },
@@ -27051,6 +27066,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 40000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -27075,6 +27095,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 0
       }
