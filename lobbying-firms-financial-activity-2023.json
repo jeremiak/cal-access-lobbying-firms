@@ -1948,15 +1948,15 @@
     "clients": [
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 156000
+        "amount": 195000
       },
       {
         "name": "NATIONAL HARM REDUCTION COALITION",
         "amount": 18000
       },
       {
-        "name": "PROSECUTORS ALLIANCE OF CALIFORNIA PROJECT OF TIDES ADVOCACY",
-        "amount": 5000
+        "name": "PROSECUTORS ALLIANCE OF CALFIRONIA, A PROJECT OF TIDES ADVOCACY",
+        "amount": 40000
       }
     ],
     "quarters": [
@@ -1974,6 +1974,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 44000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 69000
       },
       {
         "quarter": "7",
@@ -2679,7 +2684,7 @@
     "clients": [
       {
         "name": "ENERGY FOUNDATION",
-        "amount": 322938.21
+        "amount": 491271.53
       },
       {
         "name": "INDUSTRIOUS LABS",
@@ -2706,6 +2711,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 106419.38
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 168333.32
       }
     ]
   },
@@ -11527,11 +11537,11 @@
     "clients": [
       {
         "name": "CITY INNOVATE",
-        "amount": 80000
+        "amount": 96000
       },
       {
         "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-        "amount": 61650
+        "amount": 88650
       },
       {
         "name": "WID - WOMEN IN DATA",
@@ -11539,7 +11549,7 @@
       },
       {
         "name": "WORLD WIDE TECHNOLOGY LLC",
-        "amount": 96000
+        "amount": 120000
       }
     ],
     "quarters": [
@@ -11560,6 +11570,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 67000
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 67000
       }
@@ -12649,6 +12664,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 2250
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -19560,19 +19580,19 @@
     "clients": [
       {
         "name": "BARONA BAND OF MISSION INDIANS",
-        "amount": 94387.31
+        "amount": 105887.31
       },
       {
         "name": "EAST VALLEY WATER DISTRICT",
-        "amount": 51975
+        "amount": 62155.64
       },
       {
         "name": "IRVINE RANCH WATER DISTRICT",
-        "amount": 67650
+        "amount": 90850
       },
       {
         "name": "YUBA COUNTY WATER AGENCY",
-        "amount": 120000
+        "amount": 140000
       }
     ],
     "quarters": [
@@ -19595,6 +19615,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 98300
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 64880.64
       }
     ]
   },
@@ -22306,7 +22331,7 @@
     "clients": [
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC",
-        "amount": 170023.85
+        "amount": 220440.36
       }
     ],
     "quarters": [
@@ -22329,6 +22354,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 18214.47
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 50416.51
       }
     ]
   },
@@ -27819,8 +27849,19 @@
   {
     "id": "1466635",
     "name": "WEBER; JULIA",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "GIFFORDS",
+        "amount": 8800
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 8800
+      }
+    ]
   },
   {
     "id": "1326557",
@@ -28592,15 +28633,23 @@
     "clients": [
       {
         "name": "CALIFORNIA COALITION FOR WORKER POWER",
-        "amount": 77800
+        "amount": 107800
+      },
+      {
+        "name": "CALIFORNIA COMMON CAUSE",
+        "amount": 39999
       },
       {
         "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION",
-        "amount": 156573.16
+        "amount": 195573.16
       },
       {
         "name": "ONE FAIR WAGE",
         "amount": 50000
+      },
+      {
+        "name": "TECHEQUITY ACTION",
+        "amount": 30000
       },
       {
         "name": "TRUTH AND JUSTICE IN CHILD SUPPORT COALITION",
@@ -28608,7 +28657,7 @@
       },
       {
         "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
-        "amount": 38500
+        "amount": 55000
       }
     ],
     "quarters": [
@@ -28631,6 +28680,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 87300
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 155499
       }
     ]
   },
