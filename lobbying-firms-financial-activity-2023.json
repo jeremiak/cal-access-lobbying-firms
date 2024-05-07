@@ -1424,7 +1424,7 @@
       },
       {
         "name": "SENTRY INSURANCE COMPANY",
-        "amount": 56009.99
+        "amount": 32000
       },
       {
         "name": "SOCIAL COMPASSION IN LEGISLATION (SCIL)",
@@ -1463,7 +1463,7 @@
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 135008.59
+        "amount": 110998.6
       }
     ]
   },
@@ -3098,6 +3098,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 0
       }
@@ -17029,7 +17034,7 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF PSYCHIATRIC TECHNICIANS",
-        "amount": 54000
+        "amount": 57000
       }
     ],
     "quarters": [
@@ -17047,6 +17052,11 @@
         "quarter": "3",
         "session": "2023",
         "amount": 18000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 21000
       }
     ]
   },
@@ -28288,6 +28298,12 @@
         "amount": 178000
       }
     ]
+  },
+  {
+    "id": "1384097",
+    "name": "TREMONT STRATEGIES GROUP",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1305577",
