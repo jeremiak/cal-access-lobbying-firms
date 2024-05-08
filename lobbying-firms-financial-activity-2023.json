@@ -5825,7 +5825,7 @@
       },
       {
         "name": "PARAMOUNT PICTURES",
-        "amount": 150437.96
+        "amount": 160437.96
       },
       {
         "name": "PGA TOUR, INC.",
@@ -5943,7 +5943,7 @@
       {
         "quarter": "4",
         "session": "2023",
-        "amount": 1397797.85
+        "amount": 1407797.85
       },
       {
         "quarter": "5",
@@ -13319,6 +13319,12 @@
     ]
   },
   {
+    "id": "1468895",
+    "name": "HENDERSON CONSULTING; ERIC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1252705",
     "name": "HERNANDEZ STRATEGY GROUP",
     "clients": [
@@ -17034,7 +17040,7 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF PSYCHIATRIC TECHNICIANS",
-        "amount": 57000
+        "amount": 21000
       }
     ],
     "quarters": [
@@ -17055,6 +17061,11 @@
       },
       {
         "quarter": "4",
+        "session": "2023",
+        "amount": 21000
+      },
+      {
+        "quarter": "5",
         "session": "2023",
         "amount": 21000
       }
@@ -21999,8 +22010,19 @@
   {
     "id": "1467182",
     "name": "PORTER; CATHERINE A.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA HEALTHY NAIL SALON COLLABORATIVE",
+        "amount": 3150
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 3150
+      }
+    ]
   },
   {
     "id": "1411708",
@@ -22996,10 +23018,6 @@
       {
         "name": "COMMUNITY ALLIANCE WITH FAMILY FARMERS",
         "amount": 54112
-      },
-      {
-        "name": "THE NATURE CONSERVANCY",
-        "amount": 26000
       },
       {
         "name": "TRATTENPRICE CONSULTING LLC OBO CLIMATE RESOLVE",
