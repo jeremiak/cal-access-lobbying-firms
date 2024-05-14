@@ -8038,6 +8038,12 @@
     ]
   },
   {
+    "id": "1469401",
+    "name": "CBRE",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1361290",
     "name": "CHONG; STRATEGIC CONSULTING OF RACHELLE",
     "clients": [
@@ -10554,11 +10560,11 @@
     "clients": [
       {
         "name": "MIND OC",
-        "amount": 42875
+        "amount": 69875
       },
       {
         "name": "PSYCHIATRIC PHYSICIANS ALLIANCE CALIFORNIA",
-        "amount": 24000
+        "amount": 26000
       }
     ],
     "quarters": [
@@ -10581,6 +10587,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 39000
       }
     ]
   },
