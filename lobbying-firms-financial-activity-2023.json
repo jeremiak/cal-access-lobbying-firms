@@ -2753,7 +2753,7 @@
     "clients": [
       {
         "name": "ENERGY FOUNDATION",
-        "amount": 477938.21
+        "amount": 351580.05
       },
       {
         "name": "INDUSTRIOUS LABS",
@@ -2769,7 +2769,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 76358.18
+        "amount": 75000
       },
       {
         "quarter": "3",
@@ -2779,12 +2779,12 @@
       {
         "quarter": "4",
         "session": "2023",
-        "amount": 106419.38
+        "amount": 86419.4
       },
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 155000
+        "amount": 50000
       }
     ]
   },
@@ -8067,6 +8067,12 @@
   {
     "id": "1469401",
     "name": "CBRE INC",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1468848",
+    "name": "CENTRAL CONTRA COSTA TRANSIT AUTHORITY",
     "clients": [],
     "quarters": []
   },
