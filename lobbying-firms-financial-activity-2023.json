@@ -10329,7 +10329,7 @@
     "clients": [
       {
         "name": "APARTMENT ASSOCIATION, CALIFORNIA SOUTHERN CITIES",
-        "amount": 33775
+        "amount": 3775
       }
     ],
     "quarters": [
@@ -10341,12 +10341,12 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 15000
+        "amount": 0
       },
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 15000
+        "amount": 0
       },
       {
         "quarter": "4",
@@ -18173,6 +18173,51 @@
         "quarter": "4",
         "session": "2023",
         "amount": 14000
+      }
+    ]
+  },
+  {
+    "id": "1467745",
+    "name": "MESA VERDE GROUP",
+    "clients": [
+      {
+        "name": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS",
+        "amount": 0
+      },
+      {
+        "name": "CONSUMER FEDERATION OF CALIFORNIA",
+        "amount": 4500
+      },
+      {
+        "name": "INCLUSIVE ACTION FOR THE CITY",
+        "amount": 0
+      },
+      {
+        "name": "LUMA ACTION OBO CENTRAL AMERICAN RESOURCE CENTER-CARECEN- OF CA",
+        "amount": 3000
+      },
+      {
+        "name": "LUMA ACTION OBO IMMIGRANT LEGAL DEFENSE",
+        "amount": 3000
+      },
+      {
+        "name": "PUBLIC INTEREST ADVOCATES OBO CA REINVESTMENT COALITION",
+        "amount": 3333.33
+      },
+      {
+        "name": "PUBLIC INTEREST ADVOCATES OBO CA RURAL LEGAL ASSISTANCE FOUNDATION INC",
+        "amount": 3333.33
+      },
+      {
+        "name": "PUBLIC INTEREST ADVOCATES OBO HOUSING AND ECONOMIC RIGHTS ADVOCATES (HERA)",
+        "amount": 3333.34
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 20500
       }
     ]
   },
