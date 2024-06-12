@@ -7307,12 +7307,12 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 328151.33
+        "amount": 248151.33
       },
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 298589.16
+        "amount": 238589.16
       },
       {
         "quarter": "3",
@@ -10244,17 +10244,17 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 709256.36
+        "amount": 707490.36
       },
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 890956.74
+        "amount": 887424.74
       },
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 814886.37
+        "amount": 804679.32
       },
       {
         "quarter": "4",
@@ -14150,6 +14150,12 @@
         "amount": 510988.41
       }
     ]
+  },
+  {
+    "id": "1467625",
+    "name": "IMPACT",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1394314",
