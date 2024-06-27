@@ -6774,7 +6774,7 @@
       },
       {
         "name": "CALIFORNIA STATEWIDE LAW ENFORCEMENT ASSOCIATION",
-        "amount": 174000
+        "amount": 84000
       },
       {
         "name": "CAMPBELL STRATEGY & ADVOCACY, LLC",
@@ -7033,27 +7033,27 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 2607789.01
+        "amount": 2579789.01
       },
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 2486023.91
+        "amount": 2468023.91
       },
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 2513125.77
+        "amount": 2495125.77
       },
       {
         "quarter": "4",
         "session": "2023",
-        "amount": 2588872.17
+        "amount": 2570872.17
       },
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 2974314.5
+        "amount": 2956314.5
       }
     ]
   },
@@ -9616,7 +9616,7 @@
     "clients": [
       {
         "name": "FINANCIAL COUNSELING ASSOCIATION OF AMERICA",
-        "amount": 27000
+        "amount": 7500
       }
     ],
     "quarters": [
@@ -9624,6 +9624,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 27000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 7500
       }
     ]
   },
