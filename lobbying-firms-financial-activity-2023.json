@@ -3099,6 +3099,12 @@
     ]
   },
   {
+    "id": "1470345",
+    "name": "BOOT ADVOCACY",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1338067",
     "name": "BOSTON PARTNERS SECURITIES, LLC",
     "clients": [
@@ -16068,8 +16074,38 @@
   {
     "id": "1458431",
     "name": "L J CONSULTING & ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "JEA & ASSOCIATES",
+        "amount": 66000
+      },
+      {
+        "name": "STRATEGIC SOLUTIONS ADVISORS",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 12000
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 24000
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 18000
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 12000
+      }
+    ]
   },
   {
     "id": "1147303",
