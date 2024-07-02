@@ -1242,7 +1242,7 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 0
+        "amount": 3482.5
       },
       {
         "quarter": "2",
@@ -11403,11 +11403,11 @@
     "clients": [
       {
         "name": "FIVE POINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 150000
+        "amount": 172500
       },
       {
         "name": "RMV PA3 DEVELOPMENT, LLC",
-        "amount": 97500
+        "amount": 112500
       }
     ],
     "quarters": [
@@ -11435,6 +11435,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 52500
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 37500
       }
     ]
   },
@@ -14601,15 +14606,15 @@
       },
       {
         "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
-        "amount": 5000
+        "amount": 6000
       },
       {
         "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
-        "amount": 12000
+        "amount": 14400
       },
       {
         "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
-        "amount": 22500
+        "amount": 27000
       }
     ],
     "quarters": [
@@ -14635,6 +14640,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 7900
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 7900
       }
@@ -16339,7 +16349,7 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 63750
+        "amount": 76500
       }
     ],
     "quarters": [
@@ -16365,6 +16375,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 12750
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 12750
       }
@@ -22693,6 +22708,12 @@
     "quarters": []
   },
   {
+    "id": "1468992",
+    "name": "RAPIER ROCHA LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1440587",
     "name": "RAUSCH; PETER",
     "clients": [
@@ -28591,11 +28612,11 @@
     "clients": [
       {
         "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
-        "amount": 204509.49
+        "amount": 243509.49
       },
       {
         "name": "EDVOICE",
-        "amount": 94995
+        "amount": 113994
       }
     ],
     "quarters": [
@@ -28621,6 +28642,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 57999
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 57999
       }
