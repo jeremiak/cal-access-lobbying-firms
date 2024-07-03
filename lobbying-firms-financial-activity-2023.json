@@ -1235,7 +1235,7 @@
     "clients": [
       {
         "name": "BUCKEYE PROPERTIES",
-        "amount": 3796.87
+        "amount": 120651.07
       }
     ],
     "quarters": [
@@ -1247,22 +1247,22 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 0
+        "amount": 3482.5
       },
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 1243.75
+        "amount": 44102.48
       },
       {
         "quarter": "4",
         "session": "2023",
-        "amount": 0
+        "amount": 20410
       },
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 2553.12
+        "amount": 52656.09
       }
     ]
   },
@@ -2426,6 +2426,12 @@
         "amount": 0
       }
     ]
+  },
+  {
+    "id": "1470739",
+    "name": "BEAMR",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1437898",
@@ -12172,6 +12178,12 @@
     ]
   },
   {
+    "id": "1470796",
+    "name": "GOLDEN STATE ADVOCACY PARTNERS",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1449309",
     "name": "GOLDEN STATE PUBLIC AFFAIRS, INC.",
     "clients": [],
@@ -16391,7 +16403,7 @@
     "clients": [
       {
         "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
-        "amount": 15000
+        "amount": 19000
       },
       {
         "name": "AMERICAN FOREST & PAPER ASSOCIATION",
@@ -16399,15 +16411,15 @@
       },
       {
         "name": "PCI WEST",
-        "amount": 5000
+        "amount": 6500
       },
       {
         "name": "STYRENE INFORMATION AND RESEARCH CENTER",
-        "amount": 15000
+        "amount": 18000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 37500
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -16435,6 +16447,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 13500
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 16000
       }
     ]
   },
@@ -26971,7 +26988,7 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 1250
+        "amount": 1500
       }
     ],
     "quarters": [
@@ -26997,6 +27014,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 250
       }
