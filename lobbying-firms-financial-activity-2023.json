@@ -11917,7 +11917,7 @@
     "clients": [
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 19388
+        "amount": 57494
       }
     ],
     "quarters": [
@@ -11925,6 +11925,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 19388
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 38106
       }
     ]
   },
@@ -12087,7 +12092,7 @@
       },
       {
         "name": "THE APEX GROUP",
-        "amount": 9375
+        "amount": 30000.99
       },
       {
         "name": "THE TRAVELERS COMPANIES INC. AND SUBSIDIARIES",
@@ -12118,7 +12123,7 @@
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 120174.98
+        "amount": 140800.97
       }
     ]
   },
