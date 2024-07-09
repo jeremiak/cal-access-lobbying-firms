@@ -10915,19 +10915,23 @@
     "clients": [
       {
         "name": "ASIAN HEALTH SERVICES",
-        "amount": 6000
+        "amount": 24000
       },
       {
         "name": "CALIFORNIA ASSOCIATION FOR ADULT DAY SERVICES",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA FOOD AND FARMING NETWORK",
-        "amount": 4000
+        "amount": 10000
+      },
+      {
+        "name": "MOSAIC SOLUTIONS AND ADVOCACY",
+        "amount": 10000
       },
       {
         "name": "PESTICIDE ACTION NETWORK",
-        "amount": 19998
+        "amount": 29998
       }
     ],
     "quarters": [
@@ -10955,6 +10959,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 31666
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 59000
       }
     ]
   },
@@ -11939,19 +11948,19 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 137505
+        "amount": 165005
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 150000
+        "amount": 180000
       },
       {
         "name": "JURUPA COMMUNITY SERVICES DISTRICT",
-        "amount": 24000
+        "amount": 42000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 165000
+        "amount": 198000
       },
       {
         "name": "SWEETWATER AUTHORITY",
@@ -11983,6 +11992,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 117501
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 117500
       }
     ]
   },
@@ -30091,39 +30105,39 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 40560
+        "amount": 50310
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 56000
+        "amount": 74000
       },
       {
         "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 2250
+        "amount": 20250
       },
       {
         "name": "LAWYERS' COMMITTEE FOR CIVIL RIGHTS OF THE SAN FRANCISCO BAY AREA",
-        "amount": 87600
+        "amount": 96600
       },
       {
         "name": "MINSKER CONSULTING",
-        "amount": 6000
+        "amount": 15000
       },
       {
         "name": "ROOT & REBOUND",
-        "amount": 0
+        "amount": 20000
       },
       {
         "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE IN-PRISON WORKGROUP)",
-        "amount": 81156
+        "amount": 99156
       },
       {
         "name": "VERA ACTION",
-        "amount": 3000
+        "amount": 7500
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 35000
+        "amount": 51500
       }
     ],
     "quarters": [
@@ -30151,6 +30165,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 52310
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 122750
       }
     ]
   },
