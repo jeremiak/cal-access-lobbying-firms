@@ -5046,14 +5046,10 @@
     "clients": [
       {
         "name": "PARTNERSHIP FOR SOUND SCIENCE IN ENVIRONMENTAL POLICY",
-        "amount": 22000
+        "amount": 26000
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
-        "amount": 12210.51
-      },
-      {
-        "name": "SACRAMENTO REGIONAL COUNTY SANITATION DISTRICT",
         "amount": 4897.29
       },
       {
@@ -5084,6 +5080,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 4000
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 4000
       }
@@ -12074,43 +12075,43 @@
     "clients": [
       {
         "name": "CATERPILLAR INC.",
-        "amount": 15300
+        "amount": 22860
       },
       {
         "name": "COMMUNITY CHOICE FINANCIAL",
-        "amount": 81718.01
+        "amount": 103318.01
       },
       {
         "name": "EXPERIAN",
-        "amount": 75025
+        "amount": 100190
       },
       {
         "name": "FINANCIAL SERVICES INSTITUTE",
-        "amount": 28000
+        "amount": 33250
       },
       {
         "name": "GOODYEAR TIRE AND RUBBER COMPANY IN CALIFORNIA",
-        "amount": 48000
+        "amount": 60000
       },
       {
         "name": "MERSCORP INC.",
-        "amount": 14000
+        "amount": 16625
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 231644.31
+        "amount": 262477.63
       },
       {
         "name": "S.C. JOHNSON & SON",
-        "amount": 41000
+        "amount": 50000
       },
       {
         "name": "THE APEX GROUP",
-        "amount": 30000.99
+        "amount": 52501.98
       },
       {
         "name": "THE TRAVELERS COMPANIES INC. AND SUBSIDIARIES",
-        "amount": 77500
+        "amount": 96250
       }
     ],
     "quarters": [
@@ -12138,6 +12139,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 140800.97
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 155284.31
       }
     ]
   },
@@ -18631,11 +18637,11 @@
       },
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 212249.27
+        "amount": 244249.27
       },
       {
         "name": "UNCOMMON LAW",
-        "amount": 32000
+        "amount": 56000
       }
     ],
     "quarters": [
@@ -18663,6 +18669,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 76250
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 56000
       }
     ]
   },
@@ -18721,11 +18732,11 @@
     "clients": [
       {
         "name": "FFF ENTERPRISES, INC.",
-        "amount": 26834.83
+        "amount": 36168.15
       },
       {
         "name": "KIDS READ NOW INC.",
-        "amount": 11244.55
+        "amount": 12355.11
       },
       {
         "name": "RAUSCHENBERGER PARTNERS, LLC",
@@ -18733,7 +18744,7 @@
       },
       {
         "name": "SANDOZ INC.",
-        "amount": 11880.27
+        "amount": 14425.72
       }
     ],
     "quarters": [
@@ -18761,6 +18772,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 9477.25
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 12989.33
       }
     ]
   },
