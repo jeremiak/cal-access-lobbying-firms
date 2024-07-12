@@ -8687,7 +8687,7 @@
     "clients": [
       {
         "name": "COUNCIL OF CALIFORNIA COUNTY LAW LIBRARIANS",
-        "amount": 61750
+        "amount": 74750
       },
       {
         "name": "SHAW, YODER, ANWITH, SCHMELZER, & LANGE, INC.",
@@ -8719,6 +8719,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 9750
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 13000
       }
     ]
   },
@@ -14570,27 +14575,27 @@
     "clients": [
       {
         "name": "CALIFORNIA POLITICAL TREASURER'S ASSOCIATION",
-        "amount": 7500
+        "amount": 9000
       },
       {
         "name": "LIFELONG LEARNING ADMINISTRATION CORPORATION",
-        "amount": 150000
+        "amount": 180000
       },
       {
         "name": "NETFILE",
-        "amount": 18750
+        "amount": 22500
       },
       {
         "name": "SMARTER BALANCED ASSESSMENT CONSORTIUM",
-        "amount": 55000
+        "amount": 85000
       },
       {
         "name": "STRIDE, INC.",
-        "amount": 91788
+        "amount": 111288
       },
       {
         "name": "TEACH FOR AMERICA, INC.",
-        "amount": 75000
+        "amount": 79000
       }
     ],
     "quarters": [
@@ -14618,6 +14623,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 66750
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 88750
       }
     ]
   },
@@ -17544,6 +17554,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -20171,7 +20186,7 @@
     "clients": [
       {
         "name": "CENTRAL DELTA WATER AGENCY",
-        "amount": 22299
+        "amount": 22449
       }
     ],
     "quarters": [
@@ -20199,6 +20214,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 150
       }
     ]
   },
@@ -27316,7 +27336,7 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 94500
+        "amount": 113400
       },
       {
         "name": "PATHION HOLDINGS, INC.",
@@ -27346,6 +27366,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 18900
       }
