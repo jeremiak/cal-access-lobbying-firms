@@ -34,29 +34,8 @@
   {
     "id": "1336255",
     "name": "ACCESS SECURITIES LLC",
-    "clients": [
-      {
-        "name": "RSCP HOLDINGS LLC",
-        "amount": 0
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 0
-      },
-      {
-        "quarter": "4",
-        "session": "2023",
-        "amount": 0
-      },
-      {
-        "quarter": "5",
-        "session": "2023",
-        "amount": 0
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1435150",
@@ -413,7 +392,7 @@
     "clients": [
       {
         "name": "CALIFORNIA COMMUNITY COLLEGE INDEPENDENTS (CCCI)",
-        "amount": 105270
+        "amount": 126927
       }
     ],
     "quarters": [
@@ -439,6 +418,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 21657
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 21657
       }
@@ -22400,7 +22384,7 @@
     "clients": [
       {
         "name": "ANAHEIM TRANSPORTATION NETWORK",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "ASSOCIATION OF CALIFORNIA RECYCLING INDUSTRIES",
@@ -22432,6 +22416,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 21000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 15000
       }
     ]
   },
@@ -22506,11 +22495,15 @@
     "clients": [
       {
         "name": "CALIFORNIA CANNABIS AUTHORITY",
-        "amount": 90000
+        "amount": 108000
       },
       {
         "name": "CONSCIOUS VENTURES",
-        "amount": 76050
+        "amount": 98350
+      },
+      {
+        "name": "USHIO AMERICA, INC.",
+        "amount": 7500
       }
     ],
     "quarters": [
@@ -22538,6 +22531,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 38800
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 47800
       }
     ]
   },
@@ -26581,7 +26579,7 @@
     "clients": [
       {
         "name": "AGEE GLOBAL SOLUTIONS",
-        "amount": 16500
+        "amount": 99000
       }
     ],
     "quarters": [
@@ -26607,6 +26605,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 16500
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 16500
       }
