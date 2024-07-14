@@ -21969,7 +21969,7 @@
       },
       {
         "name": "CREATIVE ARTISTS AGENCY, LLC",
-        "amount": 0
+        "amount": 10000
       },
       {
         "name": "DA VITA INC.",
@@ -22084,7 +22084,7 @@
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 1102696.41
+        "amount": 1112696.41
       }
     ]
   },
@@ -26159,7 +26159,7 @@
       },
       {
         "name": "INDIGO AG, INC.",
-        "amount": 10914
+        "amount": 12439
       }
     ],
     "quarters": [
@@ -26187,6 +26187,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 5583
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 1525
       }
     ]
   },
