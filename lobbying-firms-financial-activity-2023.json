@@ -5,7 +5,7 @@
     "clients": [
       {
         "name": "SYCAMORE PARTNERS MANAGEMENT, LP",
-        "amount": 256150
+        "amount": 529099
       }
     ],
     "quarters": [
@@ -28,6 +28,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 256150
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 272949
       }
     ]
   },
@@ -731,51 +736,47 @@
     "clients": [
       {
         "name": "AERA ENERGY LLC",
-        "amount": 36000
+        "amount": 43200
       },
       {
         "name": "AGC AMERICA INC. AND SUBSIDIARIES",
-        "amount": 6333.32
+        "amount": 21333.32
       },
       {
         "name": "ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
-        "amount": 210000
+        "amount": 252000
       },
       {
         "name": "AREA Y EL MONTE LLC",
-        "amount": 12500
+        "amount": 17500
       },
       {
         "name": "ARIZONA & CALIFORNIA RAILROAD COMPANY",
-        "amount": 4005
+        "amount": 5340
       },
       {
         "name": "ASSOCIATED GENERAL CONTRACTORS OF CALIFORNIA",
-        "amount": 113084.49
+        "amount": 127504.15
       },
       {
         "name": "ASSOCIATED GENERAL CONTRACTORS-SAN DIEGO CHAPTER",
-        "amount": 10000.05
+        "amount": 12000.06
       },
       {
         "name": "CALIFORNIA ALLIANCE OF FAMILY OWNED BUSINESSES",
-        "amount": 23124.99
+        "amount": 46907.23
       },
       {
         "name": "CALIFORNIA NORTHERN RAILROAD COMPANY",
-        "amount": 5005
+        "amount": 6340
       },
       {
         "name": "CENTRAL OREGON & PACIFIC RAILROAD INC.",
-        "amount": 4338.75
+        "amount": 5340
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 126000
-      },
-      {
-        "name": "FUTURE LISTING PURCHASERS ASSOCIATION",
-        "amount": 29166.64
+        "amount": 153000
       },
       {
         "name": "GLADFELTY GOVERNMENT RELATIONS",
@@ -783,43 +784,39 @@
       },
       {
         "name": "HARLEY-DAVIDSON MOTOR COMPANY",
-        "amount": 33000
+        "amount": 66000
       },
       {
         "name": "LENNOX INTERNATIONAL INC.",
-        "amount": 8100
-      },
-      {
-        "name": "MARAVAI LIFESCIENCES",
-        "amount": 72000
+        "amount": 9720
       },
       {
         "name": "MOTION PICTURE ASSOCIATION OF AMERICA (MPAA) & ITS AFFILIATED ENTITYMOTION PICTURE ASSOC. OF AMERICA-CALIFORNIA GROUP",
-        "amount": 210000
+        "amount": 240000
       },
       {
         "name": "NISSAN NORTH AMERICA",
-        "amount": 36562.5
+        "amount": 43875
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 131250
+        "amount": 157500
       },
       {
         "name": "SAN DIEGO & IMPERIAL VALLEY RAILROAD COMPANY INC.",
-        "amount": 6672.5
+        "amount": 7006.25
       },
       {
         "name": "SAN JOAQUIN VALLEY RAILROAD COMPANY",
-        "amount": 5672.5
+        "amount": 6340
       },
       {
         "name": "TTX COMPANY",
-        "amount": 63000
+        "amount": 76500
       },
       {
         "name": "VENTURA COUNTY RAILROAD COMPANY",
-        "amount": 4672.5
+        "amount": 5006.25
       }
     ],
     "quarters": [
@@ -847,6 +844,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 244602.38
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 253090.66
       }
     ]
   },
@@ -8504,11 +8506,11 @@
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
-        "amount": 0
+        "amount": 60000
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
-        "amount": 60000
+        "amount": 0
       },
       {
         "name": "SACRAMENTO; CITY OF",
@@ -10615,7 +10617,7 @@
       },
       {
         "name": "PSYCHIATRIC PHYSICIANS ALLIANCE CALIFORNIA",
-        "amount": 26000
+        "amount": 38000
       }
     ],
     "quarters": [
@@ -10643,6 +10645,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 39000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 12000
       }
     ]
   },
@@ -16097,6 +16104,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -17934,20 +17946,24 @@
     "name": "MB ADVOCACY",
     "clients": [
       {
+        "name": "CALIFORNIA ALLIANCE GROUP",
+        "amount": 7500
+      },
+      {
         "name": "CBRE",
-        "amount": 448300
+        "amount": 472300
       },
       {
         "name": "CLEAR CHANNEL OUTDOOR, INC.",
-        "amount": 392500
+        "amount": 415000
       },
       {
         "name": "LOTTOMATRIX CORPORATION",
-        "amount": 31500
+        "amount": 49500
       },
       {
         "name": "SHATTERPROOF A NONPROFIT CORPORATION",
-        "amount": 234600
+        "amount": 245600
       }
     ],
     "quarters": [
@@ -17975,6 +17991,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 71500
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 83000
       }
     ]
   },
