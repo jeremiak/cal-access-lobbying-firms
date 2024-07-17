@@ -2459,6 +2459,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -7083,36 +7088,40 @@
     "name": "CAPITOL CONNECTION",
     "clients": [
       {
+        "name": "ABINE, INC. DBA DELETEME",
+        "amount": 7500
+      },
+      {
         "name": "ARIZONA STATE UNIVERSITY AND AFFILIATED ENTITIES",
-        "amount": 227500
+        "amount": 315000
       },
       {
         "name": "AXIOM ADVISORS",
-        "amount": 140000
+        "amount": 170000
       },
       {
         "name": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA HEALTH + ADVOCATES",
-        "amount": 136000
+        "amount": 163000
       },
       {
         "name": "CALIFORNIA PROFESSIONAL FIREFIGHTERS",
-        "amount": 647175
+        "amount": 780340.06
       },
       {
         "name": "CALIFORNIA STATE UNIVERSITY EMPLOYEES UNION (CSUEU)",
-        "amount": 120000
+        "amount": 144000
       },
       {
         "name": "CALIFORNIANS FOR CONSUMER PRIVACY/ALASTAIR MACTAGGART, CHAIR",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
-        "amount": 105000
+        "amount": 126000
       },
       {
         "name": "DAILYPAY, INC.",
-        "amount": 70000
+        "amount": 100000
       },
       {
         "name": "KEMP, TOM",
@@ -7120,11 +7129,11 @@
       },
       {
         "name": "LOS ANGELES LGBT CENTER",
-        "amount": 15000
+        "amount": 25000
       },
       {
         "name": "WRITERS GUILD OF AMERICA, WEST, INC.",
-        "amount": 84000
+        "amount": 96000
       }
     ],
     "quarters": [
@@ -7152,6 +7161,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 336715
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 397165.06
       }
     ]
   },
@@ -9000,7 +9014,7 @@
     "clients": [
       {
         "name": "ASSOCIATION OF INDEPENDENT CALIFORNIA COLLEGES AND UNIVERSITIES (AICCU)",
-        "amount": 147000
+        "amount": 178500
       },
       {
         "name": "BRYANT GOVERNMENT AFFAIRS",
@@ -9008,39 +9022,39 @@
       },
       {
         "name": "CA LATINAS FOR REPRODUCTIVE JUSTICE",
-        "amount": 30000
+        "amount": 36000
       },
       {
         "name": "CALIFORNIA BLACK MEDIA",
-        "amount": 25000
+        "amount": 32500
       },
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 131000
+        "amount": 173000
       },
       {
         "name": "CALIFORNIA BUSINESS PROPERTIES ASSOCIATION",
-        "amount": 101000
+        "amount": 120500
       },
       {
         "name": "CALIFORNIA FOREVER, INC.",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "CALIFORNIA STATE OUTDOOR ADVERTISING ASSOCIATION",
-        "amount": 146000
+        "amount": 206000
       },
       {
         "name": "CITY OF SAN JOSE",
-        "amount": 325000
+        "amount": 375000
       },
       {
         "name": "COUNTY OF ORANGE DISTRICT ATTORNEY OFFICE",
-        "amount": 56250
+        "amount": 106250
       },
       {
         "name": "CREATE CA",
-        "amount": 45000
+        "amount": 54000
       },
       {
         "name": "CREATIVE ARTISTS AGENCY",
@@ -9048,27 +9062,27 @@
       },
       {
         "name": "DESERT HOT SPRINGS, CITY OF",
-        "amount": 60000
+        "amount": 66000
       },
       {
         "name": "DIGITAL RESTAURANT ASSOCIATION",
-        "amount": 26500
+        "amount": 46000
       },
       {
         "name": "EAST OTAY MESA RECYCLING AND LANDFILL FACILITY, LLC",
-        "amount": 30000
+        "amount": 49000
       },
       {
         "name": "ENCORE CAPITAL",
-        "amount": 104000
+        "amount": 128000
       },
       {
         "name": "FIRST AMERICAN FINANCIAL CORPORATION AND AFFILIATED ENTITIES",
-        "amount": 145000
+        "amount": 178000
       },
       {
         "name": "GF ADVOCACY",
-        "amount": 42000
+        "amount": 48000
       },
       {
         "name": "IMPERIAL IRRIGATION DISTRICT",
@@ -9084,27 +9098,27 @@
       },
       {
         "name": "MGI ADVOCACY, INC.",
-        "amount": 15000
+        "amount": 18000
       },
       {
         "name": "MOTION PICTURE ASSOCIATION INC",
-        "amount": 130000
+        "amount": 160000
       },
       {
         "name": "MS INTERNATIONAL, INC.",
-        "amount": 70000
+        "amount": 110000
       },
       {
         "name": "NATIONAL ASSOCIATION OF THEATER OWNERS OF CALIFORNIA AND NEVADA",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP OBO CONTRA COSTA COUNTY",
-        "amount": 52000
+        "amount": 68000
       },
       {
         "name": "OAKLAND; PORT OF",
-        "amount": 180000
+        "amount": 228000
       },
       {
         "name": "PORTOLA VALLEY",
@@ -9120,31 +9134,31 @@
       },
       {
         "name": "SACRAMENTO COUNTY",
-        "amount": 210000
+        "amount": 252000
       },
       {
         "name": "SAN DIEGO COUNTY REGIONAL AIRPORT AUTHORITY",
-        "amount": 97500
-      },
-      {
-        "name": "SAN MATEO COUNTY",
         "amount": 120000
       },
       {
+        "name": "SAN MATEO COUNTY",
+        "amount": 136000
+      },
+      {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMNPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 133000
+        "amount": 166000
       },
       {
         "name": "SKYDIO, INC.",
-        "amount": 112500
+        "amount": 135000
       },
       {
         "name": "SOUTHERN CALIFORNIA ASSOCIATION OF GOVERNMENTS",
-        "amount": 149000
+        "amount": 170000
       },
       {
         "name": "STANFORD UNIVERSITY",
-        "amount": 103800
+        "amount": 124800
       },
       {
         "name": "STRATEGIC LEGAL PRACTICES",
@@ -9152,11 +9166,11 @@
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 8250
+        "amount": 18750
       },
       {
         "name": "WESTFIELD",
-        "amount": 201000
+        "amount": 225000
       }
     ],
     "quarters": [
@@ -9184,6 +9198,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 710500
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 747500
       }
     ]
   },
@@ -17229,15 +17248,15 @@
     "clients": [
       {
         "name": "ACACIA CENTER FOR JUSTICE",
-        "amount": 36000
+        "amount": 54000
       },
       {
         "name": "CENTRAL AMERICAN RESOURCE CENTER - CARECEN - OF CALIFORNIA",
-        "amount": 8000
+        "amount": 20000
       },
       {
         "name": "IMMIGRANT LEGAL DEFENSE",
-        "amount": 8000
+        "amount": 20000
       }
     ],
     "quarters": [
@@ -17250,6 +17269,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 34000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 42000
       }
     ]
   },
@@ -25236,6 +25260,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -25245,7 +25274,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 32531
+        "amount": 37685
       }
     ],
     "quarters": [
@@ -25273,6 +25302,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 4295
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 5154
       }
     ]
   },
@@ -27621,7 +27655,7 @@
     "clients": [
       {
         "name": "FIVEPOINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 32000
+        "amount": 36000
       }
     ],
     "quarters": [
@@ -27649,6 +27683,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 8000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 4000
       }
     ]
   },
