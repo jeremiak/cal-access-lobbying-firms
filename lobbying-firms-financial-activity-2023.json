@@ -7175,19 +7175,19 @@
     "clients": [
       {
         "name": "AMERESCO, INC",
-        "amount": 38018.39
+        "amount": 45068.39
       },
       {
         "name": "CALIFORNIA SENSOR CORPORATION (CALSENSE)",
-        "amount": 28252.18
+        "amount": 33252.18
       },
       {
         "name": "CITY OF RIDGECREST",
-        "amount": 4128.2
+        "amount": 6378.2
       },
       {
         "name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-        "amount": 59697
+        "amount": 75815.75
       }
     ],
     "quarters": [
@@ -7215,6 +7215,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 26751.25
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 30418.75
       }
     ]
   },
@@ -10454,71 +10459,71 @@
     "clients": [
       {
         "name": "AMERICAN ALLIANCE DRUG TESTING",
-        "amount": 42000
+        "amount": 47250
       },
       {
         "name": "ASCEND LEARNING",
-        "amount": 37500
+        "amount": 42500
       },
       {
         "name": "CALIFORNIA TOW TRUCK ASSOCIATION",
-        "amount": 180000
+        "amount": 216000
       },
       {
         "name": "COALITION OF ACCREDITED LANGUAGE TRAINING PROGRAMS",
-        "amount": 21061
+        "amount": 21561
       },
       {
         "name": "CONCORDE CAREER COLLEGES",
-        "amount": 51000
+        "amount": 60000
       },
       {
         "name": "COSTCO WHOLESALE",
-        "amount": 52500
+        "amount": 60000
       },
       {
         "name": "GORDIAN GROUP, THE",
-        "amount": 90000
+        "amount": 108000
       },
       {
         "name": "INGLEWOOD, CITY OF",
-        "amount": 80000
+        "amount": 95000
       },
       {
         "name": "LA CANADA FLINTRIDGE, CITY OF",
-        "amount": 37500
+        "amount": 45000
       },
       {
         "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
-        "amount": 357500
+        "amount": 468752
       },
       {
         "name": "SANTEE, CITY OF",
-        "amount": 22500
-      },
-      {
-        "name": "THOMSON REUTERS",
-        "amount": 48000
-      },
-      {
-        "name": "TRITON MANAGEMENT SERVICES, LLC",
-        "amount": 48000
-      },
-      {
-        "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
-        "amount": 96000
-      },
-      {
-        "name": "UNIVERSAL TECHNICAL INSTITUTE",
         "amount": 27000
       },
       {
+        "name": "THOMSON REUTERS",
+        "amount": 56000
+      },
+      {
+        "name": "TRITON MANAGEMENT SERVICES, LLC",
+        "amount": 57000
+      },
+      {
+        "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
+        "amount": 108800
+      },
+      {
+        "name": "UNIVERSAL TECHNICAL INSTITUTE",
+        "amount": 36000
+      },
+      {
         "name": "USCB, INC.",
-        "amount": 52500
+        "amount": 63000
       },
       {
         "name": "WESTERN STATES TRUCKING ASSOCIATION",
-        "amount": 42000
+        "amount": 47250
       }
     ],
     "quarters": [
@@ -10546,6 +10551,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 275366
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 274052
       }
     ]
   },
@@ -12786,11 +12796,11 @@
     "clients": [
       {
         "name": "GOLDEN STATE POWER COOPERATIVE, JESSICA",
-        "amount": 30000
+        "amount": 36000
       },
       {
         "name": "NORTHERN CA POWER AGENCY, JANE DUNN",
-        "amount": 247500
+        "amount": 297000
       }
     ],
     "quarters": [
@@ -12816,6 +12826,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 55500
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 55500
       }
@@ -16181,6 +16196,11 @@
         "quarter": "4",
         "session": "2023",
         "amount": 12000
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 56330
       }
     ]
   },
@@ -17757,7 +17777,7 @@
     "clients": [
       {
         "name": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
-        "amount": 8133
+        "amount": 10883
       }
     ],
     "quarters": [
@@ -17785,6 +17805,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 5500
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 2750
       }
     ]
   },
@@ -24019,7 +24044,7 @@
     "clients": [
       {
         "name": "CLEAR CHANNEL OUTDOOR, LLC",
-        "amount": 57000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -24047,6 +24072,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 9000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 3000
       }
     ]
   },
@@ -30378,7 +30408,7 @@
     "clients": [
       {
         "name": "3M COMPANY",
-        "amount": 52500
+        "amount": 63000
       },
       {
         "name": "BAMBOO HEALTH",
@@ -30386,15 +30416,15 @@
       },
       {
         "name": "BI INCORPORATED, DBA BI CORRECTIONAL SERVICES",
-        "amount": 60869.98
+        "amount": 75869.98
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CRIME LABORATORY DIRECTORS",
-        "amount": 22500
+        "amount": 28500
       },
       {
         "name": "CALIFORNIA LAW ENFORCEMENT ASSOCIATION OF RECORDS SUPERVISORS (CLEARS)",
-        "amount": 35539.39
+        "amount": 43039.39
       },
       {
         "name": "CALIFORNIA PROBATION, PAROLE AND CORRECTIONAL ASSOCIATION",
@@ -30402,39 +30432,39 @@
       },
       {
         "name": "CALIFORNIA STATE CORONERS' ASSOCIATION",
-        "amount": 12000
+        "amount": 16000
       },
       {
         "name": "CALIFORNIA STATE SHERIFFS' ASSOCIATION",
-        "amount": 339330
+        "amount": 407196
       },
       {
         "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
-        "amount": 240265.7
+        "amount": 283060.4
       },
       {
         "name": "EQUIFAX, INC.",
-        "amount": 105000
+        "amount": 133000
       },
       {
         "name": "GEOLINKS",
-        "amount": 114000
+        "amount": 120000
       },
       {
         "name": "LOS ANGELES, COUNTY OF",
-        "amount": 91000
+        "amount": 110500
       },
       {
         "name": "MOTOROLA SOLUTIONS",
-        "amount": 148000
+        "amount": 178000
       },
       {
         "name": "STELLANTIS",
-        "amount": 74000
+        "amount": 94000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 140000
+        "amount": 180000
       }
     ],
     "quarters": [
@@ -30462,6 +30492,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 262200.09
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 297160.7
       }
     ]
   },
