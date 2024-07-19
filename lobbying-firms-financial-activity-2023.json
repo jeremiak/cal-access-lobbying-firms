@@ -8099,12 +8099,16 @@
     "name": "CHONG; STRATEGIC CONSULTING OF RACHELLE",
     "clients": [
       {
+        "name": "DISH NETWORK CORPORATION",
+        "amount": 0
+      },
+      {
         "name": "HOPSKIPDRIVE INC.",
-        "amount": 12000
+        "amount": 20000
       },
       {
         "name": "WAYMO LLC",
-        "amount": 103890.76
+        "amount": 130890.76
       }
     ],
     "quarters": [
@@ -8132,6 +8136,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 37000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 35000
       }
     ]
   },
@@ -12598,12 +12607,17 @@
     "clients": [
       {
         "name": "JIM GONZALEZ AND ASSOCIATES, LLC",
-        "amount": 30000
+        "amount": 60000
       }
     ],
     "quarters": [
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 30000
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 30000
       }
@@ -15638,6 +15652,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -17485,28 +17504,36 @@
     "name": "MAJORITY ADVISORS, LLC",
     "clients": [
       {
-        "name": "ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES",
-        "amount": 25000
-      },
-      {
-        "name": "CATALYST",
+        "name": "ALTERNATIVE BALLISTICS CORPORATION",
         "amount": 0
       },
       {
+        "name": "ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES",
+        "amount": 30000
+      },
+      {
+        "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+        "amount": 30000
+      },
+      {
+        "name": "CATALYST",
+        "amount": 7500
+      },
+      {
         "name": "IRVINE MANAGEMENT COMPANY DBA IRVINE COMPANY",
-        "amount": 45000
+        "amount": 100000
       },
       {
         "name": "KYA",
-        "amount": 40000
+        "amount": 70000
       },
       {
         "name": "LIFESPOT TECHNOLOGY INC.",
-        "amount": 25000
+        "amount": 55000
       },
       {
         "name": "MONTEREY BAY ECONOMIC PARTNERSHIP",
-        "amount": 15000
+        "amount": 30000
       }
     ],
     "quarters": [
@@ -17529,6 +17556,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 130000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 142500
       }
     ]
   },
@@ -18121,75 +18153,75 @@
     "clients": [
       {
         "name": "AIR CONDITIONING, HEATING AND REFRIGERATION INSTITUTE",
-        "amount": 90000
+        "amount": 108000
       },
       {
         "name": "AMAROK, LLC",
-        "amount": 35645
+        "amount": 61645
       },
       {
         "name": "AMERICAN BEVERAGE ASSOCIATION",
-        "amount": 188154.46
+        "amount": 225654.46
       },
       {
         "name": "AMERICAN SUBCONTRACTORS ASSOCIATION-CALIFORNIA",
-        "amount": 33420.95
+        "amount": 51420.95
       },
       {
         "name": "ASSOCIATION OF CALIFORNIA LIFE AND HEALTH INSURANCE COMPANIES (ACLHIC)",
-        "amount": 165000
+        "amount": 198000
       },
       {
         "name": "CALIFORNIA ADULT EDUCATION ADMINISTRATORS ASSOCIATION",
-        "amount": 40915.95
+        "amount": 49099.14
       },
       {
         "name": "CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION (CCPOA)",
-        "amount": 128171.69
+        "amount": 153671.69
       },
       {
         "name": "CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION BENEFIT TRUST FUND",
-        "amount": 93750
+        "amount": 112500
       },
       {
         "name": "CALIFORNIA COUNCIL FOR ADULT EDUCATION",
-        "amount": 37240.5
+        "amount": 45659.84
       },
       {
         "name": "CALIFORNIA COUNCIL FOR ENVIRONMENTAL AND ECONOMIC BALANCE",
-        "amount": 197565.19
+        "amount": 239920.16
       },
       {
         "name": "CALIFORNIA CREDIT UNION LEAGUE",
-        "amount": 105438.07
+        "amount": 135438.07
       },
       {
         "name": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION",
-        "amount": 108504.11
+        "amount": 130802.23
       },
       {
         "name": "CALIFORNIANS ALLIED FOR PATIENT PROTECTION",
-        "amount": 70000
+        "amount": 90000
       },
       {
         "name": "CALPORTLAND COMPANY",
-        "amount": 66830.39
+        "amount": 84830.39
       },
       {
         "name": "CHARTER COMMUNICATIONS, INC",
-        "amount": 112000
+        "amount": 136742.5
       },
       {
         "name": "CHEMICAL INDUSTRY COUNCIL OF CALIFORNIA",
-        "amount": 52500
+        "amount": 63000
       },
       {
         "name": "COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION",
-        "amount": 96000
+        "amount": 126000
       },
       {
         "name": "COVESTRO LLC",
-        "amount": 67500
+        "amount": 85500
       },
       {
         "name": "CSAA INSURANCE EXCHANGE AND AFFILIATES",
@@ -18201,79 +18233,87 @@
       },
       {
         "name": "DISTILLED SPIRITS COUNCIL",
-        "amount": 144499.95
+        "amount": 183033.27
       },
       {
         "name": "EPILEPSY FOUNDATION OF GREATER LOS ANGELES",
-        "amount": 60000
+        "amount": 72000
+      },
+      {
+        "name": "GRAPHIC PACKAGING INTERNATIONAL, LLC",
+        "amount": 0
       },
       {
         "name": "HASA INC",
-        "amount": 70000
+        "amount": 85000
       },
       {
         "name": "INTERNATIONAL PAPER",
-        "amount": 55500
+        "amount": 69000
       },
       {
         "name": "JOHNSON & JOHNSON CONSUMER INC., A DELAWARE CORPORATION",
-        "amount": 60000
+        "amount": 120000
       },
       {
         "name": "KOCH GOVERNMENT AFFAIRS, LLC",
-        "amount": 97500
+        "amount": 117000
       },
       {
         "name": "LOS ANGELES COUNTY EMPLOYEES RETIREMENT ASSOCIATION",
-        "amount": 77000
+        "amount": 98000
       },
       {
         "name": "MAGELLAN HEALTH, INC.",
-        "amount": 99000
+        "amount": 126000
       },
       {
         "name": "NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS - CALIFORNIA",
-        "amount": 138646.05
+        "amount": 169125.52
       },
       {
         "name": "PACIFIC ASSOCIATION OF DOMESTIC INSURANCE COMPANIES",
-        "amount": 106047.03
+        "amount": 131735.32
       },
       {
         "name": "PECHANGA BAND OF LUISENO MISSION INDIANS",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "RETIRED EMPLOYEES OF KERN COUNTY",
-        "amount": 32000
+        "amount": 38000
       },
       {
         "name": "SELF STORAGE ASSOCIATION",
-        "amount": 45000
+        "amount": 54000
       },
       {
         "name": "SHELL OIL PRODUCTS/SHELL OIL COMPANY & AFFILIATED ENTITIES",
-        "amount": 140678.07
+        "amount": 190678.07
       },
       {
         "name": "STATE OF CALIFORNIA AUTO DISMANTLERS ASSOCIATION",
-        "amount": 66000
+        "amount": 72000
       },
       {
         "name": "STRATEGIC MATERIALS, INC.",
-        "amount": 119000
+        "amount": 147000
       },
       {
         "name": "THE CHILD ABUSE PREVENTION CENTER AND ITS AFFILIATES SAFE KIDS CALIFORNIA, PREVENT CHILD ABUSE CALIFORNIA AND THE CALIFORNIA FAMILY RESOURCE ASSOCIATION",
-        "amount": 56000
+        "amount": 66500
       },
       {
         "name": "THE HARTFORD FINANCIAL SERVICES GROUP, INC.",
-        "amount": 97500
+        "amount": 123500
       },
       {
         "name": "WARNER MUSIC GROUP",
-        "amount": 85854.5
+        "amount": 91854.5
+      },
+      {
+        "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+        "amount": 13500
       }
     ],
     "quarters": [
@@ -18301,6 +18341,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 697895.14
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 841949.2
       }
     ]
   },
@@ -27627,6 +27672,12 @@
         "amount": 273700
       }
     ]
+  },
+  {
+    "id": "1471455",
+    "name": "THOMAS ADVOCACY GROUP (TTAG);THE",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1421995",
