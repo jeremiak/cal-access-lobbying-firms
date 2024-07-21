@@ -569,12 +569,12 @@
         "amount": 35000
       },
       {
-        "name": "BREAD FINANCIAL",
-        "amount": 38000
+        "name": "BREAD FINANCIAL HOLDINGS, INC.",
+        "amount": 56000
       },
       {
         "name": "RESOLUTE OBO HABEMATOLEL POMO OF UPPER LAKE",
-        "amount": 51000
+        "amount": 60000
       },
       {
         "name": "RESOLUTE OBO LOS ANGELES COMMUNITY COLLEGE DISTRICT",
@@ -610,6 +610,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 30000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 27000
       }
     ]
   },
@@ -2403,6 +2408,10 @@
       {
         "name": "CALIFORNIA ADVOCACY LLC OBO WE THINK GLOBAL, INC",
         "amount": 0
+      },
+      {
+        "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
+        "amount": 24944.8
       }
     ],
     "quarters": [
@@ -2410,6 +2419,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 24944.8
       }
     ]
   },
@@ -11782,7 +11796,7 @@
     "clients": [
       {
         "name": "CALIFORNIA BOWMEN HUNTERS/STATE ARCHERY ASSOCIATION",
-        "amount": 23750
+        "amount": 28750
       },
       {
         "name": "CALIFORNIA CHAPTER WILD SHEEP FOUNDATION",
@@ -11790,7 +11804,7 @@
       },
       {
         "name": "CALIFORNIA DEER ASSOCIATION",
-        "amount": 25000
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA HAWKING CLUB",
@@ -11798,7 +11812,7 @@
       },
       {
         "name": "CALIFORNIA HOUNDSMEN FOR CONSERVATION",
-        "amount": 31250
+        "amount": 37500
       },
       {
         "name": "ROCKY MOUNTAIN ELK FOUNDATION",
@@ -11834,6 +11848,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 18750
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 16250
       }
     ]
   },
@@ -11908,23 +11927,23 @@
     "clients": [
       {
         "name": "ANIMAL PHYSICAL THERAPY COALITION",
-        "amount": 55005
+        "amount": 63005
       },
       {
         "name": "ASSOCIATION OF ENVIRONMENTAL AND ENGINEERING GEOLOGISTS",
-        "amount": 14050
+        "amount": 16090
       },
       {
         "name": "CALIFORNIA ASSOCIATION FOR LICENSED PROFESSIONAL CLINICAL COUNSELORS",
-        "amount": 34590
+        "amount": 42590
       },
       {
         "name": "CALIFORNIA NEURODIAGNOSTIC SOCIETY",
-        "amount": 0
+        "amount": 10625
       },
       {
         "name": "HOLLYWOOD FOREVER",
-        "amount": 0
+        "amount": 16625
       }
     ],
     "quarters": [
@@ -11952,6 +11971,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 21530
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 45290
       }
     ]
   },
@@ -20757,28 +20781,32 @@
     "name": "OLLIN STRATEGIES",
     "clients": [
       {
-        "name": "CITY OF COACHELLA",
-        "amount": 60000
+        "name": "AMERICAN RECYCLABLE PLASTIC BAG ALLIANCE",
+        "amount": 20000
       },
       {
-        "name": "CITY OF PICO RIVERA",
-        "amount": 93280
+        "name": "COACHELLA; CITY OF",
+        "amount": 90000
+      },
+      {
+        "name": "CONTROLLED THERMAL RESOURCES (US) INC",
+        "amount": 135000
       },
       {
         "name": "DAP HEALTH",
-        "amount": 85000
-      },
-      {
-        "name": "HELL'S KITCHEN GEOTHERMAL LLC",
-        "amount": 120000
+        "amount": 100000
       },
       {
         "name": "NEXTGEN CLIMATE AMERCIA, INC.",
-        "amount": 90500
+        "amount": 116500
+      },
+      {
+        "name": "PICO RIVERA; CITY OF",
+        "amount": 115780
       },
       {
         "name": "SALTON SEA AUTHORITY",
-        "amount": 84000
+        "amount": 105000
       }
     ],
     "quarters": [
@@ -20806,6 +20834,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 107700
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 149500
       }
     ]
   },
@@ -21153,15 +21186,15 @@
     "clients": [
       {
         "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
-        "amount": 32290
+        "amount": 43944
       },
       {
         "name": "PLUMBING-HEATING-COOLING CONTRACTORS ASSOCIATION OF CALIFORNIA (CAPHCC)",
-        "amount": 40000
+        "amount": 42500
       },
       {
         "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
-        "amount": 69200
+        "amount": 82175
       }
     ],
     "quarters": [
@@ -21189,6 +21222,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 26475
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 27129
       }
     ]
   },
