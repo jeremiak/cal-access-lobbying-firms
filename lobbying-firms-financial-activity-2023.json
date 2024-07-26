@@ -2093,55 +2093,55 @@
     "clients": [
       {
         "name": "ACADEMIC PARTNERSHIPS LLC",
-        "amount": 120000
+        "amount": 142500
       },
       {
         "name": "BOOMERANG HEALTH CARE",
-        "amount": 70000
+        "amount": 85000
+      },
+      {
+        "name": "BRELLA SPACE CORP.",
+        "amount": 5000
       },
       {
         "name": "BRIGHTLINE",
-        "amount": 0
+        "amount": 19500
       },
       {
         "name": "CALIFORNIA SOCIETY OF INDUSTRIAL MEDICINE & SURGERY",
-        "amount": 65000
+        "amount": 100000
       },
       {
         "name": "CITY OF DELANO",
-        "amount": 97500
+        "amount": 117000
       },
       {
         "name": "CITY OF ROSEMEAD",
-        "amount": 3500
+        "amount": 14000
       },
       {
         "name": "DELL TECHNOLOGIES, INC.",
-        "amount": 175500
+        "amount": 217500
       },
       {
         "name": "EDQUITY DBA BEAM INC.",
-        "amount": 50000
+        "amount": 65000
       },
       {
         "name": "EFFECTIVE ARBITRATION, INC.DBA ENFORCEMENT ASSOCIATES",
-        "amount": 22000
+        "amount": 38500
       },
       {
         "name": "ELLUCIAN",
-        "amount": 130000
+        "amount": 160000
       },
       {
         "name": "FAEGRE DRINKER BIDDLE & REATH, LLC",
-        "amount": 120000
+        "amount": 135000
       },
       {
         "name": "FORTIFI  INC.",
-        "amount": 112500
-      },
-      {
-        "name": "GOEDUCATE, INC.",
-        "amount": 18000
+        "amount": 129000
       },
       {
         "name": "GROWER-SHIPPER ASSOCIATION OF CENTRAL CALIFORNIA",
@@ -2149,11 +2149,11 @@
       },
       {
         "name": "HOPSKIPDRIVE INC.",
-        "amount": 70000
+        "amount": 85000
       },
       {
         "name": "IDEMIA IDENTITY AND SECURITY USA, LLC",
-        "amount": 160000
+        "amount": 190000
       },
       {
         "name": "KPMG, LLP",
@@ -2161,7 +2161,7 @@
       },
       {
         "name": "MDR PHARMACEUTICAL CARE",
-        "amount": 71500
+        "amount": 88000
       },
       {
         "name": "SABIO ENTERPRISES INC.",
@@ -2169,27 +2169,27 @@
       },
       {
         "name": "SEMITROPIC WATER STORAGE DISTRICT",
-        "amount": 202500
+        "amount": 243000
       },
       {
         "name": "SNOWFLAKE, INC.",
-        "amount": 28000
+        "amount": 56000
       },
       {
         "name": "SOCURE INC.",
-        "amount": 165000
+        "amount": 180000
       },
       {
         "name": "TATA AMERICA INTERNATIONAL CORPORATION - TCS",
-        "amount": 107800
+        "amount": 146300
       },
       {
         "name": "THE UNIVERSITY OF SOUTHERN CALIFORNIA",
-        "amount": 127500
+        "amount": 161500
       },
       {
         "name": "UNITEK LEARNING, INC.",
-        "amount": 90000
+        "amount": 108000
       }
     ],
     "quarters": [
@@ -2217,6 +2217,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 423750
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 497500
       }
     ]
   },
@@ -10093,10 +10098,6 @@
         "amount": 45000
       },
       {
-        "name": "CALIFORNIA WILDERNESS COALITION",
-        "amount": 7000
-      },
-      {
         "name": "DEFENDERS OF WILDLIFE",
         "amount": 58000
       },
@@ -12347,11 +12348,11 @@
     "clients": [
       {
         "name": "CITY INNOVATE",
-        "amount": 96000
+        "amount": 120000
       },
       {
         "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
-        "amount": 88650
+        "amount": 115650
       },
       {
         "name": "WID - WOMEN IN DATA",
@@ -12359,7 +12360,7 @@
       },
       {
         "name": "WORLD WIDE TECHNOLOGY LLC",
-        "amount": 120000
+        "amount": 144000
       }
     ],
     "quarters": [
@@ -12387,6 +12388,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 67000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 75000
       }
     ]
   },
@@ -18597,7 +18603,7 @@
     "clients": [
       {
         "name": "BAE SYSTEMS",
-        "amount": 94340.31
+        "amount": 112340.31
       }
     ],
     "quarters": [
@@ -18625,6 +18631,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 19481.47
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 18000
       }
     ]
   },
@@ -20456,27 +20467,27 @@
     "clients": [
       {
         "name": "ADVENTIST HEALTH SYSTEM/WEST",
-        "amount": 124475
+        "amount": 143625
       },
       {
         "name": "ALLIANCE OF CATHOLIC HEALTH CARE, INC.",
-        "amount": 150000
+        "amount": 180000
       },
       {
         "name": "LOMA LINDA UNIVERSITY HEALTH",
-        "amount": 146175
+        "amount": 191175
       },
       {
         "name": "PRIVATE ESSENTIAL ACCESS COMMUNITY HOSPITALS",
-        "amount": 226125
+        "amount": 256275
       },
       {
         "name": "RADY CHILDREN'S HOSPITAL",
-        "amount": 120000
+        "amount": 136000
       },
       {
         "name": "SAINT AGNES MEDICAL CENTER",
-        "amount": 22500
+        "amount": 37500
       }
     ],
     "quarters": [
@@ -20504,6 +20515,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 220025
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 155300
       }
     ]
   },
@@ -21635,8 +21651,8 @@
         "amount": 82024.6
       },
       {
-        "name": "WEST COAST CHAPTER - INSTITUTE OF SCRAP RECYCLING INDUSTRIES",
-        "amount": 43816.8
+        "name": "RECYCLED MATERIALS ASSOCIATION (REMA) - WEST COAST CHAPTER",
+        "amount": 78744.83
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
@@ -21672,6 +21688,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 29329.93
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 34928.03
       }
     ]
   },
@@ -22836,31 +22857,35 @@
       },
       {
         "name": "CALIFORNIA BUSINESS ROUNDTABLE",
-        "amount": 35000
+        "amount": 47500
+      },
+      {
+        "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC ON BEHALF OF PILLSBURY WINTHROP SHAW PITTMAN LLP OBO RECYCLING MATERIALS ASSOCIATION (REMA) WEST COAST CENTER",
+        "amount": 0
       },
       {
         "name": "GENERAL MOTORS LLC",
-        "amount": 27300
+        "amount": 35100
       },
       {
         "name": "PEPSICO, INC. AND AFFILIATED ENTITIES",
-        "amount": 91750
+        "amount": 120690.29
       },
       {
         "name": "RINCON BAND OF LUISENO INDIANS, THE",
-        "amount": 197482.33
+        "amount": 238514.23
       },
       {
         "name": "SAN LUIS REY INDIAN WATER AUTHORITY",
-        "amount": 111794.41
+        "amount": 151006.69
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 139373.76
+        "amount": 173873.76
       },
       {
         "name": "WATER REPLENISHMENT DISTRICT OF SOUTHERN CALIFORNIA",
-        "amount": 139341.93
+        "amount": 197834.81
       }
     ],
     "quarters": [
@@ -22888,6 +22913,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 131005.4
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 222477.35
       }
     ]
   },
@@ -29341,6 +29371,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -29544,7 +29579,7 @@
     "clients": [
       {
         "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
-        "amount": 45000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -29570,6 +29605,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 45000
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 45000
       }
@@ -29758,31 +29798,31 @@
     "clients": [
       {
         "name": "ALLSTEEL LLC",
-        "amount": 50000
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 57000
+        "amount": 67500
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CHRISTIAN COLLEGES AND UNIVERSITIES",
-        "amount": 140615.39
+        "amount": 180615.39
       },
       {
         "name": "CVS HEALTH",
-        "amount": 133000
+        "amount": 160000
       },
       {
         "name": "FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER DBA COMMUNITY MEDICAL CENTERS",
-        "amount": 105000
+        "amount": 127500
       },
       {
         "name": "FRIANT WATER AUTHORITY",
-        "amount": 132400
+        "amount": 172400
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ADVANTAGE CAPITAL",
-        "amount": 210000
+        "amount": 246000
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
@@ -29822,7 +29862,7 @@
       },
       {
         "name": "TABLE MOUNTAIN RANCHERIA",
-        "amount": 150000
+        "amount": 170000
       },
       {
         "name": "THREE RIVERS ENERGY DEVELOPMENT LLC",
@@ -29854,6 +29894,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 215875
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 206000
       }
     ]
   },
@@ -30595,11 +30640,11 @@
     "clients": [
       {
         "name": "BERKSHIRE HATHAWAY ENERGY AND SUBSIDIARIES CAL ENERGY LLC AND BHE RENEWABLES",
-        "amount": 120000
+        "amount": 142500
       },
       {
         "name": "CLEAN POWER CAMPAIGN",
-        "amount": 62222.24
+        "amount": 68055.54
       }
     ],
     "quarters": [
@@ -30627,6 +30672,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 38750.01
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 28333.3
       }
     ]
   },
