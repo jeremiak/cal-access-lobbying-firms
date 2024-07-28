@@ -2793,11 +2793,11 @@
     "clients": [
       {
         "name": "ENERGY FOUNDATION",
-        "amount": 351580.05
+        "amount": 409080.06
       },
       {
         "name": "INDUSTRIOUS LABS",
-        "amount": 24178.4
+        "amount": 37980.75
       }
     ],
     "quarters": [
@@ -2825,6 +2825,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 50000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 71302.36
       }
     ]
   },
@@ -8406,6 +8411,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -10023,6 +10033,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -10235,11 +10250,11 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF ENVIRONMENTAL HEALTH ADMINISTRATORS (CAEHA)",
-        "amount": 103138
+        "amount": 125239
       },
       {
         "name": "HEAL THE BAY",
-        "amount": 13000
+        "amount": 16000
       }
     ],
     "quarters": [
@@ -10267,6 +10282,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 27101
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 25101
       }
     ]
   },
@@ -13575,7 +13595,7 @@
     "clients": [
       {
         "name": "HARBOR FREIGHT TOOLS USA, INC.",
-        "amount": 7350
+        "amount": 20100
       }
     ],
     "quarters": [
@@ -13598,6 +13618,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 12750
       }
     ]
   },
@@ -15496,7 +15521,7 @@
     "clients": [
       {
         "name": "HNTB CORPORATION",
-        "amount": 21630
+        "amount": 25480
       }
     ],
     "quarters": [
@@ -15524,6 +15549,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 5530
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 3850
       }
     ]
   },
@@ -16990,19 +17020,19 @@
     "clients": [
       {
         "name": "ASPIRANET",
-        "amount": 67500
+        "amount": 81000
       },
       {
         "name": "CALIFORNIA COALITION FOR YOUTH",
-        "amount": 14000
+        "amount": 17000
       },
       {
         "name": "CHILDREN NOW",
-        "amount": 23750
+        "amount": 29525
       },
       {
         "name": "CORPORATION FOR EDUCATION NETWORK INITIATIVES IN CALIFORNIA",
-        "amount": 34275
+        "amount": 41775
       }
     ],
     "quarters": [
@@ -17030,6 +17060,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 30250
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 29775
       }
     ]
   },
@@ -17106,6 +17141,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 0
       }
@@ -19623,10 +19663,6 @@
       {
         "name": "AHTNA, INC.",
         "amount": 156315.09
-      },
-      {
-        "name": "SEALASKA CORPORATION",
-        "amount": 75315.09
       }
     ],
     "quarters": [
@@ -19652,6 +19688,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 0
       }
