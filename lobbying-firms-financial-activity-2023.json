@@ -2020,15 +2020,15 @@
     "clients": [
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 195000
+        "amount": 234000
       },
       {
-        "name": "NATIONAL HARM REDUCTION COALITION",
+        "name": "PROSECUTORS ALLIANCE ACTION",
+        "amount": 175000
+      },
+      {
+        "name": "VETS, VETERANS EXPLORING TREATMENT OPTIONS",
         "amount": 18000
-      },
-      {
-        "name": "PROSECUTORS ALLIANCE OF CALFIRONIA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 40000
       }
     ],
     "quarters": [
@@ -2051,6 +2051,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 69000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 87000
       },
       {
         "quarter": "7",
@@ -3197,11 +3202,11 @@
     "clients": [
       {
         "name": "AMERICAN BAIL COALITION",
-        "amount": 134384.05
+        "amount": 160634.05
       },
       {
         "name": "CEDARWOOD-YOUNG COMPANY DBA ALLAN COMPANY",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "LANG HANSEN GIROUX & KIDANE ON BEHALF OF CLIENT SEEN HEALTH, INC.",
@@ -3209,11 +3214,11 @@
       },
       {
         "name": "SA RECYCLING, LLC",
-        "amount": 75936.91
+        "amount": 91431.91
       },
       {
         "name": "SONOMA CLEAN POWER",
-        "amount": 120000
+        "amount": 152000
       }
     ],
     "quarters": [
@@ -3241,6 +3246,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 81236.17
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 88745
       }
     ]
   },
@@ -7685,7 +7695,7 @@
     "clients": [
       {
         "name": "BNSF RAILWAY COMPANY",
-        "amount": 99225
+        "amount": 125685
       }
     ],
     "quarters": [
@@ -7713,6 +7723,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 6615
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 26460
       }
     ]
   },
@@ -8706,7 +8721,7 @@
     "clients": [
       {
         "name": "CONSUMERS FOR AUTO RELIABILITY AND SAFETY",
-        "amount": 56250
+        "amount": 67500
       }
     ],
     "quarters": [
@@ -8732,6 +8747,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 11250
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 11250
       }
@@ -19902,19 +19922,19 @@
     "clients": [
       {
         "name": "6BEDS, INC.",
-        "amount": 76667.41
+        "amount": 97180.16
       },
       {
         "name": "FIELDSTEAD AND COMPANY, INC.",
-        "amount": 83418.1
+        "amount": 101657.03
       },
       {
         "name": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
-        "amount": 127500
+        "amount": 153000
       },
       {
         "name": "NOSSAMAN LLP",
-        "amount": 75000
+        "amount": 85000
       }
     ],
     "quarters": [
@@ -19942,6 +19962,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 71416.95
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 74251.68
       }
     ]
   },
