@@ -12040,39 +12040,8 @@
   {
     "id": "1460634",
     "name": "FERN CREEK VENTURES, LLC",
-    "clients": [
-      {
-        "name": "CLEAR VENTURES",
-        "amount": 60000
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 40000
-      },
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 40000
-      },
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 20000
-      },
-      {
-        "quarter": "4",
-        "session": "2023",
-        "amount": 0
-      },
-      {
-        "quarter": "5",
-        "session": "2023",
-        "amount": 0
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1282555",
