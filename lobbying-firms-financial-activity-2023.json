@@ -8071,19 +8071,19 @@
     "clients": [
       {
         "name": "CALIFORNIA WATER ASSOCIATION",
-        "amount": 270000
+        "amount": 324000
       },
       {
         "name": "CENTRAL BASIN WATER ASSOCIATION",
-        "amount": 45352.64
+        "amount": 54352.64
       },
       {
         "name": "LIBERTY UTILITIES",
-        "amount": 51000
+        "amount": 54000
       },
       {
         "name": "NOSSAMAN LLP",
-        "amount": 40000
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -8111,6 +8111,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 79500
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 71000
       }
     ]
   },
@@ -17772,11 +17777,11 @@
     "clients": [
       {
         "name": "LYNWOOD CITY OF",
-        "amount": 60000
+        "amount": 80000
       },
       {
         "name": "UNIVERSITY OF MOLDOVA, INC.",
-        "amount": 80000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -17802,6 +17807,11 @@
       },
       {
         "quarter": "5",
+        "session": "2023",
+        "amount": 30000
+      },
+      {
+        "quarter": "6",
         "session": "2023",
         "amount": 30000
       }
