@@ -10583,14 +10583,14 @@
     "clients": [
       {
         "name": "INDEPENDENT PHARMACY COOPERATIVE",
-        "amount": 0
+        "amount": 500
       }
     ],
     "quarters": [
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 0
+        "amount": 500
       }
     ]
   },
@@ -32597,7 +32597,7 @@
     "clients": [
       {
         "name": "ABUNDANT HOUSING L.A.",
-        "amount": 24000
+        "amount": 48000
       },
       {
         "name": "CALIFORNIA CLT ACTION",
@@ -32605,15 +32605,15 @@
       },
       {
         "name": "CALIFORNIA COMMUNITY LAND TRUST NETWORK",
-        "amount": 70000
+        "amount": 94000
       },
       {
         "name": "SHARE!",
-        "amount": 24000
+        "amount": 48000
       },
       {
         "name": "UNITE HERE LOCAL 11",
-        "amount": 60000
+        "amount": 84000
       }
     ],
     "quarters": [
@@ -32645,7 +32645,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 94000
+        "amount": 96000
       }
     ]
   },
