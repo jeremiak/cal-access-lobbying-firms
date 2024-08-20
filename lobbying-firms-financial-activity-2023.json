@@ -1868,6 +1868,10 @@
         "amount": 30000
       },
       {
+        "name": "HSC PROPERTY OWNER LLC",
+        "amount": 7500
+      },
+      {
         "name": "IHG (INTERCONTINENTAL HOTELS GROUP)",
         "amount": 180683.15
       },
@@ -2077,7 +2081,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 2334174.56
+        "amount": 2341674.56
       }
     ]
   },
