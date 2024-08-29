@@ -4455,7 +4455,7 @@
     "clients": [
       {
         "name": "A.O. SMITH CORPORATION",
-        "amount": 285000
+        "amount": 270000
       },
       {
         "name": "AERA ENERGY, LLC",
@@ -4499,7 +4499,7 @@
       },
       {
         "name": "ELECTRIC HYDROGEN CO.",
-        "amount": 191500
+        "amount": 206500
       },
       {
         "name": "FAITH ELECTRIC, LLC",
@@ -10258,10 +10258,6 @@
         "amount": 23000
       },
       {
-        "name": "PMI GLOBAL SERVICES INC. AND AFFILIATES",
-        "amount": 0
-      },
-      {
         "name": "RIPPLE",
         "amount": 61000
       },
@@ -10278,6 +10274,10 @@
         "amount": 92332.91
       },
       {
+        "name": "SWEDISH MATCH NORTH AMERICA, LLC AND AFFILIATES",
+        "amount": 0
+      },
+      {
         "name": "TECHNET-TECHNOLOGY NETWORK",
         "amount": 44301.97
       },
@@ -10287,7 +10287,7 @@
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 52500
+        "amount": 37500
       },
       {
         "name": "VIVID SEATS LLC",
@@ -10316,7 +10316,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 1231206.76
+        "amount": 1216206.76
       }
     ]
   },
