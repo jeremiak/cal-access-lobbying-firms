@@ -15950,6 +15950,23 @@
     ]
   },
   {
+    "id": "1472280",
+    "name": "KAGAN; ARI",
+    "clients": [
+      {
+        "name": "ECONOMIC SECURITY CA ACTION",
+        "amount": 16120
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 16120
+      }
+    ]
+  },
+  {
     "id": "1318664",
     "name": "KAHN CONSULTING; CHRIS",
     "clients": [
