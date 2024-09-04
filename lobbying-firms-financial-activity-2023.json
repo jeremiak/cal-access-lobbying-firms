@@ -31677,7 +31677,7 @@
       },
       {
         "name": "UNIDOSUS",
-        "amount": 24000
+        "amount": 23014.58
       }
     ],
     "quarters": [
@@ -31709,7 +31709,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 145900
+        "amount": 144914.58
       }
     ]
   },
