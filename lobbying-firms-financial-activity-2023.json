@@ -1738,6 +1738,12 @@
     ]
   },
   {
+    "id": "1474732",
+    "name": "AVENIR ADVISORS LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1351264",
     "name": "AVM, L.P.",
     "clients": [],
@@ -19813,39 +19819,39 @@
     "clients": [
       {
         "name": "CENTRAL AMERICAN RESOURCE CENTER - CARECEN - OF CALIFORNIA",
-        "amount": 0
+        "amount": 10000
       },
       {
         "name": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS",
-        "amount": 0
+        "amount": 10668
       },
       {
         "name": "CONSUMER FEDERATION OF CALIFORNIA",
-        "amount": 4500
+        "amount": 18000
       },
       {
         "name": "INCLUSIVE ACTION FOR THE CITY",
-        "amount": 0
+        "amount": 15000
       },
       {
         "name": "LUMA ACTION OBO CENTRAL AMERICAN RESOURCE CENTER-CARECEN- OF CA",
-        "amount": 3000
+        "amount": 7500
       },
       {
         "name": "LUMA ACTION OBO IMMIGRANT LEGAL DEFENSE",
-        "amount": 3000
+        "amount": 7500
       },
       {
         "name": "PUBLIC INTEREST ADVOCATES OBO CA REINVESTMENT COALITION",
-        "amount": 3333.33
+        "amount": 8333.33
       },
       {
         "name": "PUBLIC INTEREST ADVOCATES OBO CA RURAL LEGAL ASSISTANCE FOUNDATION INC",
-        "amount": 3333.33
+        "amount": 8333.33
       },
       {
         "name": "PUBLIC INTEREST ADVOCATES OBO HOUSING AND ECONOMIC RIGHTS ADVOCATES (HERA)",
-        "amount": 3333.34
+        "amount": 8333.34
       }
     ],
     "quarters": [
@@ -19857,7 +19863,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 0
+        "amount": 73168
       }
     ]
   },
