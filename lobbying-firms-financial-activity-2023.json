@@ -2662,7 +2662,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STATE FIREFIGHTERS' ASSOCIATION",
-        "amount": 7000
+        "amount": 17500
       }
     ],
     "quarters": [
@@ -2670,6 +2670,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 7000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 10500
       }
     ]
   },
@@ -21678,6 +21683,12 @@
         "amount": 1181955.22
       }
     ]
+  },
+  {
+    "id": "1475047",
+    "name": "NINETY ONE CANADA, INC.",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1426013",
