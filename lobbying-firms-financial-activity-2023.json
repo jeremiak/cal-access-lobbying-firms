@@ -5512,6 +5512,124 @@
     ]
   },
   {
+    "id": "1418731",
+    "name": "CALIFORNIA PUBLIC POLICY GROUP, INC.",
+    "clients": [
+      {
+        "name": "BAKERSFIELD, CITY OF",
+        "amount": 136000
+      },
+      {
+        "name": "BEAUMONT, CITY OF",
+        "amount": 59500
+      },
+      {
+        "name": "BELMONT, CITY OF",
+        "amount": 80000
+      },
+      {
+        "name": "BURBANK-GLENDALE-PASADENA AIRPORT AUTHORITY",
+        "amount": 66400
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF RECREATION AND PARK DISTRICTS",
+        "amount": 127868.27
+      },
+      {
+        "name": "CARLSBAD, CITY OF",
+        "amount": 112250
+      },
+      {
+        "name": "CITY CLERK ASSOCIATION OF CALIFORNIA",
+        "amount": 57097.15
+      },
+      {
+        "name": "CORONA, CITY OF",
+        "amount": 99000
+      },
+      {
+        "name": "EASTVALE, CITY OF",
+        "amount": 99000
+      },
+      {
+        "name": "EL CERRITO, CITY OF",
+        "amount": 7000
+      },
+      {
+        "name": "FOSTER CITY, CITY OF",
+        "amount": 90000
+      },
+      {
+        "name": "HILLSBOROUGH, TOWN OF",
+        "amount": 80000
+      },
+      {
+        "name": "MERCED, CITY OF",
+        "amount": 104516.15
+      },
+      {
+        "name": "MOUNTAIN VIEW, CITY OF",
+        "amount": 143156.43
+      },
+      {
+        "name": "RANCHO CUCAMONGA, CITY OF",
+        "amount": 123590
+      },
+      {
+        "name": "RANCHO PALOS VERDES, CITY OF",
+        "amount": 80750
+      },
+      {
+        "name": "REDWOOD CITY, CITY OF",
+        "amount": 114000
+      },
+      {
+        "name": "ROSEVILLE, CITY OF",
+        "amount": 60000
+      },
+      {
+        "name": "SANTA ROSA, CITY OF",
+        "amount": 111300
+      },
+      {
+        "name": "VERNON, CITY OF",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2023",
+        "amount": 269306.15
+      },
+      {
+        "quarter": "2",
+        "session": "2023",
+        "amount": 261500
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 293100
+      },
+      {
+        "quarter": "4",
+        "session": "2023",
+        "amount": 249800
+      },
+      {
+        "quarter": "5",
+        "session": "2023",
+        "amount": 320300
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 407421.85
+      }
+    ]
+  },
+  {
     "id": "1234564",
     "name": "CALIFORNIA RESOURCE STRATEGIES, INC.",
     "clients": [
@@ -25250,124 +25368,6 @@
     "name": "REIMAGINE POWER, INC.",
     "clients": [],
     "quarters": []
-  },
-  {
-    "id": "1418731",
-    "name": "RENNE PUBLIC LAW GROUP, LLP, DBA RENNE PUBLIC POLICY GROUP",
-    "clients": [
-      {
-        "name": "BAKERSFIELD, CITY OF",
-        "amount": 136000
-      },
-      {
-        "name": "BEAUMONT, CITY OF",
-        "amount": 59500
-      },
-      {
-        "name": "BELMONT, CITY OF",
-        "amount": 80000
-      },
-      {
-        "name": "BURBANK-GLENDALE-PASADENA AIRPORT AUTHORITY",
-        "amount": 66400
-      },
-      {
-        "name": "CALIFORNIA ASSOCIATION OF RECREATION AND PARK DISTRICTS",
-        "amount": 127868.27
-      },
-      {
-        "name": "CARLSBAD, CITY OF",
-        "amount": 112250
-      },
-      {
-        "name": "CITY CLERK ASSOCIATION OF CALIFORNIA",
-        "amount": 57097.15
-      },
-      {
-        "name": "CORONA, CITY OF",
-        "amount": 99000
-      },
-      {
-        "name": "EASTVALE, CITY OF",
-        "amount": 99000
-      },
-      {
-        "name": "EL CERRITO, CITY OF",
-        "amount": 7000
-      },
-      {
-        "name": "FOSTER CITY, CITY OF",
-        "amount": 90000
-      },
-      {
-        "name": "HILLSBOROUGH, TOWN OF",
-        "amount": 80000
-      },
-      {
-        "name": "MERCED, CITY OF",
-        "amount": 104516.15
-      },
-      {
-        "name": "MOUNTAIN VIEW, CITY OF",
-        "amount": 143156.43
-      },
-      {
-        "name": "RANCHO CUCAMONGA, CITY OF",
-        "amount": 123590
-      },
-      {
-        "name": "RANCHO PALOS VERDES, CITY OF",
-        "amount": 80750
-      },
-      {
-        "name": "REDWOOD CITY, CITY OF",
-        "amount": 114000
-      },
-      {
-        "name": "ROSEVILLE, CITY OF",
-        "amount": 60000
-      },
-      {
-        "name": "SANTA ROSA, CITY OF",
-        "amount": 111300
-      },
-      {
-        "name": "VERNON, CITY OF",
-        "amount": 0
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2023",
-        "amount": 269306.15
-      },
-      {
-        "quarter": "2",
-        "session": "2023",
-        "amount": 261500
-      },
-      {
-        "quarter": "3",
-        "session": "2023",
-        "amount": 293100
-      },
-      {
-        "quarter": "4",
-        "session": "2023",
-        "amount": 249800
-      },
-      {
-        "quarter": "5",
-        "session": "2023",
-        "amount": 320300
-      },
-      {
-        "quarter": "6",
-        "session": "2023",
-        "amount": 407421.85
-      }
-    ]
   },
   {
     "id": "1461140",
