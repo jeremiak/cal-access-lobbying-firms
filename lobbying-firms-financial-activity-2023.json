@@ -15938,15 +15938,15 @@
       },
       {
         "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
-        "amount": 6000
+        "amount": 7000
       },
       {
         "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
-        "amount": 14400
+        "amount": 16800
       },
       {
         "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
-        "amount": 27000
+        "amount": 31500
       }
     ],
     "quarters": [
@@ -15977,6 +15977,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 7900
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 7900
       }
@@ -32410,7 +32415,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 100290
+        "amount": 114965
       }
     ],
     "quarters": [
@@ -32443,6 +32448,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 18750
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 14675
       }
     ]
   },
