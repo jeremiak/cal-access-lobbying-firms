@@ -13131,6 +13131,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -17526,15 +17531,15 @@
     "clients": [
       {
         "name": "JEA & ASSOCIATES",
-        "amount": 141580
+        "amount": 183080
       },
       {
         "name": "PUBLIC HOUSE CONSULTING",
-        "amount": 0
+        "amount": 12205.95
       },
       {
         "name": "STRATEGIC SOLUTIONS ADVISORS",
-        "amount": 52500
+        "amount": 63750
       }
     ],
     "quarters": [
@@ -17567,6 +17572,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 53750
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 64955.95
       }
     ]
   },
@@ -17816,7 +17826,7 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 76500
+        "amount": 89250
       }
     ],
     "quarters": [
@@ -17847,6 +17857,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 12750
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 12750
       }
@@ -24435,23 +24450,23 @@
     "clients": [
       {
         "name": "CALIFORNIA CANNABIS AUTHORITY",
-        "amount": 108000
+        "amount": 120000
       },
       {
         "name": "CONSCIOUS VENTURES",
-        "amount": 98350
+        "amount": 114350
       },
       {
         "name": "MYNA LIFE TECHNOLOGIES",
-        "amount": 0
+        "amount": 22500
       },
       {
         "name": "STATE ASSOCIATION OF COUNTY RETIREMENT SYSTEMS",
-        "amount": 0
+        "amount": 24837.14
       },
       {
         "name": "USHIO AMERICA, INC.",
-        "amount": 7500
+        "amount": 15000
       }
     ],
     "quarters": [
@@ -24484,6 +24499,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 47800
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 90337.14
       }
     ]
   },
@@ -29338,7 +29358,7 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 1500
+        "amount": 1750
       }
     ],
     "quarters": [
@@ -29369,6 +29389,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 250
       }
@@ -29613,7 +29638,7 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 113400
+        "amount": 132300
       },
       {
         "name": "PATHION HOLDINGS, INC.",
@@ -29648,6 +29673,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 18900
       }
