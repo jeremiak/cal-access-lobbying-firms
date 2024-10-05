@@ -19286,7 +19286,7 @@
     "clients": [
       {
         "name": "NATIONAL MULTIPLE SCLEROSIS SOCIETY",
-        "amount": 10883
+        "amount": 12233
       }
     ],
     "quarters": [
@@ -19319,6 +19319,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 2750
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 1350
       }
     ]
   },
