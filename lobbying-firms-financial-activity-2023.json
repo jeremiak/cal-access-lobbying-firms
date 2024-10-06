@@ -14918,7 +14918,7 @@
     "clients": [
       {
         "name": "SA RECYCLING, LLC",
-        "amount": 258821.23
+        "amount": 303821.23
       }
     ],
     "quarters": [
@@ -14949,6 +14949,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 45000
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 45000
       }
