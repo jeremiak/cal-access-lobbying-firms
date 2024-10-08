@@ -5,7 +5,7 @@
     "clients": [
       {
         "name": "SYCAMORE PARTNERS MANAGEMENT, LP",
-        "amount": 529099
+        "amount": 801475
       }
     ],
     "quarters": [
@@ -33,6 +33,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 272949
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 272376
       }
     ]
   },
@@ -2640,7 +2645,15 @@
       },
       {
         "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
-        "amount": 24944.8
+        "amount": 60944.8
+      },
+      {
+        "name": "GENERAL MOTORS LLC",
+        "amount": 0
+      },
+      {
+        "name": "LANG HANSEN GIROUX & KIDANE OBO HOLLYWOOD PARK CASINO LLC",
+        "amount": 12500
       }
     ],
     "quarters": [
@@ -2653,6 +2666,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 24944.8
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 48500
       }
     ]
   },
@@ -13009,23 +13027,23 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 165005
+        "amount": 192505
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 180000
+        "amount": 210000
       },
       {
         "name": "JURUPA COMMUNITY SERVICES DISTRICT",
-        "amount": 42000
+        "amount": 60000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 198000
+        "amount": 231000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 27000
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -13056,6 +13074,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 117500
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 117500
       }
@@ -15860,15 +15883,15 @@
     "clients": [
       {
         "name": "CALIFORNIA POLITICAL TREASURER'S ASSOCIATION",
-        "amount": 9000
+        "amount": 10500
       },
       {
         "name": "LIFELONG LEARNING ADMINISTRATION CORPORATION",
-        "amount": 180000
+        "amount": 210000
       },
       {
         "name": "NETFILE",
-        "amount": 22500
+        "amount": 26250
       },
       {
         "name": "SMARTER BALANCED ASSESSMENT CONSORTIUM",
@@ -15876,11 +15899,11 @@
       },
       {
         "name": "STRIDE, INC.",
-        "amount": 111288
+        "amount": 131838
       },
       {
         "name": "TEACH FOR AMERICA, INC.",
-        "amount": 79000
+        "amount": 91000
       }
     ],
     "quarters": [
@@ -15907,12 +15930,17 @@
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 66750
+        "amount": 67640
       },
       {
         "quarter": "6",
         "session": "2023",
         "amount": 88750
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 66910
       }
     ]
   },
@@ -17941,15 +17969,15 @@
     "clients": [
       {
         "name": "ANIMAL BLOOD BANK",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "NATIONAL PEACE OFFICERS AND FIREFIGHTERS BENEFIT ASSOCIATION",
-        "amount": 135000
+        "amount": 150000
       },
       {
         "name": "TRUE BLUE, INC.",
-        "amount": 75000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -17980,6 +18008,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 45000
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 45000
       }
@@ -20651,11 +20684,11 @@
     "clients": [
       {
         "name": "BP AMERICA, INC. AND AFFILIATED ENTITES",
-        "amount": 158545.14
+        "amount": 185545.14
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF ZOOS AND AQUARIUMS",
-        "amount": 56500
+        "amount": 70500
       },
       {
         "name": "CLEAN ENERGY SYSTEMS",
@@ -20663,31 +20696,31 @@
       },
       {
         "name": "POLITICAL SOLUTIONS ON BEHALF OF KERN ENERGY",
-        "amount": 131500.9
+        "amount": 158500.9
       },
       {
         "name": "POLITICAL SOLUTIONS ON BEHALF OF TRANE TECHNOLOGIES",
-        "amount": 85000
+        "amount": 100000
       },
       {
         "name": "RENEWELL ENERGY",
-        "amount": 72000
+        "amount": 82000
       },
       {
         "name": "SADLER CONSULTING ON BEHALF OF ARCHER DANIELS MIDLAND COMPANY",
-        "amount": 108000
+        "amount": 132000
       },
       {
         "name": "SADLER CONSULTING ON BEHALF OF NUCOR CORPORATION",
-        "amount": 72000
+        "amount": 84000
       },
       {
         "name": "SEAWORLD PARKS & ENTERTAINMENT",
-        "amount": 191136
+        "amount": 211136
       },
       {
         "name": "VOLTERA POWER LLC",
-        "amount": 26500
+        "amount": 41500
       }
     ],
     "quarters": [
@@ -20720,6 +20753,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 202136
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 164000
       }
     ]
   },
