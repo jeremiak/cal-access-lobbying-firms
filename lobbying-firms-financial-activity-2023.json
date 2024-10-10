@@ -2176,15 +2176,11 @@
     "clients": [
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 234000
+        "amount": 273000
       },
       {
-        "name": "PROSECUTORS ALLIANCE ACTION",
-        "amount": 165000
-      },
-      {
-        "name": "VETS, VETERANS EXPLORING TREATMENT OPTIONS",
-        "amount": 18000
+        "name": "PROSECUTORS ALLIANCE ACTION PROJECT OF THE TIDES ADVOCACY",
+        "amount": 65000
       }
     ],
     "quarters": [
@@ -2207,6 +2203,11 @@
         "quarter": "5",
         "session": "2023",
         "amount": 69000
+      },
+      {
+        "quarter": "6",
+        "session": "2023",
+        "amount": 54000
       },
       {
         "quarter": "6",
@@ -3492,6 +3493,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 0
       }
@@ -28839,7 +28845,7 @@
     "clients": [
       {
         "name": "AGEE GLOBAL SOLUTIONS",
-        "amount": 99000
+        "amount": 49500
       }
     ],
     "quarters": [
@@ -28870,6 +28876,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 16500
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 16500
       }
@@ -31576,19 +31587,19 @@
     "clients": [
       {
         "name": "ALLIED MANAGED CARE AND ACCLAMATION INSURANCE MANAGEMENT SERVICES",
-        "amount": 64050
+        "amount": 75075
       },
       {
         "name": "AMERICAN CONTRACTORS INDEMNITY COMPANY",
-        "amount": 6000
+        "amount": 18000
       },
       {
         "name": "COALITION OF SMALL AND DISABLED VETERAN BUSINESSES",
-        "amount": 9500
+        "amount": 10500
       },
       {
         "name": "FLASHER BARRICADE ASSOCIATION",
-        "amount": 20016.96
+        "amount": 23191.96
       }
     ],
     "quarters": [
@@ -31621,6 +31632,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 16200
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 27200
       }
     ]
   },
@@ -32689,39 +32705,39 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 50310
+        "amount": 60060
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 74000
+        "amount": 92000
       },
       {
         "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 20250
+        "amount": 21000
       },
       {
         "name": "LAWYERS' COMMITTEE FOR CIVIL RIGHTS OF THE SAN FRANCISCO BAY AREA",
-        "amount": 96600
+        "amount": 173100
       },
       {
         "name": "MINSKER CONSULTING",
-        "amount": 15000
+        "amount": 24000
       },
       {
         "name": "ROOT & REBOUND",
-        "amount": 20000
+        "amount": 24000
       },
       {
-        "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE IN-PRISON WORKGROUP)",
-        "amount": 99156
+        "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE PROGRAMING WORKS)",
+        "amount": 117156
       },
       {
         "name": "VERA ACTION",
-        "amount": 7500
+        "amount": 12000
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 51500
+        "amount": 68000
       }
     ],
     "quarters": [
@@ -32754,6 +32770,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 122750
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 157000
       }
     ]
   },
