@@ -813,6 +813,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 1567.64
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -11927,6 +11932,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -14941,6 +14951,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 0
       }
