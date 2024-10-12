@@ -5480,31 +5480,27 @@
       },
       {
         "name": "ANZA-BORREGO FOUNDATION; THE",
-        "amount": 7500
-      },
-      {
-        "name": "CALIFORNIA AFRICAN AMERICAN CHAMBER OF COMMERCE",
-        "amount": 70500
+        "amount": 22500
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF ORTHODONTISTS",
-        "amount": 85000
+        "amount": 105000
       },
       {
         "name": "CELEBRITY CASINOS",
-        "amount": 27000
+        "amount": 31500
       },
       {
         "name": "CHEVRON U.S.A. INC. AND AFFILIATES",
-        "amount": 45000
+        "amount": 52500
       },
       {
         "name": "GREATER SACRAMENTO URBAN LEAGUE",
-        "amount": 46500
+        "amount": 52470
       },
       {
         "name": "OCEAN'S ELEVEN CASINO",
-        "amount": 23000
+        "amount": 27500
       }
     ],
     "quarters": [
@@ -5537,6 +5533,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 43000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 57470
       }
     ]
   },
@@ -13934,11 +13935,11 @@
     "clients": [
       {
         "name": "GOLDEN STATE POWER COOPERATIVE, JESSICA",
-        "amount": 36000
+        "amount": 42000
       },
       {
         "name": "NORTHERN CA POWER AGENCY, JANE DUNN",
-        "amount": 297000
+        "amount": 330000
       }
     ],
     "quarters": [
@@ -13971,6 +13972,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 55500
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 39000
       }
     ]
   },
@@ -15545,13 +15551,22 @@
     "name": "IMPACT",
     "clients": [
       {
+        "name": "CALIFORNIA COUNCIL FOR INTERIOR DESIGN CERTIFICATION",
+        "amount": 0
+      },
+      {
         "name": "CALIFORNIA LEGISLATIVE COALITION FOR INTERIOR DESIGNERS",
-        "amount": 15000
+        "amount": 30000
       }
     ],
     "quarters": [
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 15000
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 15000
       }
@@ -18843,7 +18858,7 @@
     "clients": [
       {
         "name": "LYLES, WIESMANN, PIZZOTTI AND ASSOCIATES, INC.",
-        "amount": 42000
+        "amount": 63000
       }
     ],
     "quarters": [
@@ -18874,6 +18889,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 21000
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 21000
       }
@@ -19165,6 +19185,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 0
       }
@@ -22475,31 +22500,35 @@
     "clients": [
       {
         "name": "AMERICAN RECYCLABLE PLASTIC BAG ALLIANCE",
-        "amount": 20000
+        "amount": 50000
+      },
+      {
+        "name": "CALIFORNIA BUSINESS ROUNDTABLE",
+        "amount": 10000
       },
       {
         "name": "COACHELLA; CITY OF",
-        "amount": 90000
+        "amount": 95000
       },
       {
         "name": "CONTROLLED THERMAL RESOURCES (US) INC",
-        "amount": 135000
+        "amount": 142500
       },
       {
         "name": "DAP HEALTH",
-        "amount": 100000
+        "amount": 115000
       },
       {
         "name": "NEXTGEN CLIMATE AMERCIA, INC.",
-        "amount": 116500
+        "amount": 142500
       },
       {
         "name": "PICO RIVERA; CITY OF",
-        "amount": 115780
+        "amount": 130780
       },
       {
         "name": "SALTON SEA AUTHORITY",
-        "amount": 105000
+        "amount": 126000
       }
     ],
     "quarters": [
@@ -22532,6 +22561,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 149500
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 129500
       }
     ]
   },
