@@ -7600,7 +7600,7 @@
       },
       {
         "name": "PHYSICIAN ASSOCIATION OF CALIFORNIA (PAC)",
-        "amount": 0
+        "amount": 46339.25
       },
       {
         "name": "PRIME THERAPEUTICS, LLC",
@@ -7736,7 +7736,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 2702067.71
+        "amount": 2748406.96
       }
     ]
   },
@@ -8406,15 +8406,15 @@
     "clients": [
       {
         "name": "AMERICAN AUTOMOBILE ASSOCIATION OF NORTHERN CALIFORNIA, NEVADA &  UTAH",
-        "amount": 237600
+        "amount": 277200
       },
       {
         "name": "BD",
-        "amount": 160000
+        "amount": 184000
       },
       {
         "name": "BLUETRITON BRANDS, INC",
-        "amount": 190000
+        "amount": 220000
       },
       {
         "name": "BOOKING.COM, B.V.",
@@ -8422,51 +8422,51 @@
       },
       {
         "name": "C&C NORTH AMERICA, INC. DBA COSENTINO",
-        "amount": 70564.6
+        "amount": 95564.6
       },
       {
         "name": "CALIFORNIA ASPHALT PAVEMENT ASSOCIATION",
-        "amount": 76072
+        "amount": 94594
       },
       {
         "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
-        "amount": 425485.95
+        "amount": 500485.95
       },
       {
         "name": "DAIKIN U.S. CORPORATION",
-        "amount": 198000
+        "amount": 231000
       },
       {
         "name": "IN-N-OUT BURGERS",
-        "amount": 378648.52
+        "amount": 441381
       },
       {
         "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
-        "amount": 135336.35
+        "amount": 156336.35
       },
       {
         "name": "KROLL GOVERNMENT SOLUTIONS",
-        "amount": 150000
+        "amount": 160000
       },
       {
         "name": "LIVE NATION ENTERTAINMENT, INC",
-        "amount": 221520
+        "amount": 259020
       },
       {
         "name": "MAXIMUS, INC.",
-        "amount": 135000
+        "amount": 157500
       },
       {
         "name": "MEDTRONIC, INC.",
-        "amount": 182173.87
+        "amount": 212173.87
       },
       {
         "name": "NU STAR ENERGY, L.P.",
-        "amount": 90000
+        "amount": 110000
       },
       {
         "name": "RINNAI AMERICA CORPORATION",
-        "amount": 0
+        "amount": 27000
       },
       {
         "name": "SCHNEIDER ELECTRIC USA, INC.",
@@ -8474,35 +8474,35 @@
       },
       {
         "name": "THE DOW CHEMICAL COMPANY, DBA DOW",
-        "amount": 76000
+        "amount": 84000
       },
       {
         "name": "TOYOTA MOTOR NORTH AMERICA, INC.",
-        "amount": 225166.79
+        "amount": 262666.79
       },
       {
         "name": "TRC OPERATING COMPANY, INC.",
-        "amount": 90000
+        "amount": 105000
       },
       {
         "name": "U.S. POLYCO, INC.",
-        "amount": 72000
+        "amount": 84000
       },
       {
         "name": "U.S. TIRE MANUFACTURERS ASSOCIATION",
-        "amount": 180000
+        "amount": 210000
       },
       {
         "name": "VALERO SERVICES, INC",
-        "amount": 330733.16
+        "amount": 452801.6
       },
       {
         "name": "VALLEY WATER MANAGEMENT COMPANY",
-        "amount": 180000
+        "amount": 220000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 540000
+        "amount": 600000
       }
     ],
     "quarters": [
@@ -8535,6 +8535,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 735380.63
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 800422.92
       }
     ]
   },
@@ -9449,7 +9454,7 @@
     "clients": [
       {
         "name": "COUNCIL OF CALIFORNIA COUNTY LAW LIBRARIANS",
-        "amount": 74750
+        "amount": 84500
       },
       {
         "name": "SHAW, YODER, ANWITH, SCHMELZER, & LANGE, INC.",
@@ -9486,6 +9491,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 13000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 9750
       }
     ]
   },
@@ -11436,23 +11446,23 @@
     "clients": [
       {
         "name": "AMERICAN ALLIANCE DRUG TESTING",
-        "amount": 47250
+        "amount": 57750
       },
       {
         "name": "ASCEND LEARNING",
-        "amount": 42500
+        "amount": 50000
       },
       {
         "name": "CALIFORNIA TOW TRUCK ASSOCIATION",
-        "amount": 216000
+        "amount": 240000
       },
       {
         "name": "COALITION OF ACCREDITED LANGUAGE TRAINING PROGRAMS",
-        "amount": 21561
+        "amount": 22061
       },
       {
         "name": "CONCORDE CAREER COLLEGES",
-        "amount": 60000
+        "amount": 69000
       },
       {
         "name": "COSTCO WHOLESALE",
@@ -11460,47 +11470,47 @@
       },
       {
         "name": "GORDIAN GROUP, THE",
-        "amount": 108000
+        "amount": 126000
       },
       {
         "name": "INGLEWOOD, CITY OF",
-        "amount": 95000
+        "amount": 110000
       },
       {
         "name": "LA CANADA FLINTRIDGE, CITY OF",
-        "amount": 45000
+        "amount": 52500
       },
       {
         "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
-        "amount": 468752
+        "amount": 524378
       },
       {
         "name": "SANTEE, CITY OF",
-        "amount": 27000
+        "amount": 31500
       },
       {
         "name": "THOMSON REUTERS",
-        "amount": 56000
+        "amount": 64000
       },
       {
         "name": "TRITON MANAGEMENT SERVICES, LLC",
-        "amount": 57000
+        "amount": 66000
       },
       {
         "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
-        "amount": 108800
+        "amount": 134400
       },
       {
         "name": "UNIVERSAL TECHNICAL INSTITUTE",
-        "amount": 36000
+        "amount": 45000
       },
       {
         "name": "USCB, INC.",
-        "amount": 63000
+        "amount": 69000
       },
       {
         "name": "WESTERN STATES TRUCKING ASSOCIATION",
-        "amount": 47250
+        "amount": 57750
       }
     ],
     "quarters": [
@@ -11533,6 +11543,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 274052
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 220226
       }
     ]
   },
@@ -18211,7 +18226,7 @@
       },
       {
         "name": "CALIFORNIA COALITION FOR YOUTH",
-        "amount": 17000
+        "amount": 18000
       },
       {
         "name": "CHILDREN NOW",
@@ -18251,7 +18266,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 29775
+        "amount": 30775
       }
     ]
   },
@@ -26041,7 +26056,7 @@
     "clients": [
       {
         "name": "CLEAR CHANNEL OUTDOOR, LLC",
-        "amount": 60000
+        "amount": 72000
       }
     ],
     "quarters": [
@@ -26074,6 +26089,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 3000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 12000
       }
     ]
   },
@@ -29156,6 +29176,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 25500
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 25500
       }
     ]
   },
@@ -32004,11 +32029,11 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF SHEET METAL AND AIR CONDITIONING CONTRACTORS NATIONAL ASSOCIATION",
-        "amount": 223491.68
+        "amount": 261983.72
       },
       {
         "name": "CALIFORNIA CRAFT BREWERS ASSOCIATION",
-        "amount": 162000
+        "amount": 189000
       }
     ],
     "quarters": [
@@ -32041,6 +32066,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 64737.12
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 65492.04
       }
     ]
   },
@@ -32166,6 +32196,10 @@
       {
         "name": "GIFFORDS",
         "amount": 25000
+      },
+      {
+        "name": "GIFFORDS",
+        "amount": 26000
       }
     ],
     "quarters": [
@@ -32178,6 +32212,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 25000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 26000
       }
     ]
   },
