@@ -10314,83 +10314,83 @@
     "clients": [
       {
         "name": "ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS; THE",
-        "amount": 73682.58
+        "amount": 85932.58
       },
       {
         "name": "AUDIOEYE",
-        "amount": 0
+        "amount": 30500
       },
       {
         "name": "AURORA INNOVATION, INC.",
-        "amount": 87500
+        "amount": 125000
       },
       {
         "name": "BEACH CITIES HEALTH DISTRICT",
-        "amount": 13500
+        "amount": 26750
       },
       {
         "name": "BLOCK, INC.",
-        "amount": 86250
+        "amount": 146750
       },
       {
         "name": "CALASIAN CHAMBER OF COMMERCE",
-        "amount": 71000
+        "amount": 100000
       },
       {
         "name": "CALIDI BIOTHERAPEUTICS INC",
-        "amount": 51250
+        "amount": 69500
       },
       {
         "name": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES",
-        "amount": 43000
+        "amount": 64500
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF VETERAN SERVICE AGENCIES",
-        "amount": 29000
+        "amount": 38961.99
       },
       {
         "name": "CALIFORNIA CHOICE ENERGY AUTHORITY (CALCHOICE)",
-        "amount": 40000
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA COUNCIL ON SCIENCE & TECHNOLOGY",
-        "amount": 20750
+        "amount": 31000
       },
       {
         "name": "CARE.COM INC.",
-        "amount": 61500
+        "amount": 102000
       },
       {
         "name": "DATA CENTER COALITION",
-        "amount": 52000
+        "amount": 78000
       },
       {
         "name": "DESERT HEALTHCARE DISTRICT",
-        "amount": 67500
+        "amount": 96500
       },
       {
         "name": "ELECTRIC ERA TECHNOLOGIES, INC",
-        "amount": 42500
+        "amount": 56000
       },
       {
         "name": "EOS ENERGY ENTERPRISES, INC.",
-        "amount": 46000
+        "amount": 106500
       },
       {
         "name": "ETSY",
-        "amount": 61500
+        "amount": 92000
       },
       {
         "name": "EXXON MOBIL CORPORATION",
-        "amount": 96671
+        "amount": 132671
       },
       {
         "name": "GEOGRAPHIC SOLUTIONS, INC",
-        "amount": 28000
+        "amount": 42000
       },
       {
         "name": "HEARTH, PATIO & BARBECUE ASSOCIATION PACIFIC",
-        "amount": 10750
+        "amount": 18500
       },
       {
         "name": "HIGHLANDS COMMUNITY CHARTER AND TECHNICAL SCHOOLS",
@@ -10398,99 +10398,107 @@
       },
       {
         "name": "HIMS, INC.",
-        "amount": 70000
+        "amount": 100000
+      },
+      {
+        "name": "HIPPOCRATIC AI",
+        "amount": 17661.25
       },
       {
         "name": "INSURANCE ACCESS AND EQUITY ALLIANCE",
-        "amount": 0
+        "amount": 20000
       },
       {
         "name": "JOHN MUIR CHARTER SCHOOLS",
-        "amount": 70500
+        "amount": 113000
       },
       {
         "name": "KIPP SOCAL PUBLIC SCHOOLS",
-        "amount": 90110
+        "amount": 90610
       },
       {
         "name": "LYFT, INC.",
-        "amount": 50250
+        "amount": 80250
       },
       {
         "name": "MAPLEBEAR INC., DBA INSTACART",
-        "amount": 41250
+        "amount": 63750
       },
       {
         "name": "MAXIM HEALTHCARE SERVICES, INC.",
-        "amount": 65000
+        "amount": 89500
       },
       {
         "name": "NONPROFITS' INSURANCE ALLIANCE OF CALIFORNIA",
-        "amount": 17596.76
+        "amount": 45346.76
       },
       {
         "name": "OPENAI OPCO, LLC",
-        "amount": 31750
+        "amount": 69750
       },
       {
         "name": "OUTSCHOOL, INC",
-        "amount": 49000
+        "amount": 73500
       },
       {
         "name": "PALM DESERT, CITY OF",
-        "amount": 16000
+        "amount": 16500
       },
       {
         "name": "PIONEER HEALTHCARE DISTRICTS",
-        "amount": 38500
+        "amount": 54000
       },
       {
         "name": "PLUMAS HOSPITAL DISTRICT",
-        "amount": 23000
+        "amount": 23250
+      },
+      {
+        "name": "PROJECT WAYFINDER, INC.",
+        "amount": 20500
       },
       {
         "name": "RIPPLE",
-        "amount": 61000
+        "amount": 91500
       },
       {
         "name": "RIVIAN",
-        "amount": 57500
+        "amount": 82000
       },
       {
         "name": "SAN JACINTO, CITY OF",
-        "amount": 25750
+        "amount": 46500
       },
       {
         "name": "SAN MANUEL BAND OF MISSION INDIANS",
-        "amount": 92332.91
+        "amount": 152332.91
       },
       {
         "name": "SWEDISH MATCH NORTH AMERICA, LLC AND AFFILIATES",
-        "amount": 0
+        "amount": 60000
       },
       {
         "name": "TECHNET-TECHNOLOGY NETWORK",
-        "amount": 44301.97
+        "amount": 69801.97
       },
       {
         "name": "VARCOMM",
-        "amount": 16000
+        "amount": 24000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 37500
+        "amount": 67500
       },
       {
         "name": "VIVID SEATS LLC",
-        "amount": 64500
+        "amount": 92000
       },
       {
         "name": "WORKDAY, INC.",
-        "amount": 48750
+        "amount": 73000
       },
       {
         "name": "ZOOM, INC",
-        "amount": 41250
+        "amount": 71750
       }
     ],
     "quarters": [
@@ -10508,6 +10516,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 1216206.76
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 1176873.24
       }
     ]
   },
@@ -20400,11 +20413,11 @@
       },
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 244249.27
+        "amount": 308474.81
       },
       {
         "name": "UNCOMMON LAW",
-        "amount": 56000
+        "amount": 80000
       }
     ],
     "quarters": [
@@ -20437,6 +20450,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 56000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 88225.54
       }
     ]
   },
@@ -22106,8 +22124,19 @@
   {
     "id": "1471402",
     "name": "NOMURA CAPITAL MANAGEMENT LLC (\"NCM\")",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "NOMURA CORPORATE RESEARCH AND ASSET MANAGEMENT INC.",
+        "amount": 194063.19
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 194063.19
+      }
+    ]
   },
   {
     "id": "1264591",
@@ -27762,7 +27791,7 @@
     "clients": [
       {
         "name": "AIRBUS HELICOPTERS, INC.",
-        "amount": 143146.62
+        "amount": 168882.81
       }
     ],
     "quarters": [
@@ -27795,6 +27824,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 34853.8
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 25736.19
       }
     ]
   },
