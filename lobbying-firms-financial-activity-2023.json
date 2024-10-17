@@ -2714,7 +2714,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 9085
+        "amount": 10904
       }
     ],
     "quarters": [
@@ -2747,6 +2747,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 1819
       }
     ]
   },
@@ -8804,8 +8809,12 @@
     "name": "CATBIRD STRATEGIES LLC",
     "clients": [
       {
+        "name": "CALIFORNIA ASSOCIATION FOR ADULT DAY SERVICES",
+        "amount": 15000
+      },
+      {
         "name": "COUNTY OF ALAMEDA",
-        "amount": 37500
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -8818,6 +8827,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 15000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 37500
       }
     ]
   },
@@ -9023,6 +9037,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 500
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -27482,6 +27501,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -27491,7 +27515,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 37685
+        "amount": 40262
       }
     ],
     "quarters": [
@@ -27524,6 +27548,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 5154
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 2577
       }
     ]
   },
@@ -32906,7 +32935,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 120000
+        "amount": 142500
       }
     ],
     "quarters": [
@@ -32937,6 +32966,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 22500
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 22500
       }
