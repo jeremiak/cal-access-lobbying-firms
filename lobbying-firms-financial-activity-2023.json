@@ -4185,7 +4185,7 @@
       },
       {
         "name": "WELLHEAD ELECTRIC COMPANY, INC",
-        "amount": 19013.97
+        "amount": 18000
       },
       {
         "name": "WESTERN UNITED DAIRIES",
@@ -4221,7 +4221,7 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 181821.94
+        "amount": 180807.97
       }
     ]
   },
@@ -7783,7 +7783,7 @@
     "clients": [
       {
         "name": "ABINE, INC. DBA DELETEME",
-        "amount": 7500
+        "amount": 18000
       },
       {
         "name": "ARIZONA STATE UNIVERSITY AND AFFILIATED ENTITIES",
@@ -7791,31 +7791,31 @@
       },
       {
         "name": "AXIOM ADVISORS",
-        "amount": 170000
+        "amount": 200000
       },
       {
         "name": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA HEALTH + ADVOCATES",
-        "amount": 163000
+        "amount": 190000
       },
       {
         "name": "CALIFORNIA PROFESSIONAL FIREFIGHTERS",
-        "amount": 780340.06
+        "amount": 916366.06
       },
       {
         "name": "CALIFORNIA STATE UNIVERSITY EMPLOYEES UNION (CSUEU)",
-        "amount": 144000
+        "amount": 168000
       },
       {
         "name": "CALIFORNIANS FOR CONSUMER PRIVACY/ALASTAIR MACTAGGART, CHAIR",
-        "amount": 90000
+        "amount": 105000
       },
       {
         "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
-        "amount": 126000
+        "amount": 140000
       },
       {
         "name": "DAILYPAY, INC.",
-        "amount": 100000
+        "amount": 140000
       },
       {
         "name": "KEMP, TOM",
@@ -7823,11 +7823,11 @@
       },
       {
         "name": "LOS ANGELES LGBT CENTER",
-        "amount": 25000
+        "amount": 40000
       },
       {
         "name": "WRITERS GUILD OF AMERICA, WEST, INC.",
-        "amount": 96000
+        "amount": 120000
       }
     ],
     "quarters": [
@@ -7860,6 +7860,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 397165.06
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 335526
       }
     ]
   },
@@ -11617,23 +11622,23 @@
       },
       {
         "name": "CITY OF CORONADO",
-        "amount": 92901.73
+        "amount": 108201.73
       },
       {
         "name": "CITY OF GLENDALE",
-        "amount": 137652.73
+        "amount": 137652.79
       },
       {
         "name": "CITY OF PASADENA",
-        "amount": 101196.06
+        "amount": 18716.06
       },
       {
         "name": "CITY OF SAN MARCOS",
-        "amount": 65662.8
+        "amount": 78581
       },
       {
         "name": "CITY OF SAN RAFAEL /MARIN COUNTY COUNCIL OF MAYORS AND COUNCIL MEMBERS",
-        "amount": 60226
+        "amount": 75581
       },
       {
         "name": "CITY OF SOLANA BEACH",
@@ -11641,15 +11646,19 @@
       },
       {
         "name": "CITY OF STOCKTON",
-        "amount": 159375
+        "amount": 186450
+      },
+      {
+        "name": "REMY THOMAS & MOOSE ATTORNEYS",
+        "amount": 12250
       },
       {
         "name": "TOWN OF MAMMOTH LAKES",
-        "amount": 41643.18
+        "amount": 118716.06
       },
       {
         "name": "TOWN OF TRUCKEE",
-        "amount": 64886.35
+        "amount": 75782.53
       }
     ],
     "quarters": [
@@ -11682,6 +11691,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 148718.12
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 154096.18
       }
     ]
   },
@@ -15973,7 +15987,7 @@
     "clients": [
       {
         "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
-        "amount": 97800
+        "amount": 116700
       }
     ],
     "quarters": [
@@ -16004,6 +16018,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 18900
       }
@@ -19528,7 +19547,7 @@
     "clients": [
       {
         "name": "COUNTY OF SANTA CLARA",
-        "amount": 178500
+        "amount": 210000
       }
     ],
     "quarters": [
@@ -19561,6 +19580,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 21000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 31500
       }
     ]
   },
@@ -20595,7 +20619,7 @@
     "clients": [
       {
         "name": "FFF ENTERPRISES, INC.",
-        "amount": 36168.15
+        "amount": 41334.81
       },
       {
         "name": "KIDS READ NOW INC.",
@@ -20607,7 +20631,7 @@
       },
       {
         "name": "SANDOZ INC.",
-        "amount": 14425.72
+        "amount": 16225.72
       }
     ],
     "quarters": [
@@ -20640,6 +20664,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 12989.33
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 6966.66
       }
     ]
   },
@@ -24391,6 +24420,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 0
       }
@@ -28552,7 +28586,7 @@
       },
       {
         "name": "INDIGO AG, INC.",
-        "amount": 12439
+        "amount": 15202
       }
     ],
     "quarters": [
@@ -28585,6 +28619,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 1525
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 2763
       }
     ]
   },
@@ -31335,11 +31374,11 @@
     "clients": [
       {
         "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
-        "amount": 243509.49
+        "amount": 282916.08
       },
       {
         "name": "EDVOICE",
-        "amount": 113994
+        "amount": 132993
       }
     ],
     "quarters": [
@@ -31372,6 +31411,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 57999
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 58405.59
       }
     ]
   },
@@ -33184,15 +33228,15 @@
     "clients": [
       {
         "name": "CALIFORNIA COALITION FOR WORKER POWER",
-        "amount": 113800
+        "amount": 131800
       },
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 68332
+        "amount": 123331
       },
       {
         "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION",
-        "amount": 241192.2
+        "amount": 287957.34
       },
       {
         "name": "ONE FAIR WAGE",
@@ -33200,7 +33244,7 @@
       },
       {
         "name": "TECHEQUITY ACTION",
-        "amount": 51000
+        "amount": 75000
       },
       {
         "name": "TRUTH AND JUSTICE IN CHILD SUPPORT COALITION",
@@ -33208,7 +33252,7 @@
       },
       {
         "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
-        "amount": 66000
+        "amount": 82500
       }
     ],
     "quarters": [
@@ -33241,6 +33285,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 111952.04
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 160264.14
       }
     ]
   },
