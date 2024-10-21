@@ -8060,43 +8060,47 @@
     "clients": [
       {
         "name": "3M COMPANY",
-        "amount": 75000
+        "amount": 90000
       },
       {
         "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "amount": 204000
+        "amount": 246000
       },
       {
         "name": "CIGAR ASSOCIATION OF AMERICA",
-        "amount": 144000
+        "amount": 168000
       },
       {
         "name": "COALITION FOR TICKET FAIRNESS",
-        "amount": 82500
+        "amount": 106077.7
       },
       {
         "name": "GENERAL MOTORS COMPANY",
-        "amount": 0
+        "amount": 30000
       },
       {
         "name": "IHEART MEDIA",
-        "amount": 42000
+        "amount": 64500
       },
       {
         "name": "JUUL LABS",
-        "amount": 240932.31
+        "amount": 280932.31
       },
       {
         "name": "NATIONAL VISION, INC., FIRSTSIGHT VISION SERVICES, INC. & AFFILIATES",
-        "amount": 238500
+        "amount": 270000
       },
       {
         "name": "SAN YSIDRO HEALTH",
-        "amount": 170000
+        "amount": 210000
       },
       {
         "name": "SANTA YNEZ BAND OF CHUMASH INDIANS",
-        "amount": 175345.7
+        "amount": 199345.7
+      },
+      {
+        "name": "SOLVENTUM CORPORATION",
+        "amount": 0
       }
     ],
     "quarters": [
@@ -8129,6 +8133,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 264000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 292577.7
       }
     ]
   },
