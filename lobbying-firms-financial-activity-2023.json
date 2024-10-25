@@ -1500,7 +1500,7 @@
     "clients": [
       {
         "name": "AF GROUP",
-        "amount": 129000
+        "amount": 146000
       },
       {
         "name": "BHE RENEWABLES",
@@ -1536,7 +1536,7 @@
       },
       {
         "name": "NORC AT THE UNIVERSITY OF CHICAGO",
-        "amount": 40000
+        "amount": 60000
       },
       {
         "name": "REACH REDLANDS LLC",
@@ -1548,11 +1548,11 @@
       },
       {
         "name": "SAN FRANCISCO GENERAL HOSPITAL FOUNDATION",
-        "amount": 120000
+        "amount": 141666
       },
       {
         "name": "SENTRY INSURANCE COMPANY",
-        "amount": 80000
+        "amount": 104000
       },
       {
         "name": "SOCIAL COMPASSION IN LEGISLATION (SCIL)",
@@ -1564,7 +1564,7 @@
       },
       {
         "name": "ZURICH AMERICAN INSURANCE COMPANY",
-        "amount": 120000
+        "amount": 136000
       }
     ],
     "quarters": [
@@ -1597,6 +1597,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 202196.5
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 98666
       }
     ]
   },
@@ -3864,7 +3869,7 @@
     "clients": [
       {
         "name": "2U",
-        "amount": 220000
+        "amount": 240000
       }
     ],
     "quarters": [
@@ -3897,6 +3902,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 10000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 20000
       }
     ]
   },
@@ -13011,15 +13021,15 @@
     "clients": [
       {
         "name": "CALIFORNIA BOWMEN HUNTERS/STATE ARCHERY ASSOCIATION",
-        "amount": 28750
+        "amount": 33750
       },
       {
         "name": "CALIFORNIA CHAPTER WILD SHEEP FOUNDATION",
-        "amount": 15000
+        "amount": 35000
       },
       {
         "name": "CALIFORNIA DEER ASSOCIATION",
-        "amount": 30000
+        "amount": 35000
       },
       {
         "name": "CALIFORNIA HAWKING CLUB",
@@ -13027,11 +13037,11 @@
       },
       {
         "name": "CALIFORNIA HOUNDSMEN FOR CONSERVATION",
-        "amount": 37500
+        "amount": 43750
       },
       {
         "name": "ROCKY MOUNTAIN ELK FOUNDATION",
-        "amount": 20000
+        "amount": 40000
       },
       {
         "name": "SAN FRANCISCO BAY AREA CHAPTER - SAFARI CLUB INTERNATIONAL",
@@ -13068,6 +13078,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 16250
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 56250
       }
     ]
   },
@@ -14902,7 +14917,7 @@
     "clients": [
       {
         "name": "WHOLE CONSULTING",
-        "amount": 11000
+        "amount": 27500
       }
     ],
     "quarters": [
@@ -14910,6 +14925,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 11000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 16500
       }
     ]
   },
@@ -15857,31 +15877,31 @@
     "clients": [
       {
         "name": "CITY OF SEASIDE",
-        "amount": 45500
+        "amount": 80500
       },
       {
         "name": "COUNTY OF SAN BENITO",
-        "amount": 7974.59
+        "amount": 109874.59
       },
       {
         "name": "LANCE-KASHIAN & CO",
-        "amount": 85000
+        "amount": 100000
       },
       {
         "name": "MONTEREY PENINSULA WATER MANAGEMENT DISTRICT",
-        "amount": 61200
+        "amount": 70200
       },
       {
         "name": "SALINAS, CITY OF",
-        "amount": 66000
+        "amount": 79500
       },
       {
         "name": "SANBERNARDINO",
-        "amount": 49000
+        "amount": 42000
       },
       {
         "name": "WATSONVILLE, CITY OF",
-        "amount": 104038
+        "amount": 139038
       }
     ],
     "quarters": [
@@ -15914,6 +15934,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 142612.59
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 137500
       }
     ]
   },
@@ -16674,12 +16699,16 @@
         "amount": 67000
       },
       {
+        "name": "MERCURY PUBLIC AFFAIRS",
+        "amount": 24000
+      },
+      {
         "name": "NATIONAL ELEVATOR INDUSTRY, INC.",
         "amount": 85660.86
       },
       {
         "name": "NIELSEN, MERKSAMER, PARRINELLO, GROSS & LEONI LLP",
-        "amount": 199000
+        "amount": 175000
       },
       {
         "name": "NISEI FARMERS LEAGUE",
