@@ -3109,11 +3109,11 @@
     "clients": [
       {
         "name": "ENERGY FOUNDATION",
-        "amount": 409080.06
+        "amount": 546580.07
       },
       {
         "name": "INDUSTRIOUS LABS",
-        "amount": 37980.75
+        "amount": 40795.8
       }
     ],
     "quarters": [
@@ -3146,6 +3146,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 71302.36
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 140315.06
       }
     ]
   },
@@ -14778,7 +14783,7 @@
     "clients": [
       {
         "name": "HARBOR FREIGHT TOOLS USA, INC.",
-        "amount": 20100
+        "amount": 22650
       }
     ],
     "quarters": [
@@ -14806,6 +14811,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 12750
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 2550
       }
     ]
   },
@@ -16888,7 +16898,7 @@
     "clients": [
       {
         "name": "HNTB CORPORATION",
-        "amount": 25480
+        "amount": 27930
       }
     ],
     "quarters": [
@@ -16921,6 +16931,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 3850
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 2450
       }
     ]
   },
@@ -21431,6 +21446,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 0
       }
