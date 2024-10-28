@@ -9480,7 +9480,7 @@
     "clients": [
       {
         "name": "CONSUMERS FOR AUTO RELIABILITY AND SAFETY",
-        "amount": 67500
+        "amount": 78750
       }
     ],
     "quarters": [
@@ -9511,6 +9511,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 11250
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 11250
       }
@@ -18473,15 +18478,15 @@
     "clients": [
       {
         "name": "EARTH ADVOCACY",
-        "amount": 85000
+        "amount": 100000
       },
       {
         "name": "ENVIRONMENTAL DEFENSE ACTION FUND",
-        "amount": 35000
+        "amount": 37000
       },
       {
         "name": "RESOURCES LEGACY FUND",
-        "amount": 24000
+        "amount": 31500
       }
     ],
     "quarters": [
@@ -18514,6 +18519,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 18500
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 24500
       }
     ]
   },
@@ -18523,19 +18533,19 @@
     "clients": [
       {
         "name": "ASPIRANET",
-        "amount": 81000
+        "amount": 94500
       },
       {
         "name": "CALIFORNIA COALITION FOR YOUTH",
-        "amount": 18000
+        "amount": 21000
       },
       {
         "name": "CHILDREN NOW",
-        "amount": 29525
+        "amount": 38025
       },
       {
         "name": "CORPORATION FOR EDUCATION NETWORK INITIATIVES IN CALIFORNIA",
-        "amount": 41775
+        "amount": 50677.65
       }
     ],
     "quarters": [
@@ -18568,6 +18578,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 30775
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 33902.65
       }
     ]
   },
@@ -26313,7 +26328,7 @@
     "clients": [
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC",
-        "amount": 255805.7
+        "amount": 284301.29
       }
     ],
     "quarters": [
@@ -26346,6 +26361,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 35365.34
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 28495.59
       }
     ]
   },
