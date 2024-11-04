@@ -27982,7 +27982,7 @@
     "clients": [
       {
         "name": "APPLIED BEHAVRIOR CONSULTANTS",
-        "amount": 45000
+        "amount": 52500
       },
       {
         "name": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
@@ -27990,7 +27990,7 @@
       },
       {
         "name": "AUTISM BUSINESS ASSOCIATION",
-        "amount": 90000
+        "amount": 105000
       }
     ],
     "quarters": [
@@ -28016,6 +28016,11 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 60000
+      },
+      {
+        "quarter": "7",
         "session": "2023",
         "amount": 60000
       }
