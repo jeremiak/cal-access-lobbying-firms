@@ -16046,7 +16046,7 @@
       },
       {
         "name": "PACTIV EVERGREEN INC.",
-        "amount": 45000
+        "amount": 50000
       },
       {
         "name": "PCI WEST",
@@ -16155,7 +16155,7 @@
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 341413.92
+        "amount": 346413.92
       }
     ]
   },
@@ -31515,6 +31515,27 @@
     ]
   },
   {
+    "id": "1421808",
+    "name": "SUMMIT STRATEGY GROUP, LLC",
+    "clients": [
+      {
+        "name": "RXN GROUP OBO CONNECTED COMMERCE COUNCIL",
+        "amount": 25296.58
+      },
+      {
+        "name": "RXN GROUP OBO GOOGLE LLC AND ITS AFFILIATES, INCLUDING GOOGLE CLIENT SERVICES LLC",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 25296.58
+      }
+    ]
+  },
+  {
     "id": "1461716",
     "name": "SYRUS DEVERS ADVOCACY LLC",
     "clients": [
@@ -32647,7 +32668,7 @@
       },
       {
         "name": "TURLOCK, CITY OF",
-        "amount": 95000
+        "amount": 100000
       },
       {
         "name": "TUSTIN, CITY OF",
@@ -32716,7 +32737,7 @@
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 2079453
+        "amount": 2084453
       }
     ]
   },
