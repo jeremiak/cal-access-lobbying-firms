@@ -18711,6 +18711,12 @@
     ]
   },
   {
+    "id": "1476720",
+    "name": "LA VIGNE STRATEGIES, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147303",
     "name": "LANG HANSEN GIROUX & KIDANE",
     "clients": [
@@ -27993,15 +27999,15 @@
     "clients": [
       {
         "name": "APPLIED BEHAVRIOR CONSULTANTS",
-        "amount": 52500
+        "amount": 22500
       },
       {
         "name": "ASSOCIATION OF REGIONAL CENTER AGENCIES",
-        "amount": 225835.92
+        "amount": 112527
       },
       {
         "name": "AUTISM BUSINESS ASSOCIATION",
-        "amount": 105000
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -28014,6 +28020,11 @@
         "quarter": "2",
         "session": "2023",
         "amount": 60027
+      },
+      {
+        "quarter": "3",
+        "session": "2023",
+        "amount": 60000
       },
       {
         "quarter": "4",
