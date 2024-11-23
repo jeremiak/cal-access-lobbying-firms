@@ -7772,7 +7772,7 @@
       },
       {
         "name": "CALIFORNIA ATTORNEYS ADMINISTRATIVE LAW JUDGES AND HEARING OFFICERS IN STATE EMPLOYMENT",
-        "amount": 75000
+        "amount": 50000
       },
       {
         "name": "CALIFORNIA AUTOMATIC VENDOR'S COUNCIL",
@@ -7931,10 +7931,6 @@
         "amount": 105000
       },
       {
-        "name": "MARTIN LUTHER KING, JR. COMMUNITY HOSPITAL",
-        "amount": 234338.89
-      },
-      {
         "name": "MASCO CORPORATION",
         "amount": 132000
       },
@@ -7945,6 +7941,10 @@
       {
         "name": "METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, THE",
         "amount": 315000
+      },
+      {
+        "name": "MLK COMMUNITY HEALTHCARE",
+        "amount": 234338.89
       },
       {
         "name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES",
@@ -7971,7 +7971,7 @@
         "amount": 210842.75
       },
       {
-        "name": "OURO",
+        "name": "OURO GLOBAL, INC.",
         "amount": 0
       },
       {
@@ -8124,12 +8124,12 @@
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 2748406.96
+        "amount": 2738406.96
       },
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 3068828.03
+        "amount": 3053828.03
       }
     ]
   },
@@ -28509,6 +28509,10 @@
         "amount": 23385.04
       },
       {
+        "name": "GOOGLE LLC AND ITS AFFILIATES, INCLUDING GOOGLE CLIENT SERVICES LLC",
+        "amount": 10000
+      },
+      {
         "name": "INNOVATIVE LENDING PLATFORM ASSOCIATION",
         "amount": 9082.5
       },
@@ -28546,7 +28550,7 @@
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 28088.69
+        "amount": 38088.69
       }
     ]
   },
