@@ -11119,7 +11119,7 @@
     "clients": [
       {
         "name": "FINANCIAL COUNSELING ASSOCIATION OF AMERICA",
-        "amount": 7500
+        "amount": 17000
       }
     ],
     "quarters": [
@@ -11132,6 +11132,11 @@
         "quarter": "6",
         "session": "2023",
         "amount": 7500
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 9500
       }
     ]
   },
