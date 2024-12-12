@@ -9991,7 +9991,7 @@
     "clients": [
       {
         "name": "COUNCIL OF CALIFORNIA COUNTY LAW LIBRARIANS",
-        "amount": 84500
+        "amount": 91000
       },
       {
         "name": "SHAW, YODER, ANWITH, SCHMELZER, & LANGE, INC.",
@@ -10033,6 +10033,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 9750
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 6500
       }
     ]
   },
