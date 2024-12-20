@@ -273,12 +273,12 @@
       {
         "quarter": "6",
         "session": "2021",
-        "amount": 1192943.13
+        "amount": 1139450.14
       },
       {
         "quarter": "7",
         "session": "2021",
-        "amount": 652012.63
+        "amount": 613649.43
       },
       {
         "quarter": "8",
@@ -1830,12 +1830,12 @@
       {
         "quarter": "7",
         "session": "2021",
-        "amount": 144500
+        "amount": 189500
       },
       {
         "quarter": "8",
         "session": "2021",
-        "amount": 163000
+        "amount": 118000
       }
     ]
   },
@@ -1944,13 +1944,14 @@
       {
         "name": "CITY OF MONTEBELLO",
         "amount": 0
-      },
-      {
-        "name": "LATINO COALITION FOR A HEALTHY CALIFORNIA",
-        "amount": 0
       }
     ],
     "quarters": [
+      {
+        "quarter": "7",
+        "session": "2021",
+        "amount": 4100
+      },
       {
         "quarter": "8",
         "session": "2021",
@@ -4878,7 +4879,7 @@
     "clients": [
       {
         "name": "A.O. SMITH CORPORATION",
-        "amount": 352500
+        "amount": 337500
       },
       {
         "name": "AERA ENERGY, LLC",
@@ -4894,7 +4895,7 @@
       },
       {
         "name": "CHARM INDUSTRIAL",
-        "amount": 300000
+        "amount": 315000
       },
       {
         "name": "CLEAN AIR TASK FORCE",
@@ -5326,7 +5327,7 @@
       },
       {
         "name": "UCLA, LATINO POLICY & POLITICS INITIATIVE",
-        "amount": 95000
+        "amount": 123000
       },
       {
         "name": "UNIVERSITY OF MOLDOVA US INC",
@@ -5380,7 +5381,7 @@
       {
         "quarter": "8",
         "session": "2021",
-        "amount": 378998
+        "amount": 406998
       }
     ]
   },
@@ -8409,7 +8410,7 @@
       },
       {
         "name": "ON LOK SENIOR HEALTH SERVICES",
-        "amount": 351965
+        "amount": 253025
       },
       {
         "name": "PIPELINE HEALTH SYSTEMS, LLC",
@@ -8442,12 +8443,12 @@
       {
         "quarter": "3",
         "session": "2021",
-        "amount": 358142.49
+        "amount": 298442.49
       },
       {
         "quarter": "4",
         "session": "2021",
-        "amount": 294662.49
+        "amount": 305047.49
       },
       {
         "quarter": "5",
@@ -17993,7 +17994,7 @@
         "amount": 54820.65
       },
       {
-        "quarter": "8",
+        "quarter": "4",
         "session": "2021",
         "amount": 31855.03
       }
@@ -18802,10 +18803,6 @@
         "amount": 250736.37
       },
       {
-        "name": "KLEEN INDUSTRIAL SERVICES",
-        "amount": 62500
-      },
-      {
         "name": "KPMG LLP",
         "amount": 211973.11
       },
@@ -18960,22 +18957,22 @@
       {
         "quarter": "3",
         "session": "2021",
-        "amount": 1887443.73
+        "amount": 1884943.73
       },
       {
         "quarter": "4",
         "session": "2021",
-        "amount": 1955253.76
+        "amount": 1945253.76
       },
       {
         "quarter": "5",
         "session": "2021",
-        "amount": 1742454.69
+        "amount": 1732454.69
       },
       {
         "quarter": "6",
         "session": "2021",
-        "amount": 1823001.21
+        "amount": 1813001.21
       },
       {
         "quarter": "7",
@@ -18985,7 +18982,7 @@
       {
         "quarter": "8",
         "session": "2021",
-        "amount": 1914612.59
+        "amount": 1884612.59
       }
     ]
   },
@@ -27890,10 +27887,6 @@
         "amount": 0
       },
       {
-        "name": "CALIFORNIA PLANT BASED ALLIANCE",
-        "amount": 0
-      },
-      {
         "name": "CALIFORNIA SOCIETY OF DERMATOLOGY & DERMATOLOGIC SURGERY",
         "amount": 51500
       },
@@ -31418,7 +31411,7 @@
       },
       {
         "name": "GOLDEN STATE OPPORTUNITY",
-        "amount": 105000
+        "amount": 115000
       }
     ],
     "quarters": [
@@ -31435,32 +31428,32 @@
       {
         "quarter": "3",
         "session": "2021",
-        "amount": 15000
+        "amount": 0
       },
       {
         "quarter": "4",
         "session": "2021",
-        "amount": 15000
+        "amount": 35000
       },
       {
         "quarter": "5",
         "session": "2021",
-        "amount": 31000
+        "amount": 16000
       },
       {
         "quarter": "6",
         "session": "2021",
-        "amount": 39000
+        "amount": 49000
       },
       {
         "quarter": "7",
         "session": "2021",
-        "amount": 39000
+        "amount": 24000
       },
       {
         "quarter": "8",
         "session": "2021",
-        "amount": 0
+        "amount": 25000
       }
     ]
   },
@@ -32167,30 +32160,30 @@
     "name": "TERRAPIN STRATEGY, INC.",
     "clients": [
       {
-        "name": "TERRAPIN STRATEGY, INC.",
-        "amount": 36000
+        "name": "EXPLORE INFORMATION SERVICES, LLC",
+        "amount": 1600
       }
     ],
     "quarters": [
       {
         "quarter": "5",
         "session": "2021",
-        "amount": 9000
+        "amount": 400
       },
       {
         "quarter": "6",
         "session": "2021",
-        "amount": 9000
+        "amount": 400
       },
       {
         "quarter": "7",
         "session": "2021",
-        "amount": 9000
+        "amount": 400
       },
       {
         "quarter": "8",
         "session": "2021",
-        "amount": 9000
+        "amount": 400
       }
     ]
   },
@@ -35058,7 +35051,7 @@
       },
       {
         "name": "CLEAN POWER CAMPAIGN",
-        "amount": 51142.86
+        "amount": 74753.96
       },
       {
         "name": "FUEL CELL ENERGY INC.",
@@ -35094,7 +35087,7 @@
       {
         "quarter": "6",
         "session": "2021",
-        "amount": 40000
+        "amount": 54166.66
       },
       {
         "quarter": "7",
@@ -35104,7 +35097,7 @@
       {
         "quarter": "8",
         "session": "2021",
-        "amount": 29500
+        "amount": 38944.44
       }
     ]
   },
@@ -35635,7 +35628,7 @@
       {
         "quarter": "3",
         "session": "2021",
-        "amount": 29511.5
+        "amount": 8800.47
       },
       {
         "quarter": "4",
@@ -35651,11 +35644,6 @@
         "quarter": "6",
         "session": "2021",
         "amount": 6574.5
-      },
-      {
-        "quarter": "7",
-        "session": "2021",
-        "amount": 8800.47
       },
       {
         "quarter": "8",
