@@ -20018,7 +20018,7 @@
     "clients": [
       {
         "name": "LYLES, WIESMANN, PIZZOTTI AND ASSOCIATES, INC.",
-        "amount": 63000
+        "amount": 84000
       }
     ],
     "quarters": [
@@ -20054,6 +20054,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 21000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 21000
       }
