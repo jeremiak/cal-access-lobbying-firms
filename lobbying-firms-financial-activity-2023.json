@@ -13212,11 +13212,11 @@
     "clients": [
       {
         "name": "FIVE POINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 195000
+        "amount": 217500
       },
       {
         "name": "RMV PA3 DEVELOPMENT, LLC",
-        "amount": 142500
+        "amount": 165000
       }
     ],
     "quarters": [
@@ -13254,6 +13254,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 52500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 45000
       }
     ]
   },
