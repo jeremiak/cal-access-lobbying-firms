@@ -34655,7 +34655,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 114965
+        "amount": 132465
       }
     ],
     "quarters": [
@@ -34693,6 +34693,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 14675
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 17500
       }
     ]
   },
