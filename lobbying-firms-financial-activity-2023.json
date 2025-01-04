@@ -12318,7 +12318,7 @@
       },
       {
         "name": "PSYCHIATRIC PHYSICIANS ALLIANCE CALIFORNIA",
-        "amount": 50000
+        "amount": 62000
       }
     ],
     "quarters": [
@@ -12354,6 +12354,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 12000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 12000
       }
@@ -19002,7 +19007,7 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 89250
+        "amount": 102000
       }
     ],
     "quarters": [
@@ -19038,6 +19043,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 12750
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 12750
       }
