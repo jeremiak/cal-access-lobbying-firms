@@ -1497,43 +1497,43 @@
     "clients": [
       {
         "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
-        "amount": 234010
+        "amount": 254510
       },
       {
         "name": "CALIFORNIA KIDNEY CARE ALLIANCE",
-        "amount": 257490.19
+        "amount": 294978.33
       },
       {
         "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
-        "amount": 80000
+        "amount": 92000
       },
       {
         "name": "ESCONDIDO CITY OF",
-        "amount": 76764
+        "amount": 84082
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 259081.41
+        "amount": 295984.84
       },
       {
         "name": "MILLENNIUM HEALTH",
-        "amount": 106764
+        "amount": 122016
       },
       {
         "name": "OXNARD CITY OF",
-        "amount": 86000
+        "amount": 101000
       },
       {
         "name": "REDONDO BEACH CITY OF",
-        "amount": 79008.4
+        "amount": 86176.4
       },
       {
         "name": "THE LOS ANGELES LAKES INC.",
-        "amount": 15750
+        "amount": 18000
       },
       {
         "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
-        "amount": 127764
+        "amount": 146016
       }
     ],
     "quarters": [
@@ -1571,6 +1571,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 194583.11
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 172131.57
       }
     ]
   },
