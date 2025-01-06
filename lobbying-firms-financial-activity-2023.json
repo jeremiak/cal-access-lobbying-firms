@@ -19064,7 +19064,7 @@
     "clients": [
       {
         "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
-        "amount": 21000
+        "amount": 24000
       },
       {
         "name": "AMERICAN FOREST & PAPER ASSOCIATION",
@@ -19072,15 +19072,15 @@
       },
       {
         "name": "PCI WEST",
-        "amount": 8000
+        "amount": 9500
       },
       {
         "name": "STYRENE INFORMATION AND RESEARCH CENTER",
-        "amount": 21000
+        "amount": 24000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 52500
+        "amount": 57500
       }
     ],
     "quarters": [
@@ -19118,6 +19118,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 14000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 12500
       }
     ]
   },
