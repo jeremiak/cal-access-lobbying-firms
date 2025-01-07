@@ -4075,7 +4075,7 @@
     "clients": [
       {
         "name": "2U",
-        "amount": 240000
+        "amount": 250000
       }
     ],
     "quarters": [
@@ -4113,6 +4113,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 20000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 10000
       }
     ]
   },
@@ -14817,11 +14822,11 @@
     "clients": [
       {
         "name": "GOLDEN STATE POWER COOPERATIVE, JESSICA",
-        "amount": 42000
+        "amount": 46000
       },
       {
         "name": "NORTHERN CA POWER AGENCY, JANE DUNN",
-        "amount": 330000
+        "amount": 247500
       }
     ],
     "quarters": [
@@ -14859,6 +14864,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 39000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 70000
       }
     ]
   },
@@ -17024,15 +17034,15 @@
       },
       {
         "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
-        "amount": 7000
+        "amount": 8000
       },
       {
         "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
-        "amount": 16800
+        "amount": 19200
       },
       {
         "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
-        "amount": 31500
+        "amount": 36000
       }
     ],
     "quarters": [
@@ -17068,6 +17078,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 7900
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 7900
       }
