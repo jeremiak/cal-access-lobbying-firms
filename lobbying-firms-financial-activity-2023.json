@@ -2869,7 +2869,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STATE FIREFIGHTERS' ASSOCIATION",
-        "amount": 17500
+        "amount": 28000
       }
     ],
     "quarters": [
@@ -2880,6 +2880,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 10500
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 10500
       }
@@ -18112,6 +18117,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -19095,7 +19105,7 @@
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 57500
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -19137,7 +19147,7 @@
       {
         "quarter": "8",
         "session": "2023",
-        "amount": 12500
+        "amount": 15000
       }
     ]
   },
@@ -34896,23 +34906,23 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 60060
+        "amount": 69810
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 92000
+        "amount": 105500
       },
       {
         "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 21000
+        "amount": 22000
       },
       {
         "name": "LAWYERS' COMMITTEE FOR CIVIL RIGHTS OF THE SAN FRANCISCO BAY AREA",
-        "amount": 173100
+        "amount": 176100
       },
       {
-        "name": "MINSKER CONSULTING",
-        "amount": 24000
+        "name": "LOCAL 148 LA COUNTY PUBLIC DEFENDERS UNION",
+        "amount": 15000
       },
       {
         "name": "ROOT & REBOUND",
@@ -34920,15 +34930,19 @@
       },
       {
         "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE PROGRAMING WORKS)",
-        "amount": 117156
+        "amount": 128156
       },
       {
         "name": "VERA ACTION",
-        "amount": 12000
+        "amount": 16500
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 68000
+        "amount": 84500
+      },
+      {
+        "name": "WESTERN CENTER ON LAW & POVERTY, INC.",
+        "amount": 17855
       }
     ],
     "quarters": [
@@ -34966,6 +34980,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 157000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 92105
       }
     ]
   },
