@@ -5,7 +5,7 @@
     "clients": [
       {
         "name": "SYCAMORE PARTNERS MANAGEMENT, LP",
-        "amount": 801475
+        "amount": 1060015
       }
     ],
     "quarters": [
@@ -38,6 +38,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 272376
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 258540
       }
     ]
   },
@@ -31413,7 +31418,7 @@
     "clients": [
       {
         "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 1750
+        "amount": 2000
       }
     ],
     "quarters": [
@@ -31449,6 +31454,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 250
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 250
       }
@@ -31734,7 +31744,7 @@
       },
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 132300
+        "amount": 151200
       },
       {
         "name": "PATHION HOLDINGS, INC.",
@@ -31774,6 +31784,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 18900
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 18900
       }
