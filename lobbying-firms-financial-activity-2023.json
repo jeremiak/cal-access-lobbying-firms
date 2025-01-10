@@ -28196,55 +28196,55 @@
     "clients": [
       {
         "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES LOCAL 3299, RICHARD ROSS ON BEHALF OF",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "CA CONSTRUCTION AND INDUSTRIAL MATERIALS ASSOCIATION, RICHARD ROSS ON BEHALF OF",
-        "amount": 99750
+        "amount": 114000
       },
       {
         "name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
-        "amount": 73500
-      },
-      {
-        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 17600
-      },
-      {
-        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 20000
-      },
-      {
-        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 5250
-      },
-      {
-        "name": "CENTER FOR EARLY INTERVENTION ON DEAFNESS",
-        "amount": 15750
-      },
-      {
-        "name": "CHILDREN'S CHOICE FOR HEARING AND TALKING",
-        "amount": 15750
-      },
-      {
-        "name": "GOLDEN STATE MANUFACTURED HOME OWNERS LEAGUE, INC.",
         "amount": 84000
       },
       {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 27500
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 7500
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 22000
+      },
+      {
+        "name": "CENTER FOR EARLY INTERVENTION ON DEAFNESS",
+        "amount": 18000
+      },
+      {
+        "name": "CHILDREN'S CHOICE FOR HEARING AND TALKING",
+        "amount": 18000
+      },
+      {
+        "name": "GOLDEN STATE MANUFACTURED HOME OWNERS LEAGUE, INC.",
+        "amount": 96000
+      },
+      {
         "name": "JOHN TRACY CLINIC",
-        "amount": 15750
+        "amount": 18000
       },
       {
         "name": "MC GRAW-HILL, LLC",
-        "amount": 176000
+        "amount": 192000
       },
       {
         "name": "RICHARD ROSS ON BEHALF OF",
-        "amount": 110000
+        "amount": 115000
       },
       {
         "name": "UNITED FARM WORKERS",
-        "amount": 42000
+        "amount": 48000
       },
       {
         "name": "VICTIM POLICY INSTITUTE",
@@ -28252,7 +28252,7 @@
       },
       {
         "name": "WEINGARTEN CHILDREN CENTER",
-        "amount": 12750
+        "amount": 15750
       }
     ],
     "quarters": [
@@ -28290,6 +28290,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 146350
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 102650
       }
     ]
   },
@@ -28299,19 +28304,19 @@
     "clients": [
       {
         "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES LOCAL 3299",
-        "amount": 21000
+        "amount": 24000
       },
       {
         "name": "CALIFORNIA APPLICANTS ATTORNEYS ASSOCIATION",
-        "amount": 126000
+        "amount": 144000
       },
       {
         "name": "CALIFORNIA CONSTRUCTION & INDUSTRIAL MATERIALS ASSOCIATION",
-        "amount": 99750
+        "amount": 114000
       },
       {
         "name": "CHEVRON U.S.A. INC., AND AFFILIATES",
-        "amount": 63000
+        "amount": 72000
       },
       {
         "name": "ESPERANZA ROSS ON BEHALF OF",
@@ -28319,7 +28324,7 @@
       },
       {
         "name": "ROBERT F. KENNEDY MEDICAL PLAN",
-        "amount": 210000
+        "amount": 220000
       },
       {
         "name": "TURLOCK, CITY OF",
@@ -28361,6 +28366,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 86750
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 54250
       }
     ]
   },
