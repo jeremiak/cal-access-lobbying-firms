@@ -16899,7 +16899,7 @@
     "clients": [
       {
         "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
-        "amount": 116700
+        "amount": 123000
       }
     ],
     "quarters": [
@@ -16937,6 +16937,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 18900
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 6300
       }
     ]
   },
@@ -20423,6 +20428,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -20675,7 +20685,7 @@
     "clients": [
       {
         "name": "COUNTY OF SANTA CLARA",
-        "amount": 210000
+        "amount": 252000
       }
     ],
     "quarters": [
@@ -20713,6 +20723,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 31500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 42000
       }
     ]
   },
@@ -21867,7 +21882,7 @@
     "clients": [
       {
         "name": "FFF ENTERPRISES, INC.",
-        "amount": 41334.81
+        "amount": 49854.81
       },
       {
         "name": "KIDS READ NOW INC.",
@@ -21879,7 +21894,7 @@
       },
       {
         "name": "SANDOZ INC.",
-        "amount": 16225.72
+        "amount": 18925.72
       }
     ],
     "quarters": [
@@ -21917,6 +21932,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 6966.66
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 10950
       }
     ]
   },
@@ -26044,7 +26064,7 @@
     "clients": [
       {
         "name": "ANAHEIM TRANSPORTATION NETWORK",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "ASSOCIATION OF CALIFORNIA RECYCLING INDUSTRIES",
@@ -26079,6 +26099,16 @@
       },
       {
         "quarter": "6",
+        "session": "2023",
+        "amount": 15000
+      },
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 15000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 15000
       }
@@ -33741,7 +33771,7 @@
     "clients": [
       {
         "name": "ALLIED MANAGED CARE AND ACCLAMATION INSURANCE MANAGEMENT SERVICES",
-        "amount": 75075
+        "amount": 86100
       },
       {
         "name": "AMERICAN CONTRACTORS INDEMNITY COMPANY",
@@ -33749,11 +33779,11 @@
       },
       {
         "name": "COALITION OF SMALL AND DISABLED VETERAN BUSINESSES",
-        "amount": 10500
+        "amount": 12000
       },
       {
         "name": "FLASHER BARRICADE ASSOCIATION",
-        "amount": 23191.96
+        "amount": 27677.2
       }
     ],
     "quarters": [
@@ -33791,6 +33821,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 27200
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 17010.24
       }
     ]
   },
@@ -35077,12 +35112,8 @@
         "amount": 94000
       },
       {
-        "name": "SHARE!",
-        "amount": 48000
-      },
-      {
         "name": "UNITE HERE LOCAL 11",
-        "amount": 84000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -35119,7 +35150,12 @@
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 96000
+        "amount": 72000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 6000
       }
     ]
   },
