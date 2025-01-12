@@ -13878,7 +13878,7 @@
     "clients": [
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 92590
+        "amount": 98322
       }
     ],
     "quarters": [
@@ -13896,6 +13896,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 35096
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 5732
       }
     ]
   },
