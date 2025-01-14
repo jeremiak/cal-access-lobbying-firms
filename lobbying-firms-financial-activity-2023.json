@@ -2348,11 +2348,11 @@
     "clients": [
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 273000
+        "amount": 299000
       },
       {
         "name": "PROSECUTORS ALLIANCE ACTION PROJECT OF THE TIDES ADVOCACY",
-        "amount": 65000
+        "amount": 75000
       }
     ],
     "quarters": [
@@ -2390,6 +2390,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 39000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 41000
       }
     ]
   },
@@ -3752,6 +3757,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 0
       }
@@ -13910,23 +13920,23 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 192505
+        "amount": 220005
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 210000
+        "amount": 228000
       },
       {
         "name": "JURUPA COMMUNITY SERVICES DISTRICT",
-        "amount": 60000
+        "amount": 78000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 231000
+        "amount": 264000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 45000
+        "amount": 54000
       }
     ],
     "quarters": [
@@ -13964,6 +13974,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 117500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 105500
       }
     ]
   },
