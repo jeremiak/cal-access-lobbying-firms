@@ -1471,7 +1471,7 @@
     "clients": [
       {
         "name": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA",
-        "amount": 17062.04
+        "amount": 19600.51
       },
       {
         "name": "EMERGENCY MEDICAL SERVICES ADMINISTRATORS ASSOCIATION OF CALIFORNIA (EMSAAC)",
@@ -1487,7 +1487,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 5076.92
+        "amount": 7615.39
       },
       {
         "quarter": "3",
@@ -13988,7 +13988,7 @@
     "clients": [
       {
         "name": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
-        "amount": 42510.77
+        "amount": 48362.49
       },
       {
         "name": "EMERGENCY MEDICAL SERVICES ADMINISTRATORS ASSOCIATION OF CALIFORNIA (EMSAAC)",
@@ -14004,7 +14004,7 @@
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 28094.46
+        "amount": 33946.18
       },
       {
         "quarter": "3",
@@ -14071,43 +14071,43 @@
     "clients": [
       {
         "name": "CATERPILLAR INC.",
-        "amount": 22860
+        "amount": 30420
       },
       {
         "name": "COMMUNITY CHOICE FINANCIAL",
-        "amount": 119518.01
+        "amount": 135718.01
       },
       {
         "name": "EXPERIAN",
-        "amount": 112690
+        "amount": 131440
       },
       {
         "name": "FINANCIAL SERVICES INSTITUTE",
-        "amount": 39500
+        "amount": 45125
       },
       {
         "name": "GOODYEAR TIRE AND RUBBER COMPANY IN CALIFORNIA",
-        "amount": 80000
+        "amount": 84000
       },
       {
         "name": "MERSCORP INC.",
-        "amount": 19250
+        "amount": 21875
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 324142.95
+        "amount": 385808.27
       },
       {
         "name": "S.C. JOHNSON & SON",
-        "amount": 59000
+        "amount": 71000
       },
       {
         "name": "THE APEX GROUP",
-        "amount": 75002.97
+        "amount": 97503.96
       },
       {
         "name": "THE TRAVELERS COMPANIES INC. AND SUBSIDIARIES",
-        "amount": 115000
+        "amount": 133750
       }
     ],
     "quarters": [
@@ -14145,6 +14145,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 168866.31
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 169676.31
       }
     ]
   },
@@ -15956,7 +15961,7 @@
     "clients": [
       {
         "name": "SA RECYCLING, LLC",
-        "amount": 303821.23
+        "amount": 348821.23
       }
     ],
     "quarters": [
@@ -15992,6 +15997,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 45000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 45000
       }
