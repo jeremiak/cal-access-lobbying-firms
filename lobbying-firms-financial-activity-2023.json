@@ -2925,7 +2925,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 10904
+        "amount": 17380
       }
     ],
     "quarters": [
@@ -2963,6 +2963,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 1819
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 6476
       }
     ]
   },
@@ -6055,7 +6060,7 @@
     "clients": [
       {
         "name": "PARTNERSHIP FOR SOUND SCIENCE IN ENVIRONMENTAL POLICY",
-        "amount": 34000
+        "amount": 42000
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
@@ -6099,6 +6104,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 8000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 8000
       }
@@ -20373,15 +20383,15 @@
       },
       {
         "name": "CATALYST",
-        "amount": 12500
+        "amount": 20000
       },
       {
         "name": "IRVINE MANAGEMENT COMPANY DBA IRVINE COMPANY",
-        "amount": 145000
+        "amount": 190000
       },
       {
         "name": "KYA",
-        "amount": 90000
+        "amount": 110000
       },
       {
         "name": "LIFESPOT TECHNOLOGY INC.",
@@ -20389,7 +20399,7 @@
       },
       {
         "name": "MONTEREY BAY ECONOMIC PARTNERSHIP",
-        "amount": 35000
+        "amount": 65000
       }
     ],
     "quarters": [
@@ -20422,6 +20432,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 75000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 102500
       }
     ]
   },
@@ -32177,7 +32192,7 @@
     "clients": [
       {
         "name": "FIVEPOINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 42000
+        "amount": 50000
       }
     ],
     "quarters": [
@@ -32215,6 +32230,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 6000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 8000
       }
     ]
   },
@@ -33972,31 +33992,31 @@
     "clients": [
       {
         "name": "ALLSTEEL LLC",
-        "amount": 67500
+        "amount": 90000
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 78000
+        "amount": 92000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CHRISTIAN COLLEGES AND UNIVERSITIES",
-        "amount": 210615.39
+        "amount": 240615.39
       },
       {
         "name": "CVS HEALTH",
-        "amount": 187000
+        "amount": 214000
       },
       {
         "name": "FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER DBA COMMUNITY MEDICAL CENTERS",
-        "amount": 150000
+        "amount": 180000
       },
       {
         "name": "FRIANT WATER AUTHORITY",
-        "amount": 192400
+        "amount": 232400
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ADVANTAGE CAPITAL",
-        "amount": 294000
+        "amount": 330000
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
@@ -34004,6 +34024,10 @@
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF DAIRY INSTITUTE OF CALIFORNIA",
+        "amount": 0
+      },
+      {
+        "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF EASTMAN CHEMICAL COMPANY",
         "amount": 0
       },
       {
@@ -34031,12 +34055,8 @@
         "amount": 0
       },
       {
-        "name": "LANG, HANSEN, GROUX & KIDANE ON BEHALF OF EASTMAN CHEMICAL COMPANY",
-        "amount": 0
-      },
-      {
         "name": "TABLE MOUNTAIN RANCHERIA",
-        "amount": 210000
+        "amount": 240000
       },
       {
         "name": "THREE RIVERS ENERGY DEVELOPMENT LLC",
@@ -34078,6 +34098,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 205500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 229500
       }
     ]
   },
