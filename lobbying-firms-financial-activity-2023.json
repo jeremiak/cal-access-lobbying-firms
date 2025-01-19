@@ -22113,19 +22113,19 @@
     "clients": [
       {
         "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
-        "amount": 69999.93
+        "amount": 79999.92
       },
       {
         "name": "CALIFORNIA AUTOBODY ASSOCIATION",
-        "amount": 52500
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA AUTOMOTIVE BUSINESS COALITION",
-        "amount": 52500
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA TIRE DEALERS ASSOCIATION",
-        "amount": 21000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -22161,6 +22161,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 27999.99
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 27999.99
       }
@@ -30632,7 +30637,7 @@
       },
       {
         "name": "AMERICAN INTERNATIONAL GROUP",
-        "amount": 100000
+        "amount": 105000
       },
       {
         "name": "ANHEUSER-BUSCH COMPANIES",
@@ -30692,7 +30697,7 @@
       },
       {
         "name": "COREBRIDGE FINANCIAL",
-        "amount": 55000
+        "amount": 45000
       },
       {
         "name": "DIRECTV",
@@ -30855,12 +30860,12 @@
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 1170987.51
+        "amount": 1175987.51
       },
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 1218515.84
+        "amount": 1208515.84
       },
       {
         "quarter": "7",
