@@ -8923,91 +8923,91 @@
     "clients": [
       {
         "name": "AMERICAN AUTOMOBILE ASSOCIATION OF NORTHERN CALIFORNIA, NEVADA &  UTAH",
-        "amount": 277200
+        "amount": 330000
       },
       {
         "name": "BD",
-        "amount": 184000
+        "amount": 208000
       },
       {
         "name": "BLUETRITON BRANDS, INC",
-        "amount": 220000
+        "amount": 250000
       },
       {
         "name": "BOOKING.COM, B.V.",
-        "amount": 150000
+        "amount": 180000
       },
       {
         "name": "C&C NORTH AMERICA, INC. DBA COSENTINO",
-        "amount": 95564.6
+        "amount": 120564.6
       },
       {
         "name": "CALIFORNIA ASPHALT PAVEMENT ASSOCIATION",
-        "amount": 94594
+        "amount": 108485.5
       },
       {
         "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
-        "amount": 500485.95
+        "amount": 576268.91
       },
       {
         "name": "DAIKIN U.S. CORPORATION",
-        "amount": 231000
+        "amount": 264000
       },
       {
         "name": "IN-N-OUT BURGERS",
-        "amount": 441381
+        "amount": 481690.96
       },
       {
         "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
-        "amount": 156336.35
+        "amount": 177336.35
       },
       {
         "name": "KROLL GOVERNMENT SOLUTIONS",
-        "amount": 160000
+        "amount": 175000
       },
       {
         "name": "LIVE NATION ENTERTAINMENT, INC",
-        "amount": 259020
+        "amount": 309230.38
       },
       {
         "name": "MAXIMUS, INC.",
-        "amount": 157500
+        "amount": 180000
       },
       {
         "name": "MEDTRONIC, INC.",
-        "amount": 212173.87
+        "amount": 242173.87
       },
       {
         "name": "NU STAR ENERGY, L.P.",
-        "amount": 110000
+        "amount": 125000
       },
       {
         "name": "RINNAI AMERICA CORPORATION",
-        "amount": 27000
+        "amount": 63000
       },
       {
         "name": "SCHNEIDER ELECTRIC USA, INC.",
-        "amount": 160000
+        "amount": 240242.85
       },
       {
         "name": "THE DOW CHEMICAL COMPANY, DBA DOW",
-        "amount": 84000
+        "amount": 96000
       },
       {
         "name": "TOYOTA MOTOR NORTH AMERICA, INC.",
-        "amount": 262666.79
+        "amount": 300166.79
       },
       {
         "name": "TRC OPERATING COMPANY, INC.",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "U.S. POLYCO, INC.",
-        "amount": 84000
+        "amount": 96000
       },
       {
         "name": "U.S. TIRE MANUFACTURERS ASSOCIATION",
-        "amount": 210000
+        "amount": 240000
       },
       {
         "name": "VALERO SERVICES, INC",
@@ -9015,11 +9015,11 @@
       },
       {
         "name": "VALLEY WATER MANAGEMENT COMPANY",
-        "amount": 220000
+        "amount": 240000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 600000
+        "amount": 721350
       }
     ],
     "quarters": [
@@ -9057,6 +9057,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 800422.92
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 842587.65
       }
     ]
   },
@@ -19839,15 +19844,15 @@
     "clients": [
       {
         "name": "ABATE OF CALIFORNIA",
-        "amount": 32500
+        "amount": 36000
       },
       {
         "name": "CABO-CALIFORNIA ASSOCIATION OF BICYLE ORGANIZATIONS",
-        "amount": 2940
+        "amount": 3360
       },
       {
         "name": "CMDA-CALIFORNIA MOTORCYCLE DEALERS ASSOCIATION",
-        "amount": 78750
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -19883,6 +19888,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 16170
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 16170
       }
