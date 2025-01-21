@@ -8234,35 +8234,35 @@
       },
       {
         "name": "ARIZONA STATE UNIVERSITY AND AFFILIATED ENTITIES",
-        "amount": 315000
+        "amount": 420000
       },
       {
         "name": "AXIOM ADVISORS",
-        "amount": 200000
+        "amount": 230000
       },
       {
         "name": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA HEALTH + ADVOCATES",
-        "amount": 190000
+        "amount": 208000
       },
       {
         "name": "CALIFORNIA PROFESSIONAL FIREFIGHTERS",
-        "amount": 916366.06
+        "amount": 1052392.06
       },
       {
         "name": "CALIFORNIA STATE UNIVERSITY EMPLOYEES UNION (CSUEU)",
-        "amount": 168000
+        "amount": 192000
       },
       {
         "name": "CALIFORNIANS FOR CONSUMER PRIVACY/ALASTAIR MACTAGGART, CHAIR",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
-        "amount": 140000
+        "amount": 168000
       },
       {
         "name": "DAILYPAY, INC.",
-        "amount": 140000
+        "amount": 170000
       },
       {
         "name": "KEMP, TOM",
@@ -8270,11 +8270,11 @@
       },
       {
         "name": "LOS ANGELES LGBT CENTER",
-        "amount": 40000
+        "amount": 55000
       },
       {
         "name": "WRITERS GUILD OF AMERICA, WEST, INC.",
-        "amount": 120000
+        "amount": 138000
       }
     ],
     "quarters": [
@@ -8312,6 +8312,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 335526
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 419026
       }
     ]
   },
@@ -24587,11 +24592,11 @@
     "clients": [
       {
         "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
-        "amount": 47944
+        "amount": 53944
       },
       {
         "name": "PLUMBING-HEATING-COOLING CONTRACTORS ASSOCIATION OF CALIFORNIA (CAPHCC)",
-        "amount": 52500
+        "amount": 62500
       },
       {
         "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
@@ -24633,6 +24638,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 23743.37
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 36000
       }
     ]
   },
@@ -24871,8 +24881,23 @@
   {
     "id": "1477222",
     "name": "PERRY STRATEGIES LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA PRIMARY CARE ASSOCIATION ADVOCATES",
+        "amount": 9000
+      },
+      {
+        "name": "PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA (PORAC)",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 9000
+      }
+    ]
   },
   {
     "id": "1473904",
