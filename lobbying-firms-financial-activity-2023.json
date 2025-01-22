@@ -21903,7 +21903,7 @@
       },
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 308474.81
+        "amount": 340724.05
       },
       {
         "name": "UNCOMMON LAW",
@@ -21945,6 +21945,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 88225.54
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 32249.24
       }
     ]
   },
@@ -26356,16 +26361,22 @@
     ]
   },
   {
+    "id": "1334381",
+    "name": "PROBITAS FUNDS GROUP, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1458528",
     "name": "PUBLIC HOUSE CONSULTING",
     "clients": [
       {
         "name": "CALIFORNIA CANNABIS AUTHORITY",
-        "amount": 120000
+        "amount": 132000
       },
       {
-        "name": "CONSCIOUS VENTURES",
-        "amount": 114350
+        "name": "CONSCIOUS VENTURES GROUP",
+        "amount": 154350
       },
       {
         "name": "MYNA LIFE TECHNOLOGIES",
@@ -26373,7 +26384,7 @@
       },
       {
         "name": "STATE ASSOCIATION OF COUNTY RETIREMENT SYSTEMS",
-        "amount": 24837.14
+        "amount": 42834.14
       },
       {
         "name": "USHIO AMERICA, INC.",
@@ -26415,6 +26426,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 90337.14
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 70000
       }
     ]
   },
@@ -33679,7 +33695,7 @@
       },
       {
         "name": "THE ALS ASSOCIATION",
-        "amount": 124930.92
+        "amount": 125430.92
       },
       {
         "name": "VISION SERVICE PLAN (VSP)",
@@ -33687,7 +33703,7 @@
       },
       {
         "name": "WITRICITY CORPORATION",
-        "amount": 10200
+        "amount": 102000
       }
     ],
     "quarters": [
@@ -33724,7 +33740,7 @@
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 252876.51
+        "amount": 253376.51
       }
     ]
   },
