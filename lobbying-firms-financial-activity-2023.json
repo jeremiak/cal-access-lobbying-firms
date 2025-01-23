@@ -8869,19 +8869,19 @@
     "clients": [
       {
         "name": "ASSOCIATION OF NATIONAL ADVERTISERS",
-        "amount": 200000
+        "amount": 230000
       },
       {
         "name": "ATHENS SERVICES & AFFILIATED ENTITIES",
-        "amount": 200000
+        "amount": 230000
       },
       {
         "name": "CTIA",
-        "amount": 484753.96
+        "amount": 553753.96
       },
       {
         "name": "NATIONAL VENTURE CAPITAL ASSOCIATION",
-        "amount": 105000
+        "amount": 120000
       }
     ],
     "quarters": [
@@ -8919,6 +8919,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 124000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 144000
       }
     ]
   },
@@ -9397,15 +9402,15 @@
     "clients": [
       {
         "name": "DISH NETWORK CORPORATION",
-        "amount": 7666.56
+        "amount": 22666.56
       },
       {
         "name": "HOPSKIPDRIVE INC.",
-        "amount": 24000
+        "amount": 24250
       },
       {
         "name": "WAYMO LLC",
-        "amount": 157890.76
+        "amount": 184890.76
       }
     ],
     "quarters": [
@@ -9443,6 +9448,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 38666.56
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 42250
       }
     ]
   },
@@ -11987,11 +11997,11 @@
     "clients": [
       {
         "name": "CALIFORNIA COMPOST COALITION",
-        "amount": 207000
+        "amount": 291000
       },
       {
         "name": "CITY OF ROSEVILLE",
-        "amount": 30000
+        "amount": 37500
       },
       {
         "name": "JOE A. GONSALVES & SONS, JOE",
@@ -11999,15 +12009,15 @@
       },
       {
         "name": "MARIN SANITARY SERVICES",
-        "amount": 9000
+        "amount": 18000
       },
       {
         "name": "TURLOCK SCAVENGER COMPANY",
-        "amount": 5000
+        "amount": 5750
       },
       {
         "name": "ZANKER ROAD RESOURCE MANAGEMENT LLC",
-        "amount": 35500
+        "amount": 58000
       }
     ],
     "quarters": [
@@ -12045,6 +12055,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 75000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 108750
       }
     ]
   },
@@ -13353,31 +13368,31 @@
     "clients": [
       {
         "name": "CONTINENTAL CASUALTY COMPANY (CNA INSURANCE COMPANIES)",
-        "amount": 189000
+        "amount": 216000
       },
       {
         "name": "IMAGINE LEARNING",
-        "amount": 315000
+        "amount": 360000
       },
       {
         "name": "LENDMARK FINANCIAL SERVICES",
-        "amount": 110000
+        "amount": 135000
       },
       {
         "name": "LES SCHWAB WAREHOUSE CENTER, LLC",
-        "amount": 157500
+        "amount": 172500
       },
       {
         "name": "RECYCLED MATERIALS ASSOCIATION (REMA) - WEST COAST CHAPTER",
-        "amount": 260000
+        "amount": 305000
       },
       {
         "name": "SOUTHERN GLAZER'S WINE & SPIRITS, LLC",
-        "amount": 105822.15
+        "amount": 120939.6
       },
       {
         "name": "WINE & SPIRITS WHOLESALERS OF CALIFORNIA",
-        "amount": 126000
+        "amount": 144000
       }
     ],
     "quarters": [
@@ -13415,6 +13430,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 177656.6
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 190117.45
       }
     ]
   },
@@ -13790,23 +13810,23 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF MEDICAL PRODUCT SUPPLIERS",
-        "amount": 36000
+        "amount": 48000
       },
       {
         "name": "RGS CONSULTING & ADVOCACY, LLC OBO CALIFORNIA RADIOLOGICAL SOCIETY",
-        "amount": 16875
+        "amount": 21094
       },
       {
         "name": "RGS CONSULTING & ADVOCACY, LLC OBO CALIFORNIA SOCIETY OF PATHOLOGISTS",
-        "amount": 12657.6
+        "amount": 15822
       },
       {
         "name": "TORRICO OBO CALIFORNIA PAWNBROKERS ASSOCIATION, THE LAW OFFICES OF ALBERTO",
-        "amount": 35000
+        "amount": 60000
       },
       {
         "name": "TORRICO OBO FOX CORPORATION, THE LAW OFFICES OF ALBERTO",
-        "amount": 25305
+        "amount": 43380
       }
     ],
     "quarters": [
@@ -13824,6 +13844,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 40303.6
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 62458.4
       }
     ]
   },
@@ -23679,7 +23704,7 @@
     "clients": [
       {
         "name": "NOMURA CORPORATE RESEARCH AND ASSET MANAGEMENT INC.",
-        "amount": 194063.19
+        "amount": 403816.57
       }
     ],
     "quarters": [
@@ -23687,6 +23712,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 194063.19
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 209753.38
       }
     ]
   },
@@ -27757,7 +27787,7 @@
     "clients": [
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC",
-        "amount": 284301.29
+        "amount": 300525.52
       }
     ],
     "quarters": [
@@ -27795,6 +27825,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 28495.59
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 16224.23
       }
     ]
   },
@@ -28207,11 +28242,11 @@
     "clients": [
       {
         "name": "BISHOP, CITY OF",
-        "amount": 14000
+        "amount": 20000
       },
       {
         "name": "BONITA-SUNNYSIDE FIRE PROTECTION DISTRICT",
-        "amount": 0
+        "amount": 1500
       },
       {
         "name": "CARPINTERIA, CITY OF",
@@ -28219,11 +28254,11 @@
       },
       {
         "name": "CHINO VALLEY FIRE DISTRICT",
-        "amount": 10800
+        "amount": 16700
       },
       {
         "name": "COACHELLA VALLEY PUBLIC CEMETERY DISTRICT",
-        "amount": 7500
+        "amount": 11250
       },
       {
         "name": "EL DORADO HILLS FIRE DEPARTMENT",
@@ -28231,11 +28266,11 @@
       },
       {
         "name": "GOLETA SANITARY DISTRICT",
-        "amount": 0
+        "amount": 1750
       },
       {
         "name": "HESPERIA RECREATION AND PARK DISTICT",
-        "amount": 8700
+        "amount": 13050
       },
       {
         "name": "LOS ANGELES LATINO CHAMBER OF COMMERCE",
@@ -28247,15 +28282,15 @@
       },
       {
         "name": "MCKINLEYVILLE COMMUNITY SERVICE DISTRICT",
-        "amount": 6250
+        "amount": 10000
       },
       {
         "name": "MONTE VISTA WATER DISTRICT",
-        "amount": 18000
+        "amount": 24000
       },
       {
         "name": "RESOURCE CONSERVATION DISTRICT OF TEHAMA COUNTY",
-        "amount": 3600
+        "amount": 6300
       },
       {
         "name": "ROUTE 66 INLAND EMPIRE DBA CUCAMONGA SERVICE STATION",
@@ -28263,7 +28298,7 @@
       },
       {
         "name": "SAN JUAN BAUTISTA, CITY OF",
-        "amount": 8750
+        "amount": 12750
       },
       {
         "name": "VENTURA COUNTY OFFICE OF EDUCATION (VCOE)",
@@ -28285,6 +28320,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 33900
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 39700
       }
     ]
   },
@@ -28957,7 +28997,7 @@
       },
       {
         "name": "AGUA CALIENTE BAND OF CAHUILLA INDIANS",
-        "amount": 563492.83
+        "amount": 613868.08
       },
       {
         "name": "ALL HOME A PROJECT OF TIDES CENTER",
@@ -28965,47 +29005,47 @@
       },
       {
         "name": "APPLIED MATERIALS",
-        "amount": 400000
+        "amount": 480000
       },
       {
         "name": "ASSOCIATED STUDENTS UCLA",
-        "amount": 40075
+        "amount": 70150
       },
       {
         "name": "CA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 87000
+        "amount": 103000
       },
       {
         "name": "CALBRIGHT COLLEGE",
-        "amount": 209000
+        "amount": 239000
       },
       {
         "name": "CALIFORNIA ACADEMY OF AUDIOLOGY",
-        "amount": 90000
+        "amount": 105000
       },
       {
         "name": "CALIFORNIA COMMUNITY FOUNDATION",
-        "amount": 290000
+        "amount": 308053.66
       },
       {
         "name": "CALIFORNIA DISPUTE RESOLUTION COUNCIL (CDRC)",
-        "amount": 24000
+        "amount": 27000
       },
       {
         "name": "CALIFORNIA ENERGY STORAGE ALLIANCE",
-        "amount": 205140
+        "amount": 234390
       },
       {
         "name": "CALIFORNIA HOUSING CONSORTIUM",
-        "amount": 26289.96
+        "amount": 33289.96
       },
       {
         "name": "CALIFORNIA OPIOID MAINTENANCE PROVICERS (COMP)",
-        "amount": 160390
+        "amount": 184465
       },
       {
         "name": "CALIFORNIA PUBLIC DEFENDERS ASSOCIATION",
-        "amount": 157500
+        "amount": 180000
       },
       {
         "name": "CALIFORNIA YIMBY",
@@ -29017,11 +29057,11 @@
       },
       {
         "name": "CAMPUS CLINIC LLC",
-        "amount": 112650
+        "amount": 150225
       },
       {
         "name": "CEDARWOOD-YOUNG COMPANY DBA ALLAN COMPANY",
-        "amount": 178890
+        "amount": 195965
       },
       {
         "name": "CHAFFEY COMMUNITY COLLEGE DISTRICT",
@@ -29037,35 +29077,31 @@
       },
       {
         "name": "ENTERPRISE COMMUNITY PARTNERS INC.",
-        "amount": 100000
+        "amount": 115000
       },
       {
         "name": "ESS TECH INC.",
-        "amount": 60075
+        "amount": 90075
       },
       {
         "name": "FIVE KEYS",
-        "amount": 210000
+        "amount": 220000
       },
       {
         "name": "FUTURES WITHOUT VIOLENCE",
-        "amount": 210240
+        "amount": 220465
       },
       {
         "name": "GRIFFIN STEVENS & LEE CONSULTING LLC",
-        "amount": 110390
+        "amount": 125465
       },
       {
         "name": "INNOVAGE",
-        "amount": 142500
+        "amount": 157500
       },
       {
         "name": "INVENERGY LLC",
-        "amount": 180000
-      },
-      {
-        "name": "JIM BEAM BRANDS CO.",
-        "amount": 126315
+        "amount": 216000
       },
       {
         "name": "KINDERCARE EDUCATION",
@@ -29073,7 +29109,7 @@
       },
       {
         "name": "LAKE TAHOE COMMUNITY COLLEGE",
-        "amount": 148240
+        "amount": 172240
       },
       {
         "name": "LENOVO (UNITED STATES) INC.",
@@ -29081,7 +29117,7 @@
       },
       {
         "name": "MICROSOFT CORPORATION",
-        "amount": 225834.35
+        "amount": 287180.85
       },
       {
         "name": "SHANGRI-LA INDUSTRIES",
@@ -29100,8 +29136,12 @@
         "amount": 40240
       },
       {
+        "name": "SUNTORY GLOBAL SPIRITS",
+        "amount": 147390
+      },
+      {
         "name": "SV@HOME ACTION FUND",
-        "amount": 33240
+        "amount": 39240
       },
       {
         "name": "SYLMAR STUDIOS LLC",
@@ -29117,7 +29157,7 @@
       },
       {
         "name": "TRANS UNION LLC",
-        "amount": 110000
+        "amount": 150000
       },
       {
         "name": "UNIVERSAL HYDROGEN",
@@ -29125,7 +29165,7 @@
       },
       {
         "name": "WESTERN UNION",
-        "amount": 197275
+        "amount": 224275
       },
       {
         "name": "YWCA OF THE HARBOR AREA & SOUTH BAY",
@@ -29167,6 +29207,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 832850.72
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 696700.41
       }
     ]
   },
@@ -31905,23 +31950,23 @@
       },
       {
         "name": "COACHELLA VALLEY WATER DISTRICT",
-        "amount": 91000
+        "amount": 110500
       },
       {
         "name": "DE LUZ COMMUNITY SERVICES DISTRICT",
-        "amount": 50000
+        "amount": 65000
       },
       {
         "name": "HAYWARD CORPORATION",
-        "amount": 41000
+        "amount": 53500
       },
       {
         "name": "LAS VIRGENES - TRIUNFO JOINT POWERS AUTHORITY",
-        "amount": 85825
+        "amount": 105325
       },
       {
         "name": "MUNICIPAL WATER DISTRICT OF ORANGE COUNTY",
-        "amount": 72000
+        "amount": 96000
       }
     ],
     "quarters": [
@@ -31949,6 +31994,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 100500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 90500
       }
     ]
   },
