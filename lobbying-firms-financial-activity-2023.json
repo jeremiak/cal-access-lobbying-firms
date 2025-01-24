@@ -12754,6 +12754,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -15886,6 +15891,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -16761,32 +16771,32 @@
     "name": "JEA AND ASSOCIATES",
     "clients": [
       {
-        "name": "CITY OF SEASIDE",
-        "amount": 80500
-      },
-      {
-        "name": "COUNTY OF SAN BENITO",
-        "amount": 109874.59
-      },
-      {
         "name": "LANCE-KASHIAN & CO",
-        "amount": 100000
+        "amount": 115000
       },
       {
         "name": "MONTEREY PENINSULA WATER MANAGEMENT DISTRICT",
-        "amount": 70200
+        "amount": 88200
       },
       {
         "name": "SALINAS, CITY OF",
-        "amount": 79500
+        "amount": 93000
       },
       {
-        "name": "SANBERNARDINO",
-        "amount": 42000
+        "name": "SAN BENITO, COUNTY OF",
+        "amount": 143874.59
+      },
+      {
+        "name": "SAN BERNARDINO, CITY OF",
+        "amount": 56000
+      },
+      {
+        "name": "SEASIDE, CITY OF",
+        "amount": 94500
       },
       {
         "name": "WATSONVILLE, CITY OF",
-        "amount": 139038
+        "amount": 146038
       }
     ],
     "quarters": [
@@ -16824,6 +16834,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 137500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 115500
       }
     ]
   },
@@ -22147,6 +22162,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 0
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 0
       }
@@ -33560,11 +33580,11 @@
     "clients": [
       {
         "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
-        "amount": 282916.08
+        "amount": 310022.98
       },
       {
         "name": "EDVOICE",
-        "amount": 132993
+        "amount": 151992
       }
     ],
     "quarters": [
@@ -33602,6 +33622,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 58405.59
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 46105.9
       }
     ]
   },
