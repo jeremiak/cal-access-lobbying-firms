@@ -851,7 +851,7 @@
     "clients": [
       {
         "name": "ANTIN INFRASTRUCTURE PARTNERS SAS",
-        "amount": 2579.28
+        "amount": 3011.97
       }
     ],
     "quarters": [
@@ -889,6 +889,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 0
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 432.69
       }
     ]
   },
@@ -1438,11 +1443,11 @@
     "clients": [
       {
         "name": "ANSCHUTZ ENTERTAINMENT GROUP, INC",
-        "amount": 76233.75
+        "amount": 78133.75
       },
       {
         "name": "BUCKEYE PROPERTIES",
-        "amount": 145682.32
+        "amount": 150874.82
       }
     ],
     "quarters": [
@@ -1480,6 +1485,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 14635
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 7092.5
       }
     ]
   },
@@ -3314,11 +3324,11 @@
     "clients": [
       {
         "name": "ENERGY FOUNDATION",
-        "amount": 546580.07
+        "amount": 623246.75
       },
       {
         "name": "INDUSTRIOUS LABS",
-        "amount": 40795.8
+        "amount": 42802.85
       }
     ],
     "quarters": [
@@ -3356,6 +3366,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 140315.06
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 78673.73
       }
     ]
   },
@@ -10512,7 +10527,7 @@
     "clients": [
       {
         "name": "ASSOCIATION OF INDEPENDENT CALIFORNIA COLLEGES AND UNIVERSITIES (AICCU)",
-        "amount": 210000
+        "amount": 232500
       },
       {
         "name": "BRYANT GOVERNMENT AFFAIRS",
@@ -10528,15 +10543,15 @@
       },
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 215000
+        "amount": 257000
       },
       {
         "name": "CALIFORNIA BUSINESS PROPERTIES ASSOCIATION",
-        "amount": 140000
+        "amount": 159500
       },
       {
         "name": "CALIFORNIA FOREVER, INC.",
-        "amount": 70000
+        "amount": 110000
       },
       {
         "name": "CALIFORNIA STATE OUTDOOR ADVERTISING ASSOCIATION",
@@ -10544,11 +10559,11 @@
       },
       {
         "name": "CITY OF SAN JOSE",
-        "amount": 425000
+        "amount": 500000
       },
       {
         "name": "COUNTY OF ORANGE DISTRICT ATTORNEY OFFICE",
-        "amount": 125000
+        "amount": 143750
       },
       {
         "name": "CREATE CA",
@@ -10560,7 +10575,7 @@
       },
       {
         "name": "DESERT HOT SPRINGS, CITY OF",
-        "amount": 72000
+        "amount": 78000
       },
       {
         "name": "DIGITAL RESTAURANT ASSOCIATION",
@@ -10568,15 +10583,15 @@
       },
       {
         "name": "EAST OTAY MESA RECYCLING AND LANDFILL FACILITY, LLC",
-        "amount": 94000
+        "amount": 139000
       },
       {
         "name": "ENCORE CAPITAL",
-        "amount": 152000
+        "amount": 184000
       },
       {
         "name": "FIRST AMERICAN FINANCIAL CORPORATION AND AFFILIATED ENTITIES",
-        "amount": 202000
+        "amount": 226000
       },
       {
         "name": "GF ADVOCACY",
@@ -10600,27 +10615,27 @@
       },
       {
         "name": "MGI ADVOCACY, INC.",
-        "amount": 21000
+        "amount": 24000
       },
       {
         "name": "MOTION PICTURE ASSOCIATION INC",
-        "amount": 190000
+        "amount": 230990.91
       },
       {
         "name": "MS INTERNATIONAL, INC.",
-        "amount": 130000
+        "amount": 160000
       },
       {
         "name": "NATIONAL ASSOCIATION OF THEATER OWNERS OF CALIFORNIA AND NEVADA",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "NIELSEN MERKSAMER PARRINELLO GROSS & LEONI, LLP OBO CONTRA COSTA COUNTY",
-        "amount": 72000
+        "amount": 84000
       },
       {
         "name": "OAKLAND; PORT OF",
-        "amount": 264000
+        "amount": 288000
       },
       {
         "name": "PORTOLA VALLEY",
@@ -10636,43 +10651,43 @@
       },
       {
         "name": "SACRAMENTO COUNTY",
-        "amount": 280000
+        "amount": 322000
       },
       {
         "name": "SAN DIEGO COUNTY REGIONAL AIRPORT AUTHORITY",
-        "amount": 150000
+        "amount": 172500
       },
       {
         "name": "SAN MATEO COUNTY",
-        "amount": 168000
+        "amount": 200000
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMNPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 199000
+        "amount": 216000
       },
       {
         "name": "SKYDIO, INC.",
-        "amount": 150000
+        "amount": 172500
       },
       {
         "name": "SOUTHERN CALIFORNIA ASSOCIATION OF GOVERNMENTS",
-        "amount": 197000
+        "amount": 224000
       },
       {
         "name": "STANFORD UNIVERSITY",
-        "amount": 145800
+        "amount": 166800
       },
       {
         "name": "STRATEGIC LEGAL PRACTICES",
-        "amount": 104000
+        "amount": 128000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 29250
+        "amount": 45000
       },
       {
         "name": "WESTFIELD",
-        "amount": 261000
+        "amount": 297000
       }
     ],
     "quarters": [
@@ -10710,6 +10725,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 799750
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 722740.91
       }
     ]
   },
@@ -11666,47 +11686,43 @@
     "clients": [
       {
         "name": "CALIFORNIA DESERT LAND CONSERVANCY DBA MOJAVE DESERT LAND TRUST",
-        "amount": 73500
+        "amount": 94500
       },
       {
         "name": "CALIFORNIA NATIVE PLANT SOCIETY",
-        "amount": 40000
+        "amount": 56000
       },
       {
         "name": "CALIFORNIA TROUT",
-        "amount": 63000
-      },
-      {
-        "name": "CENTER FOR BIOLOGICAL DIVERSITY, INC.",
-        "amount": 0
+        "amount": 87000
       },
       {
         "name": "DEFENDERS OF WILDLIFE",
-        "amount": 73000
+        "amount": 88000
       },
       {
         "name": "GOLDEN STATE SALMON ASSOCIATION",
-        "amount": 6000
+        "amount": 30000
       },
       {
         "name": "NATIONAL AUDUBON SOCIETY",
-        "amount": 59500
+        "amount": 94500
       },
       {
         "name": "SONOMA LAND TRUST",
-        "amount": 113500
+        "amount": 146500
       },
       {
         "name": "THE NATURE CONSERVANCY",
-        "amount": 50000
+        "amount": 85000
       },
       {
         "name": "THE SIERRA FUND",
-        "amount": 21000
+        "amount": 31000
       },
       {
         "name": "TROUT UNLIMITED",
-        "amount": 34000
+        "amount": 58000
       }
     ],
     "quarters": [
@@ -11744,6 +11760,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 70000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 118500
       }
     ]
   },
@@ -12177,15 +12198,15 @@
     "clients": [
       {
         "name": "CALIFORNIA HIGH SCHOOL DISTRICT COALITION",
-        "amount": 120000
+        "amount": 138000
       },
       {
         "name": "CATAPULT LEARNING",
-        "amount": 32825
+        "amount": 37700
       },
       {
         "name": "COALITION FOR CAREER TECHNICAL EDUCATION",
-        "amount": 157000
+        "amount": 181000
       },
       {
         "name": "FEET FIRST CALIFORNIA",
@@ -12193,7 +12214,7 @@
       },
       {
         "name": "PROFESSIONAL LEARNING COALITION, THE",
-        "amount": 71000
+        "amount": 80000
       }
     ],
     "quarters": [
@@ -12231,6 +12252,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 59875
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 55875
       }
     ]
   },
@@ -14386,11 +14412,11 @@
     "clients": [
       {
         "name": "ACCESS SERVICES",
-        "amount": 115500
+        "amount": 132000
       },
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC.",
-        "amount": 92317.61
+        "amount": 104317.61
       },
       {
         "name": "ARTESIA, CITY OF",
@@ -14398,27 +14424,27 @@
       },
       {
         "name": "ATASCADERO, CITY OF",
-        "amount": 60000
+        "amount": 69000
       },
       {
         "name": "BANNING, CITY OF",
-        "amount": 71100
+        "amount": 86500
       },
       {
         "name": "BELLFLOWER, CITY OF",
-        "amount": 63000
+        "amount": 72000
       },
       {
         "name": "BOYS REPUBLIC",
-        "amount": 30000
+        "amount": 42000
       },
       {
         "name": "BURRTEC",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF DUI TREATMENT PROGRAMS",
-        "amount": 126000
+        "amount": 144000
       },
       {
         "name": "CALIFORNIA CITY MANAGEMENT FOUNDATION",
@@ -14426,39 +14452,39 @@
       },
       {
         "name": "CALIFORNIA MUNICIPAL FINANCE AUTHORITY",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "CALIFORNIA PRODUCER HANDLER ASSOCIATION",
-        "amount": 168000
+        "amount": 192000
       },
       {
         "name": "CARSON, CITY OF",
-        "amount": 84000
+        "amount": 96000
       },
       {
         "name": "CERRITOS, CITY OF",
-        "amount": 84000
+        "amount": 108000
       },
       {
         "name": "CHINO, CITY OF",
-        "amount": 77500
+        "amount": 89500
       },
       {
         "name": "CITY OF BARSTOW",
-        "amount": 16000
+        "amount": 24000
       },
       {
         "name": "CITY OF BLYTHE",
-        "amount": 83200
+        "amount": 95680
       },
       {
         "name": "CITY OF COMMERCE",
-        "amount": 66333.54
+        "amount": 75809.76
       },
       {
         "name": "CITY OF EL CENTRO",
-        "amount": 68500
+        "amount": 85000
       },
       {
         "name": "CITY OF EL SEGUNDO",
@@ -14466,63 +14492,67 @@
       },
       {
         "name": "CITY OF INDUSTRY",
-        "amount": 222000
+        "amount": 266000
       },
       {
         "name": "CITY OF LA QUINTA",
-        "amount": 70000
+        "amount": 80500
       },
       {
         "name": "CITY OF LAKE FOREST",
-        "amount": 3750
+        "amount": 18750
       },
       {
         "name": "CITY OF LOMITA",
-        "amount": 63000
+        "amount": 72000
       },
       {
         "name": "CITY OF MILPITAS",
-        "amount": 80000
+        "amount": 92000
       },
       {
         "name": "CITY OF RANCHO CORDOVA",
-        "amount": 73500
+        "amount": 81500
+      },
+      {
+        "name": "CITY OF SUISUN CITY",
+        "amount": 8000
       },
       {
         "name": "CITY OF TWENTYNINE PALMS",
-        "amount": 63000
+        "amount": 72000
       },
       {
         "name": "CUPERTINO, CITY OF",
-        "amount": 101000
+        "amount": 111000
       },
       {
         "name": "DIAMOND BAR, CITY OF",
-        "amount": 47500
+        "amount": 57500
       },
       {
         "name": "ELK GROVE, CITY OF",
-        "amount": 71250
+        "amount": 93750
       },
       {
         "name": "FAIRFIELD, CITY OF",
-        "amount": 77000
+        "amount": 80500
       },
       {
         "name": "FILLMORE, CITY OF",
-        "amount": 63000
+        "amount": 750000
       },
       {
         "name": "FOLSOM, CITY OF",
-        "amount": 48300
+        "amount": 55200
       },
       {
         "name": "FONTANA, CITY OF",
-        "amount": 105000
+        "amount": 120000
       },
       {
         "name": "GALE BANKS ENGINEERING",
-        "amount": 57000
+        "amount": 63000
       },
       {
         "name": "GATEWAY WATER MANAGEMENT AUTHORITY",
@@ -14530,15 +14560,15 @@
       },
       {
         "name": "GLENDORA, CITY OF",
-        "amount": 66500
+        "amount": 77000
       },
       {
         "name": "HAWAIIAN GARDENS, CITY OF",
-        "amount": 37000
+        "amount": 43000
       },
       {
         "name": "INDIAN WELLS, CITY OF",
-        "amount": 73500
+        "amount": 84000
       },
       {
         "name": "IRVINE COMMUNITY LAND TRUST",
@@ -14546,31 +14576,31 @@
       },
       {
         "name": "IRWINDALE, CITY OF",
-        "amount": 49875
+        "amount": 57000
       },
       {
         "name": "JURUPA VALLEY, CITY OF",
-        "amount": 63000
+        "amount": 72000
       },
       {
         "name": "KERMAN, CITY OF",
-        "amount": 26250
+        "amount": 30000
       },
       {
         "name": "LA MIRADA, CITY OF",
-        "amount": 50000
+        "amount": 60000
       },
       {
         "name": "LA PUENTE, CITY OF",
-        "amount": 62500
+        "amount": 67500
       },
       {
         "name": "LAKEWOOD, CITY OF",
-        "amount": 95724
+        "amount": 114732
       },
       {
         "name": "LONG BEACH PUBLIC TRANSPORTATION COMPANY (LONG BEACH TRANSIT)",
-        "amount": 94500
+        "amount": 112500
       },
       {
         "name": "LYNWOOD, CITY OF",
@@ -14578,7 +14608,11 @@
       },
       {
         "name": "MARTINEZ, CITY OF",
-        "amount": 59500
+        "amount": 66500
+      },
+      {
+        "name": "MOSH-1",
+        "amount": 3000
       },
       {
         "name": "NORCO, CITY OF",
@@ -14586,11 +14620,11 @@
       },
       {
         "name": "NORWALK, CITY OF",
-        "amount": 50820
+        "amount": 58080
       },
       {
         "name": "ORANGE COUNTY WATER DISTRICT",
-        "amount": 168000
+        "amount": 192000
       },
       {
         "name": "PACIFIC EDUCATIONAL SERVICES",
@@ -14598,51 +14632,51 @@
       },
       {
         "name": "PALM DESERT, CITY OF",
-        "amount": 63000
+        "amount": 75000
       },
       {
         "name": "PALMDALE, CITY OF",
-        "amount": 77500
+        "amount": 96100
       },
       {
         "name": "PARAMOUNT, CITY OF",
-        "amount": 64500
+        "amount": 77700
       },
       {
         "name": "REDDING, CITY OF",
-        "amount": 60000
+        "amount": 72000
       },
       {
         "name": "ROSEVILLE, CITY OF",
-        "amount": 211000
+        "amount": 235000
       },
       {
         "name": "SAN GABRIEL VALLEY WATER ASSOCIATION",
-        "amount": 84000
+        "amount": 96000
       },
       {
         "name": "SANTA CLARITA, CITY OF",
-        "amount": 80000
+        "amount": 92000
       },
       {
         "name": "SIGNAL HILL, CITY OF",
-        "amount": 80000
+        "amount": 88000
       },
       {
         "name": "SIMI VALLEY, CITY OF",
-        "amount": 56000
+        "amount": 65000
       },
       {
         "name": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
-        "amount": 250807.27
+        "amount": 274779.93
       },
       {
         "name": "SOUTH GATE, CITY OF",
-        "amount": 50000
+        "amount": 55000
       },
       {
         "name": "STOCKTON, PORT OF",
-        "amount": 79500
+        "amount": 87500
       },
       {
         "name": "THOUSAND OAKS, CITY OF",
@@ -14650,11 +14684,11 @@
       },
       {
         "name": "TORRANCE, CITY OF",
-        "amount": 90000
+        "amount": 108000
       },
       {
         "name": "TOWN OF ATHERTON",
-        "amount": 48000
+        "amount": 60000
       },
       {
         "name": "TOWN OF LOS ALTOS HILLS",
@@ -14662,47 +14696,47 @@
       },
       {
         "name": "TWENTY-NINE PALMS BAND OF MISSION INDIANS",
-        "amount": 214691.23
+        "amount": 259691.23
       },
       {
         "name": "VACAVILLE, CITY OF",
-        "amount": 73500
+        "amount": 80500
       },
       {
         "name": "VALLEJO FLOOD AND WASTEWATER DISTRICT",
-        "amount": 30000
+        "amount": 46000
       },
       {
         "name": "VALLEJO, CITY OF",
-        "amount": 84000
+        "amount": 96000
       },
       {
         "name": "VICTORVILLE, CITY OF",
-        "amount": 75600
+        "amount": 85200
       },
       {
         "name": "WEST COVINA, CITY OF",
-        "amount": 50000
+        "amount": 57500
       },
       {
         "name": "WHITTIER, CITY OF",
-        "amount": 84000
+        "amount": 96000
       },
       {
         "name": "WILDOMAR, CITY OF",
-        "amount": 60000
+        "amount": 69000
       },
       {
         "name": "WILLDAN GROUP, INC.",
-        "amount": 70000
+        "amount": 77000
       },
       {
         "name": "WINDSOR, TOWN OF",
-        "amount": 66750
+        "amount": 76500
       },
       {
         "name": "YUCAIPA, CITY OF",
-        "amount": 77000
+        "amount": 91000
       }
     ],
     "quarters": [
@@ -14740,6 +14774,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 902356.21
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 918521.88
       }
     ]
   },
@@ -15674,6 +15713,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 2550
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
@@ -20412,7 +20456,7 @@
     "clients": [
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 184356.3
+        "amount": 209990.75
       }
     ],
     "quarters": [
@@ -20450,6 +20494,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 24999.99
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 25634.45
       }
     ]
   },
@@ -20971,7 +21020,7 @@
     "clients": [
       {
         "name": "SENTINEL PEAK RESOURCES",
-        "amount": 0
+        "amount": 49158.52
       }
     ],
     "quarters": [
@@ -20979,6 +21028,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 85398.23
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 49158.52
       }
     ]
   },
@@ -23408,7 +23462,7 @@
       },
       {
         "name": "SAN DIEGO, COUNTY OF",
-        "amount": 388445.57
+        "amount": 558907.17
       },
       {
         "name": "SAREPTA THERAPEUTICS, INC",
@@ -23447,37 +23501,37 @@
       {
         "quarter": "1",
         "session": "2023",
-        "amount": 1107369.03
+        "amount": 1137584.41
       },
       {
         "quarter": "2",
         "session": "2023",
-        "amount": 1240094.95
+        "amount": 1263022.33
       },
       {
         "quarter": "3",
         "session": "2023",
-        "amount": 1335151.92
+        "amount": 1358078.84
       },
       {
         "quarter": "4",
         "session": "2023",
-        "amount": 1281769.66
+        "amount": 1304696.35
       },
       {
         "quarter": "5",
         "session": "2023",
-        "amount": 1381057.32
+        "amount": 1404522.55
       },
       {
         "quarter": "6",
         "session": "2023",
-        "amount": 1340161.43
+        "amount": 1364161.43
       },
       {
         "quarter": "7",
         "session": "2023",
-        "amount": 1322947.7
+        "amount": 1346947.7
       }
     ]
   },
@@ -24583,7 +24637,7 @@
     "clients": [
       {
         "name": "BARONA BAND OF MISSION INDIANS",
-        "amount": 186387.31
+        "amount": 210160.87
       },
       {
         "name": "EAST VALLEY WATER DISTRICT",
@@ -24595,7 +24649,7 @@
       },
       {
         "name": "YUBA COUNTY WATER AGENCY",
-        "amount": 230000
+        "amount": 250000
       }
     ],
     "quarters": [
@@ -24633,6 +24687,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 127600
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 43773.56
       }
     ]
   },
@@ -24642,11 +24701,11 @@
     "clients": [
       {
         "name": "DIRECTV, LLC",
-        "amount": 33555.49
+        "amount": 38055.49
       },
       {
         "name": "DISH NETWORK CORPORATION",
-        "amount": 33555.49
+        "amount": 38055.49
       }
     ],
     "quarters": [
@@ -24682,6 +24741,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 9000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 9000
       }
@@ -29205,7 +29269,7 @@
       },
       {
         "name": "CALIFORNIA HOUSING CONSORTIUM",
-        "amount": 33289.96
+        "amount": 36789.96
       },
       {
         "name": "CALIFORNIA OPIOID MAINTENANCE PROVICERS (COMP)",
@@ -29379,7 +29443,7 @@
       {
         "quarter": "8",
         "session": "2023",
-        "amount": 696700.41
+        "amount": 700200.41
       }
     ]
   },
@@ -30582,7 +30646,7 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF LOCAL HOUSING FINANCE AGENCIES",
-        "amount": 18000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -30618,6 +30682,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 6000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 6000
       }
@@ -33877,11 +33946,11 @@
     "clients": [
       {
         "name": "ALKERMES, INC.",
-        "amount": 149000
+        "amount": 177054
       },
       {
         "name": "CA CHRONIC CARE COALITION",
-        "amount": 108283
+        "amount": 132283
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF COLLEGE STORES",
@@ -33889,19 +33958,19 @@
       },
       {
         "name": "COMPASS PATHWAYS, INC.",
-        "amount": 37500
+        "amount": 60000
       },
       {
         "name": "ENDO",
-        "amount": 117580
+        "amount": 127580
       },
       {
         "name": "GSK",
-        "amount": 58500
+        "amount": 78000
       },
       {
         "name": "ILLUMINA, INC.",
-        "amount": 149802.36
+        "amount": 171306.32
       },
       {
         "name": "LATINX PHYSICIANS OF CALIFORNIA",
@@ -33909,7 +33978,7 @@
       },
       {
         "name": "MODERNA, INC.",
-        "amount": 60000
+        "amount": 78000
       },
       {
         "name": "NATIONAL ASSOCIATION OF COLLEGE STORES",
@@ -33917,27 +33986,27 @@
       },
       {
         "name": "NEUROCRINE BIOSCIENCES, INC.",
-        "amount": 90584.86
+        "amount": 105584.86
       },
       {
         "name": "PTC THERAPEUTICS, INC.",
-        "amount": 101219.66
+        "amount": 110481.17
       },
       {
         "name": "SMITH POLICY GROUP",
-        "amount": 99220.5
+        "amount": 118533
       },
       {
         "name": "TAKEDA PHARMACEUTICALS AMERICA",
-        "amount": 179437.18
+        "amount": 210186.6
       },
       {
         "name": "THE ALS ASSOCIATION",
-        "amount": 125430.92
+        "amount": 141930.92
       },
       {
         "name": "VISION SERVICE PLAN (VSP)",
-        "amount": 160247.14
+        "amount": 185866.86
       },
       {
         "name": "WITRICITY CORPORATION",
@@ -33979,6 +34048,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 253376.51
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 260001.11
       }
     ]
   },
@@ -35519,7 +35593,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 142500
+        "amount": 165000
       }
     ],
     "quarters": [
@@ -35555,6 +35629,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 22500
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 22500
       }
