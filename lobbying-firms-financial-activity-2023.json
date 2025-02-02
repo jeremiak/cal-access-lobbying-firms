@@ -1789,35 +1789,23 @@
     "clients": [
       {
         "name": "160 DRIVING ACADEMY",
-        "amount": 30000
+        "amount": 90000
       },
       {
         "name": "1HWY1, LLC",
-        "amount": 37500
+        "amount": 52500
       },
       {
         "name": "ALL PRO BAIL BONDS",
         "amount": 82500
       },
       {
-        "name": "BARK TECHNOLOGIES, INC.",
-        "amount": 108000
-      },
-      {
         "name": "FEDERATION OF AMERICANS FOR CONSUMER CHOICE (FACC)",
         "amount": 240000
       },
       {
-        "name": "HARRIDGE DEVELOPMENT GROUP",
-        "amount": 75000
-      },
-      {
         "name": "LOCKHEED MARTIN CORPORATION",
-        "amount": 270000
-      },
-      {
-        "name": "UNITED LATINOS ACTION",
-        "amount": 56520
+        "amount": 300000
       },
       {
         "name": "VIEJAS BAND OF KUMEYAAY INDIANS",
@@ -1859,6 +1847,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 126000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 81000
       }
     ]
   },
@@ -3659,7 +3652,7 @@
     "clients": [
       {
         "name": "SOUTHERN CALIFORNIA CONTRACTORS' ASSOCIATION",
-        "amount": 27490.01
+        "amount": 23881.7
       }
     ],
     "quarters": [
@@ -3697,6 +3690,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 4811.4
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 1202.85
       }
     ]
   },
@@ -9432,35 +9430,35 @@
     "clients": [
       {
         "name": "AES US SERVICES,LLC",
-        "amount": 85000
+        "amount": 170000
       },
       {
         "name": "AMAZON.COM SERVICES LLC",
-        "amount": 165000
+        "amount": 180000
       },
       {
         "name": "BELLUS ACADEMY",
-        "amount": 78000
-      },
-      {
-        "name": "CALIFORNIA AMBULATORY SURGERY ASSOCIATION",
-        "amount": 2300000
-      },
-      {
-        "name": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
         "amount": 150000
       },
       {
+        "name": "CALIFORNIA AMBULATORY SURGERY ASSOCIATION",
+        "amount": 505000
+      },
+      {
+        "name": "CALIFORNIA DENTAL ASSOCIATION AND ITS WHOLLY OWNED SUBSIDIARIES",
+        "amount": 262500
+      },
+      {
         "name": "CALIFORNIA ELECTRIC UTILITY  INDUSTRY LABOR MANAGEMENT COMMITTEE",
-        "amount": 135000
+        "amount": 230000
       },
       {
         "name": "CALIFORNIA SCHOOLS VEBA",
-        "amount": 60000
+        "amount": 220000
       },
       {
         "name": "CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS",
-        "amount": 228000
+        "amount": 348000
       },
       {
         "name": "CALIFORNIA STATE PIPE TRADES COUNCIL",
@@ -9468,31 +9466,31 @@
       },
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 75000
+        "amount": 100000
       },
       {
         "name": "CENTRAL VALLEY CIRCULAR",
-        "amount": 0
+        "amount": 15000
       },
       {
         "name": "DART CONTAINER CORPORATION",
-        "amount": 51800
+        "amount": 168000
       },
       {
         "name": "DIAGEO",
-        "amount": 35000
+        "amount": 134166.65
       },
       {
         "name": "FOREST PRODUCTS INDUSTRY NATIONAL LABOR MANAGEMENT COMMITTEE, THE",
-        "amount": 27500
+        "amount": 11006
       },
       {
         "name": "GOLDEN STATE CLEAN ENERGY, LLC",
-        "amount": 40000
+        "amount": 45000
       },
       {
         "name": "IGT AND AFFILIATES",
-        "amount": 137500
+        "amount": 277400
       },
       {
         "name": "INTERNATIONAL ASSOCIATION OF PLUMBING & MECHANICAL OFFICIALS",
@@ -9622,6 +9620,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 1549747.65
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 1154247.65
       }
     ]
   },
@@ -18801,39 +18804,39 @@
     "clients": [
       {
         "name": "ALLIANCE FOR RETAIL ENERGY MARKETS",
-        "amount": 161000
+        "amount": 182000
       },
       {
         "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
-        "amount": 203656.4
+        "amount": 230656.4
       },
       {
         "name": "CALPINE CORPORATION",
-        "amount": 420000
+        "amount": 480000
       },
       {
         "name": "CENTENE AND ITS AFFILIATE HEALTH NET",
-        "amount": 255338.67
+        "amount": 285338.67
       },
       {
         "name": "FORD MOTOR COMPANY AND ITS AFFILIATES",
-        "amount": 180000
+        "amount": 207000
       },
       {
         "name": "PBF ENERGY WESTERN REGION LLC",
-        "amount": 293000
+        "amount": 332000
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 229000
+        "amount": 247000
       },
       {
         "name": "TENET HEALTHCARE",
-        "amount": 315000
+        "amount": 360000
       },
       {
         "name": "VISION TO LEARN",
-        "amount": 80000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -18871,6 +18874,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 312730
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 277000
       }
     ]
   },
@@ -23221,12 +23229,8 @@
     "name": "MONAGAN GOVERNMENT RELATIONS",
     "clients": [
       {
-        "name": "INTERNATIONAL BROTHERHOOD OF BOILERMAKERS, WESTERN STATES SECTION",
-        "amount": 12000
-      },
-      {
         "name": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
-        "amount": 183996
+        "amount": 228996
       }
     ],
     "quarters": [
@@ -23264,6 +23268,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 37332
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 45000
       }
     ]
   },
@@ -25580,11 +25589,11 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF MUTUAL WATER COMPANIES",
-        "amount": 303460.2
+        "amount": 355960.2
       },
       {
         "name": "SAN GABRIEL VALLEY WATER ASSOCIATION",
-        "amount": 52500
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -25620,6 +25629,11 @@
       },
       {
         "quarter": "7",
+        "session": "2023",
+        "amount": 60000
+      },
+      {
+        "quarter": "8",
         "session": "2023",
         "amount": 60000
       }
@@ -29197,39 +29211,39 @@
     "clients": [
       {
         "name": "AMERICAN FARMLAND TRUST",
-        "amount": 18550
+        "amount": 42400
       },
       {
         "name": "BRADY UNITED AGAINST GUN VIOLENCE",
-        "amount": 87500
+        "amount": 107500
       },
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 0
+        "amount": 10500
       },
       {
         "name": "CALPIRG",
-        "amount": 84000
+        "amount": 86000
       },
       {
         "name": "CCOF",
-        "amount": 63000
+        "amount": 66134
       },
       {
         "name": "CONSUMER PROTECTION POLICY CENTER/USD SCHOOL OF LAW",
-        "amount": 66500
+        "amount": 80500
       },
       {
         "name": "EARTH ISLAND - CALIFORNIA CLIMATE & AGRICULTURE NETWORK",
-        "amount": 60000
+        "amount": 20000
       },
       {
         "name": "HINDERLITER, DELLAMAS & ASSOCIATES",
-        "amount": 99000
+        "amount": 113000
       },
       {
         "name": "LEADINGAGE CALIFORNIA",
-        "amount": 85000
+        "amount": 127000
       },
       {
         "name": "MANLY STEWART FINALDI",
@@ -29237,15 +29251,19 @@
       },
       {
         "name": "PESTICIDE ACTION NETWORK NORTH AMERICA REGIONAL CENTER",
-        "amount": 0
+        "amount": 10000
       },
       {
         "name": "STONE ADVOCACY",
         "amount": 5000
       },
       {
+        "name": "THE STORY OF STUFF PROJECT",
+        "amount": 0
+      },
+      {
         "name": "UNION OF CONCERNED SCIENTISTS",
-        "amount": 51000
+        "amount": 57000
       }
     ],
     "quarters": [
@@ -29283,6 +29301,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 87500
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 159484
       }
     ]
   },
@@ -36547,31 +36570,31 @@
     "clients": [
       {
         "name": "ALTICOR, INC.",
-        "amount": 32693
+        "amount": 36393
       },
       {
         "name": "AMERICAN CHEMISTRY COUNCIL",
-        "amount": 112250
+        "amount": 131000
       },
       {
         "name": "CALIFORNIA GROUNDWATER ASSOCIATION",
-        "amount": 22000
+        "amount": 25000
       },
       {
         "name": "CARPET & RUG INSTITUTE",
-        "amount": 120000
+        "amount": 138000
       },
       {
         "name": "CONSUMER DATA INDUSTRY ASSOCIATION",
-        "amount": 75600
+        "amount": 100800
       },
       {
         "name": "DURACELL COMPANY",
-        "amount": 48300
+        "amount": 57500
       },
       {
         "name": "HALEON",
-        "amount": 70150
+        "amount": 78450
       },
       {
         "name": "HOME INSTEAD",
@@ -36579,7 +36602,7 @@
       },
       {
         "name": "INTERNATIONAL FRANCHISE ASSOCIATION",
-        "amount": 105000
+        "amount": 127000
       },
       {
         "name": "MEAD JOHNSON & COMPANY, LLC",
@@ -36591,19 +36614,19 @@
       },
       {
         "name": "RB HEALTH (US) LLC",
-        "amount": 64000
+        "amount": 71500
       },
       {
         "name": "RECKITT BENCKISER LLC - HOME NORTH AMERICA HYGIENE AND HOME",
-        "amount": 45000
+        "amount": 68000
       },
       {
         "name": "SYNTHETIC TURF COUNCIL",
-        "amount": 198193.5
+        "amount": 234193.5
       },
       {
         "name": "WATER QUALITY ASSOCIATION",
-        "amount": 55000
+        "amount": 62500
       }
     ],
     "quarters": [
@@ -36641,6 +36664,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 158993
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 186650
       }
     ]
   },
