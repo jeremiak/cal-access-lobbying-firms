@@ -14458,7 +14458,7 @@
     "clients": [
       {
         "name": "PASKENTA BAND OF NOMLAKI INDIANS",
-        "amount": 166950
+        "amount": 186150
       }
     ],
     "quarters": [
@@ -14491,6 +14491,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 22000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 19200
       }
     ]
   },
