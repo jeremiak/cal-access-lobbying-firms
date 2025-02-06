@@ -114,35 +114,35 @@
     "clients": [
       {
         "name": "ALLIANCE COLLEGE-READY PUBLIC SCHOOLS",
-        "amount": 197000
+        "amount": 233000
       },
       {
         "name": "ALTAMED HEALTH SERVICES CORPORATION",
-        "amount": 447195.02
+        "amount": 504195.02
       },
       {
         "name": "ANTI-RECIDIVISM COALTION",
-        "amount": 96911.44
+        "amount": 109323.07
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 81000
+        "amount": 97000
       },
       {
         "name": "CALIFORNIA AGENTS AND HEALTH INSURANCE PROFESSIONALS (CAHIP)",
-        "amount": 71751
+        "amount": 95751
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CODE ENFORCEMENT OFFICERS (CACEO)",
-        "amount": 39000
+        "amount": 54000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES (CAJPA)",
-        "amount": 48751
+        "amount": 72502
       },
       {
         "name": "CALIFORNIA CHARTER SCHOOLS ASSOCIATION ('CCSA') ADVOCATES",
-        "amount": 132494.95
+        "amount": 169288.91
       },
       {
         "name": "CARTER, WETCH & ASSOCIATES",
@@ -150,55 +150,63 @@
       },
       {
         "name": "CATALYST HOUSING GROUP",
-        "amount": 50000
+        "amount": 80000
       },
       {
         "name": "CHARTER COMMUNICATIONS, INC",
-        "amount": 275000
+        "amount": 320000
       },
       {
         "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
-        "amount": 125000
+        "amount": 170000
       },
       {
         "name": "CHIPOTLE MEXICAN GRILL",
-        "amount": 91000
+        "amount": 144000
       },
       {
         "name": "CITY YEAR, INC.",
-        "amount": 85000
+        "amount": 90000
       },
       {
         "name": "COALITION FOR RESPONSIBLE CELEBRATION",
-        "amount": 270000
+        "amount": 330000
       },
       {
         "name": "COOKWARE SUSTAINABILITY ALLIANCE",
-        "amount": 50000
+        "amount": 81290
+      },
+      {
+        "name": "COUNTY OF SHASTA",
+        "amount": 60000
       },
       {
         "name": "DART CONTAINER CORPORATION",
         "amount": 190807.5
       },
       {
+        "name": "DGA GOVERNMENT RELATIONS, LLC",
+        "amount": 16290.32
+      },
+      {
         "name": "EDNOVATE",
-        "amount": 120000
+        "amount": 160000
       },
       {
         "name": "GYPSUM ASSOCIATION",
-        "amount": 10500
+        "amount": 33000
       },
       {
         "name": "INSIGHT GARDEN PROGRAM",
-        "amount": 21600
+        "amount": 27000
       },
       {
         "name": "KHOURI CONSULTING LLC",
-        "amount": 65000
+        "amount": 75000
       },
       {
         "name": "LOCAL INITIATIVE HEALTH AUTHORITY FOR LOS ANGELES COUNTY DBA L.A. CARE HEALTH PLAN",
-        "amount": 60500
+        "amount": 77000
       },
       {
         "name": "LOS ANGELES COUNTY COUNCIL",
@@ -206,71 +214,67 @@
       },
       {
         "name": "MICRODOSING COLLECTIVE",
-        "amount": 14000
+        "amount": 22000
       },
       {
         "name": "MISSION COMMUNITY HOSPITAL",
-        "amount": 45000
-      },
-      {
-        "name": "MOTIONAL",
-        "amount": 142965.95
+        "amount": 65000
       },
       {
         "name": "MOULTON NIGUEL WATER DISTRICT (MNWD)",
-        "amount": 69404.61
+        "amount": 80204.61
       },
       {
         "name": "NATERA",
-        "amount": 550412.77
-      },
-      {
-        "name": "NATIONAL HARM REDUCTION COALITION",
-        "amount": 15000
+        "amount": 600412.77
       },
       {
         "name": "NEW APPROACH ADVOCACY FUND",
-        "amount": 50000
+        "amount": 82000
       },
       {
         "name": "PARENT'S ANONYMOUS",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "PARTY CITY HOLDINGS INC.",
-        "amount": 383552
+        "amount": 408552
       },
       {
-        "name": "PLAINS ALL AMERICAN",
-        "amount": 27000
+        "name": "PLAINS ALL AMERICAN PIPELINE",
+        "amount": 39788.77
+      },
+      {
+        "name": "POCKET NAXOLONE CORP.",
+        "amount": 248030.5
       },
       {
         "name": "PRODUCERS' HEALTH BENEFITS PLAN",
-        "amount": 820000
-      },
-      {
-        "name": "REBUILD LOCAL NEWS",
-        "amount": 7500
+        "amount": 830000
       },
       {
         "name": "REVIVER",
-        "amount": 26000
+        "amount": 35009.25
+      },
+      {
+        "name": "RODARTI GROUP",
+        "amount": 0
       },
       {
         "name": "SECURE IDENTITY LLC",
-        "amount": 40000
+        "amount": 50000
       },
       {
         "name": "SHARE OUR STRENGTH",
-        "amount": 180000
+        "amount": 210000
       },
       {
         "name": "SUTTER'S PLACE INC., DBA BAY 101",
-        "amount": 56270.84
+        "amount": 67770.84
       },
       {
         "name": "TELEVISION ACADEMY FOUNDATION",
-        "amount": 105000
+        "amount": 140000
       },
       {
         "name": "TREEHOUSE COMMUNITIES LLC",
@@ -282,11 +286,11 @@
       },
       {
         "name": "WESTLANDS WATER DISTRICT",
-        "amount": 150000
+        "amount": 180000
       },
       {
         "name": "YONDR",
-        "amount": 10000
+        "amount": 115000
       }
     ],
     "quarters": [
@@ -324,6 +328,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 1305051
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 1109974.93
       }
     ]
   },
@@ -33205,7 +33214,7 @@
     "clients": [
       {
         "name": "VERRA MOBILITY CORPORATION AND ITS AFFILIATES",
-        "amount": 27476.36
+        "amount": 32793
       }
     ],
     "quarters": [
@@ -33238,6 +33247,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 10000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 5316.64
       }
     ]
   },
