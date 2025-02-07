@@ -10801,7 +10801,7 @@
     "clients": [
       {
         "name": "KINCADE PRODUCTIONS, LLC",
-        "amount": 1200
+        "amount": 1800
       },
       {
         "name": "WONDER WOOD RANCH",
@@ -10813,6 +10813,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 1200
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 1800
       }
     ]
   },
