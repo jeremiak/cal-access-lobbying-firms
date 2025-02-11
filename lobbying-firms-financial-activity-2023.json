@@ -11198,7 +11198,7 @@
     "name": "CVC FUNDING, LLC",
     "clients": [
       {
-        "name": "CLEAR VISION CAPITAL SICAV  FIS S.A.",
+        "name": "CVC MANAGEMENT II HOLDINGS LIMITED",
         "amount": 9893.29
       }
     ],
@@ -31878,12 +31878,8 @@
     "name": "SIERRA VIEW SOLUTIONS, LLC",
     "clients": [
       {
-        "name": "FARMERS EDGE, INC.",
-        "amount": 0
-      },
-      {
         "name": "INDIGO AG, INC.",
-        "amount": 15202
+        "amount": 17810
       }
     ],
     "quarters": [
@@ -31921,6 +31917,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 2763
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 2608
       }
     ]
   },
