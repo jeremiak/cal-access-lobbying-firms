@@ -1973,6 +1973,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 12000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 12000
       }
     ]
   },
@@ -15320,7 +15325,7 @@
     "name": "GONZALEZ & ASSOCIATES, LLC; JIM",
     "clients": [
       {
-        "name": "JIM GONZALEZ AND ASSOCIATES, LLC",
+        "name": "CALIFORNIA RURAL LEGAL ASSISTANCE, INC.",
         "amount": 60000
       }
     ],
@@ -21418,6 +21423,11 @@
       }
     ],
     "quarters": [
+      {
+        "quarter": "7",
+        "session": "2023",
+        "amount": 0
+      },
       {
         "quarter": "8",
         "session": "2023",
