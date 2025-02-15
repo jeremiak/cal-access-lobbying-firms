@@ -14363,7 +14363,7 @@
     "clients": [
       {
         "name": "CALIFORNIA BOWMEN HUNTERS/STATE ARCHERY ASSOCIATION",
-        "amount": 33750
+        "amount": 38750
       },
       {
         "name": "CALIFORNIA CHAPTER WILD SHEEP FOUNDATION",
@@ -14371,15 +14371,15 @@
       },
       {
         "name": "CALIFORNIA DEER ASSOCIATION",
-        "amount": 35000
+        "amount": 40000
       },
       {
         "name": "CALIFORNIA HAWKING CLUB",
-        "amount": 7500
+        "amount": 10000
       },
       {
         "name": "CALIFORNIA HOUNDSMEN FOR CONSERVATION",
-        "amount": 43750
+        "amount": 50000
       },
       {
         "name": "ROCKY MOUNTAIN ELK FOUNDATION",
@@ -14425,6 +14425,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 56250
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 18750
       }
     ]
   },
