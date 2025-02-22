@@ -10291,11 +10291,11 @@
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
-        "amount": 88000
+        "amount": 0
       },
       {
         "name": "SACRAMENTO AREA SEWER DISTRICT",
-        "amount": 0
+        "amount": 88000
       },
       {
         "name": "SACRAMENTO; CITY OF",
@@ -29702,15 +29702,15 @@
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 22000
-      },
-      {
-        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
         "amount": 27500
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
         "amount": 7500
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 22000
       },
       {
         "name": "CENTER FOR EARLY INTERVENTION ON DEAFNESS",
@@ -36072,19 +36072,19 @@
     "clients": [
       {
         "name": "GIFFORDS",
-        "amount": 8800
-      },
-      {
-        "name": "GIFFORDS",
-        "amount": 25000
-      },
-      {
-        "name": "GIFFORDS",
         "amount": 26000
       },
       {
         "name": "GIFFORDS",
+        "amount": 8800
+      },
+      {
+        "name": "GIFFORDS",
         "amount": 27000
+      },
+      {
+        "name": "GIFFORDS",
+        "amount": 25000
       }
     ],
     "quarters": [
