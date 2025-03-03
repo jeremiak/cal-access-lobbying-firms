@@ -33896,6 +33896,11 @@
         "quarter": "7",
         "session": "2023",
         "amount": 18000
+      },
+      {
+        "quarter": "8",
+        "session": "2023",
+        "amount": 0
       }
     ]
   },
