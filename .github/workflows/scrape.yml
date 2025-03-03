@@ -16,7 +16,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Scrape
-        run: deno run --allow-read=. --allow-write=. --allow-net ./scrape.ts --session 2023
+        run: deno run --allow-read=. --allow-write=. --allow-net ./scrape.ts --session 2025
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
