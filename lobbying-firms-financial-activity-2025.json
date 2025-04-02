@@ -794,8 +794,31 @@
   {
     "id": "1231781",
     "name": "JONES; LAW OFFICES OF FRED",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA COALITION AGAINST GAMBLING EXPANSION",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
+        "amount": 1000
+      },
+      {
+        "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
+        "amount": 2400
+      },
+      {
+        "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
+        "amount": 4500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 7900
+      }
+    ]
   },
   {
     "id": "1318664",
@@ -1124,6 +1147,12 @@
   {
     "id": "1343241",
     "name": "ONATE GROUP; THE",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1147260",
+    "name": "ORRICK HERRINGTON & SUTCLIFFE, LLP",
     "clients": [],
     "quarters": []
   },
@@ -1586,8 +1615,19 @@
   {
     "id": "1425214",
     "name": "WHAT'S B-YOND?, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
+        "amount": 15300
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 15300
+      }
+    ]
   },
   {
     "id": "1444295",
