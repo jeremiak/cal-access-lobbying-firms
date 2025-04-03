@@ -901,8 +901,35 @@
   {
     "id": "1385058",
     "name": "LEACOX & ASSOCIATES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
+        "amount": 3000
+      },
+      {
+        "name": "AMERICAN FOREST & PAPER ASSOCIATION",
+        "amount": 0
+      },
+      {
+        "name": "PCI WEST",
+        "amount": 1500
+      },
+      {
+        "name": "STYRENE INFORMATION AND RESEARCH CENTER",
+        "amount": 3000
+      },
+      {
+        "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+        "amount": 9000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 16500
+      }
+    ]
   },
   {
     "id": "1356318",
@@ -1003,6 +1030,12 @@
   {
     "id": "1147430",
     "name": "MATTOS & ASSOCIATES",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1357312",
+    "name": "MB ADVOCACY LLC",
     "clients": [],
     "quarters": []
   },
