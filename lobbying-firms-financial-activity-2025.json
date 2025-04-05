@@ -348,12 +348,6 @@
     "quarters": []
   },
   {
-    "id": "1415351",
-    "name": "CARILLON TOWER ADVISERS, INC D/B/A RAYMOND JAMES INVESTMENT MANAGEMENT",
-    "clients": [],
-    "quarters": []
-  },
-  {
     "id": "1147223",
     "name": "CARLSON & ASSOCIATES; STEVE",
     "clients": [],
@@ -596,8 +590,23 @@
   {
     "id": "1438333",
     "name": "FIRECHIEFS.COM LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "FIVE POINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
+        "amount": 22500
+      },
+      {
+        "name": "RMV PA3 DEVELOPMENT, LLC",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 37500
+      }
+    ]
   },
   {
     "id": "1147424",
