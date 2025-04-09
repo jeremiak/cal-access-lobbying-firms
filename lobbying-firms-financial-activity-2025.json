@@ -143,6 +143,12 @@
     "quarters": []
   },
   {
+    "id": "1437114",
+    "name": "BARROS, LLC; LEAH",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1467969",
     "name": "BAYARDO STRATEGIES LLC",
     "clients": [],
@@ -1584,8 +1590,19 @@
   {
     "id": "1421995",
     "name": "TK PUBLIC AFFAIRS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "OUR PLANET RECYCLING S.F.",
+        "amount": 27000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 27000
+      }
+    ]
   },
   {
     "id": "1147722",
