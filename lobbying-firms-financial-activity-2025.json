@@ -251,6 +251,12 @@
     "quarters": []
   },
   {
+    "id": "1277078",
+    "name": "BUCHALTER, A PROFESSIONAL CORPORATION",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147646",
     "name": "C.N.P.A. SERVICES, INC.",
     "clients": [],
@@ -319,6 +325,12 @@
   {
     "id": "1147596",
     "name": "CAPELL & ASSOCIATES",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1348782",
+    "name": "CAPITOL ADVISORS GROUP LLC",
     "clients": [],
     "quarters": []
   },
@@ -1183,8 +1195,39 @@
   {
     "id": "1426013",
     "name": "NL SHORT PUBLIC AFFAIRS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ADVENTIST HEALTH SYSTEM/WEST",
+        "amount": 28725
+      },
+      {
+        "name": "ALLIANCE OF CATHOLIC HEALTH CARE, INC.",
+        "amount": 30000
+      },
+      {
+        "name": "LOMA LINDA UNIVERSITY HEALTH",
+        "amount": 45000
+      },
+      {
+        "name": "PRIVATE ESSENTIAL ACCESS COMMUNITY HOSPITALS",
+        "amount": 45000
+      },
+      {
+        "name": "RADY CHILDREN'S HOSPITAL",
+        "amount": 24000
+      },
+      {
+        "name": "SAINT AGNES MEDICAL CENTER",
+        "amount": 22500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 195225
+      }
+    ]
   },
   {
     "id": "1264591",
@@ -1543,8 +1586,19 @@
   {
     "id": "1335339",
     "name": "STRATEGIC MARKETING SOLUTIONS LTD, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "TRUE GREEN CAPITAL MANAGEMENT",
+        "amount": 250
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 250
+      }
+    ]
   },
   {
     "id": "1477926",
@@ -1661,8 +1715,75 @@
   {
     "id": "1423801",
     "name": "VALENCIA GOVERNMENT RELATIONS, INC.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ALKERMES, INC.",
+        "amount": 14000
+      },
+      {
+        "name": "BIOMERIEUX, INC.",
+        "amount": 0
+      },
+      {
+        "name": "CA CHRONIC CARE COALITION",
+        "amount": 12500
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF COLLEGE STORES",
+        "amount": 0
+      },
+      {
+        "name": "COMPASS PATHWAYS, INC.",
+        "amount": 22500
+      },
+      {
+        "name": "GSK",
+        "amount": 19500
+      },
+      {
+        "name": "ILLUMINA, INC.",
+        "amount": 22000
+      },
+      {
+        "name": "MODERNA, INC.",
+        "amount": 12000
+      },
+      {
+        "name": "NATIONAL ASSOCIATION OF COLLEGE STORES",
+        "amount": 0
+      },
+      {
+        "name": "NEUROCRINE BIOSCIENCES, INC.",
+        "amount": 12000
+      },
+      {
+        "name": "PTC THERAPEUTICS, INC.",
+        "amount": 2292.5
+      },
+      {
+        "name": "SMITH POLICY GROUP",
+        "amount": 19993.8
+      },
+      {
+        "name": "TAKEDA PHARMACEUTICALS AMERICA",
+        "amount": 30516.84
+      },
+      {
+        "name": "THE ALS ASSOCIATION",
+        "amount": 16500
+      },
+      {
+        "name": "VISION SERVICE PLAN (VSP)",
+        "amount": 24000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 207803.14
+      }
+    ]
   },
   {
     "id": "1396867",
