@@ -144,7 +144,7 @@
   },
   {
     "id": "1437114",
-    "name": "BARROS, LLC; LEAH",
+    "name": "BARROS CLAY & ASSOCIATES, LLC",
     "clients": [],
     "quarters": []
   },
@@ -952,8 +952,19 @@
   {
     "id": "1274927",
     "name": "LE BOV & ASSOCIATES; RAY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
+        "amount": 12750
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 12750
+      }
+    ]
   },
   {
     "id": "1385058",
@@ -1436,14 +1447,112 @@
   {
     "id": "1251322",
     "name": "ROSS; ESPERANZA",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES LOCAL 3299, RICHARD ROSS ON BEHALF OF",
+        "amount": 10000
+      },
+      {
+        "name": "BLH CONSTRUCTION, INC.",
+        "amount": 8000
+      },
+      {
+        "name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
+        "amount": 10500
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 6600
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 10000
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 3000
+      },
+      {
+        "name": "CENTER FOR EARLY INTERVENTION ON DEAFNESS",
+        "amount": 1500
+      },
+      {
+        "name": "CHILDREN'S CHOICE FOR HEARING AND TALKING",
+        "amount": 2250
+      },
+      {
+        "name": "GOLDEN STATE MANUFACTURED HOME OWNERS LEAGUE, INC.",
+        "amount": 12000
+      },
+      {
+        "name": "JOHN TRACY CLINIC",
+        "amount": 2250
+      },
+      {
+        "name": "MC GRAW HILL, LLC",
+        "amount": 24000
+      },
+      {
+        "name": "RICHARD ROSS ON BEHALF OF",
+        "amount": 20000
+      },
+      {
+        "name": "UNITED FARM WORKERS",
+        "amount": 6000
+      },
+      {
+        "name": "VICTIM POLICY INSTITUTE",
+        "amount": 0
+      },
+      {
+        "name": "WEINGARTEN CHILDREN CENTER",
+        "amount": 2250
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 118350
+      }
+    ]
   },
   {
     "id": "1147680",
     "name": "ROSS; RICHARD",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES LOCAL 3299",
+        "amount": 2000
+      },
+      {
+        "name": "CALIFORNIA APPLICANTS ATTORNEYS ASSOCIATION",
+        "amount": 18000
+      },
+      {
+        "name": "CHEVRON U.S.A. INC., AND AFFILIATES",
+        "amount": 6000
+      },
+      {
+        "name": "ESPERANZA ROSS ON BEHALF OF",
+        "amount": 0
+      },
+      {
+        "name": "ESPERANZA ROSS ON BEHALF OF",
+        "amount": 4000
+      },
+      {
+        "name": "ROBERT F. KENNEDY MEDICAL PLAN",
+        "amount": 40000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 70000
+      }
+    ]
   },
   {
     "id": "1421613",
@@ -1460,6 +1569,12 @@
   {
     "id": "1460395",
     "name": "RXN GROUP",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1384776",
+    "name": "SACRAMENTO ADVISORS, LLC",
     "clients": [],
     "quarters": []
   },
