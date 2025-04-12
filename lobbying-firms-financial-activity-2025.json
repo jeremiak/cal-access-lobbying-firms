@@ -95,6 +95,12 @@
     "quarters": []
   },
   {
+    "id": "1426897",
+    "name": "ARROW ADVOCACY, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1342629",
     "name": "ASANTE CAPITAL GROUP ADVISORS LLC",
     "clients": [],
@@ -235,8 +241,19 @@
   {
     "id": "1147448",
     "name": "BROWN & ASSOCIATES; LAURA",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "2U",
+        "amount": 20000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 20000
+      }
+    ]
   },
   {
     "id": "1147758",
@@ -554,6 +571,12 @@
   {
     "id": "1294298",
     "name": "DIAZ & ASSOCIATES INC.; MANNY",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1449406",
+    "name": "ECO EQUITY",
     "clients": [],
     "quarters": []
   },
@@ -1968,8 +1991,43 @@
   {
     "id": "1444295",
     "name": "WHOLE CONSULTING",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "GRIP TRAINING INSTITUTE",
+        "amount": 9750
+      },
+      {
+        "name": "INITIATE JUSTICE",
+        "amount": 12000
+      },
+      {
+        "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
+        "amount": 3000
+      },
+      {
+        "name": "LOCAL 148 LA COUNTY PUBLIC DEFENDERS UNION",
+        "amount": 15000
+      },
+      {
+        "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE PROGRAMING WORKS)",
+        "amount": 20000
+      },
+      {
+        "name": "VERA INSTITUTE OF JUSTICE, INC.",
+        "amount": 23500
+      },
+      {
+        "name": "WESTERN CENTER ON LAW & POVERTY, INC.",
+        "amount": 6821
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 90071
+      }
+    ]
   },
   {
     "id": "1477762",
