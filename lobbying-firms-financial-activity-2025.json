@@ -61,8 +61,19 @@
   {
     "id": "1427090",
     "name": "ANTIN INFRASTRUCTURE PARTNERS US SERVICES LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ANTIN INFRASTRUCTURE PARTNERS SAS",
+        "amount": 96.85
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 96.85
+      }
+    ]
   },
   {
     "id": "1465745",
@@ -372,6 +383,12 @@
   {
     "id": "1404586",
     "name": "CAPITOL LAW AND POLICY INC.",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1297424",
+    "name": "CAPITOL PARTNERS, LLC",
     "clients": [],
     "quarters": []
   },
@@ -802,8 +819,19 @@
   {
     "id": "1416073",
     "name": "HOFFMAN LAW AND ADVOCACY, PC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "SA RECYCLING, LLC",
+        "amount": 45000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 45000
+      }
+    ]
   },
   {
     "id": "1401115",
@@ -1137,10 +1165,27 @@
     "quarters": []
   },
   {
-    "id": "1401686",
-    "name": "MERIDIAN 122 LLC",
+    "id": "1325943",
+    "name": "MERCURY PUBLIC AFFAIRS",
     "clients": [],
     "quarters": []
+  },
+  {
+    "id": "1401686",
+    "name": "MERIDIAN 122 LLC",
+    "clients": [
+      {
+        "name": "BAE SYSTEMS",
+        "amount": 9000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 9000
+      }
+    ]
   },
   {
     "id": "1467745",
@@ -1169,8 +1214,31 @@
   {
     "id": "1147480",
     "name": "MOLODANOF GOVERNMENT RELATIONS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
+        "amount": 9999.99
+      },
+      {
+        "name": "CALIFORNIA AUTOBODY ASSOCIATION",
+        "amount": 7500
+      },
+      {
+        "name": "CALIFORNIA AUTOMOTIVE BUSINESS COALITION",
+        "amount": 7500
+      },
+      {
+        "name": "CALIFORNIA TIRE DEALERS ASSOCIATION",
+        "amount": 3000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 27999.99
+      }
+    ]
   },
   {
     "id": "1479712",
@@ -1338,8 +1406,47 @@
   {
     "id": "1477222",
     "name": "PERRY STRATEGIES LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
+        "amount": 15000
+      },
+      {
+        "name": "AMAROK, LLC",
+        "amount": 10000
+      },
+      {
+        "name": "CALIFORNIA HOSPITAL ASSOCIATION/CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS",
+        "amount": 22500
+      },
+      {
+        "name": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA PRIMARY CARE ASSOCIATION ADVOCATES",
+        "amount": 27000
+      },
+      {
+        "name": "COMMUNITY CHOICE FINANCIAL",
+        "amount": 12650.98
+      },
+      {
+        "name": "FISERV, INC.",
+        "amount": 0
+      },
+      {
+        "name": "PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA (PORAC)",
+        "amount": 120308.53
+      },
+      {
+        "name": "SAN FRANCISCO POLICE OFFICERS ASSOCIATION",
+        "amount": 6000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 213459.51
+      }
+    ]
   },
   {
     "id": "1147279",
@@ -1938,8 +2045,31 @@
   {
     "id": "1147532",
     "name": "VERMEULEN GOVERNMENTAL RELATIONS; PHILIP M.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ALLIED MANAGED CARE AND ACCLAMATION INSURANCE MANAGEMENT SERVICES",
+        "amount": 11025
+      },
+      {
+        "name": "AMERICAN CONTRACTORS INDEMNITY COMPANY",
+        "amount": 0
+      },
+      {
+        "name": "COALITION OF SMALL AND DISABLED VETERAN BUSINESSES",
+        "amount": 1500
+      },
+      {
+        "name": "FLASHER BARRICADE ASSOCIATION",
+        "amount": 3175
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 15700
+      }
+    ]
   },
   {
     "id": "1347445",
