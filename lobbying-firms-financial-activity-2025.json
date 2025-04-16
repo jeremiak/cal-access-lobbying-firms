@@ -747,8 +747,39 @@
   {
     "id": "1442303",
     "name": "GF ADVOCACY, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALDESAL",
+        "amount": 27500
+      },
+      {
+        "name": "CRUZ STRATEGIES, LLC",
+        "amount": 18000
+      },
+      {
+        "name": "JURUPA COMMUNITY SERVICES DISTRICT",
+        "amount": 18000
+      },
+      {
+        "name": "MILK PRODUCERS COUNCIL",
+        "amount": 7500
+      },
+      {
+        "name": "STATE WATER CONTRACTORS",
+        "amount": 33000
+      },
+      {
+        "name": "SWEETWATER AUTHORITY",
+        "amount": 9000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 113000
+      }
+    ]
   },
   {
     "id": "1147207",
@@ -1137,8 +1168,19 @@
   {
     "id": "1250501",
     "name": "MARGOLIN GROUP INC.; THE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "COUNTY OF SANTA CLARA",
+        "amount": 31500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 31500
+      }
+    ]
   },
   {
     "id": "1467940",
@@ -1447,6 +1489,12 @@
         "amount": 213459.51
       }
     ]
+  },
+  {
+    "id": "1473904",
+    "name": "PETTIBONE GOVERNMENT STRATEGIES LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1147279",
