@@ -649,6 +649,12 @@
     "quarters": []
   },
   {
+    "id": "1423258",
+    "name": "EASTDIL SECURED ADVISORS",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1449406",
     "name": "ECO EQUITY",
     "clients": [],
@@ -1996,8 +2002,19 @@
   {
     "id": "1449227",
     "name": "SANDFORD; LAURA",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
+        "amount": 534
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
   },
   {
     "id": "1147320",
