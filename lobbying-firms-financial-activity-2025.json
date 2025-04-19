@@ -102,8 +102,55 @@
   {
     "id": "1147311",
     "name": "ARNOLD & ASSOCIATES, INC.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
+        "amount": 30750
+      },
+      {
+        "name": "CALIFORNIA KIDNEY CARE ALLIANCE",
+        "amount": 36600
+      },
+      {
+        "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
+        "amount": 8000
+      },
+      {
+        "name": "ESCONDIDO, CITY OF",
+        "amount": 14636
+      },
+      {
+        "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
+        "amount": 39064.1
+      },
+      {
+        "name": "LOS ANGELES LAKERS, INC.; THE",
+        "amount": 2250
+      },
+      {
+        "name": "MILLENNIUM HEALTH",
+        "amount": 15252
+      },
+      {
+        "name": "OXNARD; CITY OF",
+        "amount": 15000
+      },
+      {
+        "name": "REDONDO BEACH, CITY OF",
+        "amount": 7168
+      },
+      {
+        "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
+        "amount": 18252
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 186972.1
+      }
+    ]
   },
   {
     "id": "1426897",
@@ -192,6 +239,12 @@
   {
     "id": "1390945",
     "name": "BETTENCOURT GOVERNMENT RELATIONS",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1377009",
+    "name": "BETTER WORLD GROUP ADVISORS",
     "clients": [],
     "quarters": []
   },
@@ -476,8 +529,123 @@
   {
     "id": "1275439",
     "name": "CARPENTER GARCIA SIEVERS LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN AUTOMOBILE ASSOCIATION OF NORTHERN CALIFORNIA, NEVADA &  UTAH",
+        "amount": 39600
+      },
+      {
+        "name": "BD",
+        "amount": 24000
+      },
+      {
+        "name": "BLUETRITON BRANDS, INC DBA PRIMO BRANDS",
+        "amount": 30000
+      },
+      {
+        "name": "BOOKING HOLDINGS, INC",
+        "amount": 30000
+      },
+      {
+        "name": "C&C NORTH AMERICA, INC. DBA COSENTINO",
+        "amount": 62500
+      },
+      {
+        "name": "CALIFORNIA ASPHALT PAVEMENT ASSOCIATION",
+        "amount": 16021.46
+      },
+      {
+        "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
+        "amount": 105000
+      },
+      {
+        "name": "DAIKIN U.S. CORPORATION",
+        "amount": 33000
+      },
+      {
+        "name": "EVERYTOWN FOR GUN SAFETY ACTION FUND",
+        "amount": 9000
+      },
+      {
+        "name": "HYUNDAI MOTOR COMPANY",
+        "amount": 0
+      },
+      {
+        "name": "IN-N-OUT BURGERS",
+        "amount": 81884.58
+      },
+      {
+        "name": "INTERNATIONAL BOTTLED WATER ASSOCIATION",
+        "amount": 22500
+      },
+      {
+        "name": "KROLL GOVERNMENT SOLUTIONS",
+        "amount": 15000
+      },
+      {
+        "name": "LIVE NATION ENTERTAINMENT, INC",
+        "amount": 28010.61
+      },
+      {
+        "name": "MAXIMUS, INC.",
+        "amount": 30000
+      },
+      {
+        "name": "MEDTRONIC, INC.",
+        "amount": 10000
+      },
+      {
+        "name": "RINNAI AMERICA CORPORATION",
+        "amount": 27000
+      },
+      {
+        "name": "SCHNEIDER ELECTRIC USA, INC.",
+        "amount": 0
+      },
+      {
+        "name": "SUNOCO",
+        "amount": 21000
+      },
+      {
+        "name": "THE DOW CHEMICAL COMPANY, DBA DOW",
+        "amount": 12000
+      },
+      {
+        "name": "TOYOTA MOTOR NORTH AMERICA, INC.",
+        "amount": 25000
+      },
+      {
+        "name": "TRC OPERATING COMPANY, INC.",
+        "amount": 15000
+      },
+      {
+        "name": "U.S. POLYCO, INC.",
+        "amount": 8000
+      },
+      {
+        "name": "U.S. TIRE MANUFACTURERS ASSOCIATION",
+        "amount": 30000
+      },
+      {
+        "name": "VALERO SERVICES, INC",
+        "amount": 120000
+      },
+      {
+        "name": "VALLEY WATER MANAGEMENT COMPANY",
+        "amount": 40000
+      },
+      {
+        "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+        "amount": 90396
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 924912.65
+      }
+    ]
   },
   {
     "id": "1459288",
@@ -494,8 +662,23 @@
   {
     "id": "1361290",
     "name": "CHONG; STRATEGIC CONSULTING OF RACHELLE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "DISH NETWORK CORPORATION",
+        "amount": 10000
+      },
+      {
+        "name": "WAYMO LLC",
+        "amount": 28000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 38000
+      }
+    ]
   },
   {
     "id": "1476591",
@@ -669,6 +852,12 @@
   {
     "id": "1147681",
     "name": "EDGAR & ASSOCIATES, INC.",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1334586",
+    "name": "EDGELINE CAPITAL, LLC",
     "clients": [],
     "quarters": []
   },
@@ -1266,6 +1455,23 @@
     "name": "MADDEN QUINONEZ ADVOCACY",
     "clients": [],
     "quarters": []
+  },
+  {
+    "id": "1442950",
+    "name": "MAHAFFY; SHANNON",
+    "clients": [
+      {
+        "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
+        "amount": 1308
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 1308
+      }
+    ]
   },
   {
     "id": "1439603",
@@ -1909,14 +2115,88 @@
   {
     "id": "1421613",
     "name": "ROSTRUM, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ACADIA PHARMACEUTICALS",
+        "amount": 30000
+      },
+      {
+        "name": "APPLIED MATERIALS",
+        "amount": 19500
+      },
+      {
+        "name": "BAYER U.S., LLC",
+        "amount": 16500
+      },
+      {
+        "name": "CALIFORNIA FORESTRY ASSOCIATION",
+        "amount": 43000
+      },
+      {
+        "name": "CALIFORNIA THOROUGHBRED TRAINERS, INC.",
+        "amount": 20000
+      },
+      {
+        "name": "KAPITUS",
+        "amount": 0
+      },
+      {
+        "name": "KROGER COMPANY, THE",
+        "amount": 0
+      },
+      {
+        "name": "NRDC ACTION FUND",
+        "amount": 8000
+      },
+      {
+        "name": "ONE MAIN FINANCIAL",
+        "amount": 25500
+      },
+      {
+        "name": "RAPID FINANCE",
+        "amount": 15000
+      },
+      {
+        "name": "SHIPT, INC.",
+        "amount": 10000
+      },
+      {
+        "name": "SILICON VALLEY LEADERSHIP GROUP",
+        "amount": 20471.25
+      },
+      {
+        "name": "SPECGX LLC",
+        "amount": 19500
+      },
+      {
+        "name": "SYNCHRONY FINANCIAL",
+        "amount": 29360
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 256831.25
+      }
+    ]
   },
   {
     "id": "1279061",
     "name": "ROXSON, P.C.; LAW OFFICE OF RANDY D.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "SPRINKLER FITTERS ASSOCIATION OF CALIFORNIA",
+        "amount": 19700.04
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 19700.04
+      }
+    ]
   },
   {
     "id": "1460395",
@@ -2632,8 +2912,23 @@
   {
     "id": "1282386",
     "name": "TWOHIG CONSULTING",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
+        "amount": 67170.87
+      },
+      {
+        "name": "EDVOICE",
+        "amount": 18999
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 86169.87
+      }
+    ]
   },
   {
     "id": "1423801",
@@ -2770,6 +3065,12 @@
   {
     "id": "1147283",
     "name": "WATTS ADVOCACY; MARK",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1326557",
+    "name": "WEIDEMAN GROUP, INC.",
     "clients": [],
     "quarters": []
   },
