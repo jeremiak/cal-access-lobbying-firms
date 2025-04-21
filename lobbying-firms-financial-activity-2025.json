@@ -1447,8 +1447,19 @@
   {
     "id": "1396031",
     "name": "LYON CONSULTING; RJ",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
+        "amount": 24999.99
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 24999.99
+      }
+    ]
   },
   {
     "id": "1147326",
@@ -3204,8 +3215,39 @@
   {
     "id": "1459730",
     "name": "YOSHIHARA LAW & POLICY, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA COALITION FOR WORKER POWER",
+        "amount": 18000
+      },
+      {
+        "name": "CALIFORNIA COMMON CAUSE",
+        "amount": 45245.5
+      },
+      {
+        "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION",
+        "amount": 63060.8
+      },
+      {
+        "name": "CALIFORNIA RURAL LEGAL ASSITANCE FOUNDATION",
+        "amount": 12000
+      },
+      {
+        "name": "TECHEQUITY ACTION",
+        "amount": 29450
+      },
+      {
+        "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
+        "amount": 16500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 184256.3
+      }
+    ]
   },
   {
     "id": "1147586",
