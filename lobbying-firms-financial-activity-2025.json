@@ -521,6 +521,12 @@
     "quarters": []
   },
   {
+    "id": "1415351",
+    "name": "CARILLON TOWER ADVISERS, INC D/B/A RAYMOND JAMES INVESTMENT MANAGEMENT",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147223",
     "name": "CARLSON & ASSOCIATES; STEVE",
     "clients": [],
@@ -1168,6 +1174,12 @@
     "quarters": []
   },
   {
+    "id": "1394314",
+    "name": "JACOBSON; DANIEL",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147401",
     "name": "JEA AND ASSOCIATES",
     "clients": [],
@@ -1182,8 +1194,19 @@
   {
     "id": "1435517",
     "name": "JL SOLUTIONS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
+        "amount": 16143.75
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 16143.75
+      }
+    ]
   },
   {
     "id": "1335875",
@@ -1429,8 +1452,27 @@
   {
     "id": "1147300",
     "name": "LOMBARDO GROUP; THE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ABATE OF CALIFORNIA",
+        "amount": 4500
+      },
+      {
+        "name": "CABO-CALIFORNIA ASSOCIATION OF BICYLE ORGANIZATIONS",
+        "amount": 420
+      },
+      {
+        "name": "CMDA-CALIFORNIA MOTORCYCLE DEALERS ASSOCIATION",
+        "amount": 11250
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 16170
+      }
+    ]
   },
   {
     "id": "1403192",
@@ -1587,8 +1629,19 @@
   {
     "id": "1417717",
     "name": "MINSKER CONSULTING, A PROFESSIONAL CORPORATION",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
+        "amount": 67598.95
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 67598.95
+      }
+    ]
   },
   {
     "id": "1147480",
@@ -1792,8 +1845,23 @@
   {
     "id": "1147260",
     "name": "ORRICK HERRINGTON & SUTCLIFFE, LLP",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "DIRECTV, LLC",
+        "amount": 4500
+      },
+      {
+        "name": "DISH NETWORK CORPORATION",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 4500
+      }
+    ]
   },
   {
     "id": "1402488",
@@ -1955,6 +2023,12 @@
     "quarters": []
   },
   {
+    "id": "1435738",
+    "name": "REDWOOD PUBLIC AFFAIRS",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1274075",
     "name": "REEB GOVERNMENT RELATIONS, LLC",
     "clients": [],
@@ -1981,6 +2055,12 @@
   {
     "id": "1424875",
     "name": "RGS CONSULTING & ADVOCACY, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
+    "id": "1454028",
+    "name": "RJR CONSULTING",
     "clients": [],
     "quarters": []
   },
@@ -2316,8 +2396,135 @@
   {
     "id": "1334301",
     "name": "SEASIDE ADVOCACY LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMAZON.COM SERVICES LLC",
+        "amount": 40000
+      },
+      {
+        "name": "ANTORA ENERGY, INC.",
+        "amount": 10000
+      },
+      {
+        "name": "BHE RENEWABLES",
+        "amount": 7500
+      },
+      {
+        "name": "BLOCKCHAIN (US), INC. AND AFFILIATED ENTITIES",
+        "amount": 5000
+      },
+      {
+        "name": "BOSTON DYNAMICS, INC.",
+        "amount": 8500
+      },
+      {
+        "name": "CONSTELLATION BRANDS, INC.",
+        "amount": 15000
+      },
+      {
+        "name": "DELICATO VINEYARDS, LLC D/B/A DELICATO FAMILY WINES",
+        "amount": 4500
+      },
+      {
+        "name": "DROPBOX, INC",
+        "amount": 24000
+      },
+      {
+        "name": "EDF RENEWABLES",
+        "amount": 13500
+      },
+      {
+        "name": "EDP RENEWABLES NORTH AMERICA",
+        "amount": 7500
+      },
+      {
+        "name": "ELECTRIC HYDROGEN CO.",
+        "amount": 15000
+      },
+      {
+        "name": "GOLDEN STATE WIND LLC",
+        "amount": 12500
+      },
+      {
+        "name": "HYDROSTOR, INC.",
+        "amount": 5000
+      },
+      {
+        "name": "PACIFICORP",
+        "amount": 25500
+      },
+      {
+        "name": "RELX INC. AND ITS SUBSIDIARIES",
+        "amount": 20000
+      },
+      {
+        "name": "SACRAMENTO MUNICIPAL UTILITY DISTRICT",
+        "amount": 11000
+      },
+      {
+        "name": "SACRAMENTO; CITY OF",
+        "amount": 12000
+      },
+      {
+        "name": "SAN BERNARDINO COUNTY TRANSPORTATION AUTHORITY",
+        "amount": 30000
+      },
+      {
+        "name": "SANTA CLARA VALLEY TRANSPORTATION AUTHORITY",
+        "amount": 15000
+      },
+      {
+        "name": "SCALE MICROGRIDS",
+        "amount": 15000
+      },
+      {
+        "name": "SEARLES VALLEY MINERALS",
+        "amount": 20000
+      },
+      {
+        "name": "SOLAR ENERGY INDUSTRIES ASSOCIATION",
+        "amount": 37950
+      },
+      {
+        "name": "SOLARCYCLE, INC.",
+        "amount": 11000
+      },
+      {
+        "name": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
+        "amount": 11986.33
+      },
+      {
+        "name": "SUMMIT ADVOCACY LLC",
+        "amount": 0
+      },
+      {
+        "name": "TIKTOK INC. US",
+        "amount": 407.38
+      },
+      {
+        "name": "VENTURA COUNTY TRANSPORTATION COMMISSION",
+        "amount": 9000
+      },
+      {
+        "name": "VOLKSWAGEN GROUP OF AMERICA, INC. AND ITS AFFILIATED ENTITIES",
+        "amount": 66000
+      },
+      {
+        "name": "WEIDEMAN GROUP, INC.",
+        "amount": 26000
+      },
+      {
+        "name": "ZILLOW GROUP",
+        "amount": 6000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 484843.71
+      }
+    ]
   },
   {
     "id": "1147390",
@@ -2790,8 +2997,99 @@
   {
     "id": "1477926",
     "name": "SUMMIT ADVOCACY LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMAZON.COM SERVICES LLC",
+        "amount": 0
+      },
+      {
+        "name": "ASSOCIATION OF ENVIRONMENTAL PROFESSIONALS",
+        "amount": 16027.13
+      },
+      {
+        "name": "BIOENERGY ASSOCIATION OF CALIFORNIA",
+        "amount": 15000
+      },
+      {
+        "name": "BOSTON DYNAMICS, INC.",
+        "amount": 8500
+      },
+      {
+        "name": "CALIFORNIA CHAMBER OF COMMERCE",
+        "amount": 10000
+      },
+      {
+        "name": "CENTER FOR SUSTAINABLE ENERGY",
+        "amount": 7000
+      },
+      {
+        "name": "DROPBOX, INC.",
+        "amount": 6000
+      },
+      {
+        "name": "ENERGYSOURCE MINERALS LLC",
+        "amount": 0
+      },
+      {
+        "name": "GAP, INC.",
+        "amount": 6000
+      },
+      {
+        "name": "HOME RUN FINANCING",
+        "amount": 8000
+      },
+      {
+        "name": "PONY.AI",
+        "amount": 7000
+      },
+      {
+        "name": "RELX INC. AND ITS SUBSIDIARIES",
+        "amount": 10000
+      },
+      {
+        "name": "SACRAMENTO MUNICIPAL UTILITY DISTRICT",
+        "amount": 0
+      },
+      {
+        "name": "SAN FRANCISCO SAFEHOUSE",
+        "amount": 0
+      },
+      {
+        "name": "SEASIDE ADVOCACY LLC",
+        "amount": 5000
+      },
+      {
+        "name": "SYRUS DEVERS ADVOCACY LLC",
+        "amount": 0
+      },
+      {
+        "name": "TASKRABBIT",
+        "amount": 13000
+      },
+      {
+        "name": "TIKTOK INC. US",
+        "amount": 30000
+      },
+      {
+        "name": "UBER TECHNOLOGIES, INC.",
+        "amount": 0
+      },
+      {
+        "name": "VOLKSWAGEN GROUP OF AMERICA, INC. AND ITS AFFILIATED ENTITIES",
+        "amount": 0
+      },
+      {
+        "name": "ZILLOW GROUP",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 141527.13
+      }
+    ]
   },
   {
     "id": "1461716",
@@ -3062,6 +3360,12 @@
     "quarters": []
   },
   {
+    "id": "1437126",
+    "name": "W STRATEGIES, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1294455",
     "name": "WADA GOVERNMENT RELATIONS LLC",
     "clients": [],
@@ -3148,6 +3452,12 @@
         "amount": 90071
       }
     ]
+  },
+  {
+    "id": "1459409",
+    "name": "WIECKOWSKI CONSULTING",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1477762",
