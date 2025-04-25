@@ -1471,6 +1471,12 @@
     "quarters": []
   },
   {
+    "id": "1425990",
+    "name": "EARTH ADVOCACY",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1423258",
     "name": "EASTDIL SECURED ADVISORS",
     "clients": [],
@@ -1548,8 +1554,19 @@
   {
     "id": "1405976",
     "name": "ERG SECURITIES (US) LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ASTIGNES CAPITAL ASIA PTE LTD",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
   },
   {
     "id": "1423840",
@@ -1575,8 +1592,83 @@
   {
     "id": "1295371",
     "name": "FANSLAU GOVERNMENT AFFAIRS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ANAHEIM, CITY OF",
+        "amount": 51000
+      },
+      {
+        "name": "BITCOIN DEPOT",
+        "amount": 50000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHESIOLOGY (CANA)",
+        "amount": 54000
+      },
+      {
+        "name": "CALIFORNIA CANNABIS OPERATORS ASSOCIATION (CACOA)",
+        "amount": 30000
+      },
+      {
+        "name": "CALIFORNIA MOBILITY CENTER",
+        "amount": 30000
+      },
+      {
+        "name": "CENTRAL VALLEY CIRCULAR",
+        "amount": 0
+      },
+      {
+        "name": "CVS HEALTH",
+        "amount": 50000
+      },
+      {
+        "name": "DAVITA INC.",
+        "amount": 45220.59
+      },
+      {
+        "name": "DEL MAR THOROUGHBRED CLUB",
+        "amount": 18000
+      },
+      {
+        "name": "MERCED COLLEGE",
+        "amount": 30000
+      },
+      {
+        "name": "MINDR",
+        "amount": 40500
+      },
+      {
+        "name": "RIVER PARTNERS",
+        "amount": 20000
+      },
+      {
+        "name": "SACRAMENTO COUNTY DISTRICT ATTORNEY'S OFFICE",
+        "amount": 0
+      },
+      {
+        "name": "SAFETY AND ADVOCACY FOR EMPOWERMENT (SAFE)",
+        "amount": 45000
+      },
+      {
+        "name": "THOROUGHBRED OWNERS OF CALIFORNIA",
+        "amount": 18000
+      },
+      {
+        "name": "TURO",
+        "amount": 22500
+      },
+      {
+        "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
+        "amount": 24000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 528220.59
+      }
+    ]
   },
   {
     "id": "1343359",
@@ -2333,8 +2425,23 @@
   {
     "id": "1147751",
     "name": "LATHAM & WATKINS LLP",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "COALITION FOR CALIFORNIA CLIMATE AMBITION",
+        "amount": 50197.36
+      },
+      {
+        "name": "MCCOURT PARTNERS REAL ESTATE AND ITS AFFILIATES CHAVEZ RAVINE LAND CO AND AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 50197.36
+      }
+    ]
   },
   {
     "id": "1274927",
@@ -2701,8 +2808,55 @@
   {
     "id": "1303301",
     "name": "MONTGOMERY CONSULTING LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "BP AMERICA, INC. AND AFFILIATED ENTITES",
+        "amount": 27000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF ZOOS AND AQUARIUMS",
+        "amount": 10000
+      },
+      {
+        "name": "CLEAN ENERGY SYSTEMS",
+        "amount": 25000
+      },
+      {
+        "name": "CONSERVATION AMBASSADORS",
+        "amount": 0
+      },
+      {
+        "name": "MAISURE, LLC",
+        "amount": 15000
+      },
+      {
+        "name": "POLITICAL SOLUTIONS ON BEHALF OF KERN ENERGY",
+        "amount": 27000
+      },
+      {
+        "name": "POLITICAL SOLUTIONS ON BEHALF OF TRANE TECHNOLOGIES COMPANY, LLC",
+        "amount": 22000
+      },
+      {
+        "name": "RENEWELL ENERGY",
+        "amount": 22000
+      },
+      {
+        "name": "SADLER CONSULTING ON BEHALF OF NUCOR CORPORATION",
+        "amount": 12000
+      },
+      {
+        "name": "SEAWORLD PARKS & ENTERTAINMENT",
+        "amount": 20000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 180000
+      }
+    ]
   },
   {
     "id": "1295401",
@@ -3541,8 +3695,23 @@
   {
     "id": "1460395",
     "name": "RXN LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CONNECTED COMMERCE COUNCIL",
+        "amount": 0
+      },
+      {
+        "name": "INNOVATIVE LENDING PLATFORM ASSOCIATION",
+        "amount": 1800
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 1800
+      }
+    ]
   },
   {
     "id": "1384776",
@@ -4161,6 +4330,12 @@
     ]
   },
   {
+    "id": "1417028",
+    "name": "SHEEHY STRATEGY GROUP",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1400817",
     "name": "SIVERLING ADVOCACY",
     "clients": [],
@@ -4211,8 +4386,19 @@
   {
     "id": "1455969",
     "name": "SR ONE CAPITAL ADVISORS, LTD.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "SR ONE CAPITAL MANAGEMENT, L.P.",
+        "amount": 832
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 832
+      }
+    ]
   },
   {
     "id": "1147741",
