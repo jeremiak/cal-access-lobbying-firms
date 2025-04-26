@@ -49,8 +49,23 @@
   {
     "id": "1400866",
     "name": "ALANIS GROUP; THE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "BREAD FINANCIAL HOLDINGS, INC.",
+        "amount": 18000
+      },
+      {
+        "name": "RESOLUTE OBO HABEMATOLEL POMO OF UPPER LAKE",
+        "amount": 9000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 27000
+      }
+    ]
   },
   {
     "id": "1472211",
@@ -403,8 +418,19 @@
   {
     "id": "1377009",
     "name": "BETTER WORLD GROUP ADVISORS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ENERGY FOUNDATION",
+        "amount": 59166.64
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 59166.64
+      }
+    ]
   },
   {
     "id": "1404090",
@@ -415,6 +441,31 @@
   {
     "id": "1437911",
     "name": "BLUE COAST STRATEGIES",
+    "clients": [
+      {
+        "name": "CALIFORNIA COMMUNITY ACTION PARTNERSHIP ASSOCIATION",
+        "amount": 15000
+      },
+      {
+        "name": "GOLDEN STATE OPPORTUNITY",
+        "amount": 6000
+      },
+      {
+        "name": "IMMIGRANT LEGAL RESOURCE CENTER",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 36000
+      }
+    ]
+  },
+  {
+    "id": "1480445",
+    "name": "BLUM-GUTIERREZ CONSULTING",
     "clients": [],
     "quarters": []
   },
@@ -977,7 +1028,7 @@
   },
   {
     "id": "1382722",
-    "name": "CAMPBELL STRATEGY & ADVOCACY",
+    "name": "CAMPBELL STRATEGY & ADVOCACY LLC",
     "clients": [],
     "quarters": []
   },
@@ -1156,8 +1207,31 @@
   {
     "id": "1147223",
     "name": "CARLSON & ASSOCIATES; STEVE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ASSOCIATION OF NATIONAL ADVERTISERS",
+        "amount": 30000
+      },
+      {
+        "name": "ATHENS SERVICES & AFFILIATED ENTITIES",
+        "amount": 40000
+      },
+      {
+        "name": "CTIA",
+        "amount": 69000
+      },
+      {
+        "name": "NATIONAL VENTURE CAPITAL ASSOCIATION",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 154000
+      }
+    ]
   },
   {
     "id": "1275439",
@@ -1467,8 +1541,27 @@
   {
     "id": "1478998",
     "name": "DODD AND CHAABAN STRATEGIES LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA ARTISANAL DISTILLERS GUILD, DBA CALIFORNIA DISTILLERS ASSOCIATION",
+        "amount": 4612
+      },
+      {
+        "name": "JACKSON FAMILY INVESTMENTS, LLC",
+        "amount": 0
+      },
+      {
+        "name": "PACIFIC HOSPITALITY GROUP VENTURES INC.",
+        "amount": 10000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 14612
+      }
+    ]
   },
   {
     "id": "1425990",
@@ -2004,8 +2097,63 @@
   {
     "id": "1444109",
     "name": "HURNER GOVERNMENT RELATIONS AND ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CAN MANUFACTURING INSTITUTE",
+        "amount": 21000
+      },
+      {
+        "name": "CARPET CUSHION COUNCIL",
+        "amount": 18000
+      },
+      {
+        "name": "DE SILVA GROUP AND AFFILIATES, THE",
+        "amount": 27000
+      },
+      {
+        "name": "EMBECTA CORP.",
+        "amount": 24000
+      },
+      {
+        "name": "ERIC PAREDES SAVE A LIFE FOUNDATION",
+        "amount": 5000
+      },
+      {
+        "name": "FIELD TURF INC.",
+        "amount": 0
+      },
+      {
+        "name": "FLAGSHIP CRUISES & EVENTS",
+        "amount": 19500
+      },
+      {
+        "name": "INFO LINE OF SAN DIEGO DBA 211 SAN DIEGO",
+        "amount": 25500
+      },
+      {
+        "name": "MED-PROJECT CA, LLC",
+        "amount": 0
+      },
+      {
+        "name": "MILLER INDUSTRIES, INC.",
+        "amount": 0
+      },
+      {
+        "name": "SCI CA COALITION",
+        "amount": 5000
+      },
+      {
+        "name": "WHITE BRENNER LLP OBO SYNTHETIC TURF COUNCIL",
+        "amount": 28750
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 173750
+      }
+    ]
   },
   {
     "id": "1375402",
@@ -2366,8 +2514,19 @@
   {
     "id": "1392189",
     "name": "KEYBRIDGE RESEARCH LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "KING & SPALDING LLP",
+        "amount": 2631.25
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 2631.25
+      }
+    ]
   },
   {
     "id": "1357733",
@@ -2586,8 +2745,83 @@
   {
     "id": "1147326",
     "name": "MADDEN QUINONEZ ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "BIC CORPORATION",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA ALLIANCE FOR GOLF",
+        "amount": 14400
+      },
+      {
+        "name": "CALIFORNIA CHAPTER AMERICAN COLLEGE OF CARDIOLOGY",
+        "amount": 8000
+      },
+      {
+        "name": "CALIFORNIA CHAPTER AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+        "amount": 35000
+      },
+      {
+        "name": "CALIFORNIA RHEUMATOLOGY ALLIANCE",
+        "amount": 15200
+      },
+      {
+        "name": "CALIFORNIA SOCIETY OF PLASTIC SURGEONS",
+        "amount": 14099.99
+      },
+      {
+        "name": "CONCENTRA",
+        "amount": 16400
+      },
+      {
+        "name": "FRAGRANCE CREATORS ASSOCIATION",
+        "amount": 16200
+      },
+      {
+        "name": "GROSSMONT HEALTHCARE DISTRICT",
+        "amount": 5800
+      },
+      {
+        "name": "HOUSEHOLD AND COMMERCIAL PRODUCTS ASSOCIATION",
+        "amount": 30799.99
+      },
+      {
+        "name": "MARIN HEALTHCARE DISTRICT AND ITS AFFILIATED ENTITY MARIN GENERAL HOSPITAL",
+        "amount": 5800
+      },
+      {
+        "name": "NATIONAL AEROSOL ASSOCIATION",
+        "amount": 3350
+      },
+      {
+        "name": "PET FOOD INSTITUTE",
+        "amount": 1800
+      },
+      {
+        "name": "THE CLOROX COMPANY",
+        "amount": 12300
+      },
+      {
+        "name": "THE SCOTTS MIRACLE-GRO COMPANY",
+        "amount": 16725.79
+      },
+      {
+        "name": "WASHINGTON TOWNSHIP HEALTH CARE DISTRICT",
+        "amount": 9800
+      },
+      {
+        "name": "WD-40 COMPANY",
+        "amount": 5800
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 211475.77
+      }
+    ]
   },
   {
     "id": "1442950",
@@ -2691,8 +2925,19 @@
   {
     "id": "1147430",
     "name": "MATTOS & ASSOCIATES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "SOUTHERN CALIFORNIA UNIVERSITY OF HEALTH SCIENCES",
+        "amount": 27300
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 27300
+      }
+    ]
   },
   {
     "id": "1229399",
@@ -2969,8 +3214,55 @@
   {
     "id": "1261520",
     "name": "NOTEWARE GOVERNMENT RELATIONS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ALS ASSOCIATION - GOLDEN WEST CHAPTER",
+        "amount": 20000
+      },
+      {
+        "name": "CSL BEHRING",
+        "amount": 16000
+      },
+      {
+        "name": "GENMAB US, INC.",
+        "amount": 6250
+      },
+      {
+        "name": "GILEAD SCIENCES, INC.",
+        "amount": 50000
+      },
+      {
+        "name": "LEAGUE OF CALIFORNIA COMMUNITY FOUNDATIONS",
+        "amount": 15000
+      },
+      {
+        "name": "MALLINCKRODT, LLC",
+        "amount": 13000
+      },
+      {
+        "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
+        "amount": 43350
+      },
+      {
+        "name": "STANFORD HEALTH CARE",
+        "amount": 75000
+      },
+      {
+        "name": "UCB, INC.",
+        "amount": 10833.32
+      },
+      {
+        "name": "ULTRAGENYX PHARMACEUTICALS",
+        "amount": 21000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 270433.32
+      }
+    ]
   },
   {
     "id": "1393023",
@@ -3431,8 +3723,19 @@
   {
     "id": "1147314",
     "name": "REVELL COMMUNICATIONS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN PROMOTIONAL EVENTS, INC",
+        "amount": 31901.9
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 31901.9
+      }
+    ]
   },
   {
     "id": "1424875",
@@ -4378,6 +4681,12 @@
     "quarters": []
   },
   {
+    "id": "1365515",
+    "name": "SOUTHWEST STRATEGIES, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1456846",
     "name": "SOUZA LAW FIRM, INC.",
     "clients": [],
@@ -4787,6 +5096,23 @@
     "quarters": []
   },
   {
+    "id": "1420292",
+    "name": "VELADA CONSULTING LLC",
+    "clients": [
+      {
+        "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
+        "amount": 45000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 45000
+      }
+    ]
+  },
+  {
     "id": "1253433",
     "name": "VENABLE LLP",
     "clients": [],
@@ -4917,8 +5243,23 @@
   {
     "id": "1388296",
     "name": "WALKER STRATEGIES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA ASSOCIATION OF SHEET METAL AND AIR CONDITIONING CONTRACTORS NATIONAL ASSOCIATION",
+        "amount": 38869.5
+      },
+      {
+        "name": "CALIFORNIA CRAFT BREWERS ASSOCIATION",
+        "amount": 27000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 65869.5
+      }
+    ]
   },
   {
     "id": "1147283",
