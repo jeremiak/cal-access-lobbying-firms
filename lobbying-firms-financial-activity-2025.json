@@ -1017,8 +1017,19 @@
   {
     "id": "1234564",
     "name": "CALIFORNIA RESOURCE STRATEGIES, INC.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "PARTNERSHIP FOR SOUND SCIENCE IN ENVIRONMENTAL POLICY",
+        "amount": 4000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 4000
+      }
+    ]
   },
   {
     "id": "1294814",
@@ -1635,8 +1646,31 @@
   {
     "id": "1339161",
     "name": "ENGLANDER KNABE & ALLEN",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "HOPE FOR AN AFFORDABLE LA, LP",
+        "amount": 0
+      },
+      {
+        "name": "INDEPENDENT LIVING SYSTEMS, LLC",
+        "amount": 0
+      },
+      {
+        "name": "LONG BEACH CONTAINER TERMINAL",
+        "amount": 10000
+      },
+      {
+        "name": "NIKE INC.",
+        "amount": 9000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 19000
+      }
+    ]
   },
   {
     "id": "1371848",
@@ -1829,8 +1863,63 @@
   {
     "id": "1440401",
     "name": "FULL MOON STRATEGIES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN CLEAN POWER ASSOCIATION",
+        "amount": 2000
+      },
+      {
+        "name": "ARCXIS",
+        "amount": 12500
+      },
+      {
+        "name": "CALIFORNIA DISTRICT ATTORNEYS ASSOCIATION",
+        "amount": 0
+      },
+      {
+        "name": "CAMPAIGN FOR A SAFE AND HEALTHY CALIFORNIA, SPONSORED BY NONPROFIT ENVIRONMENTAL AND HEALTH ORGANIZATIONS",
+        "amount": 30000
+      },
+      {
+        "name": "COUNTY OF ALAMEDA",
+        "amount": 50000
+      },
+      {
+        "name": "GOLDEN STATE OPPORTUNITY",
+        "amount": 24000
+      },
+      {
+        "name": "INTERNATIONAL INTERIOR DESIGN ASSOCIATION, NORTHERN CALIFORNIA CHAPTER, INC.",
+        "amount": 10000
+      },
+      {
+        "name": "KAT TAYLOR",
+        "amount": 37500
+      },
+      {
+        "name": "MILLER CESPEDES AND ASSOCIATES, LLC OBO HAZEL HEALTH",
+        "amount": 15000
+      },
+      {
+        "name": "SAN DIEGO COMMUNITY POWER",
+        "amount": 30000
+      },
+      {
+        "name": "WESTERN GOVERNORS UNIVERSITY",
+        "amount": 20000
+      },
+      {
+        "name": "WESTLANDS SOLAR PARK HOLDINGS, LLC, A DELAWARE LIMITED LIABILITY COMPANY",
+        "amount": 30000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 261000
+      }
+    ]
   },
   {
     "id": "1360151",
@@ -3124,8 +3213,27 @@
   {
     "id": "1334422",
     "name": "NAYLOR ADVOCACY; ROBERT W.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "6BEDS, INC.",
+        "amount": 21668.12
+      },
+      {
+        "name": "FIELDSTEAD AND COMPANY, INC.",
+        "amount": 15733.63
+      },
+      {
+        "name": "LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
+        "amount": 25500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 62901.75
+      }
+    ]
   },
   {
     "id": "1448137",
@@ -4712,8 +4820,35 @@
   {
     "id": "1147741",
     "name": "STEFAN/GEORGE ASSOCIATES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICAN COATINGS ASSOCIATION",
+        "amount": 23499.99
+      },
+      {
+        "name": "AMERICAN PLANNING ASSOCIATION, CALIFORNIA CHAPTER",
+        "amount": 36800
+      },
+      {
+        "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
+        "amount": 20000
+      },
+      {
+        "name": "INTERNATIONAL SLEEP PRODUCTS ASSOCIATION",
+        "amount": 24000
+      },
+      {
+        "name": "MAERSK INC.",
+        "amount": 18062.49
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 122362.48
+      }
+    ]
   },
   {
     "id": "1465365",
