@@ -43,8 +43,31 @@
   {
     "id": "1376890",
     "name": "AJW, INC.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CLEAN AIR TASK FORCE",
+        "amount": 0
+      },
+      {
+        "name": "NORTH AMERICAN INSULATION MANUFACTURERS ASSOCIATION (NAIMA)",
+        "amount": 225
+      },
+      {
+        "name": "NRDC ACTION FUND",
+        "amount": 0
+      },
+      {
+        "name": "WORLD ENERGY",
+        "amount": 1030
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 1255
+      }
+    ]
   },
   {
     "id": "1400866",
@@ -93,8 +116,59 @@
   {
     "id": "1465745",
     "name": "APEKIAN ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "BRYANT GOVERNMENT AFFAIRS OBO CALIFORNIA DOWNTOWN ASSOCIATION",
+        "amount": 4500
+      },
+      {
+        "name": "BRYANT GOVERNMENT AFFAIRS OBO CANNABIS DISTRIBUTION ASSOCIATION",
+        "amount": 4500
+      },
+      {
+        "name": "CASINO M8TRIX",
+        "amount": 18732.92
+      },
+      {
+        "name": "CONSERVICE UTILITY MANAGEMENT & BILLING",
+        "amount": 0
+      },
+      {
+        "name": "ELEVATE CALIFORNIA",
+        "amount": 13000
+      },
+      {
+        "name": "GREENBERG TRAURIG, LLP OBO STOCKDALE CAPITAL PARTNERS, LLC",
+        "amount": 16700
+      },
+      {
+        "name": "KESTER/PAHOS OBO CENTENE AND ITS AFFILIATE HEALTH NET",
+        "amount": 5600
+      },
+      {
+        "name": "KESTER/PAHOS OBO FORD MOTOR COMPANY AND ITS AFFILIATES",
+        "amount": 5600
+      },
+      {
+        "name": "KESTER/PAHOS OBO SEMPRA AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
+        "amount": 5600
+      },
+      {
+        "name": "KESTER/PAHOS OBO TENET HEALTHCARE",
+        "amount": 5600
+      },
+      {
+        "name": "KESTER/PAHOS OBO VISION TO LEARN",
+        "amount": 5600
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 85432.92
+      }
+    ]
   },
   {
     "id": "1147436",
@@ -1443,8 +1517,19 @@
   {
     "id": "1147708",
     "name": "CONSUMER ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CONSUMERS FOR AUTO RELIABILITY AND SAFETY",
+        "amount": 11250
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 11250
+      }
+    ]
   },
   {
     "id": "1147387",
@@ -1510,8 +1595,19 @@
   {
     "id": "1259789",
     "name": "CURRY AND ASSOCIATES; PAUL R.",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA CORRECTIONAL SUPERVISORS ORGANIZATION, INC.",
+        "amount": 36900
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 36900
+      }
+    ]
   },
   {
     "id": "1415097",
@@ -1675,8 +1771,123 @@
   {
     "id": "1371848",
     "name": "ENVIRONMENTAL AND ENERGY CONSULTING",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "B.BRAUN MEDICAL",
+        "amount": 3900
+      },
+      {
+        "name": "BREAST CANCER PREVENTION PARTNERS",
+        "amount": 1800
+      },
+      {
+        "name": "BUILDING DECARBONIZATION COALITION",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF LOCAL CONSERVATION CORPS (CALCC)",
+        "amount": 12500.01
+      },
+      {
+        "name": "CALIFORNIA COMPOST COALITION",
+        "amount": 10500
+      },
+      {
+        "name": "CALIFORNIA STATE PARKS FOUNDATION",
+        "amount": 2250
+      },
+      {
+        "name": "CALIFORNIA VANPOOL AUTHORITY (CALVANS)",
+        "amount": 0
+      },
+      {
+        "name": "CALSTART INC.",
+        "amount": 12000
+      },
+      {
+        "name": "CENTRAL COAST ENERGY SERVICES",
+        "amount": 2625
+      },
+      {
+        "name": "CERES, INC.",
+        "amount": 5850
+      },
+      {
+        "name": "CLIMATE STRATEGIES LABS",
+        "amount": 1800
+      },
+      {
+        "name": "CONSERVATION FUND, THE",
+        "amount": 7500
+      },
+      {
+        "name": "CR&R INCORPORATED",
+        "amount": 3750
+      },
+      {
+        "name": "EAST BAY REGIONAL PARKS DISTRICT",
+        "amount": 4800
+      },
+      {
+        "name": "ELECTRIC VEHICLE CHARGING ASSOCIATION",
+        "amount": 3200
+      },
+      {
+        "name": "ENDANGERED HABITATS LEAGUE",
+        "amount": 0
+      },
+      {
+        "name": "ESCONDIDO CREEK CONSERVANCY, THE",
+        "amount": 0
+      },
+      {
+        "name": "HEAT PUMP NATION",
+        "amount": 3000
+      },
+      {
+        "name": "LAND TRUST OF SANTA CRUZ COUNTY",
+        "amount": 4500
+      },
+      {
+        "name": "LOS ANGELES NEIGHBORHOOD LAND TRUST",
+        "amount": 0
+      },
+      {
+        "name": "MIDPENINSULA REGIONAL OPEN SPACE DISTRICT",
+        "amount": 10030
+      },
+      {
+        "name": "SANTA CLARA VALLEY HABITAT AGENCY",
+        "amount": 1500
+      },
+      {
+        "name": "SAVE THE REDWOODS LEAGUE",
+        "amount": 22000
+      },
+      {
+        "name": "SEMPERVIRENS FUND",
+        "amount": 2250
+      },
+      {
+        "name": "SEVENTH GENERATION, INC.",
+        "amount": 9000
+      },
+      {
+        "name": "SOUTH BAYSIDE WASTE MANAGEMENT AUTHORITY (SBWMA) DBA RETHINKWASTE",
+        "amount": 18000
+      },
+      {
+        "name": "VALLEY CAN (CLEAN AIR NOW)",
+        "amount": 3000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 145755.01
+      }
+    ]
   },
   {
     "id": "1405976",
@@ -2756,8 +2967,35 @@
   {
     "id": "1423525",
     "name": "LEWIS ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ASPIRANET",
+        "amount": 14000
+      },
+      {
+        "name": "CALIFORNIA COALITION FOR YOUTH",
+        "amount": 3000
+      },
+      {
+        "name": "CHILD CARE RESOURCE CENTER INC.",
+        "amount": 0
+      },
+      {
+        "name": "CHILDREN NOW",
+        "amount": 1500
+      },
+      {
+        "name": "CORPORATION FOR EDUCATION NETWORK INITIATIVES IN CALIFORNIA",
+        "amount": 7725
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 26225
+      }
+    ]
   },
   {
     "id": "1428266",
@@ -2805,8 +3043,23 @@
   {
     "id": "1403192",
     "name": "LOOMIS ADVOCACY SOLUTIONS",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA INDEPENDENT TELECOMMUNICATIONS COMPANIES",
+        "amount": 30000
+      },
+      {
+        "name": "CONSOLIDATED COMMUNICATIONS (CCI)",
+        "amount": 21300
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 51300
+      }
+    ]
   },
   {
     "id": "1406373",
@@ -3877,8 +4130,39 @@
   {
     "id": "1459987",
     "name": "ROBERSON STRATEGIES LLC; STEPHANIE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ASSOCIATION OF DENTAL SUPPORT ORGANIZATIONS",
+        "amount": 19500
+      },
+      {
+        "name": "CALIFORNIA CHAMBER OF COMMERCE",
+        "amount": 37500
+      },
+      {
+        "name": "CALIFORNIA MEDICAL ASSOCIATION AND AFFILIATES",
+        "amount": 36000
+      },
+      {
+        "name": "GUALCO GROUP, INC., THE OBO CALIFORNIA COUNCIL FOR ENVIRONMENTAL AND ECONOMIC BALANCE (CCEEB)",
+        "amount": 12000
+      },
+      {
+        "name": "GUALCO GROUP, INC., THE OBO DELOITTE CONSULTING LLP",
+        "amount": 0
+      },
+      {
+        "name": "WEST COAST UNIVERSITY",
+        "amount": 30000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 135000
+      }
+    ]
   },
   {
     "id": "1235499",
@@ -5372,8 +5656,27 @@
   {
     "id": "1294455",
     "name": "WADA GOVERNMENT RELATIONS LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA ASSOCIATION OF COMMUNITY MANAGERS",
+        "amount": 30000
+      },
+      {
+        "name": "EDVOICE",
+        "amount": 15500
+      },
+      {
+        "name": "WEIDEMAN GROUP, INC. ON BEHALF OF MOTOR VEHICLE SOFTWARE CORPORATION",
+        "amount": 2000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 47500
+      }
+    ]
   },
   {
     "id": "1388296",
@@ -5581,7 +5884,22 @@
   {
     "id": "1147586",
     "name": "ZARAGOZA-DIAZ & ASSOCIATES",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA MUSIC EDUCATORS ASSOCIATION (CMEA)",
+        "amount": 800
+      },
+      {
+        "name": "DELTA KAPPA GAMMA CALIFORNIA",
+        "amount": 5839.56
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 6639.56
+      }
+    ]
   }
 ]
