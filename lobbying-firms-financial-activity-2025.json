@@ -278,6 +278,23 @@
     "quarters": []
   },
   {
+    "id": "1448810",
+    "name": "AGEE GLOBAL SOLUTIONS, LLC",
+    "clients": [
+      {
+        "name": "EAH INC.",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 15000
+      }
+    ]
+  },
+  {
     "id": "1376890",
     "name": "AJW, INC.",
     "clients": [
@@ -3475,6 +3492,83 @@
         "quarter": "1",
         "session": "2025",
         "amount": 2767167.69
+      }
+    ]
+  },
+  {
+    "id": "1335638",
+    "name": "CAMPBELL LUTYENS & CO. INC.",
+    "clients": [
+      {
+        "name": "26NORTH PARTNERS LP",
+        "amount": 0
+      },
+      {
+        "name": "AGL CREDIT MANAGEMENT",
+        "amount": 0
+      },
+      {
+        "name": "APERA ASSET MANAGEMENT LLP",
+        "amount": 0
+      },
+      {
+        "name": "EIG MANAGEMENT COMPANY, LLC",
+        "amount": 0
+      },
+      {
+        "name": "GENERAL CATALYST GROUP MANAGEMENT LLC",
+        "amount": 0
+      },
+      {
+        "name": "GENERATION INVESTMENT MANAGEMENT",
+        "amount": 0
+      },
+      {
+        "name": "GLOBAL INFRASTRUCTURE MANAGEMENT LLC",
+        "amount": 0
+      },
+      {
+        "name": "I80 GROUP LP",
+        "amount": 0
+      },
+      {
+        "name": "INFRAVIA CAPITAL PARTNERS",
+        "amount": 0
+      },
+      {
+        "name": "KARTESIA MANAGEMENT",
+        "amount": 0
+      },
+      {
+        "name": "MERIDIAM SAS",
+        "amount": 0
+      },
+      {
+        "name": "PIONEER POINT PARTNERS LLP",
+        "amount": 0
+      },
+      {
+        "name": "Q-ENERGY PRIVATE EQUITY SGEIC, SA",
+        "amount": 0
+      },
+      {
+        "name": "QIC US INVESTMENT SERVICES INC",
+        "amount": 0
+      },
+      {
+        "name": "STRIPES",
+        "amount": 0
+      },
+      {
+        "name": "WEBSTER EQUITY PARTNERS LLC",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -8875,6 +8969,12 @@
     ]
   },
   {
+    "id": "1480777",
+    "name": "KHALILI, SHAHIN M",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1357733",
     "name": "KHOURI CONSULTING LLC",
     "clients": [
@@ -11048,6 +11148,31 @@
         "quarter": "1",
         "session": "2025",
         "amount": 67598.95
+      }
+    ]
+  },
+  {
+    "id": "1439125",
+    "name": "MJM ADVOCACY, INC.",
+    "clients": [
+      {
+        "name": "STEVE CARLSON & ASSOCIATES",
+        "amount": 0
+      },
+      {
+        "name": "THE LAW OFFICES OF ALBERTO TORRICO OBO AT&T SERVICES INC. AND ITS AFFILIATES",
+        "amount": 9000
+      },
+      {
+        "name": "THIRD HOUSE",
+        "amount": 67500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 76500
       }
     ]
   },
@@ -15802,6 +15927,35 @@
         "quarter": "1",
         "session": "2025",
         "amount": 25039.49
+      }
+    ]
+  },
+  {
+    "id": "1405717",
+    "name": "SERLIN HALEY LLP",
+    "clients": [
+      {
+        "name": "AMERICAN INSTITUTE FOR PACKAGING AND ENVIRONMENT (AMERIPEN)",
+        "amount": 0
+      },
+      {
+        "name": "FLEXIBLE PACKAGING ASSOCIATION",
+        "amount": 0
+      },
+      {
+        "name": "JUVENILE PRODUCTS MANUFACTURERS ASSOCIATION",
+        "amount": 450
+      },
+      {
+        "name": "NATIONAL LUBRICANT CONTAINER RECYCLING COALITION",
+        "amount": 2250
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 2700
       }
     ]
   },
