@@ -1144,31 +1144,6 @@
     ]
   },
   {
-    "id": "1314994",
-    "name": "BACKES; GLENN",
-    "clients": [
-      {
-        "name": "DRUG POLICY ALLIANCE",
-        "amount": 30000
-      },
-      {
-        "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 39000
-      },
-      {
-        "name": "PROSECUTORS ALLIANCE ACTION PROJECT OF THE TIDES ADVOCACY",
-        "amount": 15000
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2025",
-        "amount": 84000
-      }
-    ]
-  },
-  {
     "id": "1416779",
     "name": "BAKER & WELSH, LLC",
     "clients": [
@@ -1182,6 +1157,71 @@
         "quarter": "1",
         "session": "2025",
         "amount": 10000
+      }
+    ]
+  },
+  {
+    "id": "1376172",
+    "name": "BALANCE PUBLIC RELATIONS & STRATEGIC SOLUTIONS INC.",
+    "clients": [
+      {
+        "name": "BRAILLE INSTITUTE OF AMERICA INC.",
+        "amount": 6000
+      },
+      {
+        "name": "BRIGHTLINE",
+        "amount": 16500
+      },
+      {
+        "name": "CALIFORNIA SOCIETY OF INDUSTRIAL MEDICINE & SURGERY",
+        "amount": 15000
+      },
+      {
+        "name": "CITY OF DELANO",
+        "amount": 19500
+      },
+      {
+        "name": "CITY OF ROSEMEAD",
+        "amount": 10500
+      },
+      {
+        "name": "DELL TECHNOLOGIES, INC.",
+        "amount": 42000
+      },
+      {
+        "name": "ESTRIATUS LAW PC",
+        "amount": 0
+      },
+      {
+        "name": "IDEMIA IDENTITY AND SECURITY USA, LLC",
+        "amount": 20000
+      },
+      {
+        "name": "SEMITROPIC WATER STORAGE DISTRICT",
+        "amount": 40500
+      },
+      {
+        "name": "SKILLTRADE, INC.",
+        "amount": 5250
+      },
+      {
+        "name": "SOCURE INC.",
+        "amount": 15000
+      },
+      {
+        "name": "THE UNIVERSITY OF SOUTHERN CALIFORNIA",
+        "amount": 21000
+      },
+      {
+        "name": "UNITEK LEARNING, INC.",
+        "amount": 12000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 223250
       }
     ]
   },
@@ -7318,6 +7358,31 @@
     ]
   },
   {
+    "id": "1314994",
+    "name": "GLENN BACKES PUBLIC POLICY RESEARCH & CONSULTING LLC",
+    "clients": [
+      {
+        "name": "DRUG POLICY ALLIANCE",
+        "amount": 30000
+      },
+      {
+        "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
+        "amount": 39000
+      },
+      {
+        "name": "PROSECUTORS ALLIANCE ACTION PROJECT OF THE TIDES ADVOCACY",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 84000
+      }
+    ]
+  },
+  {
     "id": "1470796",
     "name": "GOLDEN STATE ADVOCACY PARTNERS",
     "clients": [],
@@ -7810,6 +7875,43 @@
         "quarter": "1",
         "session": "2025",
         "amount": 9000
+      }
+    ]
+  },
+  {
+    "id": "1252705",
+    "name": "HERNANDEZ STRATEGY GROUP",
+    "clients": [
+      {
+        "name": "CALIFORNIA ATTORNEYS FOR CRIMINAL JUSTICE",
+        "amount": 18750
+      },
+      {
+        "name": "CALIFORNIA CONTINUING CARE RESIDENTS ASSOCIATION",
+        "amount": 7500
+      },
+      {
+        "name": "CFI LOCAL 39000",
+        "amount": 13500
+      },
+      {
+        "name": "COMMUNICATIONS WORKERS OF AMERICA, DISTRICT 9",
+        "amount": 36000
+      },
+      {
+        "name": "UNITED PUBLIC EMPLOYEES",
+        "amount": 9000
+      },
+      {
+        "name": "UTILITY REFORM NETWORK; THE",
+        "amount": 38625
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 123375
       }
     ]
   },
@@ -10673,6 +10775,51 @@
         "quarter": "1",
         "session": "2025",
         "amount": 82500
+      }
+    ]
+  },
+  {
+    "id": "1426676",
+    "name": "MC GUIREWOODS CONSULTING, LLC",
+    "clients": [
+      {
+        "name": "AMERICA'S PHYSICIAN GROUPS",
+        "amount": 10000
+      },
+      {
+        "name": "ATA ACTION, CORP.",
+        "amount": 7000
+      },
+      {
+        "name": "BOOMERANG HEALTH CARE",
+        "amount": 10000
+      },
+      {
+        "name": "CALIFORNIA AMBULATORY SURGERY ASSOCIATION",
+        "amount": 40000
+      },
+      {
+        "name": "CALIFORNIA AUTOMOTIVE WHOLESALERS' ASSOCIATION",
+        "amount": 15000
+      },
+      {
+        "name": "CIGNA CORPORATE SERVICES AND ITS AFFILIATES",
+        "amount": 0
+      },
+      {
+        "name": "GOTU TECHNOLOGY, INC.",
+        "amount": 15000
+      },
+      {
+        "name": "SECURUS TECHNOLOGIES",
+        "amount": 20000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 117000
       }
     ]
   },
@@ -15001,11 +15148,11 @@
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 6600
+        "amount": 10000
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 10000
+        "amount": 6600
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
