@@ -1303,6 +1303,63 @@
     ]
   },
   {
+    "id": "1464939",
+    "name": "BALLARD PARTNERS",
+    "clients": [
+      {
+        "name": "4G MANAGEMENT INC.",
+        "amount": 0
+      },
+      {
+        "name": "ALTERNATIVE SOLUTIONS GROUP DBA GUARDIAN HEALTH",
+        "amount": 10088.39
+      },
+      {
+        "name": "AMAZON.COM SERVICES LLC",
+        "amount": 60000
+      },
+      {
+        "name": "FIRST STUDENT, INC.",
+        "amount": 0
+      },
+      {
+        "name": "RAI SERVICES COMPANY AND IT'S AFFILIATES",
+        "amount": 45000
+      },
+      {
+        "name": "ROBINHOOD MARKETS, INC.",
+        "amount": 0
+      },
+      {
+        "name": "SAS INSTITUTE INC.",
+        "amount": 10000
+      },
+      {
+        "name": "SECURITY SCORECARD",
+        "amount": 16000
+      },
+      {
+        "name": "SEPRO CORPORATION",
+        "amount": 22500
+      },
+      {
+        "name": "UNITED HEALTHCARE SERVICES, INC.",
+        "amount": 30000
+      },
+      {
+        "name": "ZELIS HEALTHCARE, LLC",
+        "amount": 20000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 213588.39
+      }
+    ]
+  },
+  {
     "id": "1437114",
     "name": "BARROS CLAY & ASSOCIATES, LLC",
     "clients": [
@@ -1398,6 +1455,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 10500
+      }
+    ]
+  },
+  {
+    "id": "1449492",
+    "name": "BEEVERS; NICK",
+    "clients": [
+      {
+        "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
+        "amount": 3238
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 3238
       }
     ]
   },
@@ -4362,8 +4436,399 @@
   {
     "id": "1147785",
     "name": "CAPITOL ADVOCACY, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "1-800 CONTACTS",
+        "amount": 20000
+      },
+      {
+        "name": "A PLACE FOR MOM, INC.",
+        "amount": 0
+      },
+      {
+        "name": "ACTIVEHOURS, INC. DBA EARNIN",
+        "amount": 37500
+      },
+      {
+        "name": "ADEII HEALTH",
+        "amount": 40000
+      },
+      {
+        "name": "AEG & AFFILIATED ENTITIES",
+        "amount": 34000
+      },
+      {
+        "name": "AEMA",
+        "amount": 12000
+      },
+      {
+        "name": "AFFIRM, INC.",
+        "amount": 15000
+      },
+      {
+        "name": "AMERICAN ASSOCIATION FOR DEBT RESOLUTION",
+        "amount": 36000
+      },
+      {
+        "name": "AMERICAN INVESTMENT COUNCIL",
+        "amount": 45150
+      },
+      {
+        "name": "ASSOCIATION OF CALIFORNIA GOODWILLS",
+        "amount": 12000
+      },
+      {
+        "name": "BETA BIONICS",
+        "amount": 11853.4
+      },
+      {
+        "name": "BINTI",
+        "amount": 25500
+      },
+      {
+        "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+        "amount": 35874.99
+      },
+      {
+        "name": "BOLLINGER GOVERNMENT AFFAIRS",
+        "amount": 22500
+      },
+      {
+        "name": "BOSTON SCIENTIFIC CORPORATION",
+        "amount": 18000
+      },
+      {
+        "name": "CALIFORNIA ADVISORS, LLC",
+        "amount": 30000
+      },
+      {
+        "name": "CALIFORNIA ALLIANCE OF TAXPAYER ADVOCATES",
+        "amount": 30000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION FOR NURSE PRACTITIONERS",
+        "amount": 26000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF DENTAL PLANS",
+        "amount": 42000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF HEALTH FACILITIES",
+        "amount": 77137.14
+      },
+      {
+        "name": "CALIFORNIA ATTORNEYS ADMINISTRATIVE LAW JUDGES AND HEARING OFFICERS IN STATE EMPLOYMENT",
+        "amount": 30000
+      },
+      {
+        "name": "CALIFORNIA AUTOMATIC VENDOR'S COUNCIL",
+        "amount": 16002
+      },
+      {
+        "name": "CALIFORNIA COMMUNITY BANKING NETWORK",
+        "amount": 9750
+      },
+      {
+        "name": "CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION (CCPOA)",
+        "amount": 5000
+      },
+      {
+        "name": "CALIFORNIA HOSPITAL ASSOCIATION/CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS",
+        "amount": 82500
+      },
+      {
+        "name": "CALIFORNIA HYDROGEN BUSINESS COUNCIL",
+        "amount": 37500
+      },
+      {
+        "name": "CALIFORNIA LIFE SCIENCES",
+        "amount": 60000
+      },
+      {
+        "name": "CALIFORNIA RETAILERS ASSOCIATION",
+        "amount": 36000
+      },
+      {
+        "name": "CALIFORNIA WORKFORCE ASSOCIATION",
+        "amount": 13800
+      },
+      {
+        "name": "CANTON GROUP, LLC; THE",
+        "amount": 22500
+      },
+      {
+        "name": "CAPITOL CONSULTING & PUBLIC AFFAIRS",
+        "amount": 10800
+      },
+      {
+        "name": "CARING, LLC",
+        "amount": 18000
+      },
+      {
+        "name": "CHARGEPOINT",
+        "amount": 37500
+      },
+      {
+        "name": "CHILDRENS CHOICE DENTAL",
+        "amount": 17000
+      },
+      {
+        "name": "CITY OF HOPE NATIONAL MEDICAL CENTER",
+        "amount": 45000
+      },
+      {
+        "name": "CITY OF RANCHO MIRAGE",
+        "amount": 30000
+      },
+      {
+        "name": "CJ AMERICA, INC.",
+        "amount": 36000
+      },
+      {
+        "name": "COLOPLAST CORP.",
+        "amount": 15000
+      },
+      {
+        "name": "CORECIVIC",
+        "amount": 37500
+      },
+      {
+        "name": "DEXCOM, INC.",
+        "amount": 30049.61
+      },
+      {
+        "name": "DIAGEO",
+        "amount": 45000
+      },
+      {
+        "name": "DOORDASH, INC.",
+        "amount": 35500
+      },
+      {
+        "name": "EISENHOWER MEDICAL CENTER",
+        "amount": 20000
+      },
+      {
+        "name": "FIRST STUDENT, INC.",
+        "amount": 22500
+      },
+      {
+        "name": "FLAGSTONE HEALTHCARE CENTRAL LLC AND AFFILIATED ENTITIES",
+        "amount": 20000
+      },
+      {
+        "name": "GAINWELL HOLDING CORP.",
+        "amount": 0
+      },
+      {
+        "name": "H & S VENTURES, LLC AND ITS AFFILIATES OCVIBE SPORTS & ENTERTAINMENT, LLC AND ANAHEIM REAL ESTATE PARTNERS, LLC",
+        "amount": 21000
+      },
+      {
+        "name": "HEYWORTH GOVERNMENT AFFAIRS",
+        "amount": 7500
+      },
+      {
+        "name": "HIMS, INC.",
+        "amount": 25500
+      },
+      {
+        "name": "HP INC.",
+        "amount": 0
+      },
+      {
+        "name": "INMAR, INC.",
+        "amount": 41000
+      },
+      {
+        "name": "JACK IN THE BOX INC.",
+        "amount": 12000
+      },
+      {
+        "name": "JACOBS & CUSHMAN SAN DIEGO FOOD BANK",
+        "amount": 18000
+      },
+      {
+        "name": "JOHNSON CONTROLS, INC.",
+        "amount": 30000
+      },
+      {
+        "name": "KNAUF INSULATION",
+        "amount": 37500
+      },
+      {
+        "name": "KOOTH U.S.",
+        "amount": 45500
+      },
+      {
+        "name": "LARGE-SCALE SOLAR ASSOCIATION (LSA)",
+        "amount": 40000
+      },
+      {
+        "name": "LOS ALAMITOS RACE COURSE",
+        "amount": 31635.81
+      },
+      {
+        "name": "LOS ANGELES, COUNTY OF",
+        "amount": 10000
+      },
+      {
+        "name": "LOWES COMPANIES, INC.",
+        "amount": 5000
+      },
+      {
+        "name": "MASCO CORPORATION",
+        "amount": 24000
+      },
+      {
+        "name": "METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, THE",
+        "amount": 45000
+      },
+      {
+        "name": "MLK COMMUNITY HEALTHCARE",
+        "amount": 36000
+      },
+      {
+        "name": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES",
+        "amount": 0
+      },
+      {
+        "name": "NATIONAL EXPRESS",
+        "amount": 22500
+      },
+      {
+        "name": "NEXTERA ENERGY RESOURCES PROJECT MANAGEMENT INC.",
+        "amount": 74188.68
+      },
+      {
+        "name": "OCCUPATIONAL THERAPY ASSOCIATION OF CALIFORNIA",
+        "amount": 21000
+      },
+      {
+        "name": "ORACLE AMERICA, INC.",
+        "amount": 50000
+      },
+      {
+        "name": "ORGANON, LLC",
+        "amount": 40000
+      },
+      {
+        "name": "PACIFIC GAS AND ELECTRIC COMPANY AND ITS AFFILIATED ENTITIES",
+        "amount": 63000.03
+      },
+      {
+        "name": "PAIR TEAM, PBC",
+        "amount": 20000
+      },
+      {
+        "name": "PHYSICIAN ASSOCIATION OF CALIFORNIA (PAC)",
+        "amount": 46902.92
+      },
+      {
+        "name": "PPL FIRST",
+        "amount": 24000
+      },
+      {
+        "name": "PRICEWATERHOUSECOOPERS LLP",
+        "amount": 26500
+      },
+      {
+        "name": "PRIME THERAPEUTICS, LLC",
+        "amount": 30179.22
+      },
+      {
+        "name": "PURFOODS, LLC A/K/A MOM'S MEALS",
+        "amount": 18000
+      },
+      {
+        "name": "RENEW FINANCIAL",
+        "amount": 48000
+      },
+      {
+        "name": "REPUBLIC SERVICES, INC.",
+        "amount": 0
+      },
+      {
+        "name": "RESOURCE RECOVERY COALITION OF CALIFORNIA",
+        "amount": 304.16
+      },
+      {
+        "name": "RKT HOLDINGS, LLC",
+        "amount": 48083.05
+      },
+      {
+        "name": "ROCHE DIAGNOSTICS CORPORATION",
+        "amount": 16000
+      },
+      {
+        "name": "SAN BERNARDINO, COUNTY OF",
+        "amount": 80610.13
+      },
+      {
+        "name": "SAN CLEMENTE, CITY OF",
+        "amount": 0
+      },
+      {
+        "name": "SAN JOAQUIN VALLEY COLLEGE, AND ITS WHOLLY OWNED SUBSIDIARIES AND DIVISIONS INCLUDING EMBER EDUCATION",
+        "amount": 36000
+      },
+      {
+        "name": "SECURITY INDUSTRY ASSOCIATION",
+        "amount": 24000
+      },
+      {
+        "name": "SOBOBA BAND OF MISSION INDIANS",
+        "amount": 23337.88
+      },
+      {
+        "name": "STIIIZY",
+        "amount": 60270.08
+      },
+      {
+        "name": "T-MOBILE USA, INC.",
+        "amount": 45000
+      },
+      {
+        "name": "UNIVERSAL MUSIC GROUP",
+        "amount": 36000
+      },
+      {
+        "name": "VISIT GREATER PALM SPRINGS",
+        "amount": 10000
+      },
+      {
+        "name": "WELBEHEALTH",
+        "amount": 24315.44
+      },
+      {
+        "name": "YAHOO INC. AND VAR. SUBS/AFFILIATES",
+        "amount": 31500
+      },
+      {
+        "name": "YUCCA VALLEY, TOWN OF",
+        "amount": 5000
+      },
+      {
+        "name": "YUM! BRANDS, INC.",
+        "amount": 18000
+      },
+      {
+        "name": "ZESTFINANCE, INC. D/B/A ZEST AI",
+        "amount": 30000
+      },
+      {
+        "name": "ZOOMINFO TECHNOLOGIES, LLC",
+        "amount": 3945.2
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 2709689.74
+      }
+    ]
   },
   {
     "id": "1147276",
@@ -8457,6 +8922,12 @@
         "amount": 30817.93
       }
     ]
+  },
+  {
+    "id": "1480936",
+    "name": "JAMES & ASSOCIATES, INC; RAYMOND",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1147401",
@@ -15369,6 +15840,27 @@
         "quarter": "1",
         "session": "2025",
         "amount": 1800
+      }
+    ]
+  },
+  {
+    "id": "1319255",
+    "name": "S. DEAN RUIZ, ESQ. OF MOHAN HARRIS RUIZ LLP",
+    "clients": [
+      {
+        "name": "CENTRAL DELTA WATER AGENCY",
+        "amount": 0
+      },
+      {
+        "name": "SOUTH DELTA WATER AGENCY",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
