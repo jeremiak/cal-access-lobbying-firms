@@ -7905,6 +7905,23 @@
     ]
   },
   {
+    "id": "1468887",
+    "name": "GOVBIZ ADVANTAGE",
+    "clients": [
+      {
+        "name": "FORTRESS WILDFIRE INSURANCE GROUP, LLC",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1387407",
     "name": "GOVERNMENT STRATEGIES, INC.",
     "clients": [
