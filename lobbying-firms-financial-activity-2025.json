@@ -7848,6 +7848,27 @@
     ]
   },
   {
+    "id": "1479246",
+    "name": "GOLDEN INSIGHT AND ADVOCACY",
+    "clients": [
+      {
+        "name": "AT&T INC. AND ITS AFFILIATES",
+        "amount": 0
+      },
+      {
+        "name": "DEVEAU BURR GROUP, LLC OBO CA ALLIANE OF CHILD AND FAMILY SERVICES",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1470796",
     "name": "GOLDEN STATE ADVOCACY PARTNERS",
     "clients": [],
@@ -7858,6 +7879,55 @@
     "name": "GOLDEN STATE CONSULTING",
     "clients": [],
     "quarters": []
+  },
+  {
+    "id": "1358546",
+    "name": "GONZALEZ GOVERNMENT CONSULTING",
+    "clients": [
+      {
+        "name": "AMERICA'S PHYSICIANS GROUPS",
+        "amount": 27132.1
+      },
+      {
+        "name": "AMERICAN DIABETES ASSOCIATION",
+        "amount": 23751
+      },
+      {
+        "name": "CALIFORNIA ATHLETIC TRAINERS ASSOCIATION",
+        "amount": 12000
+      },
+      {
+        "name": "CUMMINS, INC.",
+        "amount": 8000
+      },
+      {
+        "name": "PLASMA PROTEIN THERAPEUTICS ASSOCIATION",
+        "amount": 15000
+      },
+      {
+        "name": "RESOLUTE OBO ASSOCIATION OF NORTHERN CALIFORNIA ONCOLOGISTS",
+        "amount": 0
+      },
+      {
+        "name": "RESOLUTE OBO MEDICAL ONCOLOGY ASSOCIATION OF SOUTHERN CALIFORNIA",
+        "amount": 0
+      },
+      {
+        "name": "RESOLUTE OBO ZOCDOC",
+        "amount": 0
+      },
+      {
+        "name": "TRUCK AND ENGINE MANUFACTURERS ASSOCIATION",
+        "amount": 45125
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 131008.1
+      }
+    ]
   },
   {
     "id": "1465702",
@@ -8908,6 +8978,27 @@
         "quarter": "1",
         "session": "2025",
         "amount": 444315.03
+      }
+    ]
+  },
+  {
+    "id": "1479490",
+    "name": "IORIO; MELISSA",
+    "clients": [
+      {
+        "name": "ANUBIS SECURITIES, LLC",
+        "amount": 0
+      },
+      {
+        "name": "ISLAND INVESTMENT MANAGEMENT LLC",
+        "amount": 132.07
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -12982,6 +13073,12 @@
         "amount": 270433.32
       }
     ]
+  },
+  {
+    "id": "1470128",
+    "name": "OLD CITY INVESTMENT PARTNERS LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1393023",
