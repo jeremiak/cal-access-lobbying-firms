@@ -7054,6 +7054,23 @@
     ]
   },
   {
+    "id": "1479661",
+    "name": "EZRACONZULT LLC",
+    "clients": [
+      {
+        "name": "COMMUNITIES FOR A NEW CALIFORNIA ACTION FUND",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1295371",
     "name": "FANSLAU GOVERNMENT AFFAIRS",
     "clients": [
@@ -8464,6 +8481,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 123375
+      }
+    ]
+  },
+  {
+    "id": "1240014",
+    "name": "HERRICK ATTORNEY AT LAW; JOHN",
+    "clients": [
+      {
+        "name": "SOUTH DELTA WATER AGENCY",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -17115,6 +17149,27 @@
     ]
   },
   {
+    "id": "1480655",
+    "name": "SHIMODA GOVERNMENT STRATEGIES LLC",
+    "clients": [
+      {
+        "name": "CALIFORNIA TRUCKING ASSOCIATION",
+        "amount": 0
+      },
+      {
+        "name": "SLOAT HIGGINS JENSEN AND ASSOCIATES, INC. OBO IMMOBILIARE MANAGEMENT LLC",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1400817",
     "name": "SIVERLING ADVOCACY",
     "clients": [
@@ -17590,6 +17645,12 @@
     "quarters": []
   },
   {
+    "id": "1449252",
+    "name": "SOFKA; MICHAEL",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1467815",
     "name": "SOLOV ADVOCACY",
     "clients": [
@@ -17805,23 +17866,6 @@
         "quarter": "1",
         "session": "2025",
         "amount": 150500
-      }
-    ]
-  },
-  {
-    "id": "1335339",
-    "name": "STRATEGIC MARKETING SOLUTIONS LTD, LLC",
-    "clients": [
-      {
-        "name": "TRUE GREEN CAPITAL MANAGEMENT",
-        "amount": 250
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2025",
-        "amount": 250
       }
     ]
   },
@@ -19699,6 +19743,92 @@
         "quarter": "1",
         "session": "2025",
         "amount": 15300
+      }
+    ]
+  },
+  {
+    "id": "1147265",
+    "name": "WHITE ASSOCIATES; V. JOHN",
+    "clients": [
+      {
+        "name": "CLEAN POWER CAMPAIGN",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "id": "1357171",
+    "name": "WHITE BRENNER LLP",
+    "clients": [
+      {
+        "name": "ALTICOR, INC.",
+        "amount": 5957
+      },
+      {
+        "name": "AMERICAN CHEMISTRY COUNCIL",
+        "amount": 18750
+      },
+      {
+        "name": "ARXADA",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA GROUNDWATER ASSOCIATION",
+        "amount": 2000
+      },
+      {
+        "name": "CARPET & RUG INSTITUTE",
+        "amount": 16000
+      },
+      {
+        "name": "CONSUMER DATA INDUSTRY ASSOCIATION",
+        "amount": 12600
+      },
+      {
+        "name": "DURACELL COMPANY",
+        "amount": 4600
+      },
+      {
+        "name": "HALEON",
+        "amount": 4150
+      },
+      {
+        "name": "INTERNATIONAL FRANCHISE ASSOCIATION",
+        "amount": 18000
+      },
+      {
+        "name": "PACIFIC WATER QUALITY ASSOCIATION",
+        "amount": 4500
+      },
+      {
+        "name": "RB HEALTH (US) LLC",
+        "amount": 7500
+      },
+      {
+        "name": "RECKITT BENCKISER LLC - HOME NORTH AMERICA HYGIENE AND HOME",
+        "amount": 0
+      },
+      {
+        "name": "SYNTHETIC TURF COUNCIL",
+        "amount": 36000
+      },
+      {
+        "name": "WATER QUALITY ASSOCIATION",
+        "amount": 12600
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 142657
       }
     ]
   },
