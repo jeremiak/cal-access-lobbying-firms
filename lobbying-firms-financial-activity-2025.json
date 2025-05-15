@@ -1673,8 +1673,19 @@
   {
     "id": "1480445",
     "name": "BLUM-GUTIERREZ CONSULTING",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "WHOLE CONSULTING",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 6000
+      }
+    ]
   },
   {
     "id": "1415775",
@@ -7780,7 +7791,7 @@
   },
   {
     "id": "1147207",
-    "name": "GLADFELTY GOVERNMENT RELATIONS",
+    "name": "GLADFELTY GOVERNMENT RELATIONS LLC",
     "clients": [
       {
         "name": "AGC AMERICA INC. AND SUBSIDIARIES",
@@ -12523,7 +12534,7 @@
       },
       {
         "name": "SAREPTA THERAPEUTICS, INC",
-        "amount": 43600
+        "amount": 39100
       },
       {
         "name": "SHAW INDUSTRIES GROUP, INC.",
@@ -12554,7 +12565,7 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 1268894.49
+        "amount": 1264394.49
       }
     ]
   },
@@ -13073,23 +13084,23 @@
       },
       {
         "name": "GILEAD SCIENCES, INC.",
-        "amount": 50000
+        "amount": 30000
       },
       {
         "name": "LEAGUE OF CALIFORNIA COMMUNITY FOUNDATIONS",
         "amount": 15000
       },
       {
-        "name": "MALLINCKRODT, LLC",
-        "amount": 13000
-      },
-      {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
         "amount": 43350
       },
       {
+        "name": "ST SHARED SERVICES LLC",
+        "amount": 13000
+      },
+      {
         "name": "STANFORD HEALTH CARE",
-        "amount": 75000
+        "amount": 60000
       },
       {
         "name": "UCB, INC.",
@@ -13104,7 +13115,7 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 270433.32
+        "amount": 235433.32
       }
     ]
   },
