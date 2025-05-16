@@ -14788,6 +14788,67 @@
     ]
   },
   {
+    "id": "1479748",
+    "name": "PUBLIC POLICY PARTNERSHIP (P3)",
+    "clients": [
+      {
+        "name": "CALIFORNIA AGENTS AND HEALTH INSURANCE PROFESSIONALS",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF CODE ENFORCEMENT OFFICERS",
+        "amount": 5000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES",
+        "amount": 0
+      },
+      {
+        "name": "GYPSUM ASSOCIATION",
+        "amount": 0
+      },
+      {
+        "name": "NEW MOMENTUM STRATEGIES OBO CA CANNABIS INDUSTRY ASSN",
+        "amount": 0
+      },
+      {
+        "name": "NEW MOMENTUM STRATEGIES OBO IHERB",
+        "amount": 0
+      },
+      {
+        "name": "NEW MOMENTUM STRATEGIES OBO NATURAL PRODUCTS ASSOCIATION",
+        "amount": 0
+      },
+      {
+        "name": "NEW MOMENTUM STRATEGIES OBO NEW APPROACH ADVOCACY FUND",
+        "amount": 10000
+      },
+      {
+        "name": "PLAINS MARKETING LLC",
+        "amount": 0
+      },
+      {
+        "name": "PMI US CORPORATE SERVICES INC. AND AFFILIATES",
+        "amount": 0
+      },
+      {
+        "name": "SUNRISE FRESH, LLC",
+        "amount": 0
+      },
+      {
+        "name": "YONDR",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 15000
+      }
+    ]
+  },
+  {
     "id": "1468992",
     "name": "RAPIER ROCHA LLC",
     "clients": [
@@ -16390,6 +16451,12 @@
         "amount": 624344.56
       }
     ]
+  },
+  {
+    "id": "1481088",
+    "name": "SANCHEZ GOVERNMENT AFFAIRS, LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1449227",
@@ -19194,6 +19261,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 15700
+      }
+    ]
+  },
+  {
+    "id": "1435284",
+    "name": "VILLA ENVIRONMENTAL SERVICES ",
+    "clients": [
+      {
+        "name": "CALIFORNIA RIFLE AND PISTOL ASSOCIATION, INC.",
+        "amount": 499.96
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 499.96
       }
     ]
   },
