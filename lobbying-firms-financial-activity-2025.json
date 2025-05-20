@@ -8448,6 +8448,23 @@
     ]
   },
   {
+    "id": "1147390",
+    "name": "HALEVA DBA SERGEANT MAJOR ASSOCIATES; JEROME M.",
+    "clients": [
+      {
+        "name": "AIRBUS HELICOPTERS, INC.",
+        "amount": 25039.49
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 25039.49
+      }
+    ]
+  },
+  {
     "id": "1468895",
     "name": "HENDERSON CONSULTING; ERIC",
     "clients": [
@@ -16781,23 +16798,6 @@
         "quarter": "1",
         "session": "2025",
         "amount": 484843.71
-      }
-    ]
-  },
-  {
-    "id": "1147390",
-    "name": "SERGEANT MAJOR ASSOCIATES, INC.",
-    "clients": [
-      {
-        "name": "AIRBUS HELICOPTERS, INC.",
-        "amount": 25039.49
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2025",
-        "amount": 25039.49
       }
     ]
   },
