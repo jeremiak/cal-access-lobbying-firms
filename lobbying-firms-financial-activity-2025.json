@@ -6883,6 +6883,63 @@
     ]
   },
   {
+    "id": "1147358",
+    "name": "EMANUELS JONES & ASSOCIATES, LLC",
+    "clients": [
+      {
+        "name": "CITY OF BURBANK",
+        "amount": 10000
+      },
+      {
+        "name": "CITY OF CORONADO",
+        "amount": 15300
+      },
+      {
+        "name": "CITY OF GLENDALE",
+        "amount": 19575
+      },
+      {
+        "name": "CITY OF PASADENA",
+        "amount": 17520
+      },
+      {
+        "name": "CITY OF SAN MARCOS",
+        "amount": 8600
+      },
+      {
+        "name": "CITY OF SAN RAFAEL /MARIN COUNTY COUNCIL OF MAYORS AND COUNCIL MEMBERS",
+        "amount": 15355
+      },
+      {
+        "name": "CITY OF SOLANA BEACH",
+        "amount": 11140.48
+      },
+      {
+        "name": "CITY OF STOCKTON",
+        "amount": 18615
+      },
+      {
+        "name": "REMY THOMAS & MOOSE ATTORNEYS",
+        "amount": 10500
+      },
+      {
+        "name": "TOWN OF MAMMOTH LAKES",
+        "amount": 6775
+      },
+      {
+        "name": "TOWN OF TRUCKEE",
+        "amount": 11145.81
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 144526.29
+      }
+    ]
+  },
+  {
     "id": "1339161",
     "name": "ENGLANDER KNABE & ALLEN",
     "clients": [
@@ -8461,6 +8518,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 25039.49
+      }
+    ]
+  },
+  {
+    "id": "1470198",
+    "name": "HARRIS POLICY GROUP",
+    "clients": [
+      {
+        "name": "CALIFORNIA COMMON CAUSE",
+        "amount": 91069.13
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -10511,6 +10585,27 @@
         "quarter": "1",
         "session": "2025",
         "amount": 45000
+      }
+    ]
+  },
+  {
+    "id": "1147624",
+    "name": "LEGISLATIVE ADVOCACY GROUP",
+    "clients": [
+      {
+        "name": "LYNWOOD CITY OF",
+        "amount": 0
+      },
+      {
+        "name": "UNIVERSITY OF MOLDOVA, INC.",
+        "amount": 33000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 33000
       }
     ]
   },
@@ -13408,6 +13503,31 @@
         "quarter": "1",
         "session": "2025",
         "amount": 14541.5
+      }
+    ]
+  },
+  {
+    "id": "1307031",
+    "name": "PACIFIC ADVOCACY GROUP",
+    "clients": [
+      {
+        "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
+        "amount": 8000
+      },
+      {
+        "name": "PLUMBING-HEATING-COOLING CONTRACTORS ASSOCIATION OF CALIFORNIA (CAPHCC)",
+        "amount": 7500
+      },
+      {
+        "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 30500
       }
     ]
   },
