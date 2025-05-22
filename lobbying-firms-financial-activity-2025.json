@@ -282,6 +282,10 @@
     "name": "AGEE GLOBAL SOLUTIONS, LLC",
     "clients": [
       {
+        "name": "BERG HOLDINGS",
+        "amount": 7500
+      },
+      {
         "name": "EAH INC.",
         "amount": 15000
       }
@@ -290,7 +294,7 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 15000
+        "amount": 22500
       }
     ]
   },
@@ -9775,6 +9779,55 @@
     ]
   },
   {
+    "id": "1252620",
+    "name": "KESTER/PAHOS",
+    "clients": [
+      {
+        "name": "ALLIANCE FOR RETAIL ENERGY MARKETS",
+        "amount": 26100
+      },
+      {
+        "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
+        "amount": 27545.5
+      },
+      {
+        "name": "CALPINE CORPORATION",
+        "amount": 32000
+      },
+      {
+        "name": "CENTENE AND ITS AFFILIATE HEALTH NET",
+        "amount": 0
+      },
+      {
+        "name": "FORD MOTOR COMPANY AND ITS AFFILIATES",
+        "amount": 27000
+      },
+      {
+        "name": "PBF ENERGY WESTERN REGION LLC",
+        "amount": 39000
+      },
+      {
+        "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
+        "amount": 27000
+      },
+      {
+        "name": "TENET HEALTHCARE",
+        "amount": 45000
+      },
+      {
+        "name": "VISION TO LEARN",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 223645.5
+      }
+    ]
+  },
+  {
     "id": "1392189",
     "name": "KEYBRIDGE RESEARCH LLC",
     "clients": [
@@ -17908,6 +17961,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 144745
+      }
+    ]
+  },
+  {
+    "id": "1480075",
+    "name": "SOMOS GROUP",
+    "clients": [
+      {
+        "name": "THE TRANSLAIN@ COALITION",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 15000
       }
     ]
   },
