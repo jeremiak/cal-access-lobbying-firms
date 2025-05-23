@@ -272,6 +272,67 @@
     ]
   },
   {
+    "id": "1147363",
+    "name": "ADAMS BROADWELL JOSEPH & CARDOZO, A PROFESSIONAL CORPORATION",
+    "clients": [
+      {
+        "name": "CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA STATE LABOR MANAGEMENT COOPERATION COMMITTEE FOR THE INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS AND THE NATIONAL ELECTRICAL CONTRACTORS",
+        "amount": 114.66
+      },
+      {
+        "name": "CALIFORNIA STATE PIPE TRADES COUNCIL",
+        "amount": 114.68
+      },
+      {
+        "name": "CALIFORNIA UNIONS FOR RELIABLE ENERGY",
+        "amount": 2816
+      },
+      {
+        "name": "COALITION OF CALIFORNIA UTILITIES EMPLOYEES",
+        "amount": 0
+      },
+      {
+        "name": "COMMUNICATIONS WORKERS OF AMERICA, DISTRICT 9",
+        "amount": 0
+      },
+      {
+        "name": "INTERNATIONAL ASSOCIATION OF PLUMBING & MECHANICAL OFFICIALS",
+        "amount": 0
+      },
+      {
+        "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 0047",
+        "amount": 1007.37
+      },
+      {
+        "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 0465",
+        "amount": 203.78
+      },
+      {
+        "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 0659",
+        "amount": 9.96
+      },
+      {
+        "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 1245",
+        "amount": 1938.89
+      },
+      {
+        "name": "WESTERN STATES COUNCIL SHEET METAL, AIR, RAIL AND TRANSPORTATION (SMART)",
+        "amount": 18197.66
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 24403
+      }
+    ]
+  },
+  {
     "id": "1342868",
     "name": "ADVOCATE RESOURCE AND TRAINING (ART)",
     "clients": [],
@@ -7853,6 +7914,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 113000
+      }
+    ]
+  },
+  {
+    "id": "1427877",
+    "name": "GIBBS CONSULTING; TIM",
+    "clients": [
+      {
+        "name": "AMERICAN CANCER SOCIETY CANCER ACTION NETWORK INC.",
+        "amount": 18000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 18000
       }
     ]
   },
@@ -18397,6 +18475,23 @@
     "name": "TOBE ADVOCATES",
     "clients": [],
     "quarters": []
+  },
+  {
+    "id": "1460420",
+    "name": "TODD; JOHN",
+    "clients": [
+      {
+        "name": "FIVEPOINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
+        "amount": 54000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 4000
+      }
+    ]
   },
   {
     "id": "1365986",
