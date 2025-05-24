@@ -4991,6 +4991,31 @@
     ]
   },
   {
+    "id": "1396744",
+    "name": "CAPITOL CORE GROUP, INC.",
+    "clients": [
+      {
+        "name": "AMERESCO, INC",
+        "amount": 7050
+      },
+      {
+        "name": "CITY OF RIDGECREST",
+        "amount": 3500
+      },
+      {
+        "name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
+        "amount": 23750
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 34300
+      }
+    ]
+  },
+  {
     "id": "1404586",
     "name": "CAPITOL LAW AND POLICY INC.",
     "clients": [
@@ -8535,6 +8560,12 @@
         "amount": 523053.65
       }
     ]
+  },
+  {
+    "id": "1355099",
+    "name": "GUGGENHEIM SECURITIES, LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1478989",
