@@ -1717,8 +1717,54 @@
     "quarters": []
   },
   {
+    "id": "1289913",
+    "name": "BLANNING AND BAKER ASSOCIATES, INC.",
+    "clients": [
+      {
+        "name": "ASSOCIATION OF CALIFORNIA STATE SUPERVISORS",
+        "amount": 23983.5
+      },
+      {
+        "name": "CALIFORNIA STATE RETIREES",
+        "amount": 23983.5
+      },
+      {
+        "name": "PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT",
+        "amount": 6300
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 54267
+      }
+    ]
+  },
+  {
+    "id": "1235092",
+    "name": "BLOOMSTINE & BLOOMSTINE",
+    "clients": [
+      {
+        "name": "DIG ALERT",
+        "amount": 534.6
+      },
+      {
+        "name": "SOUTHERN CALIFORNIA CONTRACTORS' ASSOCIATION",
+        "amount": 4677.75
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 5212.35
+      }
+    ]
+  },
+  {
     "id": "1437911",
-    "name": "BLUE COAST STRATEGIES",
+    "name": "BLUE COAST STRATEGIES LLC",
     "clients": [
       {
         "name": "CALIFORNIA COMMUNITY ACTION PARTNERSHIP ASSOCIATION",
@@ -11247,6 +11293,12 @@
     ]
   },
   {
+    "id": "1480307",
+    "name": "L|P|C STRATEGIES",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147326",
     "name": "MADDEN QUINONEZ ADVOCACY",
     "clients": [
@@ -12253,6 +12305,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 27999.99
+      }
+    ]
+  },
+  {
+    "id": "1363031",
+    "name": "MONAGAN GOVERNMENT RELATIONS",
+    "clients": [
+      {
+        "name": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
+        "amount": 45000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 45000
       }
     ]
   },
@@ -13821,7 +13890,7 @@
   },
   {
     "id": "1477222",
-    "name": "PERRY STRATEGIES LLC",
+    "name": "PERRY STRATEGIES, INC.",
     "clients": [
       {
         "name": "ALLIANCE FOR AUTOMOTIVE INNOVATION",
@@ -14852,6 +14921,12 @@
         "amount": 209329.07
       }
     ]
+  },
+  {
+    "id": "1480358",
+    "name": "PROZAN STRATEGIES, LLC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1458528",
@@ -16144,11 +16219,11 @@
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 10000
+        "amount": 6600
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 6600
+        "amount": 10000
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
