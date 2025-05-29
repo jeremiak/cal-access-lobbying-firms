@@ -1742,6 +1742,47 @@
     ]
   },
   {
+    "id": "1147643",
+    "name": "BLONIEN, A PROFESSIONAL LAW CORPORATION; J.",
+    "clients": [
+      {
+        "name": "500 CLUB CASINO",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA ENTERTAINMENT MACHINE ASSOCIATION",
+        "amount": 3000
+      },
+      {
+        "name": "CAPITOL CASINO",
+        "amount": 3000
+      },
+      {
+        "name": "CASINO MADERA",
+        "amount": 9000
+      },
+      {
+        "name": "ELEVATION ENTERTAINMENT GROUP",
+        "amount": 0
+      },
+      {
+        "name": "LUCKY CHANCES INC.",
+        "amount": 37500
+      },
+      {
+        "name": "PLAYER'S POKER CLUB, INC.",
+        "amount": 13500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 66000
+      }
+    ]
+  },
+  {
     "id": "1235092",
     "name": "BLOOMSTINE & BLOOMSTINE",
     "clients": [
