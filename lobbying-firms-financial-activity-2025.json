@@ -11998,6 +11998,12 @@
     ]
   },
   {
+    "id": "1455044",
+    "name": "MCP SECURITIES, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1325943",
     "name": "MERCURY PUBLIC AFFAIRS",
     "clients": [
@@ -14033,6 +14039,83 @@
         "quarter": "1",
         "session": "2025",
         "amount": 66948.56
+      }
+    ]
+  },
+  {
+    "id": "1387547",
+    "name": "PINNACLE ADVOCACY LLC",
+    "clients": [
+      {
+        "name": "ACCENTURE",
+        "amount": 37500
+      },
+      {
+        "name": "AMAZON.COM SERVICES INC.",
+        "amount": 57500
+      },
+      {
+        "name": "CALIFORNIA ASSESSORS' ASSOCIATION",
+        "amount": 27000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF CLERKS & ELECTION OFFICIALS",
+        "amount": 18020
+      },
+      {
+        "name": "CALIFORNIA CATHOLIC CONFERENCE",
+        "amount": 24000
+      },
+      {
+        "name": "CLEAN POWER ALLIANCE",
+        "amount": 19038
+      },
+      {
+        "name": "COUNTY RECORDERS ASSOCIATION OF CALIFORNIA",
+        "amount": 17020.57
+      },
+      {
+        "name": "DOCUSIGN INC.",
+        "amount": 30000
+      },
+      {
+        "name": "INCODE TECHNOLOGIES INC.",
+        "amount": 10000
+      },
+      {
+        "name": "INSURANCE SERVICES OFFICE",
+        "amount": 0
+      },
+      {
+        "name": "LUMEN TECHNOLOGIES INC.",
+        "amount": 12000
+      },
+      {
+        "name": "PACIFIC HARBOR LINE INC.",
+        "amount": 30000
+      },
+      {
+        "name": "SERVICENOW INC.",
+        "amount": 0
+      },
+      {
+        "name": "SPLUNK A CISCO COMPANY",
+        "amount": 30000
+      },
+      {
+        "name": "THE CHICAGO SCHOOL",
+        "amount": 15000
+      },
+      {
+        "name": "USA NORTH 811 (UNDERGROUND SERVICE ALERT OF NORTHERN CALIFORNIA AND NEVADA)",
+        "amount": 6000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 333078.57
       }
     ]
   },
@@ -17627,6 +17710,35 @@
         "quarter": "1",
         "session": "2025",
         "amount": 65955
+      }
+    ]
+  },
+  {
+    "id": "1397856",
+    "name": "SHERMAN CONSULTING",
+    "clients": [
+      {
+        "name": "CA RESERVE PEACE OFFICERS ASSOCIATION",
+        "amount": 2700
+      },
+      {
+        "name": "CALIFORNIA NARCOTIC OFFICERS' ASSOCATION",
+        "amount": 19500
+      },
+      {
+        "name": "RIVERSIDE SHERIFFS' ASSOCIATION",
+        "amount": 21004
+      },
+      {
+        "name": "SANTA ANA POLICE OFFICERS ASSOCIATION",
+        "amount": 3000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 46204
       }
     ]
   },
