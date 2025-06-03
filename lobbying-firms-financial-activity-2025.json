@@ -2521,6 +2521,51 @@
     ]
   },
   {
+    "id": "1477124",
+    "name": "BUCKLEY GOVERNMENT AFFAIRS, LLC",
+    "clients": [
+      {
+        "name": "ALLSTATE INSURANCE",
+        "amount": 29400
+      },
+      {
+        "name": "BLOCKCHAIN  (US), INC. AND AFFILIATED ENTITIES",
+        "amount": 0
+      },
+      {
+        "name": "CITY OF SACRAMENTO",
+        "amount": 24000
+      },
+      {
+        "name": "CONSTELLATION BRANDS, INC.",
+        "amount": 0
+      },
+      {
+        "name": "DELICATO VINEYARDS,LLC D/B/A DELICATO FAMILY WINES",
+        "amount": 0
+      },
+      {
+        "name": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
+        "amount": 11986.33
+      },
+      {
+        "name": "VETSIN TECH",
+        "amount": 0
+      },
+      {
+        "name": "WINE GROUP, THE",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 65386.33
+      }
+    ]
+  },
+  {
     "id": "1147646",
     "name": "C.N.P.A. SERVICES, INC.",
     "clients": [
@@ -17150,6 +17195,12 @@
     ]
   },
   {
+    "id": "1480755",
+    "name": "SCIDAN CONSULTING GROUP, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1334301",
     "name": "SEASIDE ADVOCACY LLC",
     "clients": [
@@ -20532,6 +20583,31 @@
         "quarter": "1",
         "session": "2025",
         "amount": 15000
+      }
+    ]
+  },
+  {
+    "id": "1435740",
+    "name": "WILD CAT CONSULTING",
+    "clients": [
+      {
+        "name": "CALIFORNIA CLT ACTION",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA COMMUNITY LAND TRUST NETWORK",
+        "amount": 24000
+      },
+      {
+        "name": "UNITE HERE LOCAL 11",
+        "amount": 24000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 48000
       }
     ]
   },
