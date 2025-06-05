@@ -427,6 +427,12 @@
     ]
   },
   {
+    "id": "1480583",
+    "name": "ANGEL LAW ",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1427090",
     "name": "ANTIN INFRASTRUCTURE PARTNERS US SERVICES LLC",
     "clients": [
@@ -1932,6 +1938,23 @@
         "quarter": "1",
         "session": "2025",
         "amount": 128096.66
+      }
+    ]
+  },
+  {
+    "id": "1338067",
+    "name": "BOSTON PARTNERS SECURITIES, LLC",
+    "clients": [
+      {
+        "name": "BOSTON PARTNERS GLOBAL INVESTORS, INC.",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -6633,6 +6656,12 @@
     ]
   },
   {
+    "id": "1478554",
+    "name": "DRUVEN PUBLIC AFFAIRS LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1287544",
     "name": "DUNN CONSULTING",
     "clients": [
@@ -7121,6 +7150,10 @@
     "name": "EMANUELS JONES & ASSOCIATES, LLC",
     "clients": [
       {
+        "name": "CALIFORNIA PUBLIC POLICY GROUP",
+        "amount": 10500
+      },
+      {
         "name": "CITY OF BURBANK",
         "amount": 10000
       },
@@ -7151,10 +7184,6 @@
       {
         "name": "CITY OF STOCKTON",
         "amount": 18615
-      },
-      {
-        "name": "REMY THOMAS & MOOSE ATTORNEYS",
-        "amount": 10500
       },
       {
         "name": "TOWN OF MAMMOTH LAKES",
@@ -13993,6 +14022,23 @@
     ]
   },
   {
+    "id": "1474335",
+    "name": "PERATA; DON R.",
+    "clients": [
+      {
+        "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC OBO PILLSBURY WINTHROP SHAW PITTMAN LLP OBO RECYCLED MATERIALS ASSOCIATION (REMA) - WEST COAST CHAPTER",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1477222",
     "name": "PERRY STRATEGIES, INC.",
     "clients": [
@@ -18939,7 +18985,7 @@
       },
       {
         "name": "ANAHEIM, CITY OF",
-        "amount": 30000
+        "amount": 37500
       },
       {
         "name": "ANTIOCH, CITY OF",
@@ -19434,7 +19480,7 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 2205935.33
+        "amount": 2213435.33
       }
     ]
   },
@@ -20628,6 +20674,27 @@
     "name": "WOMBLE BOND DICKINSON (US) LLP ",
     "clients": [],
     "quarters": []
+  },
+  {
+    "id": "1480914",
+    "name": "WORDS MATTER LLC",
+    "clients": [
+      {
+        "name": "ACLU CALIFORNIA ACTION",
+        "amount": 0
+      },
+      {
+        "name": "C.N.P.A SERVICES, INC. ON BEHALF OF CALIFORNIA NEWS PUBLISHERS ASSOCIATION",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
   },
   {
     "id": "1147735",
