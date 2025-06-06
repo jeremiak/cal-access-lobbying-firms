@@ -8808,6 +8808,27 @@
     ]
   },
   {
+    "id": "1480205",
+    "name": "HARDEMAN STRATEGIES & CONSULTING",
+    "clients": [
+      {
+        "name": "CAMPBELL STRATEGY & ADVOCACY ON BEHALF OF DRAFTKINGS",
+        "amount": 0
+      },
+      {
+        "name": "CAMPBELL STRATEGY & ADVOCACY ON BEHALF OF PRIDE INDUSTRIES",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
+  },
+  {
     "id": "1470198",
     "name": "HARRIS POLICY GROUP",
     "clients": [
