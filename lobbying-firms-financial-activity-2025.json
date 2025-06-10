@@ -9677,6 +9677,63 @@
     ]
   },
   {
+    "id": "1335723",
+    "name": "K STREET CONSULTING, LLC",
+    "clients": [
+      {
+        "name": "AMERICANS FOR PATIENT ACCESS",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA NORML",
+        "amount": 12000
+      },
+      {
+        "name": "CAMPO BAND OF DIEGUENO MISSION INDIANS OF THE CAMPO INDIAN RESERVATION",
+        "amount": 0
+      },
+      {
+        "name": "DRY CREEK RANCHERIA BAND OF POMO INDIANS",
+        "amount": 3500
+      },
+      {
+        "name": "FIRE & FLOOD EMERGENCY SERVICES",
+        "amount": 9980
+      },
+      {
+        "name": "GOOD FARMA, LLC DBA JADE NECTAR",
+        "amount": 0
+      },
+      {
+        "name": "HOLISTIC ALTERNATIVE RECOVERY TRUST",
+        "amount": 0
+      },
+      {
+        "name": "RESOURCES LEGACY FUND",
+        "amount": 0
+      },
+      {
+        "name": "SANTA ROSA RANCHERIA TACHI YOKUT TRIBE",
+        "amount": 90000
+      },
+      {
+        "name": "TULE RIVER TRIBE",
+        "amount": 0
+      },
+      {
+        "name": "VETERANS EXPLORING TREATMENT SOLUTIONS ('VETS'), INC.",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 115480
+      }
+    ]
+  },
+  {
     "id": "1318664",
     "name": "KAHN CONSULTING; CHRIS",
     "clients": [
@@ -13350,6 +13407,12 @@
         "amount": 195225
       }
     ]
+  },
+  {
+    "id": "1147341",
+    "name": "NOMELLINI, GRILLI & MC DANIEL LAW FIRM",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1264591",
