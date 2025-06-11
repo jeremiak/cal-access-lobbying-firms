@@ -8252,6 +8252,315 @@
     "quarters": []
   },
   {
+    "id": "1147239",
+    "name": "GONSALVES & SON; JOE A.",
+    "clients": [
+      {
+        "name": "ACCESS SERVICES",
+        "amount": 16500
+      },
+      {
+        "name": "AMERICAN PROMOTIONAL EVENTS, INC.",
+        "amount": 12000
+      },
+      {
+        "name": "ATASCADERO, CITY OF",
+        "amount": 9000
+      },
+      {
+        "name": "BANNING, CITY OF",
+        "amount": 12320
+      },
+      {
+        "name": "BELLFLOWER, CITY OF",
+        "amount": 9000
+      },
+      {
+        "name": "BOYS REPUBLIC",
+        "amount": 18000
+      },
+      {
+        "name": "BURRTEC",
+        "amount": 15000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF DUI TREATMENT PROGRAMS",
+        "amount": 12000
+      },
+      {
+        "name": "CALIFORNIA CITY MANAGEMENT FOUNDATION",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA MUNICIPAL FINANCE AUTHORITY",
+        "amount": 15000
+      },
+      {
+        "name": "CALIFORNIA PRODUCER HANDLER ASSOCIATION",
+        "amount": 24000
+      },
+      {
+        "name": "CARSON, CITY OF",
+        "amount": 12000
+      },
+      {
+        "name": "CERRITOS, CITY OF",
+        "amount": 4000
+      },
+      {
+        "name": "CHINO, CITY OF",
+        "amount": 12000
+      },
+      {
+        "name": "CITY OF BARSTOW",
+        "amount": 8000
+      },
+      {
+        "name": "CITY OF BLYTHE",
+        "amount": 12480
+      },
+      {
+        "name": "CITY OF COMMERCE",
+        "amount": 9476.22
+      },
+      {
+        "name": "CITY OF EL CENTRO",
+        "amount": 16500
+      },
+      {
+        "name": "CITY OF INDUSTRY",
+        "amount": 22000
+      },
+      {
+        "name": "CITY OF LA QUINTA",
+        "amount": 7000
+      },
+      {
+        "name": "CITY OF LAKE FOREST",
+        "amount": 11250
+      },
+      {
+        "name": "CITY OF LOMITA",
+        "amount": 9000
+      },
+      {
+        "name": "CITY OF MILPITAS",
+        "amount": 12000
+      },
+      {
+        "name": "CITY OF RANCHO CORDOVA",
+        "amount": 24000
+      },
+      {
+        "name": "CITY OF SUISUN CITY",
+        "amount": 8000
+      },
+      {
+        "name": "CITY OF TWENTYNINE PALMS",
+        "amount": 9000
+      },
+      {
+        "name": "CUPERTINO, CITY OF",
+        "amount": 15000
+      },
+      {
+        "name": "DIAMOND BAR, CITY OF",
+        "amount": 7500
+      },
+      {
+        "name": "ELK GROVE, CITY OF",
+        "amount": 11250
+      },
+      {
+        "name": "FAIRFIELD, CITY OF",
+        "amount": 17500
+      },
+      {
+        "name": "FILLMORE, CITY OF",
+        "amount": 6000
+      },
+      {
+        "name": "FOLSOM, CITY OF",
+        "amount": 6900
+      },
+      {
+        "name": "FONTANA, CITY OF",
+        "amount": 15000
+      },
+      {
+        "name": "GALE BANKS ENGINEERING",
+        "amount": 9000
+      },
+      {
+        "name": "GATEWAY WATER MANAGEMENT AUTHORITY",
+        "amount": 0
+      },
+      {
+        "name": "GLENDORA, CITY OF",
+        "amount": 10500
+      },
+      {
+        "name": "HAWAIIAN GARDENS, CITY OF",
+        "amount": 6000
+      },
+      {
+        "name": "INDIAN WELLS, CITY OF",
+        "amount": 7000
+      },
+      {
+        "name": "IRWINDALE, CITY OF",
+        "amount": 9500
+      },
+      {
+        "name": "JURUPA VALLEY, CITY OF",
+        "amount": 9000
+      },
+      {
+        "name": "KERMAN, CITY OF",
+        "amount": 2500
+      },
+      {
+        "name": "LA MIRADA, CITY OF",
+        "amount": 5000
+      },
+      {
+        "name": "LA PUENTE, CITY OF",
+        "amount": 10000
+      },
+      {
+        "name": "LAKEWOOD, CITY OF",
+        "amount": 4752
+      },
+      {
+        "name": "LONG BEACH PUBLIC TRANSPORTATION COMPANY (LONG BEACH TRANSIT)",
+        "amount": 9000
+      },
+      {
+        "name": "MARTINEZ, CITY OF",
+        "amount": 21000
+      },
+      {
+        "name": "MOSH-1",
+        "amount": 0
+      },
+      {
+        "name": "NORWALK, CITY OF",
+        "amount": 7260
+      },
+      {
+        "name": "ORANGE COUNTY WATER DISTRICT",
+        "amount": 24000
+      },
+      {
+        "name": "PACIFIC EDUCATIONAL SERVICES",
+        "amount": 0
+      },
+      {
+        "name": "PALM DESERT, CITY OF",
+        "amount": 6000
+      },
+      {
+        "name": "PALMDALE, CITY OF",
+        "amount": 6200
+      },
+      {
+        "name": "PARAMOUNT, CITY OF",
+        "amount": 6600
+      },
+      {
+        "name": "REDDING, CITY OF",
+        "amount": 9000
+      },
+      {
+        "name": "ROSEVILLE, CITY OF",
+        "amount": 32000
+      },
+      {
+        "name": "SAN GABRIEL VALLEY WATER ASSOCIATION",
+        "amount": 12000
+      },
+      {
+        "name": "SANTA CLARITA, CITY OF",
+        "amount": 8000
+      },
+      {
+        "name": "SIGNAL HILL, CITY OF",
+        "amount": 8000
+      },
+      {
+        "name": "SIMI VALLEY, CITY OF",
+        "amount": 6000
+      },
+      {
+        "name": "SOUTH COAST AIR QUALITY MANAGEMENT DISTRICT",
+        "amount": 35958.99
+      },
+      {
+        "name": "SOUTH GATE, CITY OF",
+        "amount": 10000
+      },
+      {
+        "name": "STOCKTON, PORT OF",
+        "amount": 8000
+      },
+      {
+        "name": "TORRANCE, CITY OF",
+        "amount": 18000
+      },
+      {
+        "name": "TOWN OF ATHERTON",
+        "amount": 12000
+      },
+      {
+        "name": "TWENTY-NINE PALMS BAND OF MISSION INDIANS",
+        "amount": 60000
+      },
+      {
+        "name": "VACAVILLE, CITY OF",
+        "amount": 10500
+      },
+      {
+        "name": "VALLEJO FLOOD AND WASTEWATER DISTRICT",
+        "amount": 8000
+      },
+      {
+        "name": "VALLEJO, CITY OF",
+        "amount": 12000
+      },
+      {
+        "name": "VICTORVILLE, CITY OF",
+        "amount": 15800
+      },
+      {
+        "name": "WEST COVINA, CITY OF",
+        "amount": 7500
+      },
+      {
+        "name": "WHITTIER, CITY OF",
+        "amount": 4000
+      },
+      {
+        "name": "WILDOMAR, CITY OF",
+        "amount": 6000
+      },
+      {
+        "name": "WILLDAN GROUP, INC.",
+        "amount": 14000
+      },
+      {
+        "name": "YUCAIPA, CITY OF",
+        "amount": 10500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 859247.21
+      }
+    ]
+  },
+  {
     "id": "1358546",
     "name": "GONZALEZ GOVERNMENT CONSULTING",
     "clients": [
