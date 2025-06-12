@@ -1654,6 +1654,23 @@
     ]
   },
   {
+    "id": "1147659",
+    "name": "BELL, MC ANDREWS & HILTACHK, LLP",
+    "clients": [
+      {
+        "name": "INSTITUTE OF GOVERNMENTAL ADVOCATES",
+        "amount": 4500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 4500
+      }
+    ]
+  },
+  {
     "id": "1392601",
     "name": "BERRY; MARK",
     "clients": [
@@ -18985,6 +19002,35 @@
         "quarter": "1",
         "session": "2025",
         "amount": 150500
+      }
+    ]
+  },
+  {
+    "id": "1295572",
+    "name": "STRATEGIC SOLUTIONS ADVISORS",
+    "clients": [
+      {
+        "name": "SAN MANUEL BAND OF MISSION INDIANS",
+        "amount": 87964.4
+      },
+      {
+        "name": "SANTA YNEZ BAND OF CHUMASH INDIANS",
+        "amount": 24000
+      },
+      {
+        "name": "SHINGLE SPRINGS BAND OF MIWOK INDIANS",
+        "amount": 22500
+      },
+      {
+        "name": "THE HOLLISTER RANCH OWNERS ASSOCIATION",
+        "amount": 15000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 149464.4
       }
     ]
   },
