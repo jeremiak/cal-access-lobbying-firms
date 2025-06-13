@@ -10533,8 +10533,19 @@
   {
     "id": "1480777",
     "name": "KHALILI, SHAHIN",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "SHAHIN KHALILI-SELF EMPLOYED",
+        "amount": 16500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 16500
+      }
+    ]
   },
   {
     "id": "1357733",
