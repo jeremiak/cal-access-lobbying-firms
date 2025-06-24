@@ -12821,6 +12821,12 @@
     ]
   },
   {
+    "id": "1399863",
+    "name": "MITCHELL CONSULTING, INC.; WENDY",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1439125",
     "name": "MJM ADVOCACY, INC.",
     "clients": [
@@ -14442,6 +14448,12 @@
         "amount": 235500
       }
     ]
+  },
+  {
+    "id": "1223535",
+    "name": "PAUL HASTINGS LLP",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1393386",
@@ -20899,12 +20911,6 @@
         "amount": 1936650.29
       }
     ]
-  },
-  {
-    "id": "1399863",
-    "name": "WENDY MITCHELL CONSULTING, INC.",
-    "clients": [],
-    "quarters": []
   },
   {
     "id": "1147426",
