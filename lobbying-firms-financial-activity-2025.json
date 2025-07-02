@@ -1972,6 +1972,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -7399,16 +7404,26 @@
     ]
   },
   {
+    "id": "1481730",
+    "name": "ERSTRAT LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1423840",
     "name": "EVERYDAY IMPACT CONSULTING",
     "clients": [
       {
         "name": "ASIAN LAW CAUCUS",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "CENTER ON RACE, POVERTY AND THE ENVIRONMENT",
-        "amount": 11250
+        "amount": 22500
+      },
+      {
+        "name": "IMMIGRANT LEGAL DEFENSE",
+        "amount": 5000
       }
     ],
     "quarters": [
@@ -7416,6 +7431,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 41250
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 46250
       }
     ]
   },
@@ -7820,11 +7840,11 @@
     "clients": [
       {
         "name": "FIVE POINT OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 22500
+        "amount": 45000
       },
       {
         "name": "RMV PA3 DEVELOPMENT, LLC",
-        "amount": 15000
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -7832,6 +7852,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 37500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 52500
       }
     ]
   },
