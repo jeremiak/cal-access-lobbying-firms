@@ -11318,12 +11318,17 @@
     "clients": [
       {
         "name": "CALIFORNIA APPELLATE DEFENSE COUNSEL, INC.",
-        "amount": 12750
+        "amount": 25500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 12750
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 12750
       }
@@ -21024,7 +21029,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 15300
+        "amount": 34050
       }
     ],
     "quarters": [
@@ -21032,6 +21037,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 15300
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 18750
       }
     ]
   },
