@@ -8121,12 +8121,17 @@
     "clients": [
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 22500
+        "amount": 45000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 22500
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 22500
       }
@@ -21148,31 +21153,31 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 9750
+        "amount": 19500
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 12000
+        "amount": 30000
       },
       {
         "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 3000
+        "amount": 27000
       },
       {
         "name": "LOCAL 148 LA COUNTY PUBLIC DEFENDERS UNION",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "SOCIAL GOOD FUND (FISCAL SPONSOR FOR TRANSFORMATIVE PROGRAMING WORKS)",
-        "amount": 20000
+        "amount": 25000
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 23500
+        "amount": 55000
       },
       {
         "name": "WESTERN CENTER ON LAW & POVERTY, INC.",
-        "amount": 6821
+        "amount": 16571
       }
     ],
     "quarters": [
@@ -21180,6 +21185,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 90071
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 113000
       }
     ]
   },
