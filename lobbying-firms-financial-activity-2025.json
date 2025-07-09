@@ -5,7 +5,7 @@
     "clients": [
       {
         "name": "SYCAMORE PARTNERS MANAGEMENT, LP",
-        "amount": 263299.83
+        "amount": 516444.6
       }
     ],
     "quarters": [
@@ -13,6 +13,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 263299.83
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 253144.77
       }
     ]
   },
@@ -3429,7 +3434,7 @@
     "clients": [
       {
         "name": "PARTNERSHIP FOR SOUND SCIENCE IN ENVIRONMENTAL POLICY",
-        "amount": 4000
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -3437,6 +3442,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 4000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 8000
       }
     ]
   },
@@ -5419,7 +5429,7 @@
       },
       {
         "name": "UNITED WHOLESALE MORTGAGE, LLC",
-        "amount": 26000
+        "amount": 19500
       },
       {
         "name": "VEALE OUTDOOR ADVERTISING",
@@ -5438,7 +5448,7 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 552525.08
+        "amount": 546025.08
       }
     ]
   },
@@ -7638,14 +7648,14 @@
       },
       {
         "name": "KAT TAYLOR",
-        "amount": 33000
+        "amount": 49500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 34500
+        "amount": 51000
       }
     ]
   },
@@ -8180,7 +8190,7 @@
     "clients": [
       {
         "name": "AMERICAN CANCER SOCIETY CANCER ACTION NETWORK INC.",
-        "amount": 18000
+        "amount": 31950
       }
     ],
     "quarters": [
@@ -8188,6 +8198,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 18000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 13950
       }
     ]
   },
@@ -19298,12 +19313,17 @@
     "clients": [
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 18900
+        "amount": 37800
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 18900
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 18900
       }
