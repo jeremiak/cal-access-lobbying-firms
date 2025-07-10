@@ -11360,7 +11360,7 @@
     "clients": [
       {
         "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "AMERICAN FOREST & PAPER ASSOCIATION",
@@ -11372,11 +11372,11 @@
       },
       {
         "name": "STYRENE INFORMATION AND RESEARCH CENTER",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 9000
+        "amount": 15000
       }
     ],
     "quarters": [
@@ -11384,6 +11384,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 16500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 12000
       }
     ]
   },
@@ -16914,16 +16919,21 @@
     "clients": [
       {
         "name": "APPLIED BEHAVRIOR CONSULTANTS",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "AUTISM BUSINESS ASSOCIATION",
-        "amount": 15000
+        "amount": 30000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 22500
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 22500
       }
@@ -17174,7 +17184,7 @@
     "clients": [
       {
         "name": "SPRINKLER FITTERS ASSOCIATION OF CALIFORNIA",
-        "amount": 19700.04
+        "amount": 44762.34
       }
     ],
     "quarters": [
@@ -17182,6 +17192,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 19700.04
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 25062.34
       }
     ]
   },
@@ -20299,11 +20314,11 @@
     "clients": [
       {
         "name": "CALIFORNIA AIR POLLUTION CONTROL OFFICERS ASSOCIATION",
-        "amount": 67170.87
+        "amount": 93820.87
       },
       {
         "name": "EDVOICE",
-        "amount": 18999
+        "amount": 37998
       }
     ],
     "quarters": [
@@ -20311,6 +20326,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 86169.87
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 45649
       }
     ]
   },
