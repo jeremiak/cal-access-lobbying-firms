@@ -5950,13 +5950,17 @@
       {
         "name": "THE GOOD FOOD INSTITUTE INC.",
         "amount": 12000
+      },
+      {
+        "name": "WORLD RESOURCES INSTITUTE",
+        "amount": 1500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 186500
+        "amount": 188000
       }
     ]
   },
@@ -8273,15 +8277,15 @@
     "clients": [
       {
         "name": "DRUG POLICY ALLIANCE",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "ELLA BAKER CENTER FOR HUMAN RIGHTS",
-        "amount": 39000
+        "amount": 78000
       },
       {
         "name": "PROSECUTORS ALLIANCE ACTION PROJECT OF THE TIDES ADVOCACY",
-        "amount": 15000
+        "amount": 25000
       }
     ],
     "quarters": [
@@ -8289,6 +8293,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 84000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 79000
       }
     ]
   },
@@ -9377,6 +9386,12 @@
         "amount": 265493.02
       }
     ]
+  },
+  {
+    "id": "1435281",
+    "name": "HG (US) INC",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1335683",
@@ -12016,6 +12031,12 @@
         "amount": 1308
       }
     ]
+  },
+  {
+    "id": "1481894",
+    "name": "MAJESTIC HOSPITALITY GROUP INC.",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1439603",
@@ -16777,6 +16798,12 @@
         "amount": 9000
       }
     ]
+  },
+  {
+    "id": "1482196",
+    "name": "RMW STRATEGIES",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1459987",
