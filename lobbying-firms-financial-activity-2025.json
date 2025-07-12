@@ -443,7 +443,7 @@
     "clients": [
       {
         "name": "ANTIN INFRASTRUCTURE PARTNERS SAS",
-        "amount": 96.85
+        "amount": 145.93
       }
     ],
     "quarters": [
@@ -451,6 +451,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 96.85
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 49.08
       }
     ]
   },
@@ -12247,7 +12252,7 @@
     "clients": [
       {
         "name": "COUNTY OF SANTA CLARA",
-        "amount": 31500
+        "amount": 52500
       }
     ],
     "quarters": [
@@ -12255,6 +12260,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 31500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 21000
       }
     ]
   },
