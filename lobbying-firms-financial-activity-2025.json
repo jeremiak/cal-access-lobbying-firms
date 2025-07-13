@@ -9254,7 +9254,7 @@
     "clients": [
       {
         "name": "WHOLE CONSULTING",
-        "amount": 9000
+        "amount": 16370.93
       }
     ],
     "quarters": [
@@ -9262,6 +9262,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 9000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 7370.93
       }
     ]
   },
@@ -15727,19 +15732,19 @@
     "clients": [
       {
         "name": "CALIFORNIA CANNABIS AUTHORITY",
-        "amount": 12000
+        "amount": 24000
       },
       {
         "name": "CALIFORNIA ENERGY STORAGE ALLIANCE (CESA)",
-        "amount": 27000
+        "amount": 57000
       },
       {
         "name": "CAPITAL ADVOCACY, LLC",
-        "amount": 16000
+        "amount": 40000
       },
       {
         "name": "STATE ASSOCIATION OF COUNTY RETIREMENT SYSTEMS",
-        "amount": 12000
+        "amount": 36721.79
       }
     ],
     "quarters": [
@@ -15747,6 +15752,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 67000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 90721.79
       }
     ]
   },
