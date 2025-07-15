@@ -5120,47 +5120,51 @@
       },
       {
         "name": "ARIZONA STATE UNIVERSITY AND AFFILIATED ENTITIES",
-        "amount": 52500
+        "amount": 105000
       },
       {
         "name": "AXIOM ADVISORS",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA PRIMARY CARE ASSOCIATION AND AFFILIATED ENTITY CALIFORNIA HEALTH + ADVOCATES",
-        "amount": 36000
+        "amount": 63000
       },
       {
         "name": "CALIFORNIA PROFESSIONAL FIREFIGHTERS",
-        "amount": 136026
+        "amount": 272052
       },
       {
         "name": "CALIFORNIA STATE UNIVERSITY EMPLOYEES UNION (CSUEU)",
-        "amount": 25000
+        "amount": 52000
       },
       {
         "name": "CALIFORNIANS FOR CONSUMER PRIVACY/ALASTAIR MACTAGGART, CHAIR",
-        "amount": 15000
-      },
-      {
-        "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
-        "amount": 21000
-      },
-      {
-        "name": "DAILYPAY, INC.",
         "amount": 30000
       },
       {
+        "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
+        "amount": 42000
+      },
+      {
+        "name": "DAILYPAY, INC.",
+        "amount": 60000
+      },
+      {
         "name": "LOS ANGELES LGBT CENTER",
-        "amount": 10000
+        "amount": 25000
+      },
+      {
+        "name": "OMIDYAR NETWORK",
+        "amount": 20000
       },
       {
         "name": "SECURE AI PROJECT",
-        "amount": 0
+        "amount": 60000
       },
       {
         "name": "WRITERS GUILD OF AMERICA, WEST, INC.",
-        "amount": 24000
+        "amount": 48000
       }
     ],
     "quarters": [
@@ -5168,6 +5172,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 379526
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 457526
       }
     ]
   },
@@ -9321,6 +9330,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -9996,12 +10010,17 @@
     "clients": [
       {
         "name": "FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
-        "amount": 16143.75
+        "amount": 32287.5
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 16143.75
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 16143.75
       }
@@ -10093,8 +10112,23 @@
   {
     "id": "1481857",
     "name": "JPG GROUP",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "RECYCLE FOR CHANGE",
+        "amount": 0
+      },
+      {
+        "name": "USAGAIN",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
   },
   {
     "id": "1335723",
@@ -10424,6 +10458,47 @@
         "quarter": "1",
         "session": "2025",
         "amount": 536146.1
+      }
+    ]
+  },
+  {
+    "id": "1477112",
+    "name": "KAISER ADVOCACY, LLC",
+    "clients": [
+      {
+        "name": "CALIFORNIA LOW-INCOME CONSUMER COALITION",
+        "amount": 10000
+      },
+      {
+        "name": "CALIFORNIA TAX REFORM ASSOCIATION",
+        "amount": 24000
+      },
+      {
+        "name": "CONSUMER REPORTS, INC.",
+        "amount": 3500
+      },
+      {
+        "name": "ELECTRONIC FRONTIER FOUNDATION",
+        "amount": 18000
+      },
+      {
+        "name": "FIRST AMENDMENT COALITION",
+        "amount": 10500
+      },
+      {
+        "name": "NATIONAL CONSUMER LAW CENTER",
+        "amount": 9000
+      },
+      {
+        "name": "PRIVACY RIGHTS CLEARINGHOUSE",
+        "amount": 7500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 82500
       }
     ]
   },
@@ -12129,6 +12204,11 @@
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 0
       }
@@ -16889,11 +16969,11 @@
     "clients": [
       {
         "name": "BISHOP, CITY OF",
-        "amount": 6000
+        "amount": 12000
       },
       {
         "name": "BONITA-SUNNYSIDE FIRE PROTECTION DISTRICT",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "CARPINTERIA, CITY OF",
@@ -16901,7 +16981,7 @@
       },
       {
         "name": "CHINO VALLEY FIRE DISTRICT",
-        "amount": 14400
+        "amount": 28800
       },
       {
         "name": "COACHELLA VALLEY PUBLIC CEMETERY DISTRICT",
@@ -16913,11 +16993,11 @@
       },
       {
         "name": "GOLETA SANITARY DISTRICT",
-        "amount": 5250
+        "amount": 10500
       },
       {
         "name": "HESPERIA RECREATION AND PARK DISTICT",
-        "amount": 4350
+        "amount": 8700
       },
       {
         "name": "LOS ANGELES METRO HISPANIC CHAMBER OF COMMERCE",
@@ -16925,19 +17005,23 @@
       },
       {
         "name": "MCKINLEYVILLE COMMUNITY SERVICE DISTRICT",
-        "amount": 3750
+        "amount": 7500
       },
       {
         "name": "MONTE VISTA WATER DISTRICT",
-        "amount": 6000
+        "amount": 12000
+      },
+      {
+        "name": "NPOWER",
+        "amount": 3000
       },
       {
         "name": "PHELAN PINON HILLS COMMUNITY SERVICES DISTRICT",
-        "amount": 2500
+        "amount": 10000
       },
       {
         "name": "RESOURCE CONSERVATION DISTRICT OF TEHAMA COUNTY",
-        "amount": 2700
+        "amount": 5400
       },
       {
         "name": "ROUTE 66 INLAND EMPIRE DBA CUCAMONGA SERVICE STATION",
@@ -16945,11 +17029,11 @@
       },
       {
         "name": "SAN JUAN BAUTISTA, CITY OF",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "VIA CARE",
-        "amount": 9000
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -16957,6 +17041,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 66700
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 64950
       }
     ]
   },
@@ -17284,6 +17373,11 @@
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 0
       }
@@ -19199,19 +19293,19 @@
     "clients": [
       {
         "name": "SAN MANUEL BAND OF MISSION INDIANS",
-        "amount": 87964.4
+        "amount": 163383.47
       },
       {
         "name": "SANTA YNEZ BAND OF CHUMASH INDIANS",
-        "amount": 24000
+        "amount": 48516.6
       },
       {
         "name": "SHINGLE SPRINGS BAND OF MIWOK INDIANS",
-        "amount": 22500
+        "amount": 37500
       },
       {
         "name": "THE HOLLISTER RANCH OWNERS ASSOCIATION",
-        "amount": 15000
+        "amount": 37500
       }
     ],
     "quarters": [
@@ -19219,6 +19313,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 149464.4
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 137435.67
       }
     ]
   },
@@ -20543,19 +20642,19 @@
     "clients": [
       {
         "name": "ALLIED MANAGED CARE AND ACCLAMATION INSURANCE MANAGEMENT SERVICES",
-        "amount": 11025
+        "amount": 23154
       },
       {
         "name": "AMERICAN CONTRACTORS INDEMNITY COMPANY",
-        "amount": 0
+        "amount": 13420
       },
       {
         "name": "COALITION OF SMALL AND DISABLED VETERAN BUSINESSES",
-        "amount": 1500
+        "amount": 3000
       },
       {
         "name": "FLASHER BARRICADE ASSOCIATION",
-        "amount": 3175
+        "amount": 6350
       }
     ],
     "quarters": [
@@ -20563,6 +20662,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 15700
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 30224
       }
     ]
   },
