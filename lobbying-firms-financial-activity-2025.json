@@ -797,43 +797,43 @@
     "clients": [
       {
         "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
-        "amount": 30750
+        "amount": 61500
       },
       {
         "name": "CALIFORNIA KIDNEY CARE ALLIANCE",
-        "amount": 36600
+        "amount": 73200
       },
       {
         "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
-        "amount": 8000
+        "amount": 12000
       },
       {
         "name": "ESCONDIDO, CITY OF",
-        "amount": 14636
+        "amount": 25613
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 39064.1
+        "amount": 51361.1
       },
       {
         "name": "LOS ANGELES LAKERS, INC.; THE",
-        "amount": 2250
+        "amount": 4500
       },
       {
         "name": "MILLENNIUM HEALTH",
-        "amount": 15252
+        "amount": 30504
       },
       {
         "name": "OXNARD; CITY OF",
-        "amount": 15000
+        "amount": 25000
       },
       {
         "name": "REDONDO BEACH, CITY OF",
-        "amount": 7168
+        "amount": 17920
       },
       {
         "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
-        "amount": 18252
+        "amount": 36504
       }
     ],
     "quarters": [
@@ -841,6 +841,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 186972.1
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 151130
       }
     ]
   },
@@ -5306,31 +5311,31 @@
     "clients": [
       {
         "name": "3M COMPANY",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "amount": 42000
+        "amount": 84000
       },
       {
         "name": "CIGAR ASSOCIATION OF AMERICA",
-        "amount": 24000
+        "amount": 48000
       },
       {
         "name": "COALITION FOR TICKET FAIRNESS",
-        "amount": 22500
+        "amount": 45000
       },
       {
         "name": "GENERAL MOTORS COMPANY",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "IHEART MEDIA",
-        "amount": 15000
+        "amount": 45000
       },
       {
         "name": "JUUL LABS",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "NATIONAL VISION, INC., FIRSTSIGHT VISION SERVICES, INC. & AFFILIATES",
@@ -5338,15 +5343,15 @@
       },
       {
         "name": "SAN YSIDRO HEALTH",
-        "amount": 30000
+        "amount": 70000
       },
       {
         "name": "SANTA YNEZ BAND OF CHUMASH INDIANS",
-        "amount": 32000
+        "amount": 56000
       },
       {
         "name": "SOLVENTUM CORPORATION",
-        "amount": 10000
+        "amount": 25000
       }
     ],
     "quarters": [
@@ -5354,6 +5359,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 282000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 272500
       }
     ]
   },
@@ -7119,11 +7129,11 @@
     "clients": [
       {
         "name": "CAPITOL STRATEGIC ADVISORS, LLC",
-        "amount": 35736.35
+        "amount": 68722.7
       },
       {
-        "name": "STF CONSULTING, LLC",
-        "amount": 0
+        "name": "RESOLUTE OBO CALIFORNIA ASSOCIATION OF LICENSED REPOSSESSORS",
+        "amount": 5000
       }
     ],
     "quarters": [
@@ -7131,6 +7141,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 35736.35
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 37986.35
       }
     ]
   },
@@ -7140,39 +7155,39 @@
     "clients": [
       {
         "name": "AMERICAN ALLIANCE DRUG TESTING",
-        "amount": 5250
+        "amount": 15750
       },
       {
         "name": "ASCEND LEARNING",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "CALIFORNIA TOW TRUCK ASSOCIATION",
-        "amount": 36000
+        "amount": 72000
       },
       {
         "name": "COSTCO WHOLESALE",
-        "amount": 7500
-      },
-      {
-        "name": "GORDIAN GROUP, THE",
-        "amount": 18000
-      },
-      {
-        "name": "INGLEWOOD, CITY OF",
         "amount": 15000
       },
       {
+        "name": "GORDIAN GROUP, THE",
+        "amount": 36000
+      },
+      {
+        "name": "INGLEWOOD, CITY OF",
+        "amount": 30000
+      },
+      {
         "name": "LA CANADA FLINTRIDGE, CITY OF",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
-        "amount": 59971
+        "amount": 76503
       },
       {
         "name": "SANTEE, CITY OF",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "THOMSON REUTERS",
@@ -7180,23 +7195,23 @@
       },
       {
         "name": "TRITON MANAGEMENT SERVICES, LLC",
-        "amount": 9000
-      },
-      {
-        "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
-        "amount": 19200
-      },
-      {
-        "name": "UNIVERSAL TECHNICAL INSTITUTE",
         "amount": 18000
       },
       {
+        "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
+        "amount": 38400
+      },
+      {
+        "name": "UNIVERSAL TECHNICAL INSTITUTE",
+        "amount": 36000
+      },
+      {
         "name": "USCB, INC.",
-        "amount": 4500
+        "amount": 6000
       },
       {
         "name": "WESTERN STATES TRUCKING ASSOCIATION",
-        "amount": 7875
+        "amount": 15750
       }
     ],
     "quarters": [
@@ -7204,6 +7219,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 227796
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 173607
       }
     ]
   },
@@ -8120,19 +8140,19 @@
     "clients": [
       {
         "name": "ANIMAL PHYSICAL THERAPY COALITION",
-        "amount": 15049.89
+        "amount": 30049.89
       },
       {
         "name": "ASSOCIATION OF ENVIRONMENTAL AND ENGINEERING GEOLOGISTS",
-        "amount": 1790
+        "amount": 4475
       },
       {
         "name": "ASSOCIATION OF PROFESSIONAL LANDSCAPE DESIGNERS, CALIFORNIA CHAPTER",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "CALIFORNIA NEURODIAGNOSTIC SOCIETY",
-        "amount": 6000
+        "amount": 10500
       }
     ],
     "quarters": [
@@ -8140,6 +8160,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 30339.89
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 29685
       }
     ]
   },
@@ -10032,32 +10057,41 @@
     "clients": [
       {
         "name": "CALIFORNIA POLITICAL TREASURER'S ASSOCIATION",
-        "amount": 1500
+        "amount": 3000
+      },
+      {
+        "name": "CHILDREN'S PARADISE, INC",
+        "amount": 0
       },
       {
         "name": "LIFELONG LEARNING ADMINISTRATION CORPORATION",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "NETFILE",
-        "amount": 3750
+        "amount": 7500
       },
       {
         "name": "SMARTER BALANCED ASSESSMENT CONSORTIUM",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "STRIDE, INC.",
-        "amount": 19500
+        "amount": 39000
       },
       {
         "name": "TEACH FOR AMERICA, INC.",
-        "amount": 12000
+        "amount": 24000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 81750
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 81750
       }
@@ -12986,7 +13020,7 @@
     "clients": [
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 67598.95
+        "amount": 120098.95
       }
     ],
     "quarters": [
@@ -12994,6 +13028,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 67598.95
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 52500
       }
     ]
   },
@@ -15803,8 +15842,19 @@
   {
     "id": "1480358",
     "name": "PROZAN STRATEGIES, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CORNBREAD HEMP",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
   },
   {
     "id": "1458528",
@@ -18848,6 +18898,12 @@
         "amount": 1176511.8
       }
     ]
+  },
+  {
+    "id": "1481988",
+    "name": "SLOVAK BARON EMPEY MURPHY & PINKNEY LLP",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1414182",
