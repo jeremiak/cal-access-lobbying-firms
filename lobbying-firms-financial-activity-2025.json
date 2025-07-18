@@ -8355,6 +8355,10 @@
       },
       {
         "name": "DEVEAU BURR GROUP, LLC OBO CA ALLIANE OF CHILD AND FAMILY SERVICES",
+        "amount": 20178.57
+      },
+      {
+        "name": "SKV ADVOCACY, LLC OBO CHRONIC CARE POLICY ALLIANCE",
         "amount": 0
       }
     ],
@@ -8363,6 +8367,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 20178.57
       }
     ]
   },
@@ -13095,24 +13104,29 @@
     "clients": [
       {
         "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
-        "amount": 9999.99
+        "amount": 19999.98
       },
       {
         "name": "CALIFORNIA AUTOBODY ASSOCIATION",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "CALIFORNIA AUTOMOTIVE BUSINESS COALITION",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "CALIFORNIA TIRE DEALERS ASSOCIATION",
-        "amount": 3000
+        "amount": 6000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 27999.99
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 27999.99
       }
@@ -17460,35 +17474,35 @@
     "clients": [
       {
         "name": "ALZHEIMER'S LOS ANGELES",
-        "amount": 2509.98
+        "amount": 5019.96
       },
       {
         "name": "ALZHEIMER'S ORANGE COUNTY",
-        "amount": 1663.32
+        "amount": 7158.3
       },
       {
         "name": "ALZHEIMER'S SAN DIEGO",
-        "amount": 2494.98
+        "amount": 4989.96
       },
       {
         "name": "AMERICAN ASSOCIATION OF NURSE PRACTITIONERS (AANP)",
-        "amount": 1000
+        "amount": 4000
       },
       {
         "name": "AMERICAN MASSAGE THERAPY ASSOCIATION; THE",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHESIOLOGY (CANA)",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA NATUROPATHIC DOCTORS ASSOCIATION",
-        "amount": 6000
+        "amount": 12000
       },
       {
         "name": "FIX OUR SHELTERS",
-        "amount": 1200
+        "amount": 2400
       },
       {
         "name": "LOS ANGELES COUNTY DEMOCRATS FOR THE PROTECTION OF ANIMALS",
@@ -17500,7 +17514,11 @@
       },
       {
         "name": "NATIONAL COUNSEL OF JEWISH WOMEN- LOS ANGELES",
-        "amount": 6000
+        "amount": 12000
+      },
+      {
+        "name": "PET ASSISTANCE FOUNDATION",
+        "amount": 0
       }
     ],
     "quarters": [
@@ -17508,6 +17526,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 50868.28
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 56699.94
       }
     ]
   },
