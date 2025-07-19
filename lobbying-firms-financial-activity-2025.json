@@ -1564,6 +1564,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 3238
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -3264,11 +3269,11 @@
     "clients": [
       {
         "name": "CALIFORNIA APARTMENT ASSOCIATION",
-        "amount": 10500
+        "amount": 21000
       },
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 19500
+        "amount": 40425.74
       }
     ],
     "quarters": [
@@ -3276,6 +3281,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 30000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 31425.74
       }
     ]
   },
@@ -12165,7 +12175,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 1308
+        "amount": 1744
       }
     ],
     "quarters": [
@@ -12173,6 +12183,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 1308
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 436
       }
     ]
   },
@@ -12506,20 +12521,16 @@
     "name": "MB ADVOCACY LLC",
     "clients": [
       {
-        "name": "CALIFORNIA ALLIANCE GROUP",
-        "amount": 52500
-      },
-      {
         "name": "CLEAR CHANNEL OUTDOOR, INC.",
-        "amount": 697000
+        "amount": 715000
       },
       {
-        "name": "LOTTOMATRIX CORPORATION",
-        "amount": 103500
+        "name": "CRISIS TEXT LINE",
+        "amount": 13000
       },
       {
         "name": "SHATTERPROOF A NONPROFIT CORPORATION",
-        "amount": 283850
+        "amount": 294850
       }
     ],
     "quarters": [
@@ -12527,6 +12538,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 82500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 42000
       }
     ]
   },
@@ -14029,8 +14045,19 @@
   {
     "id": "1147341",
     "name": "NOMELLINI, GRILLI & MC DANIEL LAW FIRM",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CENTRAL DELTA WATER AGENCY",
+        "amount": 75
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 75
+      }
+    ]
   },
   {
     "id": "1264591",
@@ -17857,7 +17884,7 @@
     "clients": [
       {
         "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
-        "amount": 534
+        "amount": 354
       }
     ],
     "quarters": [
@@ -17865,6 +17892,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 354
       }
     ]
   },
@@ -19169,8 +19201,19 @@
   {
     "id": "1449252",
     "name": "SOFKA; MICHAEL",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "LONE STAR GLOBAL ACQUISITIONS, LTD.",
+        "amount": 430
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 430
+      }
+    ]
   },
   {
     "id": "1467815",
@@ -19307,23 +19350,23 @@
     "clients": [
       {
         "name": "AMERICAN COATINGS ASSOCIATION",
-        "amount": 23499.99
+        "amount": 46999.98
       },
       {
         "name": "AMERICAN PLANNING ASSOCIATION, CALIFORNIA CHAPTER",
-        "amount": 36800
+        "amount": 55200
       },
       {
         "name": "CRUISE LINES INTERNATIONAL ASSOCIATION",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "INTERNATIONAL SLEEP PRODUCTS ASSOCIATION",
-        "amount": 24000
+        "amount": 42000
       },
       {
         "name": "MAERSK INC.",
-        "amount": 18062.49
+        "amount": 36124.98
       }
     ],
     "quarters": [
@@ -19331,6 +19374,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 122362.48
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 107962.48
       }
     ]
   },
@@ -19544,8 +19592,8 @@
     "name": "SUMMIT STRATEGY GROUP, LLC",
     "clients": [
       {
-        "name": "RXN GROUP OBO CONNECTED COMMERCE COUNCIL",
-        "amount": 4000
+        "name": "RXN LLC OBO CONNECTED COMMERCE COUNCIL",
+        "amount": 27750
       }
     ],
     "quarters": [
@@ -19553,6 +19601,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 4000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 23750
       }
     ]
   },
@@ -21647,27 +21700,27 @@
     "clients": [
       {
         "name": "CALIFORNIA COALITION FOR WORKER POWER",
-        "amount": 18000
+        "amount": 31500
       },
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 45245.5
+        "amount": 90245.5
       },
       {
         "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION",
-        "amount": 63060.8
+        "amount": 122314.95
       },
       {
         "name": "CALIFORNIA RURAL LEGAL ASSITANCE FOUNDATION",
-        "amount": 12000
+        "amount": 24000
       },
       {
         "name": "TECHEQUITY ACTION",
-        "amount": 29450
+        "amount": 58350
       },
       {
         "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
-        "amount": 16500
+        "amount": 33000
       }
     ],
     "quarters": [
@@ -21675,6 +21728,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 184256.3
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 175154.15
       }
     ]
   },
