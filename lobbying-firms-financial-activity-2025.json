@@ -9980,27 +9980,31 @@
     "clients": [
       {
         "name": "LANCE-KASHIAN & CO",
-        "amount": 15000
+        "amount": 30000
+      },
+      {
+        "name": "LATINO FILM INSTITUTE",
+        "amount": 21539.6
       },
       {
         "name": "MONTEREY PENINSULA WATER MANAGEMENT DISTRICT",
-        "amount": 13500
+        "amount": 22500
       },
       {
         "name": "SALINAS, CITY OF",
-        "amount": 13500
+        "amount": 27000
       },
       {
         "name": "SAN BENITO, COUNTY OF",
-        "amount": 25565.62
+        "amount": 75603.35
       },
       {
         "name": "SEASIDE, CITY OF",
-        "amount": 21000
+        "amount": 51343.09
       },
       {
         "name": "WATSONVILLE, CITY OF",
-        "amount": 21000
+        "amount": 42000
       }
     ],
     "quarters": [
@@ -10008,6 +10012,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 109565.62
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 160420.42
       }
     ]
   },
