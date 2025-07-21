@@ -5848,12 +5848,17 @@
       },
       {
         "name": "ISLAND INVESTMENT MANAGEMENT LLC",
-        "amount": 132.07
+        "amount": 0
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 0
       }
@@ -9936,6 +9941,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -11723,6 +11733,11 @@
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 0
       }
@@ -21035,16 +21050,21 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF SHEET METAL AND AIR CONDITIONING CONTRACTORS NATIONAL ASSOCIATION",
-        "amount": 38869.5
+        "amount": 77739
       },
       {
         "name": "CALIFORNIA CRAFT BREWERS ASSOCIATION",
-        "amount": 27000
+        "amount": 54000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 65869.5
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 65869.5
       }
