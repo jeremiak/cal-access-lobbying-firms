@@ -2108,55 +2108,55 @@
     "clients": [
       {
         "name": "ANAHEIM TRANSPORTATION NETWORK",
-        "amount": 10000
+        "amount": 25000
       },
       {
         "name": "ASSOCIATION OF CALIFORNIA WATER AGENCIES JOINT POWERS INSURANCE AUTHORITY (AWCA JPIA)",
-        "amount": 5000
+        "amount": 20000
       },
       {
         "name": "BRYANT GOVERNMENT AFFAIRS",
-        "amount": 6612.9
+        "amount": 21612.9
       },
       {
         "name": "CALIFORNIA CONFERENCE BOARD OF THE AMALGAMATED TRANSIT UNION",
-        "amount": 27043.45
+        "amount": 54443.45
       },
       {
         "name": "CALIFORNIA CONFERENCE OF MACHINISTS",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "CALIFORNIA HARNESS HORSEMEN'S ASSOCIATION",
-        "amount": 0
-      },
-      {
-        "name": "CALIFORNIA TEAMSTERS PUBLIC AFFAIRS COUNCIL",
-        "amount": 45887.31
-      },
-      {
-        "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
-        "amount": 14000
-      },
-      {
-        "name": "ENGINEERS AND SCIENTISTS OF CALIFORNIA, LOCAL 20, IFPTE, AFL-CIO & CLC",
-        "amount": 9000
-      },
-      {
-        "name": "GOLDEN BEAR RACING",
-        "amount": 0
-      },
-      {
-        "name": "JOCKEYS' GUILD, INC.",
-        "amount": 5500
-      },
-      {
-        "name": "PARADISE IRRIGATION DISTRICT",
         "amount": 7500
       },
       {
+        "name": "CONSUMER ATTORNEYS OF CALIFORNIA",
+        "amount": 35000
+      },
+      {
+        "name": "ENGINEERS AND SCIENTISTS OF CALIFORNIA, LOCAL 20, IFPTE, AFL-CIO & CLC",
+        "amount": 22740
+      },
+      {
+        "name": "GOLDEN BEAR RACING",
+        "amount": 7500
+      },
+      {
+        "name": "JOCKEYS' GUILD, INC.",
+        "amount": 14150
+      },
+      {
+        "name": "PARADISE IRRIGATION DISTRICT",
+        "amount": 22500
+      },
+      {
         "name": "SAG-AFTRA",
-        "amount": 0
+        "amount": 25000
+      },
+      {
+        "name": "TEAMSTERS CALIFORNIA",
+        "amount": 92496.06
       },
       {
         "name": "THE SPORTFISHING CONSERVANCY",
@@ -2164,27 +2164,27 @@
       },
       {
         "name": "TOWN OF PARADISE",
-        "amount": 16000
+        "amount": 28000
       },
       {
         "name": "UNITE HERE INTERNATIONAL UNION, AFL-CIO",
-        "amount": 24000
+        "amount": 49138
       },
       {
         "name": "UNITED ANGLERS",
-        "amount": 3000
+        "amount": 6240
       },
       {
         "name": "UTILITY WORKERS UNION OF AMERICA, LOCAL 132",
-        "amount": 16000
+        "amount": 28000
       },
       {
         "name": "UTILITY WORKERS UNION OF AMERICA, LOCAL 483",
-        "amount": 2000
+        "amount": 3500
       },
       {
         "name": "UTILITY WORKERS UNION OF AMERICA, LOCAL 522",
-        "amount": 1500
+        "amount": 2000
       }
     ],
     "quarters": [
@@ -2192,6 +2192,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 211043.66
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 288638.75
       }
     ]
   },
@@ -8216,32 +8221,45 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 27500
+        "amount": 55000
+      },
+      {
+        "name": "CRESCENTA VALLEY WATER DISTRICT",
+        "amount": 0
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "JURUPA COMMUNITY SERVICES DISTRICT",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "MILK PRODUCERS COUNCIL",
-        "amount": 7500
+        "amount": 15000
+      },
+      {
+        "name": "SAN GORGONIO PASS WATER AGENCY",
+        "amount": 0
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 33000
+        "amount": 66000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 9000
+        "amount": 18000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 113000
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 113000
       }
@@ -8275,11 +8293,19 @@
     "clients": [
       {
         "name": "AGC AMERICA INC. AND SUBSIDIARIES",
-        "amount": 5000
+        "amount": 20000
+      },
+      {
+        "name": "ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
+        "amount": 12000
+      },
+      {
+        "name": "AMERICAN LEGAL FINANCE ASSOCIATION",
+        "amount": 4500
       },
       {
         "name": "CALIFORNIA ALLIANCE OF FAMILY OWNED BUSINESSES",
-        "amount": 7708.33
+        "amount": 30833.32
       },
       {
         "name": "CATERPILLAR INC.",
@@ -8287,39 +8313,39 @@
       },
       {
         "name": "COMMUNITY CHOICE FINANCIAL",
-        "amount": 10800
+        "amount": 27000
       },
       {
         "name": "EXPERIAN",
-        "amount": 12500
+        "amount": 37500
       },
       {
         "name": "FINANCIAL SERVICES INSTITUTE",
-        "amount": 5625
+        "amount": 9375
       },
       {
         "name": "GOODYEAR TIRE AND RUBBER COMPANY IN CALIFORNIA",
-        "amount": 13000
+        "amount": 22500
+      },
+      {
+        "name": "MERSCORP INC.",
+        "amount": 2625
       },
       {
         "name": "NISSAN NORTH AMERICA",
-        "amount": 0
+        "amount": 18750
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 28749.99
+        "amount": 47916.65
       },
       {
         "name": "S.C. JOHNSON & SON",
-        "amount": 6000
-      },
-      {
-        "name": "THE APEX GROUP",
-        "amount": 0
+        "amount": 15000
       },
       {
         "name": "THE TRAVELERS COMPANIES INC. AND SUBSIDIARIES",
-        "amount": 18750
+        "amount": 37500
       }
     ],
     "quarters": [
@@ -8327,6 +8353,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 108133.32
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 177366.65
       }
     ]
   },
@@ -10793,12 +10824,17 @@
     "clients": [
       {
         "name": "SHAHIN KHALILI-SELF EMPLOYED",
-        "amount": 16500
+        "amount": 22000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 16500
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 16500
       }
@@ -12825,7 +12861,7 @@
     "clients": [
       {
         "name": "BAE SYSTEMS",
-        "amount": 9000
+        "amount": 27000
       }
     ],
     "quarters": [
@@ -12833,6 +12869,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 9000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 18000
       }
     ]
   },
@@ -13186,6 +13227,31 @@
         "quarter": "1",
         "session": "2025",
         "amount": 45000
+      }
+    ]
+  },
+  {
+    "id": "1366230",
+    "name": "MONARES GROUP; THE",
+    "clients": [
+      {
+        "name": "FONTANA UNION WATER COMPANY",
+        "amount": 16000
+      },
+      {
+        "name": "SAN GABRIEL BASIN WATER QUALITY AUTHORITY",
+        "amount": 48000
+      },
+      {
+        "name": "SAN GABRIEL VALLEY WATER COMPANY",
+        "amount": 7500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 71500
       }
     ]
   },
@@ -15882,7 +15948,7 @@
     "clients": [
       {
         "name": "CALIFORNIA AMBULANCE ASSOCIATION",
-        "amount": 15000
+        "amount": 49500
       },
       {
         "name": "CALIFORNIA BUSINESS ROUNDTABLE",
@@ -15890,31 +15956,31 @@
       },
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC ON BEHALF OF PILLSBURY WINTHROP SHAW PITTMAN LLP OBO RECYCLING MATERIALS ASSOCIATION (REMA) WEST COAST CENTER",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "PEPSICO, INC. AND AFFILIATED ENTITIES",
-        "amount": 14579.07
+        "amount": 85953.3
       },
       {
         "name": "RINCON BAND OF LUISENO INDIANS, THE",
-        "amount": 15000
+        "amount": 38457.31
       },
       {
         "name": "SAN LUIS REY INDIAN WATER AUTHORITY",
-        "amount": 26250
+        "amount": 48750
       },
       {
         "name": "SAN PASQUAL BAND OF MISSION INDIANS",
-        "amount": 22500
+        "amount": 45000
       },
       {
         "name": "SEMPRA AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 26000
+        "amount": 49000
       },
       {
         "name": "WATER REPLENISHMENT DISTRICT OF SOUTHERN CALIFORNIA",
-        "amount": 45000
+        "amount": 75612.97
       }
     ],
     "quarters": [
@@ -15922,6 +15988,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 209329.07
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 272944.51
       }
     ]
   },
