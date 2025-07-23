@@ -1258,55 +1258,75 @@
     "clients": [
       {
         "name": "BRAILLE INSTITUTE OF AMERICA INC.",
-        "amount": 6000
+        "amount": 24000
       },
       {
         "name": "BRIGHTLINE",
-        "amount": 16500
+        "amount": 46500
       },
       {
         "name": "CALIFORNIA SOCIETY OF INDUSTRIAL MEDICINE & SURGERY",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "CITY OF DELANO",
-        "amount": 19500
+        "amount": 39000
       },
       {
         "name": "CITY OF ROSEMEAD",
-        "amount": 10500
+        "amount": 21000
       },
       {
         "name": "DELL TECHNOLOGIES, INC.",
-        "amount": 42000
+        "amount": 73500
+      },
+      {
+        "name": "ELLUCIAN",
+        "amount": 20000
       },
       {
         "name": "ESTRIATUS LAW PC",
         "amount": 0
       },
       {
+        "name": "FORM.IO",
+        "amount": 0
+      },
+      {
         "name": "IDEMIA IDENTITY AND SECURITY USA, LLC",
-        "amount": 20000
+        "amount": 60000
+      },
+      {
+        "name": "LOS ANGELES PARKS ALLIANCE",
+        "amount": 0
+      },
+      {
+        "name": "RISEPOINT LLC",
+        "amount": 0
       },
       {
         "name": "SEMITROPIC WATER STORAGE DISTRICT",
-        "amount": 40500
+        "amount": 81000
       },
       {
         "name": "SKILLTRADE, INC.",
-        "amount": 5250
+        "amount": 17250
       },
       {
         "name": "SOCURE INC.",
-        "amount": 15000
+        "amount": 30000
+      },
+      {
+        "name": "TATA AMERICA INTERNATIONAL CORP.",
+        "amount": 0
       },
       {
         "name": "THE UNIVERSITY OF SOUTHERN CALIFORNIA",
-        "amount": 21000
+        "amount": 42000
       },
       {
         "name": "UNITEK LEARNING, INC.",
-        "amount": 12000
+        "amount": 36000
       }
     ],
     "quarters": [
@@ -1314,6 +1334,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 223250
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 297000
       }
     ]
   },
@@ -1399,48 +1424,76 @@
     "name": "BALLARD PARTNERS",
     "clients": [
       {
-        "name": "4G MANAGEMENT INC.",
-        "amount": 0
-      },
-      {
         "name": "ALTERNATIVE SOLUTIONS GROUP DBA GUARDIAN HEALTH",
         "amount": 10088.39
       },
       {
         "name": "AMAZON.COM SERVICES LLC",
-        "amount": 60000
+        "amount": 120000
       },
       {
-        "name": "FIRST STUDENT, INC.",
-        "amount": 0
-      },
-      {
-        "name": "RAI SERVICES COMPANY AND IT'S AFFILIATES",
-        "amount": 45000
-      },
-      {
-        "name": "ROBINHOOD MARKETS, INC.",
-        "amount": 0
-      },
-      {
-        "name": "SAS INSTITUTE INC.",
-        "amount": 10000
-      },
-      {
-        "name": "SECURITY SCORECARD",
-        "amount": 16000
-      },
-      {
-        "name": "SEPRO CORPORATION",
-        "amount": 22500
-      },
-      {
-        "name": "UNITED HEALTHCARE SERVICES, INC.",
+        "name": "CALIFORNIA MORTGAGE BANKERS ASSOCIATION",
         "amount": 30000
       },
       {
+        "name": "EARTH FUNERAL GROUP, INC.",
+        "amount": 30100
+      },
+      {
+        "name": "EPIDAURUS DBA AMITY FOUNDATION",
+        "amount": 0
+      },
+      {
+        "name": "FISERV SOLUTIONS, LLC",
+        "amount": 0
+      },
+      {
+        "name": "FIVE POINTS OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
+        "amount": 22500
+      },
+      {
+        "name": "NIVALIS ENERGY SYSTEMS, LLC",
+        "amount": 9600
+      },
+      {
+        "name": "PATIENT FUNDING ALTERNATIVESS",
+        "amount": 45100
+      },
+      {
+        "name": "RAI SERVICES COMPANY AND IT'S AFFILIATES",
+        "amount": 90000
+      },
+      {
+        "name": "ROBERTSON'S READY MIX LTD.",
+        "amount": 60100
+      },
+      {
+        "name": "ROBINHOOD MARKETS, INC.",
+        "amount": 41250
+      },
+      {
+        "name": "SAS INSTITUTE INC.",
+        "amount": 30000
+      },
+      {
+        "name": "SECURITY SCORECARD",
+        "amount": 112000
+      },
+      {
+        "name": "SEPRO CORPORATION",
+        "amount": 45000
+      },
+      {
+        "name": "SHAREFEST COMMUNITY DEVELOPMENT, INC.",
+        "amount": 5433.33
+      },
+      {
+        "name": "UNITED HEALTHCARE SERVICES, INC.",
+        "amount": 50000
+      },
+      {
         "name": "ZELIS HEALTHCARE, LLC",
-        "amount": 20000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -1448,6 +1501,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 213588.39
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 547583.33
       }
     ]
   },
@@ -5749,11 +5807,11 @@
     "clients": [
       {
         "name": "DISH NETWORK CORPORATION",
-        "amount": 10000
+        "amount": 20000
       },
       {
         "name": "WAYMO LLC",
-        "amount": 28000
+        "amount": 56500
       }
     ],
     "quarters": [
@@ -5761,6 +5819,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 38000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 38500
       }
     ]
   },
@@ -7517,7 +7580,15 @@
     "name": "EZRACONZULT LLC",
     "clients": [
       {
+        "name": "COMITE CIVICO DEL VALLE, INC.",
+        "amount": 2000
+      },
+      {
         "name": "COMMUNITIES FOR A NEW CALIFORNIA ACTION FUND",
+        "amount": 0
+      },
+      {
+        "name": "VICTORY OUTREACH SANTA CRUZ",
         "amount": 0
       }
     ],
@@ -7526,6 +7597,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 2000
       }
     ]
   },
@@ -7939,27 +8015,27 @@
     "clients": [
       {
         "name": "IMAGINE LEARNING",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "LENDMARK FINANCIAL SERVICES",
-        "amount": 10000
+        "amount": 30000
       },
       {
         "name": "LES SCHWAB WAREHOUSE CENTER, LLC",
-        "amount": 22500
+        "amount": 52500
       },
       {
         "name": "RECYCLED MATERIALS ASSOCIATION (REMA) - WEST COAST CHAPTER",
-        "amount": 45000
+        "amount": 75000
       },
       {
         "name": "SOUTHERN GLAZER'S WINE & SPIRITS, LLC",
-        "amount": 17117.45
+        "amount": 37834.6
       },
       {
         "name": "WINE & SPIRITS WHOLESALERS OF CALIFORNIA",
-        "amount": 18000
+        "amount": 36000
       }
     ],
     "quarters": [
@@ -7967,6 +8043,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 157617.45
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 163717.15
       }
     ]
   },
@@ -8271,7 +8352,7 @@
     "clients": [
       {
         "name": "AMERICAN CANCER SOCIETY CANCER ACTION NETWORK INC.",
-        "amount": 31950
+        "amount": 22650
       }
     ],
     "quarters": [
@@ -8283,7 +8364,7 @@
       {
         "quarter": "2",
         "session": "2025",
-        "amount": 13950
+        "amount": 4650
       }
     ]
   },
@@ -14595,19 +14676,19 @@
     "clients": [
       {
         "name": "BARONA BAND OF MISSION INDIANS",
-        "amount": 23000
+        "amount": 58152.77
       },
       {
-        "name": "EAST VALLEY WATER DISTRICT",
+        "name": "RESOLUTE OBO EAST VALLEY WATER DISTRICT",
         "amount": 0
       },
       {
-        "name": "IRVINE RANCH WATER DISTRICT",
+        "name": "RESOLUTE OBO IRVINE RANCH WATER DISTRICT",
         "amount": 23699.94
       },
       {
         "name": "YUBA COUNTY WATER AGENCY",
-        "amount": 0
+        "amount": 50000
       }
     ],
     "quarters": [
@@ -14615,6 +14696,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 46699.94
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 85152.77
       }
     ]
   },
@@ -16571,6 +16657,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -17004,7 +17095,7 @@
     "clients": [
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC",
-        "amount": 31901.9
+        "amount": 58268.77
       }
     ],
     "quarters": [
@@ -17012,6 +17103,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 31901.9
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 26366.87
       }
     ]
   },
@@ -17065,27 +17161,6 @@
         "quarter": "1",
         "session": "2025",
         "amount": 188355
-      }
-    ]
-  },
-  {
-    "id": "1454028",
-    "name": "RJR CONSULTING",
-    "clients": [
-      {
-        "name": "ECO EQUITY (SERVICING ALTASEA)",
-        "amount": 3000
-      },
-      {
-        "name": "ECO EQUITY (SERVICING SOCIETY FOR CALIFORNIA ARCHAEOLOGY)",
-        "amount": 7500
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2025",
-        "amount": 10500
       }
     ]
   },
@@ -17548,12 +17623,16 @@
     "name": "RXN LLC",
     "clients": [
       {
+        "name": "AI SALON",
+        "amount": 15000
+      },
+      {
         "name": "CONNECTED COMMERCE COUNCIL",
         "amount": 0
       },
       {
         "name": "INNOVATIVE LENDING PLATFORM ASSOCIATION",
-        "amount": 1800
+        "amount": 3600
       }
     ],
     "quarters": [
@@ -17561,6 +17640,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 1800
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 16800
       }
     ]
   },
@@ -19914,63 +19998,59 @@
     "clients": [
       {
         "name": "AIRLINES FOR AMERICA (A4A)",
-        "amount": 27000
+        "amount": 54000
       },
       {
         "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "amount": 16000
+        "amount": 43000
       },
       {
         "name": "BARROS CLAY & ASSOCIATES OBO CA CONSTRUCTION & INDUSTRIAL MATERIALS ASSN",
-        "amount": 0
+        "amount": 17419
       },
       {
         "name": "CALIFORNIA APPLICANTS' ATTORNEYS ASSOCIATION",
-        "amount": 30523.95
+        "amount": 70827.57
       },
       {
         "name": "CALIFORNIA PAWNBROKERS ASSOCIATION 'CAPA'",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "FOX CORPORATION",
-        "amount": 20000
+        "amount": 60000
       },
       {
         "name": "KINDRED HEALTHCARE LLC",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "KP PUBLIC AFFAIRS OBO CITY OF LOS ANGELES",
-        "amount": 0
+        "amount": 14000
       },
       {
         "name": "KP PUBLIC AFFAIRS OBO VETERANS GUARDIAN VA CLAIM CONSULTING LLC",
-        "amount": 7500
+        "amount": 17500
       },
       {
         "name": "SIMNSA",
-        "amount": 15000
+        "amount": 33750
       },
       {
         "name": "STATE COALITION OF PROBATION ORGANIZATIONS",
-        "amount": 13600
-      },
-      {
-        "name": "STRAIGHT SMILE, LLC",
-        "amount": 8000
+        "amount": 41103.62
       },
       {
         "name": "SUNRUN INC.",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "UAW LOCAL 4811",
-        "amount": 10000
+        "amount": 70000
       },
       {
         "name": "UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL",
-        "amount": 27000
+        "amount": 54000
       }
     ],
     "quarters": [
@@ -19978,6 +20058,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 259623.95
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 413976.24
       }
     ]
   },
@@ -21846,7 +21931,7 @@
       },
       {
         "name": "DELTA KAPPA GAMMA CALIFORNIA",
-        "amount": 5839.56
+        "amount": 11679.12
       }
     ],
     "quarters": [
@@ -21854,6 +21939,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 6639.56
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 5839.56
       }
     ]
   }
