@@ -6537,39 +6537,39 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION OF LICENSED INVESTIGATORS",
-        "amount": 20027.55
+        "amount": 40483.9
       },
       {
         "name": "CALIFORNIA COALITION OF TRAVEL ORGANIZATIONS",
-        "amount": 4500
+        "amount": 13500
       },
       {
         "name": "CALIFORNIA REAL ESTATE INSPECTION ASSOCIATION INC.",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "CEMETERY AND MORTUARY ASSOCIATION OF CALIFORNIA",
-        "amount": 8897.28
+        "amount": 30644.9
       },
       {
         "name": "METAL FINISHING ASSOCIATION OF NORTHERN CALIFORNIA",
-        "amount": 3000
+        "amount": 9000
       },
       {
         "name": "METAL FINISHING ASSOCIATION OF SOUTHERN CALIFORNIA",
-        "amount": 12275.68
+        "amount": 21482.44
       },
       {
         "name": "PLUMBING MANUFACTURERS INTERNATIONAL",
-        "amount": 28456.26
+        "amount": 54229.47
       },
       {
         "name": "PROFESSIONAL FIDUCIARY ASSOCIATION OF CALIFORNIA",
-        "amount": 16568.38
+        "amount": 23829.36
       },
       {
         "name": "RECREATIONAL BOATERS OF CALIFORNIA",
-        "amount": 9500
+        "amount": 36410.4
       }
     ],
     "quarters": [
@@ -6577,6 +6577,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 107725.15
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 130855.32
       }
     ]
   },
@@ -9392,6 +9397,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 2550
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -11000,7 +11010,7 @@
     "clients": [
       {
         "name": "COALITION FOR SUSTAINABLE CEMENT MANUFACTURING AND ENVIRONMENT",
-        "amount": 45603.94
+        "amount": 77872.08
       }
     ],
     "quarters": [
@@ -11008,6 +11018,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 45603.94
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 32268.14
       }
     ]
   },
@@ -12065,20 +12080,25 @@
     "clients": [
       {
         "name": "ABATE OF CALIFORNIA",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "CABO-CALIFORNIA ASSOCIATION OF BICYLE ORGANIZATIONS",
-        "amount": 420
+        "amount": 840
       },
       {
         "name": "CMDA-CALIFORNIA MOTORCYCLE DEALERS ASSOCIATION",
-        "amount": 11250
+        "amount": 22500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 16170
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 16170
       }
