@@ -5275,15 +5275,19 @@
     "clients": [
       {
         "name": "AMERESCO, INC",
-        "amount": 7050
+        "amount": 14100
       },
       {
         "name": "CITY OF RIDGECREST",
-        "amount": 3500
+        "amount": 10500
+      },
+      {
+        "name": "FOOTHILL MUNICIPAL WATER DISTRICT",
+        "amount": 9750
       },
       {
         "name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-        "amount": 23750
+        "amount": 76249.5
       }
     ],
     "quarters": [
@@ -5291,6 +5295,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 34300
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 76299.5
       }
     ]
   },
@@ -6788,7 +6797,7 @@
     "clients": [
       {
         "name": "SAN JOSE-EVERGREEN COMMUNITY COLLEGE DISTRICT",
-        "amount": 6500
+        "amount": 19500
       }
     ],
     "quarters": [
@@ -6796,6 +6805,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 6500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 13000
       }
     ]
   },
@@ -6988,15 +7002,15 @@
     "clients": [
       {
         "name": "ALTASEA",
-        "amount": 3180
+        "amount": 6360
       },
       {
         "name": "CLEAN ENERGY BUYERS ASSOCIATION",
-        "amount": 16623.54
+        "amount": 33123.54
       },
       {
         "name": "SOCIETY FOR CALIFORNIA ARCHAEOLOGY",
-        "amount": 12501
+        "amount": 25835
       },
       {
         "name": "VALLEY CAN",
@@ -7008,6 +7022,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 32304.54
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 33014
       }
     ]
   },
@@ -7632,23 +7651,27 @@
     "clients": [
       {
         "name": "ANAHEIM, CITY OF",
-        "amount": 51000
+        "amount": 102000
       },
       {
         "name": "BITCOIN DEPOT",
-        "amount": 50000
+        "amount": 75000
+      },
+      {
+        "name": "BLITZ STUDIOS, INC. DBA SLEEPER",
+        "amount": 45431.86
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHESIOLOGY (CANA)",
-        "amount": 54000
+        "amount": 108000
       },
       {
         "name": "CALIFORNIA CANNABIS OPERATORS ASSOCIATION (CACOA)",
-        "amount": 30000
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA MOBILITY CENTER",
-        "amount": 30000
+        "amount": 50000
       },
       {
         "name": "CENTRAL VALLEY CIRCULAR",
@@ -7656,19 +7679,19 @@
       },
       {
         "name": "CVS HEALTH",
-        "amount": 50000
+        "amount": 87500
       },
       {
         "name": "DAVITA INC.",
-        "amount": 45220.59
+        "amount": 133719.25
       },
       {
         "name": "DEL MAR THOROUGHBRED CLUB",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "MERCED COLLEGE",
-        "amount": 30000
+        "amount": 50000
       },
       {
         "name": "MINDR",
@@ -7676,27 +7699,31 @@
       },
       {
         "name": "RIVER PARTNERS",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "SACRAMENTO COUNTY DISTRICT ATTORNEY'S OFFICE",
         "amount": 0
       },
       {
+        "name": "SACRAMENTO STATE",
+        "amount": 24999.5
+      },
+      {
         "name": "SAFETY AND ADVOCACY FOR EMPOWERMENT (SAFE)",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "THOROUGHBRED OWNERS OF CALIFORNIA",
-        "amount": 18000
+        "amount": 42000
       },
       {
         "name": "TURO",
-        "amount": 22500
+        "amount": 45000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 24000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -7704,6 +7731,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 528220.59
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 571930.02
       }
     ]
   },
@@ -9901,51 +9933,51 @@
     "clients": [
       {
         "name": "CAN MANUFACTURING INSTITUTE",
-        "amount": 21000
+        "amount": 66001
       },
       {
         "name": "CARPET CUSHION COUNCIL",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "DE SILVA GROUP AND AFFILIATES, THE",
-        "amount": 27000
+        "amount": 63000
       },
       {
         "name": "EMBECTA CORP.",
-        "amount": 24000
+        "amount": 48000
       },
       {
         "name": "ERIC PAREDES SAVE A LIFE FOUNDATION",
-        "amount": 5000
+        "amount": 20000
       },
       {
         "name": "FIELD TURF INC.",
-        "amount": 0
+        "amount": 6000
       },
       {
         "name": "FLAGSHIP CRUISES & EVENTS",
-        "amount": 19500
+        "amount": 35000
       },
       {
         "name": "INFO LINE OF SAN DIEGO DBA 211 SAN DIEGO",
-        "amount": 25500
+        "amount": 51000
       },
       {
         "name": "MED-PROJECT CA, LLC",
-        "amount": 0
+        "amount": 21000
       },
       {
         "name": "MILLER INDUSTRIES, INC.",
-        "amount": 0
+        "amount": 106825
       },
       {
         "name": "SCI CA COALITION",
-        "amount": 5000
+        "amount": 15000
       },
       {
         "name": "WHITE BRENNER LLP OBO SYNTHETIC TURF COUNCIL",
-        "amount": 28750
+        "amount": 40250
       }
     ],
     "quarters": [
@@ -9953,6 +9985,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 173750
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 334326
       }
     ]
   },
@@ -10093,19 +10130,23 @@
     "clients": [
       {
         "name": "ECO EQUITY (SERVICING ALTASEA)",
-        "amount": 180
+        "amount": 3318
       },
       {
         "name": "ECO EQUITY (SERVICING CLEAN ENERGY BUYERS ASSOCIATION)",
-        "amount": 16500
+        "amount": 33000
       },
       {
         "name": "ECO EQUITY (SERVICING SOCIETY FOR CALIFORNIA ARCHAEOLOGY)",
-        "amount": 12501
+        "amount": 10835
       },
       {
-        "name": "ENVIRONMENT CALIFORNIA, INC.",
-        "amount": 1636.93
+        "name": "ENVIRONMENT CALIFORNIA INC",
+        "amount": 15086.39
+      },
+      {
+        "name": "ENVIRONMENT CALIFORNIA RESEARCH AND POLICY CENTER",
+        "amount": 0
       }
     ],
     "quarters": [
@@ -10113,6 +10154,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 30817.93
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 36101.46
       }
     ]
   },
@@ -10922,6 +10968,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 2631.25
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -11658,11 +11709,11 @@
     "clients": [
       {
         "name": "COALITION FOR CALIFORNIA CLIMATE AMBITION",
-        "amount": 50197.36
+        "amount": 147887.33
       },
       {
         "name": "MCCOURT PARTNERS REAL ESTATE AND ITS AFFILIATES CHAVEZ RAVINE LAND CO AND AERIAL RAPID TRANSIT TECHNOLOGIES LLC",
-        "amount": 0
+        "amount": 256165.49
       }
     ],
     "quarters": [
@@ -11670,6 +11721,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 50197.36
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 353855.46
       }
     ]
   },
@@ -11739,15 +11795,15 @@
     "clients": [
       {
         "name": "ANIMAL BLOOD BANK",
-        "amount": 15000
+        "amount": 30226
       },
       {
         "name": "NATIONAL PEACE OFFICERS AND FIREFIGHTERS BENEFIT ASSOCIATION",
-        "amount": 15000
+        "amount": 30226
       },
       {
         "name": "TRUE BLUE, INC.",
-        "amount": 15000
+        "amount": 30226
       }
     ],
     "quarters": [
@@ -11755,6 +11811,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 45000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 45678
       }
     ]
   },
@@ -13358,15 +13419,15 @@
     "clients": [
       {
         "name": "FONTANA UNION WATER COMPANY",
-        "amount": 16000
+        "amount": 32000
       },
       {
         "name": "SAN GABRIEL BASIN WATER QUALITY AUTHORITY",
-        "amount": 48000
+        "amount": 97606.68
       },
       {
         "name": "SAN GABRIEL VALLEY WATER COMPANY",
-        "amount": 7500
+        "amount": 15000
       }
     ],
     "quarters": [
@@ -13374,6 +13435,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 71500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 73106.68
       }
     ]
   },
@@ -14558,16 +14624,24 @@
     "name": "OLLIN STRATEGIES",
     "clients": [
       {
+        "name": "ASSOCIATION FOR THE PRESERVATION OF GAMEFOWL, INC",
+        "amount": 8000
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION OF MUTUAL WATER COMPANIES",
+        "amount": 14000
+      },
+      {
         "name": "CALIFORNIA BUSINESS ROUNDTABLE",
-        "amount": 20000
+        "amount": 50000
       },
       {
         "name": "COACHELLA; CITY OF",
-        "amount": 30000
+        "amount": 45000
       },
       {
         "name": "DAP HEALTH",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "JUANEO BAND OF MISSION INDIANS - ACJACHEMEN NATION",
@@ -14575,11 +14649,11 @@
       },
       {
         "name": "NEXTGEN CLIMATE AMERICA, INC.",
-        "amount": 32000
+        "amount": 57500
       },
       {
         "name": "PICO RIVERA; CITY OF",
-        "amount": 44500
+        "amount": 67000
       }
     ],
     "quarters": [
@@ -14587,6 +14661,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 141500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 130000
       }
     ]
   },
@@ -14755,12 +14834,20 @@
     "name": "ORRICK HERRINGTON & SUTCLIFFE, LLP",
     "clients": [
       {
+        "name": "AH CAPITAL MANAGEMENT, LLC (AKA A16Z)",
+        "amount": 0
+      },
+      {
+        "name": "AMERICAN INNOVATORS NETWORK",
+        "amount": 6250
+      },
+      {
         "name": "DIRECTV, LLC",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "DISH NETWORK CORPORATION",
-        "amount": 0
+        "amount": 2940
       }
     ],
     "quarters": [
@@ -14768,6 +14855,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 4500
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 13690
       }
     ]
   },
@@ -15098,11 +15190,11 @@
       },
       {
         "name": "RECYCLED MATERIALS ASSOCIATION (REMA) - WEST COAST CHAPTER",
-        "amount": 27791.56
+        "amount": 150736.35
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 38397
+        "amount": 97727.91
       }
     ],
     "quarters": [
@@ -15110,6 +15202,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 66948.56
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 182275.7
       }
     ]
   },
