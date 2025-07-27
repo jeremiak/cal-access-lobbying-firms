@@ -6090,12 +6090,17 @@
     "clients": [
       {
         "name": "CONSUMERS FOR AUTO RELIABILITY AND SAFETY",
-        "amount": 11250
+        "amount": 22500
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 11250
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 11250
       }
@@ -7188,10 +7193,6 @@
         "amount": 39000
       },
       {
-        "name": "CITY OF ROSEVILLE",
-        "amount": 7500
-      },
-      {
         "name": "MARIN SANITARY SERVICES",
         "amount": 9000
       },
@@ -7201,14 +7202,14 @@
       },
       {
         "name": "ZANKER ROAD RESOURCE MANAGEMENT LLC",
-        "amount": 7500
+        "amount": 3000
       }
     ],
     "quarters": [
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 63750
+        "amount": 51750
       }
     ]
   },
@@ -12707,12 +12708,17 @@
     "clients": [
       {
         "name": "SOUTHERN CALIFORNIA UNIVERSITY OF HEALTH SCIENCES",
-        "amount": 27300
+        "amount": 54600
       }
     ],
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 27300
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 27300
       }
@@ -15952,35 +15958,27 @@
     "clients": [
       {
         "name": "AMERICAN INDIAN CHAMBER OF COMMERCE OF CALIFORNIA",
-        "amount": 1400
-      },
-      {
-        "name": "BUILDSTRONG AMERICA (BSA)",
-        "amount": 45000
+        "amount": 2450
       },
       {
         "name": "CALIFORNIA LEGISLATIVE CONFERENCE OF PLUMBING, HEATING & PIPING INDUSTRY",
-        "amount": 53775
-      },
-      {
-        "name": "CENTRAL CONTRA COSTA TRANSIT AUTHORITY",
-        "amount": 7500
+        "amount": 107550
       },
       {
         "name": "COACHELLA VALLEY ASSOCIATION OF GOVERNMENTS",
-        "amount": 18000
+        "amount": 42000
       },
       {
         "name": "CONSTRUCTION INDUSTRY FORCE ACCOUNT COUNCIL",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "CRF SOLUTIONS",
-        "amount": 5400
+        "amount": 10800
       },
       {
         "name": "CURRY AND ASSOCIATES OBO CA CORRECTIONAL SUPERVISORS ORGANIZATION, INC, PAUL R.",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "EASTERN CONTRA COSTA TRANSIT AUTHORITY",
@@ -15988,7 +15986,7 @@
       },
       {
         "name": "ELECTRICAL CONTRACTORS OF CALIFORNIA TRUST",
-        "amount": 93664.98
+        "amount": 187329.96
       },
       {
         "name": "FINISHING CONTRACTORS ASSOCIATION OF SOUTHERN CALIFORNIA",
@@ -15996,83 +15994,79 @@
       },
       {
         "name": "HURST BROOKS ESPINOSA, LLC",
-        "amount": 24000
-      },
-      {
-        "name": "LIVERMORE AMADOR VALLEY TRANSIT AUTHORITY",
-        "amount": 7500
+        "amount": 48000
       },
       {
         "name": "MERCED COUNTY ASSOCIATION OF GOVERNMENTS",
-        "amount": 7500
+        "amount": 17500
       },
       {
         "name": "NEVADA COUNTY TRANSPORTATION COMMISSION",
-        "amount": 12000
+        "amount": 24000
       },
       {
         "name": "NORTHERN CALIFORNIA ALLIED TRADES",
-        "amount": 13200
+        "amount": 26400
       },
       {
         "name": "NORTHERN CALIFORNIA FLOOR COVERING ASSOCIATION",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "OJAI ENERGETICS",
-        "amount": 4000
-      },
-      {
-        "name": "REPLICA",
-        "amount": 5000
-      },
-      {
-        "name": "SACRAMENTO AREA COUNCIL OF GOVERNMENTS",
-        "amount": 32000
-      },
-      {
-        "name": "SAN MATEO COUNTY TRANSPORTATION AUTHORITY",
-        "amount": 21000
-      },
-      {
-        "name": "SONOMA COUNTY TRANSPORTATION AUTHORITY / REGIONAL CLIMATE PROTECTION AUTHORITY",
         "amount": 12000
       },
       {
+        "name": "REPLICA",
+        "amount": 20000
+      },
+      {
+        "name": "SACRAMENTO AREA COUNCIL OF GOVERNMENTS",
+        "amount": 56000
+      },
+      {
+        "name": "SAN MATEO COUNTY TRANSPORTATION AUTHORITY",
+        "amount": 42000
+      },
+      {
+        "name": "SONOMA COUNTY TRANSPORTATION AND CLIMATE AUTHORITIES",
+        "amount": 24000
+      },
+      {
         "name": "SOUTHERN CALIFORNIA GLASS MANAGEMENT ASSOCIATION (SCGMA)",
-        "amount": 4400
+        "amount": 11000
       },
       {
         "name": "TRANSPORTATION CALIFORNIA",
-        "amount": 7097
+        "amount": 31650
       },
       {
         "name": "TULARE COUNTY ASSOCIATION OF GOVERNMENTS",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "UNITED CONTRACTORS",
-        "amount": 34341
+        "amount": 68682
       },
       {
         "name": "WALL AND CEILING ALLIANCE",
-        "amount": 13500
+        "amount": 27000
       },
       {
         "name": "WESTERN CONTRA COSTA TRANSIT AUTHORITY",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "WESTERN LINE CONSTRUCTORS",
-        "amount": 10500
+        "amount": 21000
       },
       {
         "name": "WESTERN PAINTING & COATINGS CONTRACTORS ASSOCIATION (WPCCA)",
-        "amount": 1500
+        "amount": 3000
       },
       {
         "name": "WESTERN WALL AND CEILING CONTRACTORS ASSOCIATION (WWCCA)",
-        "amount": 4500
+        "amount": 9000
       }
     ],
     "quarters": [
@@ -16080,6 +16074,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 507277.98
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 468583.98
       }
     ]
   },
