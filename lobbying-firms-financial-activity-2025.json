@@ -7448,11 +7448,11 @@
     "clients": [
       {
         "name": "B.BRAUN MEDICAL",
-        "amount": 3900
+        "amount": 23400
       },
       {
         "name": "BREAST CANCER PREVENTION PARTNERS",
-        "amount": 1800
+        "amount": 7200
       },
       {
         "name": "BUILDING DECARBONIZATION COALITION",
@@ -7460,19 +7460,19 @@
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF LOCAL CONSERVATION CORPS (CALCC)",
-        "amount": 12500.01
+        "amount": 25000.02
       },
       {
         "name": "CALIFORNIA COMPOST COALITION",
-        "amount": 10500
+        "amount": 21000
       },
       {
         "name": "CALIFORNIA STATE PARKS FOUNDATION",
-        "amount": 2250
+        "amount": 4500
       },
       {
         "name": "CALIFORNIA VANPOOL AUTHORITY (CALVANS)",
-        "amount": 0
+        "amount": 7500
       },
       {
         "name": "CALSTART INC.",
@@ -7480,31 +7480,31 @@
       },
       {
         "name": "CENTRAL COAST ENERGY SERVICES",
-        "amount": 2625
+        "amount": 5250
       },
       {
         "name": "CERES, INC.",
-        "amount": 5850
+        "amount": 11700
       },
       {
         "name": "CLIMATE STRATEGIES LABS",
-        "amount": 1800
+        "amount": 9000
       },
       {
         "name": "CONSERVATION FUND, THE",
-        "amount": 7500
+        "amount": 10000
       },
       {
         "name": "CR&R INCORPORATED",
-        "amount": 3750
+        "amount": 7500
       },
       {
         "name": "EAST BAY REGIONAL PARKS DISTRICT",
-        "amount": 4800
+        "amount": 12000
       },
       {
         "name": "ELECTRIC VEHICLE CHARGING ASSOCIATION",
-        "amount": 3200
+        "amount": 19200
       },
       {
         "name": "ENDANGERED HABITATS LEAGUE",
@@ -7516,11 +7516,11 @@
       },
       {
         "name": "HEAT PUMP NATION",
-        "amount": 3000
+        "amount": 7500
       },
       {
         "name": "LAND TRUST OF SANTA CRUZ COUNTY",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "LOS ANGELES NEIGHBORHOOD LAND TRUST",
@@ -7528,19 +7528,19 @@
       },
       {
         "name": "MIDPENINSULA REGIONAL OPEN SPACE DISTRICT",
-        "amount": 10030
+        "amount": 17230
       },
       {
         "name": "SANTA CLARA VALLEY HABITAT AGENCY",
-        "amount": 1500
+        "amount": 3000
       },
       {
         "name": "SAVE THE REDWOODS LEAGUE",
-        "amount": 22000
+        "amount": 28000
       },
       {
         "name": "SEMPERVIRENS FUND",
-        "amount": 2250
+        "amount": 4500
       },
       {
         "name": "SEVENTH GENERATION, INC.",
@@ -7548,11 +7548,11 @@
       },
       {
         "name": "SOUTH BAYSIDE WASTE MANAGEMENT AUTHORITY (SBWMA) DBA RETHINKWASTE",
-        "amount": 18000
+        "amount": 36000
       },
       {
         "name": "VALLEY CAN (CLEAN AIR NOW)",
-        "amount": 3000
+        "amount": 5000
       }
     ],
     "quarters": [
@@ -7560,6 +7560,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 145755.01
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 148725.01
       }
     ]
   },
@@ -11905,23 +11910,23 @@
     "clients": [
       {
         "name": "ASPIRANET",
-        "amount": 14000
+        "amount": 28250
       },
       {
         "name": "CALIFORNIA COALITION FOR YOUTH",
-        "amount": 3000
+        "amount": 7000
       },
       {
         "name": "CHILD CARE RESOURCE CENTER INC.",
-        "amount": 0
+        "amount": 7500
       },
       {
         "name": "CHILDREN NOW",
-        "amount": 1500
+        "amount": 6350
       },
       {
         "name": "CORPORATION FOR EDUCATION NETWORK INITIATIVES IN CALIFORNIA",
-        "amount": 7725
+        "amount": 15450
       }
     ],
     "quarters": [
@@ -11929,6 +11934,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 26225
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 38325
       }
     ]
   },
@@ -12117,15 +12127,15 @@
     "clients": [
       {
         "name": "JEA & ASSOCIATES",
-        "amount": 30500
+        "amount": 76000
       },
       {
         "name": "PUBLIC HOUSE CONSULTING",
-        "amount": 6000
+        "amount": 18205.95
       },
       {
         "name": "STRATEGIC SOLUTIONS ADVISORS",
-        "amount": 7500
+        "amount": 22500
       }
     ],
     "quarters": [
@@ -12133,6 +12143,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 44000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 72705.95
       }
     ]
   },
