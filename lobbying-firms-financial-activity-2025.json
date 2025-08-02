@@ -4604,47 +4604,47 @@
     "clients": [
       {
         "name": "ALAMEDA COUNTY OFFICE OF EDUCATION",
-        "amount": 5000.01
+        "amount": 10000.02
       },
       {
         "name": "ALLAN HANCOCK COLLEGE",
-        "amount": 3000
-      },
-      {
-        "name": "ANTELOPE VALLEY UNION HIGH SCHOOL DISTRICT",
-        "amount": 4500
-      },
-      {
-        "name": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
-        "amount": 12000
-      },
-      {
-        "name": "ATASCADERO UNIFIED SCHOOL DISTRICT",
-        "amount": 2250
-      },
-      {
-        "name": "ATKINSON ANDELSON LOYA RUUD & ROMO",
-        "amount": 10000
-      },
-      {
-        "name": "AUDIOENHANCEMENT",
         "amount": 4000
       },
       {
+        "name": "ANTELOPE VALLEY UNION HIGH SCHOOL DISTRICT",
+        "amount": 9000
+      },
+      {
+        "name": "ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS",
+        "amount": 20000
+      },
+      {
+        "name": "ATASCADERO UNIFIED SCHOOL DISTRICT",
+        "amount": 4500
+      },
+      {
+        "name": "ATKINSON ANDELSON LOYA RUUD & ROMO",
+        "amount": 12500
+      },
+      {
+        "name": "AUDIOENHANCEMENT",
+        "amount": 16000
+      },
+      {
         "name": "BUTTE COUNTY OFFICE OF EDUCATION",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "CALEXICO UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 9000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF PRIVATE SPECIAL EDUCATION SCHOOLS (CAPSES)",
-        "amount": 1500
+        "amount": 3000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF SCHOOL COUNSELORS",
-        "amount": 4500
+        "amount": 7500
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF SCHOOL TRANSPORTATION OFFICIALS (CASTO)",
@@ -4652,39 +4652,39 @@
       },
       {
         "name": "CALIFORNIA CATHOLIC CONFERENCE",
-        "amount": 3750
+        "amount": 7500
       },
       {
         "name": "CALIFORNIA CONSORTIUM FOR INDEPENDENT STUDY",
-        "amount": 1680
+        "amount": 3360
       },
       {
         "name": "CALIFORNIA IT IN EDUCATION",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "CALIFORNIA SCHOOL NURSES ORGANIZATION",
-        "amount": 6874.5
+        "amount": 11457.5
       },
       {
         "name": "CALIFORNIA SCHOOL NUTRITION ASSOCIATION",
-        "amount": 19425
+        "amount": 38850
       },
       {
         "name": "CALIFORNIA STATE ALLIANCE OF YMCAS",
-        "amount": 8000
+        "amount": 24000
       },
       {
         "name": "CAMBRIDGE UNIVERSITY PRESS & ASSESSMENTS (CUP&A)",
-        "amount": 12000
+        "amount": 24000
       },
       {
         "name": "CAROCP",
-        "amount": 3000
+        "amount": 9000
       },
       {
         "name": "CERRITOS COLLEGE",
-        "amount": 5499.99
+        "amount": 10999.98
       },
       {
         "name": "CHULA VISTA ELEMENTARY SCHOOL DISTRICT",
@@ -4692,15 +4692,15 @@
       },
       {
         "name": "CLOVIS UNIFIED SCHOOL DISTRICT",
-        "amount": 10000
+        "amount": 15000
       },
       {
         "name": "COLTON JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 8000
+        "amount": 14000
       },
       {
         "name": "COMPTON UNIFIED SCHOOL DISTRICT",
-        "amount": 0
+        "amount": 28000
       },
       {
         "name": "CONTRA COSTA COUNTY SUPERINTENDENTS COALITION",
@@ -4708,135 +4708,143 @@
       },
       {
         "name": "CURRICULUM ASSOCIATES LLC",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "DAVINCI SCHOOLS",
-        "amount": 7500
+        "amount": 12500
       },
       {
         "name": "EDUCATIONAL TESTING SERVICE (ETS)",
-        "amount": 13500
+        "amount": 27000
       },
       {
         "name": "EL CAMINO COMMUNITY COLLEGE DISTRICT",
-        "amount": 4060
+        "amount": 12180
       },
       {
         "name": "EL DORADO COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 4500
+        "amount": 10500
       },
       {
         "name": "ELK GROVE UNIFIED SCHOOL DISTRICT",
-        "amount": 4000
+        "amount": 10000
       },
       {
         "name": "EVERDRIVEN LLC",
-        "amount": 8500
+        "amount": 21250
+      },
+      {
+        "name": "FARMWORKERS INSTITUTE OF EDUCATION & LEADERSHIP DEVELOPMENT (FIELD)",
+        "amount": 5500
+      },
+      {
+        "name": "FIRST STAR INC.",
+        "amount": 6000
       },
       {
         "name": "FONTANA UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "FREMONT UNIFIED SCHOOL DISTRICT",
-        "amount": 9000
-      },
-      {
-        "name": "FRESNO COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 6000
-      },
-      {
-        "name": "FULLERTON JOINT UNION HIGH SCHOOL DISTRICT",
-        "amount": 1500
-      },
-      {
-        "name": "HEALTHY CAMPUS",
         "amount": 12000
       },
       {
+        "name": "FREMONT UNIFIED SCHOOL DISTRICT",
+        "amount": 13500
+      },
+      {
+        "name": "FRESNO COUNTY SUPERINTENDENT OF SCHOOLS",
+        "amount": 10500
+      },
+      {
+        "name": "FULLERTON JOINT UNION HIGH SCHOOL DISTRICT",
+        "amount": 2500
+      },
+      {
+        "name": "HEALTHY CAMPUS",
+        "amount": 24000
+      },
+      {
         "name": "HEYTUTOR",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "HUMBOLDT COUNTY OFFICE OF EDUCATION",
-        "amount": 6000
-      },
-      {
-        "name": "IMPERIAL COUNTY OFFICE OF EDUCATION",
-        "amount": 8000
-      },
-      {
-        "name": "INSTITUTE FOR COLLEGE ACCESS & SUCCESS; THE",
-        "amount": 6000
-      },
-      {
-        "name": "INYO COUNTY OFFICE OF EDUCATION",
-        "amount": 2250
-      },
-      {
-        "name": "IRVINE UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "JUNIOR ACHIEVEMENT COALITION",
-        "amount": 7500
-      },
-      {
-        "name": "JURUPA UNIFIED SCHOOL DISTRICT",
-        "amount": 4500
-      },
-      {
-        "name": "KIBEAM LEARNING INC",
-        "amount": 5000
-      },
-      {
-        "name": "KLAMATH TRINITY JOINT UNIFIED SCHOOL DISTRICT",
-        "amount": 3750
-      },
-      {
-        "name": "LAKE COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
-      },
-      {
-        "name": "LIFEWINGS PEAK PERFORMANCE",
-        "amount": 19000
-      },
-      {
-        "name": "LINKED LEARNING ALLIANCE",
-        "amount": 16000
-      },
-      {
-        "name": "LOS ANGELES COMMUNITY COLLEGE DISTRICT",
-        "amount": 7850
-      },
-      {
-        "name": "LUNCH BUNCH",
-        "amount": 16000
-      },
-      {
-        "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
-        "amount": 8000
-      },
-      {
-        "name": "MADERA COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 5499
-      },
-      {
-        "name": "MENLO PARK UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
-      },
-      {
-        "name": "MERCED COUNTY OFFICE OF EDUCATION",
         "amount": 9000
       },
       {
-        "name": "MICHELSON CENTER FOR PUBLIC POLICY",
+        "name": "IMPERIAL COUNTY OFFICE OF EDUCATION",
+        "amount": 14000
+      },
+      {
+        "name": "INSTITUTE FOR COLLEGE ACCESS & SUCCESS; THE",
+        "amount": 10000
+      },
+      {
+        "name": "INYO COUNTY OFFICE OF EDUCATION",
+        "amount": 4500
+      },
+      {
+        "name": "IRVINE UNIFIED SCHOOL DISTRICT",
+        "amount": 10500
+      },
+      {
+        "name": "JUNIOR ACHIEVEMENT COALITION",
         "amount": 15000
       },
       {
+        "name": "JURUPA UNIFIED SCHOOL DISTRICT",
+        "amount": 7500
+      },
+      {
+        "name": "KIBEAM LEARNING INC",
+        "amount": 25000
+      },
+      {
+        "name": "KLAMATH TRINITY JOINT UNIFIED SCHOOL DISTRICT",
+        "amount": 7500
+      },
+      {
+        "name": "LAKE COUNTY OFFICE OF EDUCATION",
+        "amount": 5250
+      },
+      {
+        "name": "LIFEWINGS PEAK PERFORMANCE",
+        "amount": 28500
+      },
+      {
+        "name": "LINKED LEARNING ALLIANCE",
+        "amount": 28000
+      },
+      {
+        "name": "LOS ANGELES COMMUNITY COLLEGE DISTRICT",
+        "amount": 27475
+      },
+      {
+        "name": "LUNCH BUNCH",
+        "amount": 28000
+      },
+      {
+        "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
+        "amount": 14000
+      },
+      {
+        "name": "MADERA COUNTY SUPERINTENDENT OF SCHOOLS",
+        "amount": 10998
+      },
+      {
+        "name": "MENLO PARK UNIFIED SCHOOL DISTRICT",
+        "amount": 6000
+      },
+      {
+        "name": "MERCED COUNTY OFFICE OF EDUCATION",
+        "amount": 18000
+      },
+      {
+        "name": "MICHELSON CENTER FOR PUBLIC POLICY",
+        "amount": 30000
+      },
+      {
         "name": "MONO COUNTY OFFICE OF EDUCATION",
-        "amount": 2250
+        "amount": 4500
       },
       {
         "name": "MONTEBELLO UNIFIED SCHOOL DISTRICT",
@@ -4844,47 +4852,51 @@
       },
       {
         "name": "MONTEREY COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "NAPA COUNTY OFFICE OF EDUCATION",
-        "amount": 2000
+        "amount": 6000
       },
       {
         "name": "NAPA VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 5000
       },
       {
         "name": "NATIONAL BOARD FOR PROFESSIONAL TEACHING STANDARDS",
-        "amount": 6000
+        "amount": 10000
       },
       {
         "name": "NATOMAS UNIFIED SCHOOL DISTRICT",
-        "amount": 4000
+        "amount": 12000
       },
       {
-        "name": "NEWHALL ELEMENTARY SCHOOL DISTRICT",
-        "amount": 1005
-      },
-      {
-        "name": "NEWPORT-MESA UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "NORWALK - LA MIRADA UNIFIED SCHOOL DISTRICT",
-        "amount": 4500
-      },
-      {
-        "name": "ORANGE COUNTY DEPARTMENT OF EDUCATION",
-        "amount": 10125
-      },
-      {
-        "name": "ORCUTT UNION SCHOOL DISTRICT",
+        "name": "NEVADA COUNTY SUPERINTENDENT OF SCHOOLS",
         "amount": 2000
       },
       {
+        "name": "NEWHALL ELEMENTARY SCHOOL DISTRICT",
+        "amount": 2010
+      },
+      {
+        "name": "NEWPORT-MESA UNIFIED SCHOOL DISTRICT",
+        "amount": 10000
+      },
+      {
+        "name": "NORWALK - LA MIRADA UNIFIED SCHOOL DISTRICT",
+        "amount": 9000
+      },
+      {
+        "name": "ORANGE COUNTY DEPARTMENT OF EDUCATION",
+        "amount": 13500
+      },
+      {
+        "name": "ORCUTT UNION SCHOOL DISTRICT",
+        "amount": 5000
+      },
+      {
         "name": "PAJARO VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
+        "amount": 10500
       },
       {
         "name": "PALM SPRINGS UNIFIED SCHOOL DISTRICT",
@@ -4892,35 +4904,35 @@
       },
       {
         "name": "PALMDALE ELEMENTARY SCHOOL DISTRICT",
-        "amount": 7500
+        "amount": 12000
       },
       {
         "name": "PALO ALTO UNIFIED SCHOOL DISTRICT",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "PALOS VERDES PENINSULA UNIFIED SCHOOL DISTRICT",
-        "amount": 4675
+        "amount": 5950
       },
       {
         "name": "PARAMOUNT UNIFIED SCHOOL DISTRICT",
-        "amount": 4000
+        "amount": 6000
       },
       {
         "name": "PASADENA CITY COLLEGE",
-        "amount": 5060.37
+        "amount": 15181.11
       },
       {
         "name": "PASADENA UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 7000
       },
       {
         "name": "PLACER COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
+        "amount": 9000
       },
       {
         "name": "PLAYWORKS",
-        "amount": 10000
+        "amount": 22500
       },
       {
         "name": "POWAY UNIFIED SCHOOL DISTRICT",
@@ -4928,15 +4940,15 @@
       },
       {
         "name": "POWERSCHOOL",
-        "amount": 15000
+        "amount": 30000
       },
       {
         "name": "PROJECT LEAD THE WAY INC.",
-        "amount": 5625
+        "amount": 9375
       },
       {
         "name": "READING & MATH INC. (DBA AMPACT)",
-        "amount": 6000
+        "amount": 12000
       },
       {
         "name": "REDONDO BEACH UNIFIED SCHOOL DISTRICT",
@@ -4948,11 +4960,11 @@
       },
       {
         "name": "RIVERSIDE UNIFIED SCHOOL DISTRICT",
-        "amount": 8000
+        "amount": 10000
       },
       {
         "name": "SACRAMENTO COUNTY OFFICE OF EDUCATION",
-        "amount": 12499.5
+        "amount": 24999
       },
       {
         "name": "SAN BENITO COUNTY OFFICE OF EDUCATION",
@@ -4960,111 +4972,115 @@
       },
       {
         "name": "SAN BENITO HIGH SCHOOL DISTRICT",
-        "amount": 2500
-      },
-      {
-        "name": "SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT",
-        "amount": 9000
-      },
-      {
-        "name": "SAN BERNARDINO COUNTY DISTRICT ADVOCATES FOR BETTER SCHOOLS (SANDABS)",
-        "amount": 3836
-      },
-      {
-        "name": "SAN BERNARDINO COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 26664
-      },
-      {
-        "name": "SAN DIEGO SUPERINTENDENT OF SCHOOLS",
-        "amount": 40003.02
-      },
-      {
-        "name": "SAN FRANCISCO UNIFIED SCHOOL DISTRICT",
-        "amount": 0
-      },
-      {
-        "name": "SAN JOAQUIN COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
-      },
-      {
-        "name": "SAN LUIS COASTAL UNIFIED SCHOOL DISTRICT",
         "amount": 4000
       },
       {
+        "name": "SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT",
+        "amount": 18000
+      },
+      {
+        "name": "SAN BERNARDINO COUNTY DISTRICT ADVOCATES FOR BETTER SCHOOLS (SANDABS)",
+        "amount": 8631
+      },
+      {
+        "name": "SAN BERNARDINO COUNTY SUPERINTENDENT OF SCHOOLS",
+        "amount": 59994
+      },
+      {
+        "name": "SAN DIEGO SUPERINTENDENT OF SCHOOLS",
+        "amount": 60004.53
+      },
+      {
+        "name": "SAN FRANCISCO UNIFIED SCHOOL DISTRICT",
+        "amount": 41458.33
+      },
+      {
+        "name": "SAN JOAQUIN COUNTY OFFICE OF EDUCATION",
+        "amount": 9000
+      },
+      {
+        "name": "SAN LUIS COASTAL UNIFIED SCHOOL DISTRICT",
+        "amount": 10000
+      },
+      {
         "name": "SAN LUIS OBISPO COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
+        "amount": 9000
       },
       {
         "name": "SAN MATEO EDUCATION ADVOCACY COALITION",
-        "amount": 7500
-      },
-      {
-        "name": "SAN YSIDRO SCHOOL DISTRICT",
-        "amount": 2000
-      },
-      {
-        "name": "SANTA ANA UNIFIED SCHOOL DISTRICT",
-        "amount": 7500
-      },
-      {
-        "name": "SANTA BARBARA COUNTY EDUCATION OFFICE",
-        "amount": 4500
-      },
-      {
-        "name": "SANTA CLARA UNIFIED SCHOOL DISTRICT",
-        "amount": 6000
-      },
-      {
-        "name": "SANTA CRUZ COUNTY OFFICE OF EDUCATION",
-        "amount": 4500
-      },
-      {
-        "name": "SANTA MONICA COMMUNITY COLLEGE DISTRICT",
-        "amount": 17981.25
-      },
-      {
-        "name": "SANTA MONICA MALIBU UNIFIED SCHOOL DISTRICT",
-        "amount": 5000
-      },
-      {
-        "name": "SCHOOL EMPLOYERS ASSOCIATION OF CALIFORNIA",
-        "amount": 3750
-      },
-      {
-        "name": "SIMI VALLEY UNIFIED SCHOOL DISTRICT",
-        "amount": 3766.62
-      },
-      {
-        "name": "SINGLE DISTRICT COE CONSORTIUM",
-        "amount": 0
-      },
-      {
-        "name": "SMALL SCHOOL DISTRICTS ASSOCIATION",
-        "amount": 21000.02
-      },
-      {
-        "name": "SOLANA BEACH ELEMENTARY SCHOOL DISTRICT",
-        "amount": 1500
-      },
-      {
-        "name": "SONOMA COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 3000
-      },
-      {
-        "name": "SPORTS FOR LEARNING",
         "amount": 15000
       },
       {
-        "name": "STANISLAUS COUNTY OFFICE OF EDUCATION",
+        "name": "SAN YSIDRO SCHOOL DISTRICT",
         "amount": 6000
       },
       {
+        "name": "SANTA ANA UNIFIED SCHOOL DISTRICT",
+        "amount": 17500
+      },
+      {
+        "name": "SANTA BARBARA COUNTY EDUCATION OFFICE",
+        "amount": 9000
+      },
+      {
+        "name": "SANTA BARBARA UNIFIED SCHOOL DISTRICT",
+        "amount": 0
+      },
+      {
+        "name": "SANTA CLARA UNIFIED SCHOOL DISTRICT",
+        "amount": 10500
+      },
+      {
+        "name": "SANTA CRUZ COUNTY OFFICE OF EDUCATION",
+        "amount": 7500
+      },
+      {
+        "name": "SANTA MONICA COMMUNITY COLLEGE DISTRICT",
+        "amount": 35962.5
+      },
+      {
+        "name": "SANTA MONICA MALIBU UNIFIED SCHOOL DISTRICT",
+        "amount": 15000
+      },
+      {
+        "name": "SCHOOL EMPLOYERS ASSOCIATION OF CALIFORNIA",
+        "amount": 7500
+      },
+      {
+        "name": "SIMI VALLEY UNIFIED SCHOOL DISTRICT",
+        "amount": 7533.24
+      },
+      {
+        "name": "SINGLE DISTRICT COE CONSORTIUM",
+        "amount": 15000
+      },
+      {
+        "name": "SMALL SCHOOL DISTRICTS ASSOCIATION",
+        "amount": 42000.05
+      },
+      {
+        "name": "SOLANA BEACH ELEMENTARY SCHOOL DISTRICT",
+        "amount": 3000
+      },
+      {
+        "name": "SONOMA COUNTY SUPERINTENDENT OF SCHOOLS",
+        "amount": 6000
+      },
+      {
+        "name": "SPORTS FOR LEARNING",
+        "amount": 30000
+      },
+      {
+        "name": "STANISLAUS COUNTY OFFICE OF EDUCATION",
+        "amount": 12000
+      },
+      {
         "name": "STOCKTON UNIFIED SCHOOL DISTRICT",
-        "amount": 12500
+        "amount": 27500
       },
       {
         "name": "SUTTER COUNTY SUPERINTENDENT OF SCHOOLS",
-        "amount": 3000
+        "amount": 5250
       },
       {
         "name": "SWEETWATER UNION HIGH SCHOOL DISTRICT",
@@ -5072,19 +5088,19 @@
       },
       {
         "name": "TEACHING STRATEGIES LLC",
-        "amount": 12000
+        "amount": 21000
       },
       {
         "name": "TEHAMA COUNTY OFFICE OF EDUCATION",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "THINK TOGETHER",
-        "amount": 12000
+        "amount": 24000
       },
       {
         "name": "TWIN RIVERS UNIFIED SCHOOL DISTRICT",
-        "amount": 3000
+        "amount": 6000
       },
       {
         "name": "VENTURA COUNTY SUPERINTENDENT OF SCHOOLS",
@@ -5092,31 +5108,31 @@
       },
       {
         "name": "VISALIA UNIFIED SCHOOL DISTRICT",
-        "amount": 1500
+        "amount": 3000
       },
       {
         "name": "WELLNESS TOGETHER",
-        "amount": 4500
+        "amount": 12000
       },
       {
         "name": "WESTERN ASSOCIATION FOR COLLEGE ADMISSION COUNSELING (WACAC)",
-        "amount": 4200
+        "amount": 5400
       },
       {
         "name": "WHITTIER UNION HIGH SCHOOL DISTRICT",
-        "amount": 1250.01
+        "amount": 2500.02
       },
       {
         "name": "WILLIAM S. HART UNION HIGH SCHOOL DISTRICT",
-        "amount": 1500
+        "amount": 3000
       },
       {
         "name": "WONDERFUL COMPANY LLC; THE",
-        "amount": 0
+        "amount": 12500
       },
       {
         "name": "YUBA COUNTY OFFICE OF EDUCATION",
-        "amount": 0
+        "amount": 2000
       }
     ],
     "quarters": [
@@ -5124,6 +5140,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 810579.29
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 882989.99
       }
     ]
   },
@@ -8165,6 +8186,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -8180,7 +8206,7 @@
     "clients": [
       {
         "name": "ASIAN LAW CAUCUS",
-        "amount": 60000
+        "amount": 30000
       },
       {
         "name": "CENTER ON RACE, POVERTY AND THE ENVIRONMENT",
@@ -8195,12 +8221,12 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 41250
+        "amount": 26250
       },
       {
         "quarter": "2",
         "session": "2025",
-        "amount": 46250
+        "amount": 31250
       }
     ]
   },
@@ -11823,39 +11849,39 @@
     "clients": [
       {
         "name": "ALLIANCE FOR RETAIL ENERGY MARKETS",
-        "amount": 26100
+        "amount": 43500
       },
       {
         "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
-        "amount": 27545.5
+        "amount": 46053
       },
       {
         "name": "CALPINE CORPORATION",
-        "amount": 32000
+        "amount": 64000
       },
       {
         "name": "CENTENE AND ITS AFFILIATE HEALTH NET",
-        "amount": 0
+        "amount": 50000
       },
       {
         "name": "FORD MOTOR COMPANY AND ITS AFFILIATES",
-        "amount": 27000
+        "amount": 55500
       },
       {
         "name": "PBF ENERGY WESTERN REGION LLC",
-        "amount": 39000
+        "amount": 65000
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC COMPANY AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 27000
+        "amount": 63000
       },
       {
         "name": "TENET HEALTHCARE",
-        "amount": 45000
+        "amount": 90000
       },
       {
         "name": "VISION TO LEARN",
-        "amount": 0
+        "amount": 10000
       }
     ],
     "quarters": [
@@ -11863,6 +11889,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 223645.5
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 263407.5
       }
     ]
   },
@@ -23695,6 +23726,11 @@
     "quarters": [
       {
         "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
         "session": "2025",
         "amount": 0
       }
