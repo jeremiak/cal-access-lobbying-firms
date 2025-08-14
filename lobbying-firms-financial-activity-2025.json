@@ -14833,6 +14833,76 @@
     ]
   },
   {
+    "id": "1147262",
+    "name": "MURDOCH WALRATH & HOLMES",
+    "clients": [
+      {
+        "name": "ASSOCIATION OF CALIFORNIA CONSTRUCTION MANAGERS",
+        "amount": 4500
+      },
+      {
+        "name": "CALIFORNIA ASSOCIATION FOR BILINGUAL EDUCATION",
+        "amount": 15478
+      },
+      {
+        "name": "CALIFORNIA RETIRED TEACHERS ASSOCIATION",
+        "amount": 30875
+      },
+      {
+        "name": "CLOVIS UNIFIED SCHOOL DISTRICT",
+        "amount": 3090
+      },
+      {
+        "name": "COALITION FOR ADEQUATE SCHOOL HOUSING",
+        "amount": 505798
+      },
+      {
+        "name": "COMMUNITY COLLEGE FACILITY COALITION",
+        "amount": 41190
+      },
+      {
+        "name": "COUNTY SCHOOL FACILITIES CONSORTIUM",
+        "amount": 3067
+      },
+      {
+        "name": "KERN UNION HIGH SCHOOL DISTRICT",
+        "amount": 1700
+      },
+      {
+        "name": "MERCED UNION HIGH SCHOOL DISTRICT",
+        "amount": 1891
+      },
+      {
+        "name": "SAN BENITO HIGH SCHOOL DISTRICT",
+        "amount": 12740
+      },
+      {
+        "name": "SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT",
+        "amount": 8483
+      },
+      {
+        "name": "SCHOOL ENERGY COALITION",
+        "amount": 0
+      },
+      {
+        "name": "SCHOOL FACILITY MANUFACTURERS' ASSOCIATION",
+        "amount": 3150
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 216274
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 415688
+      }
+    ]
+  },
+  {
     "id": "1356046",
     "name": "MVM STRATEGY GROUP, LLC ",
     "clients": [
