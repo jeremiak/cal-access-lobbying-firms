@@ -10075,7 +10075,7 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 523053.65
+        "amount": 523053.2
       },
       {
         "quarter": "2",
@@ -23180,7 +23180,7 @@
     "clients": [
       {
         "name": "CALIFORNIA RIFLE AND PISTOL ASSOCIATION, INC.",
-        "amount": 499.96
+        "amount": 2051.06
       }
     ],
     "quarters": [
@@ -23192,7 +23192,7 @@
       {
         "quarter": "2",
         "session": "2025",
-        "amount": 0
+        "amount": 1551.1
       }
     ]
   },
