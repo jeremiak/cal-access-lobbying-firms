@@ -14130,7 +14130,7 @@
       },
       {
         "name": "SENTINEL PEAK RESOURCES",
-        "amount": 30000
+        "amount": 31970
       }
     ],
     "quarters": [
@@ -14142,7 +14142,7 @@
       {
         "quarter": "2",
         "session": "2025",
-        "amount": 78220
+        "amount": 80190
       }
     ]
   },
