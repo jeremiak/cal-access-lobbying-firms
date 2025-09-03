@@ -9631,56 +9631,6 @@
     ]
   },
   {
-    "id": "1465702",
-    "name": "GONZALEZ; CAROL",
-    "clients": [
-      {
-        "name": "CAL STATE STUDENT ASSOCIATION",
-        "amount": 12500
-      },
-      {
-        "name": "EDUCATION TRUST; THE",
-        "amount": 15000
-      },
-      {
-        "name": "HISPANAS ORGANIZED FOR POLITICAL EQUALITY",
-        "amount": 12500
-      },
-      {
-        "name": "LONG BEACH COMMUNITY COLLEGE DISTICT",
-        "amount": 12375
-      },
-      {
-        "name": "MESA VERDE GROUP OBO ALLIANCE FOR A BETTER COMMUNITY",
-        "amount": 1500
-      },
-      {
-        "name": "MESA VERDE GROUP OBO GAVILAN JOINT COMMUNITY COLLEGE DISTRICT",
-        "amount": 1350
-      },
-      {
-        "name": "MESA VERDE GROUP OBO INCLUSIVE ACTION FOR THE CITY",
-        "amount": 7500
-      },
-      {
-        "name": "MESA VERDE GROUP OBO SOUTHERN CALIFORNIA COLLEGE ACCESS NETWORK (SO CAL CAN)",
-        "amount": 0
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2025",
-        "amount": 26062.5
-      },
-      {
-        "quarter": "2",
-        "session": "2025",
-        "amount": 36662.5
-      }
-    ]
-  },
-  {
     "id": "1468887",
     "name": "GOVBIZ ADVANTAGE",
     "clients": [
@@ -12734,6 +12684,56 @@
         "quarter": "2",
         "session": "2025",
         "amount": 353855.46
+      }
+    ]
+  },
+  {
+    "id": "1465702",
+    "name": "LATINA ADVOCATES",
+    "clients": [
+      {
+        "name": "CAL STATE STUDENT ASSOCIATION",
+        "amount": 12500
+      },
+      {
+        "name": "EDUCATION TRUST; THE",
+        "amount": 15000
+      },
+      {
+        "name": "HISPANAS ORGANIZED FOR POLITICAL EQUALITY",
+        "amount": 12500
+      },
+      {
+        "name": "LONG BEACH COMMUNITY COLLEGE DISTICT",
+        "amount": 12375
+      },
+      {
+        "name": "MESA VERDE GROUP OBO ALLIANCE FOR A BETTER COMMUNITY",
+        "amount": 1500
+      },
+      {
+        "name": "MESA VERDE GROUP OBO GAVILAN JOINT COMMUNITY COLLEGE DISTRICT",
+        "amount": 1350
+      },
+      {
+        "name": "MESA VERDE GROUP OBO INCLUSIVE ACTION FOR THE CITY",
+        "amount": 7500
+      },
+      {
+        "name": "MESA VERDE GROUP OBO SOUTHERN CALIFORNIA COLLEGE ACCESS NETWORK (SO CAL CAN)",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 26062.5
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 36662.5
       }
     ]
   },
