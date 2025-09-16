@@ -9637,6 +9637,60 @@
     ]
   },
   {
+    "id": "1357619",
+    "name": "GOULD GOVERNMENT RELATIONS; ROXANNE",
+    "clients": [
+      {
+        "name": "ALLIANCE FOR RESPONSIBLE CONSUMER LEGAL FUNDING(ARC)",
+        "amount": 60000
+      },
+      {
+        "name": "AMERICAN NURSES ASSOCIATION\\CALIFORNIA",
+        "amount": 43000
+      },
+      {
+        "name": "AMERICAN TOWER CORP.",
+        "amount": 35000
+      },
+      {
+        "name": "CA ASSOCIATION OF CLINICAL NURSE SPECIALISTS",
+        "amount": 4000
+      },
+      {
+        "name": "CARNEGIE INSTITUTE FOR SCIENCE",
+        "amount": 36000
+      },
+      {
+        "name": "FINANCIAL INDUSTRY REGULATORY AUTHORITY (FINRA) C/O MULTISTATE ASSOCIATES",
+        "amount": 25000
+      },
+      {
+        "name": "NAYLOR ADVOCACY",
+        "amount": 15000
+      },
+      {
+        "name": "TURNITIN, LLC",
+        "amount": 25000
+      },
+      {
+        "name": "WIRELESS INFRASTRUCTURE ASSOCIATION",
+        "amount": 77000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 141000
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 179000
+      }
+    ]
+  },
+  {
     "id": "1468887",
     "name": "GOVBIZ ADVANTAGE",
     "clients": [
