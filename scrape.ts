@@ -33,10 +33,14 @@ const firms: Firm[] = []
 const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0'
 const session = args.session ? +args.session : 2023
 
+const headers = {
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0'
+}
+
 async function scrapeLobbyingFirmsForLetter(letter: string): Promise<Firm> {
   console.log(`Scraping lobbying firms for ${letter}`)
   const url = `https://cal-access.sos.ca.gov/Lobbying/Firms/list.aspx?letter=${letter}&session=${session}`
-  const response = await fetch(url)
+  const response = await fetch(url, { headers })
   const html = await response.text()
   const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
@@ -67,7 +71,7 @@ async function scrapeLobbyingFirmsForLetter(letter: string): Promise<Firm> {
 async function scrapeLobbyingFirmFinancialActivity(id: string, session: string) {
   console.log(`Scraping financial history for ${id}`)
   const url = `https://cal-access.sos.ca.gov/Lobbying/Firms/Detail.aspx?id=${id}&view=activity&session=${session}`
-  const response = await fetch(url)
+  const response = await fetch(url, { headers })
   const html = await response.text()
   const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
