@@ -796,6 +796,10 @@
         "amount": 90000
       },
       {
+        "name": "AXIOM ADVISORS",
+        "amount": 10000
+      },
+      {
         "name": "BERRY CORPORATION",
         "amount": 99000
       },
@@ -934,7 +938,7 @@
       {
         "quarter": "3",
         "session": "2025",
-        "amount": 845012.49
+        "amount": 855012.49
       }
     ]
   },
@@ -14151,11 +14155,11 @@
     "clients": [
       {
         "name": "LYNWOOD CITY OF",
-        "amount": 0
+        "amount": 25000
       },
       {
         "name": "UNIVERSITY OF MOLDOVA, INC.",
-        "amount": 33000
+        "amount": 53000
       }
     ],
     "quarters": [
@@ -14163,6 +14167,11 @@
         "quarter": "1",
         "session": "2025",
         "amount": 33000
+      },
+      {
+        "quarter": "3",
+        "session": "2025",
+        "amount": 45000
       }
     ]
   },
@@ -25358,7 +25367,7 @@
     "clients": [
       {
         "name": "LYNWOOD UNIFIED SCHOOL DISTRICT",
-        "amount": 90000
+        "amount": 135000
       }
     ],
     "quarters": [
@@ -25369,6 +25378,11 @@
       },
       {
         "quarter": "2",
+        "session": "2025",
+        "amount": 45000
+      },
+      {
+        "quarter": "3",
         "session": "2025",
         "amount": 45000
       }
