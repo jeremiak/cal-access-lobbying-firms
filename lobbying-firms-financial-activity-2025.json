@@ -1,5 +1,11 @@
 [
   {
+    "id": "1484172",
+    "name": "ABOUEZZI; ALEXANDRA",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1382165",
     "name": "ACALYX ADVISORS, INC.",
     "clients": [
@@ -29,8 +35,19 @@
   {
     "id": "1483442",
     "name": "ACCORD CAPITAL PARTNERS LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "THE DERMOT COMPANY",
+        "amount": 48534
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "3",
+        "session": "2025",
+        "amount": 48534
+      }
+    ]
   },
   {
     "id": "1435150",
@@ -9601,6 +9618,12 @@
     ]
   },
   {
+    "id": "1484330",
+    "name": "FOGARTY; BRIDGET",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147230",
     "name": "FOLEY & LARDNER LLP",
     "clients": [
@@ -14485,6 +14508,12 @@
         "amount": 906577.59
       }
     ]
+  },
+  {
+    "id": "1484181",
+    "name": "LIKA; JANELLE",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1458431",
