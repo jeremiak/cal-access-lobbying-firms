@@ -20254,11 +20254,11 @@
     "clients": [
       {
         "name": "NORDIC CAPITAL GROUP LIMITED",
-        "amount": 397.56
+        "amount": 0
       },
       {
         "name": "NORDIC CAPITAL GROUP LIMITED",
-        "amount": 0
+        "amount": 397.56
       }
     ],
     "quarters": [
@@ -21213,15 +21213,15 @@
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
-        "amount": 22000
-      },
-      {
-        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
         "amount": 7500
       },
       {
         "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
         "amount": 22500
+      },
+      {
+        "name": "CAPITOL ADVISORS GROUP ON BEHALF OF",
+        "amount": 22000
       },
       {
         "name": "CENTER FOR EARLY INTERVENTION ON DEAFNESS",
