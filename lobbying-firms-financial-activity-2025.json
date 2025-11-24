@@ -12361,24 +12361,8 @@
   {
     "id": "1469326",
     "name": "JONES; DAVID",
-    "clients": [
-      {
-        "name": "THE NATURE CONSERVANCY",
-        "amount": 2070
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "1",
-        "session": "2025",
-        "amount": 1620
-      },
-      {
-        "quarter": "2",
-        "session": "2025",
-        "amount": 450
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1231781",
@@ -19541,8 +19525,28 @@
   {
     "id": "1409572",
     "name": "PRIEST AND ASSOCIATES; TODD",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "ANAHEIM TRANSPORTATION NETWORK",
+        "amount": 120000
+      },
+      {
+        "name": "ASSOCIATION OF CALIFORNIA RECYCLING INDUSTRIES",
+        "amount": 30000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 0
+      }
+    ]
   },
   {
     "id": "1397592",
