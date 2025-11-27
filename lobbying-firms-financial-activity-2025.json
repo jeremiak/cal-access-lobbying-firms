@@ -10129,6 +10129,12 @@
     ]
   },
   {
+    "id": "1484921",
+    "name": "GOLDEN BEAR STRATEGIES",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1479246",
     "name": "GOLDEN INSIGHT AND ADVOCACY",
     "clients": [
@@ -11174,6 +11180,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 1520000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
