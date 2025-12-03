@@ -7005,6 +7005,12 @@
     ]
   },
   {
+    "id": "1484836",
+    "name": "CONNAUGHT (U.S.) LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1419700",
     "name": "CONSCIOUS VENTURES GROUP",
     "clients": [
@@ -15283,6 +15289,12 @@
     ]
   },
   {
+    "id": "1485290",
+    "name": "MATHEWS ADVOCATES",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1147430",
     "name": "MATTOS & ASSOCIATES",
     "clients": [
@@ -16123,6 +16135,28 @@
         "quarter": "3",
         "session": "2025",
         "amount": 47903.92
+      }
+    ]
+  },
+  {
+    "id": "1450852",
+    "name": "MODEL SOLUTIONS LLC",
+    "clients": [
+      {
+        "name": "SANDOZ INC.",
+        "amount": 3600
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 2700
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 900
       }
     ]
   },
