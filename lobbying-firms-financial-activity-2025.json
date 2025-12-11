@@ -17369,6 +17369,33 @@
     ]
   },
   {
+    "id": "1471402",
+    "name": "NOMURA CAPITAL MANAGEMENT LLC (\"NCM\")",
+    "clients": [
+      {
+        "name": "NOMURA CORPORATE RESEARCH AND ASSET MANAGEMENT INC.",
+        "amount": 661219.97
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "1",
+        "session": "2025",
+        "amount": 209857.37
+      },
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 215955.73
+      },
+      {
+        "quarter": "3",
+        "session": "2025",
+        "amount": 235406.87
+      }
+    ]
+  },
+  {
     "id": "1264591",
     "name": "NORWOOD ASSOCIATES, LLC",
     "clients": [
