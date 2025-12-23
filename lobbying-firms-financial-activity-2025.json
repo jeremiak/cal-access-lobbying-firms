@@ -1223,10 +1223,6 @@
         "amount": 55000
       },
       {
-        "name": "APEX GROUP, THE OBO LAMPSON PARK PLACE",
-        "amount": 31500
-      },
-      {
         "name": "ASSOCIATION OF HOME APPLIANCE MANUFACTURERS",
         "amount": 54000
       },
@@ -1417,6 +1413,10 @@
       {
         "name": "OXY LOW CARBON VENTURES, LLC (OLCV), A SUBSIDARY OF OCCIDENTAL PETROLEUM",
         "amount": 231839.26
+      },
+      {
+        "name": "PACIFIC COAST CAPITOL ADVISORS OBO LAMPSON PARK PLACE",
+        "amount": 31500
       },
       {
         "name": "PACIFIC MARITIME ASSOCIATION",
@@ -14111,7 +14111,7 @@
     "clients": [
       {
         "name": "AMERICAN COMPOSITE MANUFACTURERS ASSOCIATION",
-        "amount": 9000
+        "amount": 12000
       },
       {
         "name": "AMERICAN FOREST & PAPER ASSOCIATION",
@@ -14123,11 +14123,11 @@
       },
       {
         "name": "STYRENE INFORMATION AND RESEARCH CENTER",
-        "amount": 9000
+        "amount": 12921
       },
       {
         "name": "WESTERN STATES PETROLEUM ASSOCIATION",
-        "amount": 27100
+        "amount": 36100
       }
     ],
     "quarters": [
@@ -14145,6 +14145,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 18000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 15921
       }
     ]
   },
@@ -16921,7 +16926,7 @@
       },
       {
         "name": "CRUZ STRATEGIES - OBO - OAKLAND, PORT OF",
-        "amount": 18500
+        "amount": 29500
       },
       {
         "name": "CYSTIC FIBROSIS FOUNDATION",
@@ -17049,7 +17054,7 @@
       {
         "quarter": "2",
         "session": "2025",
-        "amount": 1346714.33
+        "amount": 1357714.33
       },
       {
         "quarter": "3",
@@ -25369,7 +25374,7 @@
   },
   {
     "id": "1423801",
-    "name": "VALENCIA GOVERNMENT RELATIONS, INC.",
+    "name": "VALENCIA KHAN GOVERNMENT RELATIONS",
     "clients": [
       {
         "name": "ALKERMES, INC.",
