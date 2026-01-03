@@ -12433,15 +12433,15 @@
       },
       {
         "name": "CALIFORNIA COUNCIL FOR THE SOCIAL STUDIES",
-        "amount": 2000
+        "amount": 4000
       },
       {
         "name": "CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS",
-        "amount": 4800
+        "amount": 9600
       },
       {
         "name": "PROFESSIONAL BEAUTY FEDERATION OF CALIFORNIA",
-        "amount": 9000
+        "amount": 18000
       }
     ],
     "quarters": [
@@ -12452,6 +12452,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 7900
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 7900
       }
@@ -18167,11 +18172,11 @@
     "clients": [
       {
         "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE-REGION 9)",
-        "amount": 26665.52
+        "amount": 32665.52
       },
       {
         "name": "WESTERN ELECTRICAL CONTRACTORS ASSOCIATION (WECA)",
-        "amount": 45586.06
+        "amount": 60586.06
       }
     ],
     "quarters": [
@@ -18189,6 +18194,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 26251.58
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 21000
       }
     ]
   },
