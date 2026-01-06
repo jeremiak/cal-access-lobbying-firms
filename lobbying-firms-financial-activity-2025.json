@@ -144,6 +144,10 @@
         "amount": 70000
       },
       {
+        "name": "CALIFORNIA LEAGUE OF UNITED LATIN AMERICAN CITIZENS (CA LULAC)",
+        "amount": 0
+      },
+      {
         "name": "CALIFORNIA SCHOOLS VEBA",
         "amount": 90000
       },
@@ -196,64 +200,68 @@
         "amount": 0
       },
       {
+        "name": "CRUZ STRATEGIES, LLC",
+        "amount": 12000
+      },
+      {
         "name": "DART CONTAINER CORPORATION",
-        "amount": 51000
+        "amount": 139000
       },
       {
         "name": "DGA GOVERNMENT RELATIONS, LLC",
-        "amount": 46855.06
+        "amount": 66855.06
       },
       {
-        "name": "EDNOVATE",
-        "amount": 45000
+        "name": "ELEVATE CALIFORNIA",
+        "amount": 40000
       },
       {
         "name": "FANSLAU GOVERNMENT AFFAIRS",
-        "amount": 6000
+        "amount": 38000
       },
       {
         "name": "FOREST PRODUCTS INDUSTRY NATIONAL LABOR MANAGEMENT COMMITTEE",
         "amount": 16500
       },
       {
-        "name": "GYPSUM ASSOCIATION",
-        "amount": 16500
-      },
-      {
-        "name": "IGT AND AFFILIATES",
+        "name": "GOLDEN STATE CLEAN ENERGY LLC",
         "amount": 0
       },
       {
+        "name": "IGT AND AFFILIATES",
+        "amount": 37500
+      },
+      {
         "name": "INTERNATIONAL ASSOCIATION OF PLUMBING & MECHANICAL OFFICIALS",
-        "amount": 30000
+        "amount": 70000
       },
       {
         "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 1245",
-        "amount": 59903.03
+        "amount": 133801.55
       },
       {
         "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 18",
-        "amount": 28500
+        "amount": 76000
       },
       {
         "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 465",
-        "amount": 6295.77
+        "amount": 14792.47
       },
       {
         "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 47",
-        "amount": 31123.37
+        "amount": 65518.31
       },
       {
         "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 659",
-        "amount": 307.83
+        "amount": 687.57
       },
       {
         "name": "KAISER FOUNDATION HEALTH PLAN, INC.",
-        "amount": 24000
+        "amount": 84000
       },
       {
         "name": "KHOURI CONSULTING LLC",
-        "amount": 10000
+        "amount": 50000
       },
       {
         "name": "LOCAL INITIATIVE HEALTH AUTHORITY FOR LOS ANGELES COUNTY DBA L.A. CARE HEALTH PLAN",
@@ -261,11 +269,19 @@
       },
       {
         "name": "LOS ANGELES TURF CLUB, INC. & IT'S AFFILIATED ENTITY PACIFIC RACING ASSOCIATION",
-        "amount": 30000
+        "amount": 150000
       },
       {
-        "name": "MICRODOSING COLLECTIVE",
-        "amount": 2000
+        "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT",
+        "amount": 90000
+      },
+      {
+        "name": "MCG HEALTH",
+        "amount": 15000
+      },
+      {
+        "name": "METROPOLITAN TRANSPORTATION COMMISSION",
+        "amount": 91666.67
       },
       {
         "name": "MISSION COMMUNITY HOSPITAL",
@@ -273,15 +289,11 @@
       },
       {
         "name": "MOLINA HEALTHCARE OF CALIFORNIA",
-        "amount": 37000
-      },
-      {
-        "name": "MOULTON NIGUEL WATER DISTRICT (MNWD)",
-        "amount": 9000
+        "amount": 87000
       },
       {
         "name": "NATERA",
-        "amount": 75000
+        "amount": 175000
       },
       {
         "name": "NEW APPROACH ADVOCACY FUND",
@@ -297,15 +309,15 @@
       },
       {
         "name": "PHARMACEUTICAL CARE MANUFACTURERS ASSOCIATION (PCMA)",
-        "amount": 0
+        "amount": 60000
       },
       {
-        "name": "PLAINS MARKETING CA LLC",
+        "name": "PLAINS ALL AMERICAN PIPELINE",
         "amount": 24771.14
       },
       {
         "name": "PRICEWATERHOUSECOOPERS, LLP",
-        "amount": 20000
+        "amount": 40000
       },
       {
         "name": "RE-ENTRY PROVIDERS ASSOCIATION OF CALIFORNIA, A PROJECT OF TIDES ADVOCACY",
@@ -314,10 +326,6 @@
       {
         "name": "REVIVER",
         "amount": 8000
-      },
-      {
-        "name": "RODARTI GROUP",
-        "amount": 45000
       },
       {
         "name": "SAN JOSE WATER COMPANY",
@@ -333,47 +341,43 @@
       },
       {
         "name": "SHARE OUR STRENGTH",
-        "amount": 30000
+        "amount": 50000
       },
       {
         "name": "SHAW YODER ANTWIH SCHMELZER & LANGE, INC.",
         "amount": 0
       },
       {
-        "name": "TELEVISION ACADEMY FOUNDATION",
-        "amount": 10000
-      },
-      {
         "name": "TOYOTA MOTOR NORTH AMERICA, INC.",
-        "amount": 0
+        "amount": 120000
       },
       {
         "name": "UNIO HEALTH PARTNERS",
-        "amount": 30000
+        "amount": 90000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 0
+        "amount": 60000
       },
       {
         "name": "VIAPATH TECHNOLOGIES",
-        "amount": 0
+        "amount": 12000
       },
       {
         "name": "WESTERN GOVERNORS UNIVERSITY",
-        "amount": 0
+        "amount": 30000
       },
       {
         "name": "WESTERN STATES COUNCIL SHEET METAL, AIR, RAIL AND TRANSPORTATION (SMART)",
-        "amount": 24000
+        "amount": 36000
       },
       {
         "name": "WESTLANDS WATER DISTRICT",
-        "amount": 20000
+        "amount": 50000
       },
       {
-        "name": "YONDR",
-        "amount": 0
+        "name": "WPT ENTERPRISES, INC.",
+        "amount": 200000
       }
     ],
     "quarters": [
@@ -390,7 +394,7 @@
       {
         "quarter": "3",
         "session": "2025",
-        "amount": 1586506.2
+        "amount": 2198636.67
       }
     ]
   },
@@ -7353,11 +7357,11 @@
     "clients": [
       {
         "name": "KINCADE PRODUCTIONS, LLC",
-        "amount": 4050
+        "amount": 5400
       },
       {
         "name": "THE 44 GROUP, INC.",
-        "amount": 18000
+        "amount": 22000
       },
       {
         "name": "WONDER WOOD RANCH",
@@ -7379,6 +7383,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 7350
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 5350
       }
     ]
   },
@@ -13043,14 +13052,6 @@
         "amount": 1875
       },
       {
-        "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF NAVITUS HEALTH SOLUTIONS LLC)",
-        "amount": 45000
-      },
-      {
-        "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF NAVITUS HEALTH SOLUTIONS, LLC)",
-        "amount": 45000
-      },
-      {
         "name": "CLEAR ADVOCACY, LLC (ON BEHALF OF PEDIATRIC DAY HEALTH CARE COALITION)",
         "amount": 56250
       },
@@ -13093,7 +13094,7 @@
       {
         "quarter": "3",
         "session": "2025",
-        "amount": 276583.33
+        "amount": 231583.33
       }
     ]
   },
@@ -24251,6 +24252,12 @@
     ]
   },
   {
+    "id": "1485754",
+    "name": "TANGENT CAPITAL PARTNERS, LLC",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1307860",
     "name": "TAYLOR & ASSOCIATES",
     "clients": [
@@ -25518,8 +25525,19 @@
   {
     "id": "1484508",
     "name": "VALENZUELA; KATHERINE",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CENTER ON RACE, POVERTY AND THE ENVIRONMENT",
+        "amount": 7500
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 7500
+      }
+    ]
   },
   {
     "id": "1483462",
@@ -26321,7 +26339,7 @@
     "clients": [
       {
         "name": "COMMUNITY COLLEGE LEAGUE OF CALIFORNIA",
-        "amount": 40500
+        "amount": 40925
       }
     ],
     "quarters": [
@@ -26339,6 +26357,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 6450
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 425
       }
     ]
   },
