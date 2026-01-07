@@ -11,7 +11,7 @@
     "clients": [
       {
         "name": "SYCAMORE PARTNERS MANAGEMENT, LP",
-        "amount": 774398.06
+        "amount": 1030205.92
       }
     ],
     "quarters": [
@@ -29,6 +29,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 257953.46
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 255807.86
       }
     ]
   },
@@ -3288,7 +3293,7 @@
       },
       {
         "name": "SOUTH SAN JOAQUIN IRRIGATION DISTRICT",
-        "amount": 0
+        "amount": 17097
       }
     ],
     "quarters": [
@@ -3305,7 +3310,7 @@
       {
         "quarter": "3",
         "session": "2025",
-        "amount": 525818.02
+        "amount": 542915.02
       }
     ]
   },
@@ -9942,7 +9947,7 @@
     "clients": [
       {
         "name": "CALIFORNIA COMMON CAUSE",
-        "amount": 675000
+        "amount": 73500
       }
     ],
     "quarters": [
@@ -9960,6 +9965,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 22500
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 6000
       }
     ]
   },
@@ -11642,7 +11652,7 @@
     "clients": [
       {
         "name": "SA RECYCLING, LLC",
-        "amount": 135958.96
+        "amount": 180958.96
       }
     ],
     "quarters": [
@@ -11660,6 +11670,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 45022
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 45000
       }
     ]
   },
