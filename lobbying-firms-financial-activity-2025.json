@@ -19825,7 +19825,7 @@
       },
       {
         "name": "CALIFORNIA ENERGY STORAGE ALLIANCE (CESA)",
-        "amount": 87000
+        "amount": 22500
       },
       {
         "name": "CAPITAL ADVOCACY, LLC",
@@ -19840,17 +19840,17 @@
       {
         "quarter": "1",
         "session": "2025",
-        "amount": 67000
+        "amount": 47500
       },
       {
         "quarter": "2",
         "session": "2025",
-        "amount": 90721.79
+        "amount": 68221.79
       },
       {
         "quarter": "3",
         "session": "2025",
-        "amount": 72278.6
+        "amount": 49778.6
       }
     ]
   },
@@ -21319,11 +21319,11 @@
     "clients": [
       {
         "name": "APPLIED BEHAVRIOR CONSULTANTS",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "AUTISM BUSINESS ASSOCIATION",
-        "amount": 45000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -21339,6 +21339,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 22500
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 22500
       }
@@ -24278,7 +24283,7 @@
     "clients": [
       {
         "name": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS",
-        "amount": 56700
+        "amount": 75600
       }
     ],
     "quarters": [
@@ -24294,6 +24299,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 18900
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 18900
       }
