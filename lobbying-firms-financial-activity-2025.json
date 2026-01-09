@@ -15132,6 +15132,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -26502,31 +26507,31 @@
     "clients": [
       {
         "name": "GRIP TRAINING INSTITUTE",
-        "amount": 27000
+        "amount": 30000
       },
       {
         "name": "INITIATE JUSTICE",
-        "amount": 48000
+        "amount": 72000
       },
       {
         "name": "LA DEFENSA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 45000
+        "amount": 54000
       },
       {
         "name": "LOCAL 148 LA COUNTY PUBLIC DEFENDERS UNION",
-        "amount": 40000
+        "amount": 62500
       },
       {
         "name": "TRANSFORMATIVE PROGRAMING WORKS",
-        "amount": 45000
+        "amount": 64000
       },
       {
         "name": "VERA INSTITUTE OF JUSTICE, INC.",
-        "amount": 82000
+        "amount": 109000
       },
       {
         "name": "WESTERN CENTER ON LAW & POVERTY, INC.",
-        "amount": 45821
+        "amount": 71821
       }
     ],
     "quarters": [
@@ -26544,6 +26549,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 129750
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 130500
       }
     ]
   },
