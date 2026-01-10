@@ -1007,23 +1007,23 @@
     "clients": [
       {
         "name": "CALIFORNIA CLINICAL LABORATORY ASSOCIATION",
-        "amount": 92250
+        "amount": 102250
       },
       {
         "name": "CALIFORNIA KIDNEY CARE ALLIANCE",
-        "amount": 109800
+        "amount": 134200
       },
       {
         "name": "CALIFORNIA NORTHSTATE UNIVERSITY",
-        "amount": 28000
+        "amount": 48000
       },
       {
         "name": "ESCONDIDO, CITY OF",
-        "amount": 36590
+        "amount": 47567
       },
       {
         "name": "FRESENIUS MEDICAL CARE NORTH AMERICA AND AFFILIATED ENTITIES",
-        "amount": 112395.1
+        "amount": 136693.1
       },
       {
         "name": "LOS ANGELES LAKERS, INC.; THE",
@@ -1031,19 +1031,19 @@
       },
       {
         "name": "MILLENNIUM HEALTH",
-        "amount": 45756
+        "amount": 61008
       },
       {
         "name": "OXNARD; CITY OF",
-        "amount": 45000
+        "amount": 55000
       },
       {
         "name": "REDONDO BEACH, CITY OF",
-        "amount": 32256
+        "amount": 39424
       },
       {
         "name": "THREE VALLEYS MUNICIPAL WATER DISTRICT",
-        "amount": 54756
+        "amount": 60840
       }
     ],
     "quarters": [
@@ -1061,6 +1061,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 225451
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 128179
       }
     ]
   },
@@ -12492,11 +12497,11 @@
     "clients": [
       {
         "name": "RECYCLE FOR CHANGE",
-        "amount": 10500
+        "amount": 21000
       },
       {
         "name": "USAGAIN",
-        "amount": 6000
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -12507,6 +12512,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 16500
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 16500
       }
@@ -18305,7 +18315,7 @@
       },
       {
         "name": "USD CLEAN FUELS",
-        "amount": 60000
+        "amount": 0
       },
       {
         "name": "VENTURA COUNTY RAILROAD COMPANY",
@@ -18325,7 +18335,7 @@
       {
         "quarter": "3",
         "session": "2025",
-        "amount": 299072.26
+        "amount": 239072.26
       }
     ]
   },
