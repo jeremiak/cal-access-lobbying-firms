@@ -12406,7 +12406,7 @@
     "clients": [
       {
         "name": "CALIFORNIA POLITICAL TREASURER'S ASSOCIATION",
-        "amount": 4500
+        "amount": 6138.96
       },
       {
         "name": "CHILDREN'S PARADISE, INC",
@@ -12414,23 +12414,23 @@
       },
       {
         "name": "LIFELONG LEARNING ADMINISTRATION CORPORATION",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "NETFILE",
-        "amount": 11250
+        "amount": 15000
       },
       {
         "name": "SMARTER BALANCED ASSESSMENT CONSORTIUM",
-        "amount": 35000
+        "amount": 40967
       },
       {
         "name": "STRIDE, INC.",
-        "amount": 58500
+        "amount": 78258
       },
       {
         "name": "TEACH FOR AMERICA, INC.",
-        "amount": 36000
+        "amount": 48000
       }
     ],
     "quarters": [
@@ -12448,6 +12448,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 83750
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 73113.96
       }
     ]
   },
