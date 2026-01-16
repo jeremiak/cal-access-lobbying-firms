@@ -1996,11 +1996,11 @@
     "clients": [
       {
         "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
-        "amount": 108624.97
+        "amount": 144624.97
       },
       {
         "name": "RISE ECONOMY",
-        "amount": 67500
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -2018,6 +2018,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 66624.97
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 58500
       }
     ]
   },
@@ -6345,47 +6350,47 @@
     "clients": [
       {
         "name": "3M COMPANY",
-        "amount": 45000
+        "amount": 70000
       },
       {
         "name": "AT&T SERVICES INC. AND ITS AFFILIATES",
-        "amount": 126000
+        "amount": 168000
       },
       {
         "name": "CIGAR ASSOCIATION OF AMERICA",
-        "amount": 72000
+        "amount": 96000
       },
       {
         "name": "COALITION FOR TICKET FAIRNESS",
-        "amount": 67500
+        "amount": 90000
       },
       {
         "name": "GENERAL MOTORS COMPANY",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "IHEART MEDIA",
-        "amount": 67500
+        "amount": 82500
       },
       {
         "name": "JUUL LABS",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "NATIONAL VISION, INC., FIRSTSIGHT VISION SERVICES, INC. & AFFILIATES",
-        "amount": 63000
+        "amount": 105000
       },
       {
         "name": "SAN YSIDRO HEALTH",
-        "amount": 100000
+        "amount": 110000
       },
       {
         "name": "SANTA YNEZ BAND OF CHUMASH INDIANS",
-        "amount": 72000
+        "amount": 97516.43
       },
       {
         "name": "SOLVENTUM CORPORATION",
-        "amount": 62500
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -6403,6 +6408,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 301000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 293516.43
       }
     ]
   },
@@ -7185,7 +7195,7 @@
     "clients": [
       {
         "name": "CONSUMERS FOR AUTO RELIABILITY AND SAFETY",
-        "amount": 33750
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -7201,6 +7211,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 11250
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 11250
       }
@@ -8677,11 +8692,11 @@
     "clients": [
       {
         "name": "CAPITOL STRATEGIC ADVISORS, LLC",
-        "amount": 103959.05
+        "amount": 141445.4
       },
       {
         "name": "RESOLUTE OBO CALIFORNIA ASSOCIATION OF LICENSED REPOSSESSORS",
-        "amount": 7500
+        "amount": 10000
       }
     ],
     "quarters": [
@@ -8699,6 +8714,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 37736.35
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 39986.35
       }
     ]
   },
@@ -10094,59 +10114,63 @@
     "clients": [
       {
         "name": "AGC AMERICA INC. AND SUBSIDIARIES",
-        "amount": 35000
+        "amount": 50000
       },
       {
         "name": "ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
-        "amount": 84000
+        "amount": 126000
       },
       {
         "name": "AMERICAN LEGAL FINANCE ASSOCIATION",
-        "amount": 13500
+        "amount": 18000
       },
       {
         "name": "CALIFORNIA ALLIANCE OF FAMILY OWNED BUSINESSES",
-        "amount": 53958.31
+        "amount": 77083.3
       },
       {
         "name": "CATERPILLAR INC.",
-        "amount": 0
+        "amount": 10500
       },
       {
         "name": "COMMUNITY CHOICE FINANCIAL",
-        "amount": 25800
+        "amount": 33300
       },
       {
         "name": "EXPERIAN",
-        "amount": 62500
+        "amount": 81250
       },
       {
         "name": "FINANCIAL SERVICES INSTITUTE",
-        "amount": 15000
+        "amount": 20625
       },
       {
         "name": "GOODYEAR TIRE AND RUBBER COMPANY IN CALIFORNIA",
-        "amount": 36000
+        "amount": 49500
+      },
+      {
+        "name": "INTERNATIONAL INTERIOR DESIGN ASSOCIATION NORTHERN CALIFORNIA CHAPTER INC",
+        "amount": 20000
       },
       {
         "name": "MERSCORP INC.",
-        "amount": 5250
+        "amount": 7875
       },
       {
         "name": "NISSAN NORTH AMERICA",
-        "amount": 37500
+        "amount": 56250
       },
       {
         "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
-        "amount": 57499.98
+        "amount": 96103.34
       },
       {
         "name": "S.C. JOHNSON & SON",
-        "amount": 24000
+        "amount": 33000
       },
       {
         "name": "THE TRAVELERS COMPANIES INC. AND SUBSIDIARIES",
-        "amount": 56250
+        "amount": 75000
       }
     ],
     "quarters": [
@@ -10164,6 +10188,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 218624.98
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 248228.35
       }
     ]
   },
@@ -25843,27 +25872,27 @@
       },
       {
         "name": "CALIFORNIA ACADEMY OF EYE PHYSICIANS & SURGEONS",
-        "amount": 31500
+        "amount": 42000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CHRISTIAN COLLEGES AND UNIVERSITIES",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "CVS HEALTH",
-        "amount": 89000
+        "amount": 119300
       },
       {
         "name": "FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER DBA COMMUNITY MEDICAL CENTERS",
-        "amount": 60000
-      },
-      {
-        "name": "FRIANT WATER AUTHORITY",
         "amount": 90000
       },
       {
+        "name": "FRIANT WATER AUTHORITY",
+        "amount": 110000
+      },
+      {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF ALTRIA CLIENT SERVICES LLC AND ITS AFFILIATES",
-        "amount": 108000
+        "amount": 132000
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF DAIRY INSTITUTE OF CALIFORNIA",
@@ -25883,7 +25912,7 @@
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF INTUIT INC.",
-        "amount": 669.75
+        "amount": 974.72
       },
       {
         "name": "LANG, HANSEN, GIROUX & KIDANE ON BEHALF OF NATIONAL UNION OF HEALTHCARE WORKERS",
@@ -25899,7 +25928,7 @@
       },
       {
         "name": "TABLE MOUNTAIN RANCHERIA",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "THREE RIVERS ENERGY DEVELOPMENT LLC",
@@ -25921,6 +25950,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 211000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 175104.97
       }
     ]
   },
@@ -26741,47 +26775,47 @@
     "clients": [
       {
         "name": "BI INCORPORATED, DBA BI CORRECTIONAL SERVICES",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF CRIME LABORATORY DIRECTORS",
-        "amount": 13500
+        "amount": 18000
       },
       {
         "name": "CALIFORNIA LAW ENFORCEMENT ASSOCIATION OF RECORDS SUPERVISORS (CLEARS)",
-        "amount": 22884.64
+        "amount": 32884.64
       },
       {
         "name": "CALIFORNIA STATE CORONERS' ASSOCIATION",
-        "amount": 8000
+        "amount": 13000
       },
       {
         "name": "CALIFORNIA STATE SHERIFFS' ASSOCIATION",
-        "amount": 203598
+        "amount": 271464
       },
       {
         "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
-        "amount": 133558.02
+        "amount": 178958.94
       },
       {
         "name": "EQUIFAX, INC.",
-        "amount": 63000
-      },
-      {
-        "name": "LOS ANGELES, COUNTY OF",
-        "amount": 45500
-      },
-      {
-        "name": "MOTOROLA SOLUTIONS",
         "amount": 84000
       },
       {
+        "name": "LOS ANGELES, COUNTY OF",
+        "amount": 58500
+      },
+      {
+        "name": "MOTOROLA SOLUTIONS",
+        "amount": 104000
+      },
+      {
         "name": "STELLANTIS",
-        "amount": 40000
+        "amount": 60000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 90000
+        "amount": 120000
       }
     ],
     "quarters": [
@@ -26799,6 +26833,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 256766.92
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 251766.92
       }
     ]
   },
