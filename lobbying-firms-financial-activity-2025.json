@@ -2619,6 +2619,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -5164,7 +5169,7 @@
       },
       {
         "name": "CALIFORNIA SCHOOL NUTRITION ASSOCIATION",
-        "amount": 71225
+        "amount": 77700
       },
       {
         "name": "CALIFORNIA STATE ALLIANCE OF YMCAS",
@@ -9101,6 +9106,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 0
       }
@@ -15379,7 +15389,7 @@
     "clients": [
       {
         "name": "COUNTY OF SANTA CLARA",
-        "amount": 82950
+        "amount": 111300
       }
     ],
     "quarters": [
@@ -15397,6 +15407,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 30450
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 28350
       }
     ]
   },
@@ -26748,7 +26763,7 @@
       },
       {
         "name": "C.N.P.A SERVICES, INC. ON BEHALF OF CALIFORNIA NEWS PUBLISHERS ASSOCIATION",
-        "amount": 30000
+        "amount": 45000
       }
     ],
     "quarters": [
@@ -26766,6 +26781,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 31000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 15000
       }
     ]
   },
