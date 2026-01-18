@@ -16353,19 +16353,19 @@
     "clients": [
       {
         "name": "AUTOMOTIVE SERVICE COUNCILS OF CALIFORNIA",
-        "amount": 29999.97
+        "amount": 39999.96
       },
       {
         "name": "CALIFORNIA AUTOBODY ASSOCIATION",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA AUTOMOTIVE BUSINESS COALITION",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA TIRE DEALERS ASSOCIATION",
-        "amount": 9000
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -16381,6 +16381,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 27999.99
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 27999.99
       }
