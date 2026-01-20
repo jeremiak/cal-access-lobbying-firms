@@ -6812,19 +6812,23 @@
     "clients": [
       {
         "name": "CALIFORNIA ASSOCIATION FOR ADULT DAY SERVICES",
-        "amount": 45000
+        "amount": 52000
       },
       {
         "name": "CALIFORNIA PAN ETHNIC HEALTH NETWORK",
-        "amount": 21950
+        "amount": 23750
       },
       {
         "name": "EAST BAY INNOVATIONS",
-        "amount": 4000
+        "amount": 5000
       },
       {
         "name": "HOMEBRIDGE",
         "amount": 3000
+      },
+      {
+        "name": "TRUV INC",
+        "amount": 15000
       }
     ],
     "quarters": [
@@ -6842,6 +6846,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 14450
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 24800
       }
     ]
   },
@@ -9205,19 +9214,15 @@
     "clients": [
       {
         "name": "ANAHEIM, CITY OF",
-        "amount": 153000
-      },
-      {
-        "name": "BLITZ STUDIOS, INC. DBA SLEEPER",
-        "amount": 85431.86
+        "amount": 204000
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF NURSE ANESTHESIOLOGY (CANA)",
-        "amount": 172000
+        "amount": 208000
       },
       {
         "name": "CALIFORNIA CANNABIS OPERATORS ASSOCIATION (CACOA)",
-        "amount": 80000
+        "amount": 100000
       },
       {
         "name": "CENTRAL VALLEY CIRCULAR",
@@ -9225,23 +9230,19 @@
       },
       {
         "name": "CVS HEALTH",
-        "amount": 125000
+        "amount": 162500
       },
       {
         "name": "DAVITA INC.",
-        "amount": 199719.25
+        "amount": 265719.25
       },
       {
         "name": "DEL MAR THOROUGHBRED CLUB",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "INMARKET MEDIA, LLC",
-        "amount": 50000
-      },
-      {
-        "name": "MERCED COLLEGE",
-        "amount": 60000
+        "amount": 80000
       },
       {
         "name": "MINDR",
@@ -9249,31 +9250,31 @@
       },
       {
         "name": "RIVER PARTNERS",
-        "amount": 70000
+        "amount": 100000
       },
       {
         "name": "SACRAMENTO COUNTY DISTRICT ATTORNEY'S OFFICE",
-        "amount": 80000
+        "amount": 110000
       },
       {
         "name": "SACRAMENTO STATE",
-        "amount": 24999.5
+        "amount": 89999
       },
       {
         "name": "SAFETY AND ADVOCACY FOR EMPOWERMENT (SAFE)",
-        "amount": 135000
+        "amount": 182172.94
       },
       {
         "name": "THOROUGHBRED OWNERS OF CALIFORNIA",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "TURO",
-        "amount": 67500
+        "amount": 90000
       },
       {
         "name": "VERIZON COMMUNICATIONS, INC. AND ITS AFFILIATES",
-        "amount": 96000
+        "amount": 144000
       }
     ],
     "quarters": [
@@ -9291,6 +9292,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 572000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 519172.44
       }
     ]
   },
@@ -12049,19 +12055,19 @@
     "clients": [
       {
         "name": "CAN MANUFACTURING INSTITUTE",
-        "amount": 99001
+        "amount": 132001
       },
       {
         "name": "CARPET CUSHION COUNCIL",
-        "amount": 45000
+        "amount": 51000
       },
       {
         "name": "DE SILVA GROUP AND AFFILIATES, THE",
-        "amount": 90000
+        "amount": 117000
       },
       {
         "name": "EMBECTA CORP.",
-        "amount": 72000
+        "amount": 104000
       },
       {
         "name": "ERIC PAREDES SAVE A LIFE FOUNDATION",
@@ -12069,23 +12075,23 @@
       },
       {
         "name": "FIELD TURF INC.",
-        "amount": 15000
+        "amount": 19500
       },
       {
         "name": "FLAGSHIP CRUISES & EVENTS",
-        "amount": 48500
+        "amount": 57500
       },
       {
         "name": "INFO LINE OF SAN DIEGO DBA 211 SAN DIEGO",
-        "amount": 76500
+        "amount": 102000
       },
       {
         "name": "MED-PROJECT CA, LLC",
-        "amount": 49000
+        "amount": 70000
       },
       {
         "name": "MILLER INDUSTRIES, INC.",
-        "amount": 181825
+        "amount": 191825
       },
       {
         "name": "PPG INDUSTRIES",
@@ -12093,11 +12099,11 @@
       },
       {
         "name": "SCI CA COALITION",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "WHITE BRENNER LLP OBO SYNTHETIC TURF COUNCIL",
-        "amount": 57500
+        "amount": 74750
       }
     ],
     "quarters": [
@@ -12115,6 +12121,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 283750
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 192750
       }
     ]
   },
@@ -16859,6 +16870,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 21000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
