@@ -2230,8 +2230,47 @@
   {
     "id": "1485120",
     "name": "BENCHMARK ADVOCACY",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "AMERICA'S PHYSICIAN GROUPS",
+        "amount": 0
+      },
+      {
+        "name": "CALIFORNIA AMBULATORY SURGERY ASSOCIATION",
+        "amount": 10000
+      },
+      {
+        "name": "CALIFORNIA AUTOMOTIVE WHOLESALERS ASSOCIATION",
+        "amount": 5000
+      },
+      {
+        "name": "CIGNA CORPORATE SERVICES AND ITS AFFILIATES",
+        "amount": 10000
+      },
+      {
+        "name": "INSTRUCTURE, INC.",
+        "amount": 0
+      },
+      {
+        "name": "MCGUIREWOODS CONSULTING, LLC ON BEHALF OF ATA ACTION, CORP.",
+        "amount": 0
+      },
+      {
+        "name": "MCGUIREWOODS CONSULTING, LLC ON BEHALF OF SECURUS TECHNOLOGIES, AN AVENTIV COMPANY",
+        "amount": 0
+      },
+      {
+        "name": "RISEPOINT LLC",
+        "amount": 0
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 25000
+      }
+    ]
   },
   {
     "id": "1392601",
@@ -6595,19 +6634,19 @@
     "clients": [
       {
         "name": "ASSOCIATION OF NATIONAL ADVERTISERS",
-        "amount": 90000
+        "amount": 120000
       },
       {
         "name": "ATHENS SERVICES & AFFILIATED ENTITIES",
-        "amount": 90000
+        "amount": 130000
       },
       {
         "name": "CTIA",
-        "amount": 207000
+        "amount": 276000
       },
       {
         "name": "NATIONAL VENTURE CAPITAL ASSOCIATION",
-        "amount": 45000
+        "amount": 60000
       }
     ],
     "quarters": [
@@ -6625,6 +6664,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 144000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 154000
       }
     ]
   },
@@ -9640,6 +9684,12 @@
     ]
   },
   {
+    "id": "1485755",
+    "name": "FERRARI CAPITOL ADVISORS",
+    "clients": [],
+    "quarters": []
+  },
+  {
     "id": "1438333",
     "name": "FIRECHIEFS.COM LLC",
     "clients": [
@@ -10048,35 +10098,35 @@
     "clients": [
       {
         "name": "CALDESAL",
-        "amount": 82500
+        "amount": 110000
       },
       {
         "name": "CRESCENTA VALLEY WATER DISTRICT",
-        "amount": 6000
+        "amount": 12000
       },
       {
         "name": "CRUZ STRATEGIES, LLC",
-        "amount": 63500
+        "amount": 74500
       },
       {
         "name": "JURUPA COMMUNITY SERVICES DISTRICT",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "MILK PRODUCERS COUNCIL",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "SAN GORGONIO PASS WATER AGENCY",
-        "amount": 7500
+        "amount": 15000
       },
       {
         "name": "STATE WATER CONTRACTORS",
-        "amount": 101000
+        "amount": 137000
       },
       {
         "name": "SWEETWATER AUTHORITY",
-        "amount": 27000
+        "amount": 36000
       }
     ],
     "quarters": [
@@ -10094,6 +10144,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 137500
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 132500
       }
     ]
   },
@@ -23833,8 +23888,19 @@
   {
     "id": "1455823",
     "name": "SOCIAL CHANGE PARTNERS, LLC",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "CALIFORNIA OPPORTUNITY YOUTH NETWORK/NEW WAYS TO WORK",
+        "amount": 3000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 3000
+      }
+    ]
   },
   {
     "id": "1449252",
@@ -26712,7 +26778,7 @@
     "clients": [
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
-        "amount": 60000
+        "amount": 82500
       }
     ],
     "quarters": [
@@ -26728,6 +26794,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 22500
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 22500
       }
