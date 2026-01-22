@@ -2522,31 +2522,23 @@
     "clients": [
       {
         "name": "ABORTION COALITION FOR TELEMEDICINE ACCESS ( ACT)",
-        "amount": 40000
+        "amount": 64000
       },
       {
         "name": "ASPHALT ROOFING MANUFACTURERS ASSOCIATION",
-        "amount": 45000
-      },
-      {
-        "name": "CAR REGISTRATION, INC.",
-        "amount": 15000
+        "amount": 60000
       },
       {
         "name": "COALITION FOR ETP AND JOBS",
-        "amount": 55000
+        "amount": 70000
       },
       {
         "name": "CRITICAL LOOP, INC.",
-        "amount": 61250
+        "amount": 91250
       },
       {
         "name": "DEVEAU BURR GROUP, LLC OBO JOHN MUIR CHARTER SCHOOLS",
-        "amount": 31500
-      },
-      {
-        "name": "FANSLAU GOVERNMENT AFFAIRS OBO INMARKET MEDIA, LLC",
-        "amount": 0
+        "amount": 42000
       },
       {
         "name": "HERRERA CAL ADVOCACY",
@@ -2554,15 +2546,15 @@
       },
       {
         "name": "HIGHLANDS COMMUNITY CHARTER SCHOOL AND TECHNICAL SCHOOLS",
-        "amount": 225000
+        "amount": 300000
       },
       {
         "name": "LIGHTHOUSE CHARTER SCHOOL",
-        "amount": 20250
+        "amount": 24750
       },
       {
         "name": "SACRAMENTO ASIAN - PACIFIC CHAMBER OF COMMERCE",
-        "amount": 20000
+        "amount": 32000
       }
     ],
     "quarters": [
@@ -2580,6 +2572,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 215750
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 186000
       }
     ]
   },
@@ -8786,59 +8783,55 @@
     "clients": [
       {
         "name": "AMERICAN ALLIANCE DRUG TESTING",
-        "amount": 23625
+        "amount": 31500
       },
       {
         "name": "ASCEND LEARNING",
-        "amount": 20000
+        "amount": 30000
       },
       {
         "name": "CALIFORNIA TOW TRUCK ASSOCIATION",
-        "amount": 108000
+        "amount": 144000
       },
       {
         "name": "COSTCO WHOLESALE",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "ERSTRAT LLC",
-        "amount": 7000
+        "amount": 14000
       },
       {
         "name": "GORDIAN GROUP, THE",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "INGLEWOOD, CITY OF",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "LA CANADA FLINTRIDGE, CITY OF",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
-        "amount": 159163
+        "amount": 225291
       },
       {
         "name": "SANTEE, CITY OF",
-        "amount": 15000
+        "amount": 19500
       },
       {
         "name": "THOMSON REUTERS",
-        "amount": 24000
+        "amount": 32000
       },
       {
         "name": "TRITON MANAGEMENT SERVICES, LLC",
-        "amount": 27000
-      },
-      {
-        "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
-        "amount": 38400
+        "amount": 36000
       },
       {
         "name": "UNIVERSAL TECHNICAL INSTITUTE",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "USCB, INC.",
@@ -8846,7 +8839,7 @@
       },
       {
         "name": "WESTERN STATES TRUCKING ASSOCIATION",
-        "amount": 23625
+        "amount": 31500
       }
     ],
     "quarters": [
@@ -8864,6 +8857,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 248410
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 222378
       }
     ]
   },
@@ -14754,15 +14752,15 @@
     "clients": [
       {
         "name": "JEA & ASSOCIATES",
-        "amount": 114500
+        "amount": 143000
       },
       {
         "name": "PUBLIC HOUSE CONSULTING",
-        "amount": 24345.25
+        "amount": 33738.91
       },
       {
         "name": "STRATEGIC SOLUTIONS ADVISORS",
-        "amount": 33750
+        "amount": 41250
       }
     ],
     "quarters": [
@@ -14780,6 +14778,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 55889.3
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 45393.66
       }
     ]
   },
@@ -14993,7 +14996,7 @@
     "clients": [
       {
         "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
-        "amount": 75328.88
+        "amount": 100328.87
       }
     ],
     "quarters": [
@@ -15009,6 +15012,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 24999.99
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 24999.99
       }
@@ -16282,7 +16290,7 @@
     "clients": [
       {
         "name": "SMART JUSTICE CA, A PROJECT OF TIDES ADVOCACY",
-        "amount": 173474.92
+        "amount": 226140.12
       }
     ],
     "quarters": [
@@ -16300,6 +16308,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 53375.97
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 52665.2
       }
     ]
   },
@@ -17997,19 +18010,19 @@
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF MUTUAL WATER COMPANIES",
-        "amount": 35000
+        "amount": 49000
       },
       {
         "name": "CALIFORNIA BUSINESS ROUNDTABLE",
-        "amount": 80000
+        "amount": 110552.15
       },
       {
         "name": "COACHELLA; CITY OF",
-        "amount": 60000
+        "amount": 70000
       },
       {
         "name": "DAP HEALTH",
-        "amount": 45000
+        "amount": 60000
       },
       {
         "name": "JUANEO BAND OF MISSION INDIANS - ACJACHEMEN NATION",
@@ -18017,11 +18030,11 @@
       },
       {
         "name": "NEXTGEN CLIMATE AMERICA, INC.",
-        "amount": 74500
+        "amount": 100000
       },
       {
         "name": "PICO RIVERA; CITY OF",
-        "amount": 97000
+        "amount": 119500
       }
     ],
     "quarters": [
@@ -18039,6 +18052,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 144000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 117552.15
       }
     ]
   },
@@ -19977,7 +19995,7 @@
     "clients": [
       {
         "name": "CORNBREAD HEMP",
-        "amount": 32000
+        "amount": 48000
       }
     ],
     "quarters": [
@@ -19990,6 +20008,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 32000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 16000
       }
     ]
   },
@@ -19999,19 +20022,19 @@
     "clients": [
       {
         "name": "CALIFORNIA CANNABIS AUTHORITY",
-        "amount": 30000
+        "amount": 40000
       },
       {
         "name": "CALIFORNIA ENERGY STORAGE ALLIANCE (CESA)",
-        "amount": 22500
+        "amount": 30000
       },
       {
         "name": "CAPITAL ADVOCACY, LLC",
-        "amount": 64000
+        "amount": 84000
       },
       {
         "name": "STATE ASSOCIATION OF COUNTY RETIREMENT SYSTEMS",
-        "amount": 49000.39
+        "amount": 67950.61
       }
     ],
     "quarters": [
@@ -20029,6 +20052,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 49778.6
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 60450.22
       }
     ]
   },
@@ -21164,7 +21192,7 @@
     "clients": [
       {
         "name": "AMERICAN PROMOTIONAL EVENTS, INC",
-        "amount": 87014.51
+        "amount": 108176.35
       }
     ],
     "quarters": [
@@ -21182,6 +21210,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 28745.74
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 21161.84
       }
     ]
   },
@@ -21424,12 +21457,16 @@
     "name": "ROJAS COMMUNICATIONS GROUP (DBA ROJAS PUBLIC AFFAIRS)",
     "clients": [
       {
+        "name": "BEAUMONT-CHERRY VALLEY RECREATION AND PARK DISTRICT",
+        "amount": 7500
+      },
+      {
         "name": "BISHOP, CITY OF",
-        "amount": 18500
+        "amount": 26000
       },
       {
         "name": "BONITA-SUNNYSIDE FIRE PROTECTION DISTRICT",
-        "amount": 13500
+        "amount": 18000
       },
       {
         "name": "CARPINTERIA, CITY OF",
@@ -21437,7 +21474,7 @@
       },
       {
         "name": "CHINO VALLEY FIRE DISTRICT",
-        "amount": 39300
+        "amount": 49800
       },
       {
         "name": "COACHELLA VALLEY PUBLIC CEMETERY DISTRICT",
@@ -21453,23 +21490,35 @@
       },
       {
         "name": "HESPERIA RECREATION AND PARK DISTICT",
-        "amount": 13050
+        "amount": 17400
+      },
+      {
+        "name": "JOSHUA BASIN WATER DISTRICT",
+        "amount": 2500
       },
       {
         "name": "LOS ANGELES METRO HISPANIC CHAMBER OF COMMERCE",
         "amount": 0
       },
       {
-        "name": "MONTECITO SANITARY DISTRICT",
-        "amount": 3410
-      },
-      {
-        "name": "NPOWER",
+        "name": "MCKINLEYVILLE COMMUNITY SERVICE DISTRICT",
         "amount": 7500
       },
       {
+        "name": "MONTE VISTA WATER DISTRICT",
+        "amount": 12000
+      },
+      {
+        "name": "MONTECITO SANITARY DISTRICT",
+        "amount": 8577.5
+      },
+      {
+        "name": "NPOWER",
+        "amount": 12000
+      },
+      {
         "name": "PHELAN PINON HILLS COMMUNITY SERVICES DISTRICT",
-        "amount": 17500
+        "amount": 25000
       },
       {
         "name": "RESOURCE CONSERVATION DISTRICT OF TEHAMA COUNTY",
@@ -21481,7 +21530,11 @@
       },
       {
         "name": "SAN JUAN BAUTISTA, CITY OF",
-        "amount": 13500
+        "amount": 18000
+      },
+      {
+        "name": "VIA CARE",
+        "amount": 12000
       }
     ],
     "quarters": [
@@ -21499,6 +21552,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 53710
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 58517.5
       }
     ]
   },
