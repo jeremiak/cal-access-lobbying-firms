@@ -1832,75 +1832,91 @@
     "clients": [
       {
         "name": "AMAZON.COM SERVICES LLC",
-        "amount": 160000
+        "amount": 240000
       },
       {
-        "name": "CALIFORNIA MORTGAGE BANKERS ASSOCIATION",
-        "amount": 60100
-      },
-      {
-        "name": "EARTH FUNERAL GROUP, INC.",
-        "amount": 75100
-      },
-      {
-        "name": "EPIDAURUS DBA AMITY FOUNDATION",
-        "amount": 30100
-      },
-      {
-        "name": "FISERV SOLUTIONS, LLC",
-        "amount": 30000
-      },
-      {
-        "name": "FIVE POINTS OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
-        "amount": 45000
-      },
-      {
-        "name": "NIVALIS ENERGY SYSTEMS, LLC",
-        "amount": 54600
-      },
-      {
-        "name": "PATIENT FUNDING ALTERNATIVESS",
-        "amount": 90100
-      },
-      {
-        "name": "RAI SERVICES COMPANY AND IT'S AFFILIATES",
-        "amount": 135000
-      },
-      {
-        "name": "ROBERTSON'S READY MIX LTD.",
-        "amount": 140100
-      },
-      {
-        "name": "ROBINHOOD MARKETS, INC.",
-        "amount": 71250
-      },
-      {
-        "name": "SAS INSTITUTE INC.",
-        "amount": 60000
-      },
-      {
-        "name": "SECURITY SCORECARD",
-        "amount": 160000
-      },
-      {
-        "name": "SEPRO CORPORATION",
-        "amount": 67500
-      },
-      {
-        "name": "SHAREFEST COMMUNITY DEVELOPMENT, INC.",
-        "amount": 21433.33
-      },
-      {
-        "name": "UNITED HEALTHCARE SERVICES, INC.",
-        "amount": 80000
-      },
-      {
-        "name": "UNIVFY INC.",
+        "name": "AUDIOEYE, INC.",
         "amount": 15000
       },
       {
-        "name": "ZELIS HEALTHCARE, LLC",
+        "name": "CALIFORNIA MORTGAGE BANKERS ASSOCIATION",
+        "amount": 90100
+      },
+      {
+        "name": "EARTH FUNERAL GROUP, INC.",
+        "amount": 96874.19
+      },
+      {
+        "name": "EPIDAURUS DBA AMITY FOUNDATION",
+        "amount": 60100
+      },
+      {
+        "name": "FISERV SOLUTIONS, LLC",
+        "amount": 60000
+      },
+      {
+        "name": "FIVE POINTS OPERATING COMPANY, LP AND AFFILIATED ENTITIES",
+        "amount": 67500
+      },
+      {
+        "name": "KINDER MORGAN, INC.",
+        "amount": 0
+      },
+      {
+        "name": "L3HARRIS TECHNOLOGIES, INC.",
+        "amount": 30000
+      },
+      {
+        "name": "NIVALIS ENERGY SYSTEMS, LLC",
+        "amount": 99600
+      },
+      {
+        "name": "PATIENT FUNDING ALTERNATIVESS",
+        "amount": 105100
+      },
+      {
+        "name": "RAI SERVICES COMPANY AND IT'S AFFILIATES",
+        "amount": 180000
+      },
+      {
+        "name": "ROBERTSON'S READY MIX LTD.",
+        "amount": 180100
+      },
+      {
+        "name": "ROBINHOOD MARKETS, INC.",
         "amount": 90000
+      },
+      {
+        "name": "SAS INSTITUTE INC.",
+        "amount": 90000
+      },
+      {
+        "name": "SECURITY SCORECARD",
+        "amount": 192000
+      },
+      {
+        "name": "SEPRO CORPORATION",
+        "amount": 90000
+      },
+      {
+        "name": "SHAREFEST COMMUNITY DEVELOPMENT, INC.",
+        "amount": 29433.33
+      },
+      {
+        "name": "SKYLINE TECHNOLOGY SOLUTIONS, LLC",
+        "amount": 15000
+      },
+      {
+        "name": "UNITED HEALTHCARE SERVICES, INC.",
+        "amount": 110000
+      },
+      {
+        "name": "UNIVFY INC.",
+        "amount": 37500
+      },
+      {
+        "name": "ZELIS HEALTHCARE, LLC",
+        "amount": 115000
       }
     ],
     "quarters": [
@@ -1918,6 +1934,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 634200
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 608024.19
       }
     ]
   },
@@ -4336,7 +4357,7 @@
     "clients": [
       {
         "name": "PARTNERSHIP FOR SOUND SCIENCE IN ENVIRONMENTAL POLICY",
-        "amount": 18000
+        "amount": 24000
       }
     ],
     "quarters": [
@@ -4354,6 +4375,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 6000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 8000
       }
     ]
   },
@@ -6261,19 +6287,19 @@
     "clients": [
       {
         "name": "AMERESCO, INC",
-        "amount": 21150
+        "amount": 28200
       },
       {
         "name": "CITY OF RIDGECREST",
-        "amount": 16500
+        "amount": 22500
       },
       {
         "name": "FOOTHILL MUNICIPAL WATER DISTRICT",
-        "amount": 19500
+        "amount": 29250
       },
       {
         "name": "INDIAN WELLS VALLEY GROUNDWATER AUTHORITY",
-        "amount": 111249.5
+        "amount": 119930.75
       }
     ],
     "quarters": [
@@ -6291,6 +6317,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 57800
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 31481.25
       }
     ]
   },
@@ -7060,6 +7091,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 0
       }
@@ -9744,27 +9780,27 @@
     "clients": [
       {
         "name": "IMAGINE LEARNING",
-        "amount": 120000
+        "amount": 180000
       },
       {
         "name": "LENDMARK FINANCIAL SERVICES",
-        "amount": 30000
+        "amount": 50000
       },
       {
         "name": "LES SCHWAB WAREHOUSE CENTER, LLC",
-        "amount": 75000
+        "amount": 97500
       },
       {
         "name": "RECYCLED MATERIALS ASSOCIATION (REMA) - WEST COAST CHAPTER",
-        "amount": 105000
+        "amount": 180000
       },
       {
         "name": "SOUTHERN GLAZER'S WINE & SPIRITS, LLC",
-        "amount": 58351.6
+        "amount": 78865.6
       },
       {
         "name": "WINE & SPIRITS WHOLESALERS OF CALIFORNIA",
-        "amount": 54000
+        "amount": 72000
       }
     ],
     "quarters": [
@@ -9782,6 +9818,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 121017
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 216014
       }
     ]
   },
@@ -12344,6 +12385,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -14596,6 +14642,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 0
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 0
       }
@@ -17580,7 +17631,7 @@
     "clients": [
       {
         "name": "NINETY ONE NORTH AMERICA, INC.",
-        "amount": 8950.86
+        "amount": 11065.86
       }
     ],
     "quarters": [
@@ -17598,6 +17649,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 1153
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 2115
       }
     ]
   },
@@ -17667,6 +17723,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 0
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -17676,7 +17737,7 @@
     "clients": [
       {
         "name": "NOMURA CORPORATE RESEARCH AND ASSET MANAGEMENT INC.",
-        "amount": 661219.97
+        "amount": 910251.59
       }
     ],
     "quarters": [
@@ -17694,6 +17755,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 235406.87
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 249031.62
       }
     ]
   },
@@ -19953,7 +20019,7 @@
     "clients": [
       {
         "name": "CALIFORNIA AMBULANCE ASSOCIATION",
-        "amount": 96005.59
+        "amount": 115842.07
       },
       {
         "name": "CALIFORNIA BUSINESS ROUNDTABLE",
@@ -19961,39 +20027,43 @@
       },
       {
         "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC ON BEHALF OF PILLSBURY WINTHROP SHAW PITTMAN LLP OBO RECYCLING MATERIALS ASSOCIATION (REMA) WEST COAST CENTER",
-        "amount": 120000
+        "amount": 165000
       },
       {
-        "name": "PEPSICO, INC. AND AFFILIATED ENTITIES",
-        "amount": 143207.58
-      },
-      {
-        "name": "PHILLIPS 66",
+        "name": "PBF ENERGY WESTERN REGION LLC",
         "amount": 0
       },
       {
+        "name": "PEPSICO, INC. AND AFFILIATED ENTITIES",
+        "amount": 196462.86
+      },
+      {
+        "name": "PHILLIPS 66",
+        "amount": 15000
+      },
+      {
         "name": "RINCON BAND OF LUISENO INDIANS, THE",
-        "amount": 62099.21
+        "amount": 77880.57
       },
       {
         "name": "SAN LUIS REY INDIAN WATER AUTHORITY",
-        "amount": 72188.92
+        "amount": 94688.92
       },
       {
         "name": "SAN PASQUAL BAND OF MISSION INDIANS",
-        "amount": 67500
+        "amount": 82500
       },
       {
         "name": "SEMPRA AND ITS AFFILIATES: SAN DIEGO GAS & ELECTRIC AND SOUTHERN CALIFORNIA GAS COMPANY",
-        "amount": 83500
+        "amount": 106500
       },
       {
         "name": "SOUTH CORD MANAGEMENT LLC",
-        "amount": 19000
+        "amount": 38578.96
       },
       {
         "name": "WATER REPLENISHMENT DISTRICT OF SOUTHERN CALIFORNIA",
-        "amount": 136498.9
+        "amount": 182377.87
       }
     ],
     "quarters": [
@@ -20011,6 +20081,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 302726.62
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 274831.05
       }
     ]
   },
