@@ -8428,6 +8428,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 17815.5
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 0
       }
     ]
   },
@@ -12881,35 +12886,35 @@
       },
       {
         "name": "AMERICAN PISTACHIO GROWERS",
-        "amount": 75869.84
+        "amount": 109325.26
       },
       {
         "name": "ASSOCIATION OF EQUIPMENT MANUFACTURERS (AEM)",
-        "amount": 102655.91
+        "amount": 152655.91
       },
       {
         "name": "CALIFORNIA ADVANCED BIOFUELS ALLIANCE",
-        "amount": 53316
+        "amount": 71265.7
       },
       {
         "name": "CALIFORNIA AGAVE COUNCIL",
-        "amount": 9338
+        "amount": 12438
       },
       {
         "name": "CALIFORNIA AGRICULTURAL AIRCRAFT ASSOCIATION",
-        "amount": 19560
+        "amount": 26360
       },
       {
         "name": "CALIFORNIA APPLE COMMISSION",
-        "amount": 4811.43
+        "amount": 8151.43
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF DENTAL ASSISTING TEACHERS (CADAT)",
-        "amount": 9300
+        "amount": 11400
       },
       {
         "name": "CALIFORNIA ASSOCIATION OF PEST CONTROL ADVISERS (CAPCA)",
-        "amount": 48493.57
+        "amount": 64986.79
       },
       {
         "name": "CALIFORNIA AUTHORITY OF RACING FAIRS",
@@ -12917,171 +12922,167 @@
       },
       {
         "name": "CALIFORNIA AVOCADO COMMISSION",
-        "amount": 2872.5
+        "amount": 5367.5
       },
       {
         "name": "CALIFORNIA BLUEBERRY COMMISSION",
-        "amount": 5723.48
+        "amount": 11155.1
       },
       {
         "name": "CALIFORNIA CITRUS MUTUAL",
-        "amount": 58778.54
+        "amount": 80192.56
       },
       {
         "name": "CALIFORNIA CONSORTIUM OF ADDICTION PROGRAMS AND PROFESSIONALS",
-        "amount": 24549
+        "amount": 32674
       },
       {
         "name": "CALIFORNIA COTTON GINNERS AND GROWERS ASSOCIATION",
-        "amount": 29910.16
+        "amount": 39879.65
       },
       {
         "name": "CALIFORNIA DAIRIES, INC.",
-        "amount": 53076.85
+        "amount": 71148.39
       },
       {
         "name": "CALIFORNIA DATE COMMISSION",
-        "amount": 390
+        "amount": 2222.5
       },
       {
         "name": "CALIFORNIA DENTAL ASSISTANTS ASSOCIATION",
-        "amount": 9300
+        "amount": 12400
       },
       {
         "name": "CALIFORNIA EXTENDED FUNCTION ASSOCIATION",
-        "amount": 10311.32
+        "amount": 13411.32
       },
       {
         "name": "CALIFORNIA FRESH FRUIT ASSOCIATION",
-        "amount": 60251.03
+        "amount": 80356.97
       },
       {
         "name": "CALIFORNIA GRAPE ROOTSTOCK IMPROVEMENT COMMISSION",
-        "amount": 1902.5
+        "amount": 2085
       },
       {
         "name": "CALIFORNIA GROCERS ASSOCIATION",
-        "amount": 63646.4
+        "amount": 96811.71
       },
       {
         "name": "CALIFORNIA RICE COMMISSION",
-        "amount": 48588.04
+        "amount": 64991.7
       },
       {
         "name": "CALIFORNIA RICE INDUSTRY ASSOCIATION",
-        "amount": 18367.04
+        "amount": 24467.68
       },
       {
         "name": "CALIFORNIA STRAWBERRY COMMISSION",
-        "amount": 16190.87
+        "amount": 23605.87
       },
       {
         "name": "CALIFORNIA TABLE GRAPE COMMISSION",
-        "amount": 18697.07
+        "amount": 20622.07
       },
       {
         "name": "CALIFORNIA TOMATO GROWERS ASSOCIATION",
-        "amount": 21985.19
+        "amount": 29574.41
       },
       {
         "name": "CALIFORNIA WALNUT COMMISSION",
-        "amount": 12134.26
-      },
-      {
-        "name": "CALIFORNIA WHEAT COMMISSION",
-        "amount": 0
+        "amount": 22298.29
       },
       {
         "name": "CARMAX AUTO SUPERSTORES WEST COAST INC.",
-        "amount": 34020
+        "amount": 45355
       },
       {
         "name": "CHARTER COMMUNICATIONS, INC",
-        "amount": 59608.58
+        "amount": 79762.18
       },
       {
         "name": "CHIEF PROBATION OFFICERS' OF CALIFORNIA (CPOC)",
-        "amount": 38520
+        "amount": 42800
       },
       {
         "name": "CIRCULAR-CRV ASSOCIATION",
-        "amount": 18611.32
+        "amount": 29326.46
       },
       {
         "name": "CLEAN FUELS ALLIANCE AMERICA",
-        "amount": 69021
+        "amount": 95021.32
       },
       {
         "name": "COMMUNITY ASSOCIATIONS INSTITUTE - CALIFORNIA LEGISLATIVE ACTION COMMITTEE",
-        "amount": 122792.96
+        "amount": 171497.11
       },
       {
         "name": "CROPLIFE AMERICA",
-        "amount": 14745
+        "amount": 18130.35
       },
       {
         "name": "FERNANDEZ JENSEN KIMMELSHUE GOVERNMENT AFFAIRS",
-        "amount": 0
+        "amount": 50044.88
       },
       {
         "name": "GROWER-SHIPPER ASSOCIATION OF CENTRAL CALIFORNIA",
-        "amount": 40435.7
+        "amount": 48618.65
       },
       {
         "name": "HUNTINGTON BEACH, CITY OF",
-        "amount": 67500
+        "amount": 90000
       },
       {
         "name": "IGPS LOGISTICS LLC",
-        "amount": 15300
+        "amount": 19900
       },
       {
         "name": "INTERNATIONAL EDUCATION CORPORATION",
-        "amount": 90214
+        "amount": 140432.78
       },
       {
         "name": "MERCURY PUBLIC AFFAIRS",
-        "amount": 72000
+        "amount": 96000
       },
       {
         "name": "NATIONAL ELEVATOR INDUSTRY, INC.",
-        "amount": 40314.44
+        "amount": 60414.44
       },
       {
         "name": "NIELSEN, MERKSAMER, PARRINELLO, GROSS & LEONI LLP",
-        "amount": 55000
+        "amount": 70000
       },
       {
         "name": "NISEI FARMERS LEAGUE",
-        "amount": 9930
+        "amount": 13240
       },
       {
         "name": "OLIVE OIL COMMISSION OF CALIFORNIA",
-        "amount": 1793.93
+        "amount": 5160.55
       },
       {
         "name": "RESPONSIBLE INDUSTRY FOR A SOUND ENVIRONMENT (RISE)",
-        "amount": 24375
+        "amount": 32527.76
       },
       {
         "name": "TULARE LAKE BASIN WATER STORAGE DISTRICT",
-        "amount": 38848
+        "amount": 51788
       },
       {
         "name": "UNITED AGRIBUSINESS LEAGUE",
-        "amount": 49612.46
+        "amount": 65762.46
       },
       {
         "name": "WESTERN FAIRS ASSOCIATION",
-        "amount": 26373.38
+        "amount": 44934.69
       },
       {
         "name": "WESTERN PLANT HEALTH ASSOCIATION",
-        "amount": 56267.71
+        "amount": 75208.55
       },
       {
         "name": "WESTERN TREE NUT ASSOCIATION",
-        "amount": 30750.09
+        "amount": 40719.58
       }
     ],
     "quarters": [
@@ -13099,6 +13100,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 583834.11
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 720440
       }
     ]
   },
