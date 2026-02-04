@@ -1311,6 +1311,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 12400
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 13200
       }
     ]
   },
@@ -5245,35 +5250,35 @@
       },
       {
         "name": "ADOBE SYSTEMS",
-        "amount": 72000
+        "amount": 96000
       },
       {
         "name": "AMAZON.COM SERVICES INC.",
-        "amount": 135000
+        "amount": 157500
       },
       {
         "name": "ANGELS BASEBALL LP",
-        "amount": 4500
+        "amount": 5000
       },
       {
         "name": "ATHLETICS INVESTMENT GROUP",
-        "amount": 3000
+        "amount": 4500
       },
       {
         "name": "AYA HEALTHCARE",
-        "amount": 75000
+        "amount": 82500
       },
       {
         "name": "BRG SPORTS, INC.",
-        "amount": 40000
+        "amount": 70000
       },
       {
         "name": "BROOKFIELD PROPERTIES RETAIL INC. AND AFFILIATES",
-        "amount": 120000
+        "amount": 150000
       },
       {
         "name": "CALIFORNIA APARTMENT ASSOCIATION",
-        "amount": 120000
+        "amount": 155000
       },
       {
         "name": "CAST & CREW LLC",
@@ -5285,19 +5290,19 @@
       },
       {
         "name": "CITY OF FRESNO",
-        "amount": 120000
+        "amount": 175000
       },
       {
         "name": "CLEAN ENERGY",
-        "amount": 100000
+        "amount": 120000
       },
       {
         "name": "COMCAST CORPORATION AND AFFILIATED ENTITIES, INCLUDING NBC UNIVERSAL MEDIA, LLC",
-        "amount": 88244.44
+        "amount": 210744.44
       },
       {
         "name": "COX CORPORATE SERVICES, INC.",
-        "amount": 80000
+        "amount": 115000
       },
       {
         "name": "DEPOSITION SOLUTIONS",
@@ -5305,35 +5310,39 @@
       },
       {
         "name": "DOWNTOWN SACRAMENTO PARTNERSHIP, INC.",
-        "amount": 45000
+        "amount": 55000
       },
       {
         "name": "DRAFTKINGS INC. AND ITS AFFILIATES",
-        "amount": 138750
+        "amount": 168750
+      },
+      {
+        "name": "EAST WEST BANK",
+        "amount": 12500
       },
       {
         "name": "HUDSON PACIFIC PROPERTIES",
-        "amount": 135000
+        "amount": 165000
       },
       {
         "name": "INNOVAGE",
-        "amount": 50000
+        "amount": 75000
       },
       {
         "name": "LAFC STADIUMCO, LLC (THE LOS ANGELES FOOTBALL CLUB)",
-        "amount": 100000
+        "amount": 106500
       },
       {
         "name": "LEGACY CONNECTIONS (D.B.A. ROSE BOWL LEGACY FOUNDATION) AND AFFILIATE ROSE BOWL OPERATING COMPANY",
-        "amount": 85000
+        "amount": 115000
       },
       {
         "name": "LOS ANGELES DODGERS LLC",
-        "amount": 3000
+        "amount": 4500
       },
       {
         "name": "MAJOR LEAGUE BASEBALL",
-        "amount": 80000
+        "amount": 90000
       },
       {
         "name": "MERCURY GENERAL CORPORATION & ITS SUBSIDIARY MERCURY CASUALTY COMPANY",
@@ -5341,19 +5350,19 @@
       },
       {
         "name": "PACIFIC GAS AND ELECTRIC COMPANY AND ITS AFFILIATED ENTITIES",
-        "amount": 130500
+        "amount": 188500
       },
       {
         "name": "PARAMOUNT PICTURES",
-        "amount": 70000
+        "amount": 100000
       },
       {
         "name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA",
-        "amount": 135000
+        "amount": 165000
       },
       {
         "name": "POPULUS FINANCIAL",
-        "amount": 90000
+        "amount": 110000
       },
       {
         "name": "PRIDE INDUSTRIES",
@@ -5361,7 +5370,7 @@
       },
       {
         "name": "SAN DIEGO PADRES",
-        "amount": 4000
+        "amount": 5000
       },
       {
         "name": "SAN FRANCISCO BASEBALL ASSOCIATES, LLC (DBA SAN FRANCISCO GIANTS)",
@@ -5369,23 +5378,23 @@
       },
       {
         "name": "SCIENTIFIC GAMES LLC",
-        "amount": 80000
+        "amount": 110000
       },
       {
         "name": "SCOUT MOTORS INC.",
-        "amount": 54000
+        "amount": 72000
       },
       {
         "name": "SEMPRA ENERGY AND ITS AFFILIATES SAN DIEGO GAS & ELECTRIC AND SO. CAL. GAS CO.",
-        "amount": 81000
+        "amount": 108000
       },
       {
         "name": "SOUTHWEST STRATEGIES, LLC FOR MIDWAY RISING",
-        "amount": 0
+        "amount": 30000
       },
       {
         "name": "SOUTHWESTWEST STRATEGIES ON BEHALF OF KEYSTONE",
-        "amount": 66750
+        "amount": 55875
       },
       {
         "name": "SOUTHWESTWEST STRATEGIES ON BEHALF OF REPUBLIC SERVICES",
@@ -5393,31 +5402,31 @@
       },
       {
         "name": "SPORTS BETTING ALLIANCE",
-        "amount": 87500
+        "amount": 117500
       },
       {
         "name": "STEINBERG INSTITUTE",
-        "amount": 50515
+        "amount": 66515
       },
       {
         "name": "TIKTOK INC.",
-        "amount": 180000
+        "amount": 240000
       },
       {
         "name": "TISHMAN SPEYER",
-        "amount": 31500
+        "amount": 38500
       },
       {
         "name": "TOBACCO-FREE KIDS ACTION FUND",
-        "amount": 31819.07
+        "amount": 38819.07
       },
       {
         "name": "UNITED DOMESTIC WORKERS OF AMERICA, AFSCME, AFL-CIO",
-        "amount": 21250
+        "amount": 27500
       },
       {
         "name": "UNITED HEALTHCARE SERVICES, INC.",
-        "amount": 90000
+        "amount": 110000
       },
       {
         "name": "UNITED NURSES ASSOCIATIONS OF CALIFORNIA/UNION OF HEALTH CARE PROFESSIONALS",
@@ -5429,7 +5438,7 @@
       },
       {
         "name": "XPONENTIAL FITNESS LLC",
-        "amount": 75000
+        "amount": 90000
       }
     ],
     "quarters": [
@@ -5447,6 +5456,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 1154774.07
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 946750
       }
     ]
   },
@@ -12364,15 +12378,19 @@
     "clients": [
       {
         "name": "CAMPBELL STRATEGY & ADVOCACY ON BEHALF OF DRAFTKINGS",
-        "amount": 37500
+        "amount": 52500
       },
       {
         "name": "CAMPBELL STRATEGY & ADVOCACY ON BEHALF OF PRIDE INDUSTRIES",
         "amount": 25000
       },
       {
-        "name": "HOTWIRE COMMUNICATIONS",
+        "name": "DRAFTKINGS, INC. AND ITS AFFILIATES",
         "amount": 0
+      },
+      {
+        "name": "HOTWIRE COMMUNICATIONS",
+        "amount": 75000
       }
     ],
     "quarters": [
@@ -12390,6 +12408,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 25000
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 90000
       }
     ]
   },
@@ -15403,11 +15426,11 @@
     "clients": [
       {
         "name": "LYNWOOD CITY OF",
-        "amount": 25000
+        "amount": 45000
       },
       {
         "name": "UNIVERSITY OF MOLDOVA, INC.",
-        "amount": 53000
+        "amount": 78000
       }
     ],
     "quarters": [
@@ -15418,6 +15441,11 @@
       },
       {
         "quarter": "3",
+        "session": "2025",
+        "amount": 45000
+      },
+      {
+        "quarter": "4",
         "session": "2025",
         "amount": 45000
       }
@@ -23163,7 +23191,7 @@
   },
   {
     "id": "1251322",
-    "name": "ROSS; ESPERANZA",
+    "name": "ROSS AT THE CAPITOL",
     "clients": [
       {
         "name": "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES LOCAL 3299, RICHARD ROSS ON BEHALF OF",
@@ -28549,11 +28577,11 @@
     "clients": [
       {
         "name": "ALTICOR, INC.",
-        "amount": 18857
+        "amount": 24407
       },
       {
         "name": "AMERICAN CHEMISTRY COUNCIL",
-        "amount": 56250
+        "amount": 75000
       },
       {
         "name": "ARXADA",
@@ -28561,31 +28589,31 @@
       },
       {
         "name": "CALIFORNIA GROUNDWATER ASSOCIATION",
-        "amount": 9000
+        "amount": 12000
       },
       {
         "name": "CARPET & RUG INSTITUTE",
-        "amount": 72000
+        "amount": 96000
       },
       {
         "name": "CONSUMER DATA INDUSTRY ASSOCIATION",
-        "amount": 37800
+        "amount": 50400
       },
       {
         "name": "DURACELL COMPANY",
-        "amount": 18400
+        "amount": 25300
       },
       {
         "name": "HALEON",
-        "amount": 32800
+        "amount": 45250
       },
       {
         "name": "INTERNATIONAL FRANCHISE ASSOCIATION",
-        "amount": 54000
+        "amount": 66000
       },
       {
         "name": "PACIFIC WATER QUALITY ASSOCIATION",
-        "amount": 13500
+        "amount": 18000
       },
       {
         "name": "RB HEALTH (US) LLC",
@@ -28593,15 +28621,15 @@
       },
       {
         "name": "RECKITT BENCKISER LLC - HOME NORTH AMERICA HYGIENE AND HOME",
-        "amount": 38000
+        "amount": 57000
       },
       {
         "name": "SYNTHETIC TURF COUNCIL",
-        "amount": 108000
+        "amount": 144000
       },
       {
         "name": "WATER QUALITY ASSOCIATION",
-        "amount": 27600
+        "amount": 35100
       }
     ],
     "quarters": [
@@ -28619,6 +28647,11 @@
         "quarter": "3",
         "session": "2025",
         "amount": 188250
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 162250
       }
     ]
   },
