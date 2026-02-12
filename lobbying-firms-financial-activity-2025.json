@@ -9654,7 +9654,7 @@
   },
   {
     "id": "1371848",
-    "name": "ENVIRONMENTAL AND ENERGY CONSULTING",
+    "name": "ENVIRONMENTAL AND ENERGY CONSULTING, LLC",
     "clients": [
       {
         "name": "B.BRAUN MEDICAL",
@@ -14525,8 +14525,19 @@
   {
     "id": "1483518",
     "name": "KOENIG CONSULTING ",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "TRATTEN PRICE CONSULTING",
+        "amount": 4000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 4000
+      }
+    ]
   },
   {
     "id": "1147235",
