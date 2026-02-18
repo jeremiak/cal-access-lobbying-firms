@@ -17794,8 +17794,19 @@
   {
     "id": "1479712",
     "name": "MONTANA CONSULTING",
-    "clients": [],
-    "quarters": []
+    "clients": [
+      {
+        "name": "UNITED ADMINISTRATORS SOUTHERN CALIFORNIA",
+        "amount": 21000
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 5250
+      }
+    ]
   },
   {
     "id": "1303301",
