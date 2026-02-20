@@ -28861,7 +28861,7 @@
     "clients": [
       {
         "name": "ACLU CALIFORNIA ACTION",
-        "amount": 32000
+        "amount": 33000
       },
       {
         "name": "C.N.P.A SERVICES, INC. ON BEHALF OF CALIFORNIA NEWS PUBLISHERS ASSOCIATION",
@@ -28887,7 +28887,7 @@
       {
         "quarter": "4",
         "session": "2025",
-        "amount": 15000
+        "amount": 16000
       }
     ]
   },
