@@ -1101,6 +1101,33 @@
     ]
   },
   {
+    "id": "1342006",
+    "name": "ARMBRUSTER GOLDSMITH & DELVAC LLP",
+    "clients": [
+      {
+        "name": "BUCKEYE PROPERTIES",
+        "amount": 7050
+      }
+    ],
+    "quarters": [
+      {
+        "quarter": "2",
+        "session": "2025",
+        "amount": 2937.5
+      },
+      {
+        "quarter": "3",
+        "session": "2025",
+        "amount": 7978.73
+      },
+      {
+        "quarter": "4",
+        "session": "2025",
+        "amount": 4112.5
+      }
+    ]
+  },
+  {
     "id": "1147311",
     "name": "ARNOLD & ASSOCIATES, INC.",
     "clients": [
