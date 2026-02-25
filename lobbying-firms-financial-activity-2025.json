@@ -14600,19 +14600,8 @@
   {
     "id": "1483518",
     "name": "KOENIG CONSULTING ",
-    "clients": [
-      {
-        "name": "TRATTEN PRICE CONSULTING",
-        "amount": 4000
-      }
-    ],
-    "quarters": [
-      {
-        "quarter": "4",
-        "session": "2025",
-        "amount": 4000
-      }
-    ]
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1147235",
@@ -19026,6 +19015,12 @@
         "amount": 172725
       }
     ]
+  },
+  {
+    "id": "1486088",
+    "name": "NOBLE LAW, A PROFESSIONAL COMPANY",
+    "clients": [],
+    "quarters": []
   },
   {
     "id": "1147341",
